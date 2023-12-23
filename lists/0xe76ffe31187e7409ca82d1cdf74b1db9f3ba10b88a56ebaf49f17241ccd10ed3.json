@@ -1,0 +1,364 @@
+{
+    "id": "0xe76ffe31187e7409ca82d1cdf74b1db9f3ba10b88a56ebaf49f17241ccd10ed3",
+    "listName": "Driving adoption in LATAM (Brichis Version)",
+    "listDescription": "This list highlights projects that actively contribute to the adoption of Optimism in LATAM. This implies that their content is available in Spanish or Portuguese, and their contributions are tailored to a LATAM-specific audience. From my perspective, Optimism can create a world of opportunities and solutions for the problems of people like me and I would like to see these projects producing more impact for the Collective. To accommodate the diverse nature of these projects, all categories are considered. \n\nThank you to JoanBP, Ethernaut, João Kury, Lau NaMu, and Moni Talan ❤️ for their contributions to this list.\n\nDisclosure: I am a co-founder of Ethereum México, a member of HER DAO LATAM’s Community and collaborated with them on a mission during S4. Also, I applied as an individual to RetroPGF3.",
+    "impactEvaluationDescription": "Originally, I did a calculation stemmed from adjusting the OP price per \"point\" based on some rubrics from the Grants Council, some from Retrolist Rubrics, and I generated some using the RetroPGF3 Impact Framework. Also, I aimed for objectivity as much as possible and factored in considerations of previous funding to arrive at the final amounts.\n\nHowever, after analyzing multiple list, I came to the conclusion that my way of evaluating could leave Latin American projects at a disadvantage (in addition to discouraging participation in missions) and it is what I want the least, so I have left the spreadsheet with the result of my analysis without mentioning quantities; With this, I hope that this list gives visibility to these projects and allows badge holders to evaluate their impact according to their perspective.",
+    "impactEvaluationLink": "https://docs.google.com/spreadsheets/d/1tmzSF5kX5eHb2fEDAvZ6LFt8JJnS_Qa7GZb-yY3buI4/edit?usp=sharing",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x54090220e92626ad3d3cee164a9cd14f808abc69257217691a8b1f0b65e5f551",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xb8eaf64a68197ba69868bcd9f8340c5ca66ca060428878199e8d9ee7849c896e",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xe133a0192b2b9a8b83b1fab0c5edde0c3fd79bc331bc03098c2d2430fbc11e8d",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x6770ebe0a793217fc2f14e4e1561ebea466033cb1985671b98a5b698c32244fd",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xfaf5013bca13903a26b1f034486dfbff33161c877a71492d0b9094c087395de1",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xca1b1b89ca509130a9d710edc317a80878be71dae686786d5b6956653db342ef",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xf16d4e5a02c22a3c903a56d614b049b5d83bf9d6705f811b1cd1f4464f5b4ed1",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x8788f5efe99abf2a82ff0c27361baf9321c7601c06599551635aadfdd7980cf9",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x2113aa30f96029c1a9af0c1c15677fb80ecc169fb05b3d0c90e6eb77f5e758c1",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x8d74ea236742a773f21486e6d66a187f5398171a44c8cae6993d62b104709fd9",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x21bd1ffc17577bff57ffab3413191f08a4b1b64bd5c930b5959408ee477d5cf7",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x4384f12001b8b7bcbf3abe9d0a354378851b34f68634ef0e9cec92152c18c1c2",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x7bba50affa4ef77da95d392f7898f12af64ccfec1909d410ad8a2baf2aea8ff3",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x0c85937f85dae88febd296c6f519f496063cff8970dc90bac38f25908f788fac",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x4e08982cc62798c181d57115ec78b2a0758dbf497814ccd84c2ee1e9dcd9e607",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xd288468561dab001c87bc5ccd2ff5a9277ad161e90adf2895a8c17c67ebd0041",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xee4fa88a475e80c188306d12d648ff98e2147d74970f06e662dfcfd602d08514",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x04e06f777a3b41ba6db7f8f1c77b7439cbb5f5b8b8d3cabe4038a9ccbb924aeb",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x8c6ef03ae9da84c0fc10a72d404ac170d884ba0252512c08ee58f8fde8131079",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x74c9135b2ca59c277d93942e535f02777d2779f1fee5b88c9ff76ff20cdcd8b8",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x8cce00b421d2f19c829d484b423a49f311d41355238c5c5a73b72d62c5c63f56",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x9ba3fe96ab1f32ebfdb0514e6531eb365fad843d656aebfdb6953dcdf378bb86",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xd412bec807ece79f76f3534624c7eaa7bc5db63b57110b0893b9f10b9433ffbd",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x66c36ca6f9138b613a0b76f54beeb24c9653bc5140acb272d58f4709f68a8a1c",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0x9b8f75de8014815d9a2ad460848c70f56248f855ac568c8ff8b8dc322267b4f9",
+            "OPAmount": 40000
+        },
+        {
+            "RPGF3_Application_UID": "0xf3526ec21d5b1146008c629fe9837f2c5ab099b1590e28dfb7005c126234fb11",
+            "OPAmount": 40000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x54090220e92626ad3d3cee164a9cd14f808abc69257217691a8b1f0b65e5f551",
+            "bio": "Promote and create new educational opportunities in technology for Latam talent.",
+            "displayName": "Andino - Talent in technology",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x363cDaA139E1Fc64d308aa2129852745676bA680.jpeg"
+        },
+        {
+            "id": "0xb8eaf64a68197ba69868bcd9f8340c5ca66ca060428878199e8d9ee7849c896e",
+            "bio": "Fostering D&I on web3 through blockchain education for public Brazilian schools",
+            "displayName": "Blockchain na Escola",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2.png"
+        },
+        {
+            "id": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+            "bio": "Advocating accessible Optimism governance, amplifying voices in 🇲🇽 and beyond.",
+            "displayName": "Brichis",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.png"
+        },
+        {
+            "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
+            "bio": "I promote purpose-driven ventures and emerging technologies",
+            "displayName": "criptomommy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
+        },
+        {
+            "id": "0xe133a0192b2b9a8b83b1fab0c5edde0c3fd79bc331bc03098c2d2430fbc11e8d",
+            "bio": "CryptoConexión is a hub for blockchain, crypto, Web3 & AI in Latin America.",
+            "displayName": "CryptoConexión",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc4D286963cdED90E479F82495D75b739e1d831B1.png"
+        },
+        {
+            "id": "0x6770ebe0a793217fc2f14e4e1561ebea466033cb1985671b98a5b698c32244fd",
+            "bio": "We create high-quality educational content about web3 technologies and tools",
+            "displayName": "Cryptoversidad",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x281BA4E9B7e28982d6CB53EE3836865f1453e12F.png"
+        },
+        {
+            "id": "0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
+            "bio": "Educational Hub for Decentralized Finance and CryptoEconomics.",
+            "displayName": "Definomics labs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9390fA8656A161442928b442300358D82bEC28b0.png"
+        },
+        {
+            "id": "0xfaf5013bca13903a26b1f034486dfbff33161c877a71492d0b9094c087395de1",
+            "bio": "We are a leading educational academy about crypto and DeFi",
+            "displayName": "Defy Foundation",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xca1b1b89ca509130a9d710edc317a80878be71dae686786d5b6956653db342ef",
+            "bio": "Encriptados: Crypto, DeFi, L2 - Educate and empower in the digital revolution.",
+            "displayName": "Encriptados",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0.png"
+        },
+        {
+            "id": "0xf16d4e5a02c22a3c903a56d614b049b5d83bf9d6705f811b1cd1f4464f5b4ed1",
+            "bio": "The largest web3 community in Mexico. Since 2020, 220 episodes, + 16 IRL meetups",
+            "displayName": "Espacio Cripto",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE800Bafa84F3194960d79C13169fFfba2E444dBc.png"
+        },
+        {
+            "id": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+            "bio": "Web3 Community in Colombia",
+            "displayName": "Ethereum Colombia",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD164AF956E0f34Be07a86752fe43AE788F647531.png"
+        },
+        {
+            "id": "0x8788f5efe99abf2a82ff0c27361baf9321c7601c06599551635aadfdd7980cf9",
+            "bio": "Ethereum Community in Lima, Perú.",
+            "displayName": "Ethereum Lima",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2f6c8F867df4E49e4Fb24741C414f315E266C21B.png"
+        },
+        {
+            "id": "0x2113aa30f96029c1a9af0c1c15677fb80ecc169fb05b3d0c90e6eb77f5e758c1",
+            "bio": "Empowering Mexico's Ethereum Enthusiasts",
+            "displayName": "Ethereum Mexico",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x596a9BCad70d07AFF4215b2a17ad36298139fB6C.png"
+        },
+        {
+            "id": "0x8d74ea236742a773f21486e6d66a187f5398171a44c8cae6993d62b104709fd9",
+            "bio": "Workshops, video and blog tutorials for web3 devs in Spanish, English and French",
+            "displayName": "FilosofiaCodigo",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb6F5414bAb8d5ad8F33E37591C02f7284E974FcB.png"
+        },
+        {
+            "id": "0x21bd1ffc17577bff57ffab3413191f08a4b1b64bd5c930b5959408ee477d5cf7",
+            "bio": "Latin American women onboarding more women to the Optimism Ecosystem.",
+            "displayName": "HER LATAM _ Optimistas Brillando en Blockchain",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72cBF736B721D5266Aca1E6BCC98C526d0ef2FE0.png"
+        },
+        {
+            "id": "0x4384f12001b8b7bcbf3abe9d0a354378851b34f68634ef0e9cec92152c18c1c2",
+            "bio": "Helping Mass Adoption",
+            "displayName": "Inbest Program",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.png"
+        },
+        {
+            "id": "0x7bba50affa4ef77da95d392f7898f12af64ccfec1909d410ad8a2baf2aea8ff3",
+            "bio": "A platform dedicated to analyzing web3 technologies for Spanish speakers",
+            "displayName": "Kairos Research",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6D465d2081b799770d0Ce7E755d8dB1665903fFB.png"
+        },
+        {
+            "id": "0x0c85937f85dae88febd296c6f519f496063cff8970dc90bac38f25908f788fac",
+            "bio": "´m KManuS88, committed to fostering adoption into web3",
+            "displayName": "KManuS88",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEdd9701C99a17Bf8Ab54f160217Da55aBe9C56FF.png"
+        },
+        {
+            "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+            "bio": "Women led community increasing. curiosity in web3 to close the gender gap",
+            "displayName": "Metagals",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
+        },
+        {
+            "id": "0x4e08982cc62798c181d57115ec78b2a0758dbf497814ccd84c2ee1e9dcd9e607",
+            "bio": "Empowering the Portuguese-speaking community with education about web3.",
+            "displayName": "Modular Crypto",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F.png"
+        },
+        {
+            "id": "0xd288468561dab001c87bc5ccd2ff5a9277ad161e90adf2895a8c17c67ebd0041",
+            "bio": "We are Bankless the first subDAO in Spanish from BanklessDAO",
+            "displayName": "Nacion Bankless",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef.png"
+        },
+        {
+            "id": "0xee4fa88a475e80c188306d12d648ff98e2147d74970f06e662dfcfd602d08514",
+            "bio": "Latin American artists and w3b culture promoters collective.",
+            "displayName": "Newtro Arts",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33912a0d6bEFf5Fb8e5B70688CE858D5e7E8104E.png"
+        },
+        {
+            "id": "0x04e06f777a3b41ba6db7f8f1c77b7439cbb5f5b8b8d3cabe4038a9ccbb924aeb",
+            "bio": "Highly motivate  for create in WEB 3",
+            "displayName": "Onboard en Perú Optimistas e Indexer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xca47Bb2FfB7eAEa5517ee6420f6cc4535307C297.png"
+        },
+        {
+            "id": "0x8c6ef03ae9da84c0fc10a72d404ac170d884ba0252512c08ee58f8fde8131079",
+            "bio": "Spanish-language community dedicated to the Optimism ecosystem",
+            "displayName": "Optimism Español",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e4865634EC54dFF742E1a7452a456919B8e277b.jpeg"
+        },
+        {
+            "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+            "bio": "Digital inclusion of vulnerable LatAm communities via web3 education w/Optimism.",
+            "displayName": "Proof of Integrity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
+        },
+        {
+            "id": "0x74c9135b2ca59c277d93942e535f02777d2779f1fee5b88c9ff76ff20cdcd8b8",
+            "bio": "Helping Latin American artists launch their NFTs with fun on-chain raffles 🎰",
+            "displayName": "Randomness Ceremony",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFe568475CFc25563B5A5E9769f56b61dF85e7Dec.png"
+        },
+        {
+            "id": "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc",
+            "bio": "Join the movement towards a more sustainable and equitable future in #Medellín🌱",
+            "displayName": "ReFi Medellín",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x302E2A0D4291ac14Aa1160504cA45A0A1F2E7a5c.png"
+        },
+        {
+            "id": "0x8cce00b421d2f19c829d484b423a49f311d41355238c5c5a73b72d62c5c63f56",
+            "bio": "Reef scientist integrating public goods, DeSci, and web3, based in Latam Ü",
+            "displayName": "Rodrigo NuñΞz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4D5B28d08e8c00e041053b0dc584e00e6997Daa3.png"
+        },
+        {
+            "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+            "bio": "Working towards increasing Latin Americans participation in governance.",
+            "displayName": "SEED Latam",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
+        },
+        {
+            "id": "0x9ba3fe96ab1f32ebfdb0514e6531eb365fad843d656aebfdb6953dcdf378bb86",
+            "bio": "Solow is a free crypto academy for builders in LATAM.",
+            "displayName": "Solow 🐽",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x929e1b374FB07486c9A64570e5BDA99383f48785.png"
+        },
+        {
+            "id": "0xd412bec807ece79f76f3534624c7eaa7bc5db63b57110b0893b9f10b9433ffbd",
+            "bio": "A Web3 community in LATAM. We educate and promote the adoption of Web3 tech.",
+            "displayName": "T2LATAM",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2C2fC22575f5eFF9e4311708eABedA2791957c85.png"
+        },
+        {
+            "id": "0x66c36ca6f9138b613a0b76f54beeb24c9653bc5140acb272d58f4709f68a8a1c",
+            "bio": "Ethereum security advocates doing research, education and awareness.",
+            "displayName": "The Red Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5cA1BEdb6DC8eb75581d19e87c7A77b54F9FC43A.png"
+        },
+        {
+            "id": "0x9b8f75de8014815d9a2ad460848c70f56248f855ac568c8ff8b8dc322267b4f9",
+            "bio": "We're a web3 software development studio.",
+            "displayName": "WakeUp Labs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9dFa9dfD15d2b2fa9717b4fc545c2bB35a29215c.png"
+        },
+        {
+            "id": "0xf3526ec21d5b1146008c629fe9837f2c5ab099b1590e28dfb7005c126234fb11",
+            "bio": "Eth-Volcano is driven by community adoption via Ethereum education.",
+            "displayName": "Eth-Volcano",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.png"
+        }
+    ],
+    "walletAddress": "0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B",
+    "domainName": "brichis.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xe76ffe31187e7409ca82d1cdf74b1db9f3ba10b88a56ebaf49f17241ccd10ed3",
+    "approvalAttestationUid": "0xe76ffe31187e7409ca82d1cdf74b1db9f3ba10b88a56ebaf49f17241ccd10ed3",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-12-06T13:37:23",
+    "updatedAt": "2023-12-06T13:37:23",
+    "revokedAt": null,
+    "avatar": null
+}

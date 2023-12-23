@@ -1,0 +1,134 @@
+{
+    "id": "0xb95dafaad31cadab75f04106d24aff7ee7ee882b6536efd5fa73e8630385e398",
+    "listName": "OP Stack tooling| Sub-category evaluated with scoring system",
+    "listDescription": "This list rewards the 11 projects that made verifiable impact on Optimism in the \"Research and analytics\" sub-category. I am assigning 4.8% (1,440,000 OP) of all of the OP to this sub-category. \n\nMy intention is that this list is useful for badgeholders. \n",
+    "impactEvaluationDescription": "The process of evaluation for this list was using my scoring system, described in detailed in the notion link below, here's a brief overview. The purpose of my scoring system is to evaluate projects in an objective, quantitative, thorough and meritocratic way. Projects are divided and evaluated into sub-categories. Then, within them, they receive a score from 1 (low) to 3 (high) across 4 criteria, these scores are multiplied and determine the OP allocation of each project automatically. \nThe 4 criteria are: \n1. Money extracted from the collective \n2. Alignment with Collective's Values \n3. Metric strength (Based on Metrics Garden) \n4. Metric quantity (Benchmarked against projects of the same sub-category) \n\n*You can see all scores in the google sheets link provided below. Scoring results: See the \"Governance contributions\" sheet: https://docs.google.com/spreadsheets/d/13XQS7tXzxwKBZCp_TuMvgTNPVYxF0m6VLNTweurTDOo/edit?usp=sharing Rationale: https://cryptoversidad.notion.site/Diego-s-Voting-Framework-cc751201e0f544d3bd04210e63b78dd7",
+    "impactEvaluationLink": "https://cryptoversidad.notion.site/Diego-s-Voting-Rationale-cc751201e0f544d3bd04210e63b78dd7",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x42e31df838a5ec5afb2756b26e286455f52d06f8ddc202c389d046590f583fb8",
+            "OPAmount": 72402.23
+        },
+        {
+            "RPGF3_Application_UID": "0x44f8e6467fcbdabd7ad750a2eca01902543f398e5c6be69d9715edfef1c04ea2",
+            "OPAmount": 96536.31
+        },
+        {
+            "RPGF3_Application_UID": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "OPAmount": 96536.31
+        },
+        {
+            "RPGF3_Application_UID": "0x1516df1a13142b00b7e5ee4496faab4709d2fc8fd67b0c3780e976fc7062528f",
+            "OPAmount": 108603.35
+        },
+        {
+            "RPGF3_Application_UID": "0x54c617b7842807a5d0a0806eed01bcf497adc62cf76c9f6e67ffd42daee5cada",
+            "OPAmount": 128715.08
+        },
+        {
+            "RPGF3_Application_UID": "0x94b31664bb5940536bffe71fb0a2eb3b2373061fe09324a737807fc2bfe88ff1",
+            "OPAmount": 128715.08
+        },
+        {
+            "RPGF3_Application_UID": "0x4b5d1bb924ecf1996a5c193a61a18ee1603e8f3b71eccb3a1e2e73c059ca4091",
+            "OPAmount": 144804.47
+        },
+        {
+            "RPGF3_Application_UID": "0xfa8c195e19637a2d91f11c44d5b5c7c6397a06783864c1a6769285713f325708",
+            "OPAmount": 144804.47
+        },
+        {
+            "RPGF3_Application_UID": "0xdee444308961ba4f353fc5912a3cf87ffb002fb4c3f5674182e4dbab75bf0622",
+            "OPAmount": 162905.03
+        },
+        {
+            "RPGF3_Application_UID": "0xe7451003b496fb6694bd47079be050f224a0944cc5fd73c2fa1064fc9be49f9c",
+            "OPAmount": 162905.03
+        },
+        {
+            "RPGF3_Application_UID": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+            "OPAmount": 193072.63
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x42e31df838a5ec5afb2756b26e286455f52d06f8ddc202c389d046590f583fb8",
+            "bio": "The simplest way to spin your own dev / prod rollup.",
+            "displayName": "roll-op",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576F1E53afe5e99b2257258C7E3248d3a1822548.png"
+        },
+        {
+            "id": "0x44f8e6467fcbdabd7ad750a2eca01902543f398e5c6be69d9715edfef1c04ea2",
+            "bio": "Arbiter is a free and open source EVM logic simualtor",
+            "displayName": "Arbiter",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3350C168Cc9B62bd099c1732830B6Bc09bF3343.png"
+        },
+        {
+            "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
+            "displayName": "Dappnode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+            "id": "0x1516df1a13142b00b7e5ee4496faab4709d2fc8fd67b0c3780e976fc7062528f",
+            "bio": "UI for OP Stack & Node & Subgraph deployment with open-source scripts.",
+            "displayName": "Upnode Deploy | OP Stack Deployment UI",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2813a5B046909e5FC42a657b8e0dd9BAbFED18e7.png"
+        },
+        {
+            "id": "0x54c617b7842807a5d0a0806eed01bcf497adc62cf76c9f6e67ffd42daee5cada",
+            "bio": "Most Used 4337 UserOp Explorer for Account Abstraction",
+            "displayName": "JiffyScan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0.png"
+        },
+        {
+            "id": "0x94b31664bb5940536bffe71fb0a2eb3b2373061fe09324a737807fc2bfe88ff1",
+            "bio": "Maintaining my fork of simple-optimism-node, an OP Node Deployment open source.",
+            "displayName": "simple-optimism-node (Maintaining my own fork)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27.png"
+        },
+        {
+            "id": "0x4b5d1bb924ecf1996a5c193a61a18ee1603e8f3b71eccb3a1e2e73c059ca4091",
+            "bio": "Fully-managed, production-grade rollups on Ethereum.",
+            "displayName": "Conduit",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xfa8c195e19637a2d91f11c44d5b5c7c6397a06783864c1a6769285713f325708",
+            "bio": "cryo is the easiest and fastest way to extract bulk datasets from Optimism nodes",
+            "displayName": "cryo",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x40C0BB75D745141727211338eBb4f26202C00Ef2.png"
+        },
+        {
+            "id": "0xdee444308961ba4f353fc5912a3cf87ffb002fb4c3f5674182e4dbab75bf0622",
+            "bio": "Run a node at home, the easy way",
+            "displayName": "NiceNode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9cce47E9cF12C6147c9844adBB81fE85880c4df4.png"
+        },
+        {
+            "id": "0xe7451003b496fb6694bd47079be050f224a0944cc5fd73c2fa1064fc9be49f9c",
+            "bio": "Serial OP Stack forker",
+            "displayName": "Paco Bytes",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9687c70DcFE21C6198703C813cDAEC9d3458e068.png"
+        },
+        {
+            "id": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+            "bio": "Run a ~$300 PnP Ethereum L1 and L2 node on ARM boads that uses only ~10w to run.",
+            "displayName": "Ethereum on ARM",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x91A3b28aE8a04C174448d4b10150C844871fCb3c.png"
+        }
+    ],
+    "walletAddress": "0x64FeD9e56B548343E7bb47c49ecd7FFa9f1A34FE",
+    "domainName": "dmars300.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xb95dafaad31cadab75f04106d24aff7ee7ee882b6536efd5fa73e8630385e398",
+    "approvalAttestationUid": "0xb95dafaad31cadab75f04106d24aff7ee7ee882b6536efd5fa73e8630385e398",
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-12-04T20:13:49",
+    "updatedAt": "2023-12-04T20:13:49",
+    "revokedAt": null,
+    "avatar": null
+}

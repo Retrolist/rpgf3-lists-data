@@ -1,0 +1,383 @@
+{
+    "listName": "Gitcoin Growers & Builders",
+    "listDescription": "11 Projects that have dedicated teams. These are recognized builders in the Gitcoin community who are vision and mission aligned with Optimism, Public Goods, and the greater overall growth of the Ethereum network.",
+    "impactEvaluationInput": "This allocation would allow these projects to sustain themselves until the next round of retroactive funding while creating meaningful impact.",
+    "impactEvaluationDescription": "This allocation would allow these projects to sustain themselves until the next round of retroactive funding while creating meaningful impact.\n\nCreated by fractal-visions.town using RetroList with \"Quick Voting\" rubric.",
+    "impactEvaluationLink": "https://retropgf3.retrolist.app/list/657026932a10f91def754fd2",
+    "impactEvaluationType": "rubric",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x3f3be3996262f122877efc7d90672555eaf42a3d6cf6de7839a0282626aaa55f",
+            "OPAmount": 13481,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fd4"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fd5"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fd6"
+                }
+            },
+            "_id": "657026932a10f91def754fd3"
+        },
+        {
+            "RPGF3_Application_UID": "0x8996adedf208776ae51ee0b57611a82da2b690cde39a86c9952ff622618c2160",
+            "OPAmount": 11796,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fd8"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 3,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fd9"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fda"
+                }
+            },
+            "_id": "657026932a10f91def754fd7"
+        },
+        {
+            "RPGF3_Application_UID": "0x7f66e162c6ff0ebfc20fe8198af210936ff4917fc06c1c47630b89f3000958b4",
+            "OPAmount": 11796,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fdc"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 3,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fdd"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fde"
+                }
+            },
+            "_id": "657026932a10f91def754fdb"
+        },
+        {
+            "RPGF3_Application_UID": "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc",
+            "OPAmount": 11796,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fe0"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 3,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fe1"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fe2"
+                }
+            },
+            "_id": "657026932a10f91def754fdf"
+        },
+        {
+            "RPGF3_Application_UID": "0x7798b38892ddd5886fd875fc959dfdcf7e038930b9d261919b0cc1bf2a62fd39",
+            "OPAmount": 11796,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fe4"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 3,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fe5"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fe6"
+                }
+            },
+            "_id": "657026932a10f91def754fe3"
+        },
+        {
+            "RPGF3_Application_UID": "0x6520b1492d761fd7f08b4e7a2094d9c6bc0832f93a10bafd918c21996c4305b2",
+            "OPAmount": 13481,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fe8"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fe9"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fea"
+                }
+            },
+            "_id": "657026932a10f91def754fe7"
+        },
+        {
+            "RPGF3_Application_UID": "0xeb5da95440608276fea071123fbd4d7c292c2a5bd5a3d32ccb8905e8bb92e9a7",
+            "OPAmount": 11796,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fec"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fed"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": -1,
+                    "comment": "",
+                    "_id": "657026932a10f91def754fee"
+                }
+            },
+            "_id": "657026932a10f91def754feb"
+        },
+        {
+            "RPGF3_Application_UID": "0xe133a0192b2b9a8b83b1fab0c5edde0c3fd79bc331bc03098c2d2430fbc11e8d",
+            "OPAmount": 13481,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ff0"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ff1"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ff2"
+                }
+            },
+            "_id": "657026932a10f91def754fef"
+        },
+        {
+            "RPGF3_Application_UID": "0x38de0038ed83f94aeb539f03721a54dadd7caed4496a284f413e20eda27b8716",
+            "OPAmount": 8425,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ff4"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 2,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ff5"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": -1,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ff6"
+                }
+            },
+            "_id": "657026932a10f91def754ff3"
+        },
+        {
+            "RPGF3_Application_UID": "0x753761b9a99b1133f7dbdbf333c8bc24ab9ca96e3a4e208b01184694e003b9d0",
+            "OPAmount": 10111,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ff8"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 3,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ff9"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": -1,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ffa"
+                }
+            },
+            "_id": "657026932a10f91def754ff7"
+        },
+        {
+            "RPGF3_Application_UID": "0x04227ff23823ec09a03a531c924e8bdf5a6d486f3e0e3006b2fbb1a8de58f0d1",
+            "OPAmount": 11796,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ffc"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 3,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ffd"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "657026932a10f91def754ffe"
+                }
+            },
+            "_id": "657026932a10f91def754ffb"
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x3f3be3996262f122877efc7d90672555eaf42a3d6cf6de7839a0282626aaa55f",
+            "bio": "DeSci DAO Regenerating Coral Reef Conservation in Mesoamerica",
+            "displayName": "MesoReefDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x156Bfd9395371F29489FaD5EDF29269b72908F68.png"
+        },
+        {
+            "id": "0x8996adedf208776ae51ee0b57611a82da2b690cde39a86c9952ff622618c2160",
+            "bio": "Pin Save - decentralized image, video sharing and content aggregation platform.",
+            "displayName": "Pin Save - decentralized Pinterest",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x48294a067D1bC5a58BCbAB4b3bE329d078D9E1Af.png"
+        },
+        {
+            "id": "0x7f66e162c6ff0ebfc20fe8198af210936ff4917fc06c1c47630b89f3000958b4",
+            "bio": "Advocating for regenerative economical approach | Onboarding and Edu events ",
+            "displayName": "Refi Phangan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92.png"
+        },
+        {
+            "id": "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc",
+            "bio": "Join the movement towards a more sustainable and equitable future in #Medellín🌱",
+            "displayName": "ReFi Medellín",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x302E2A0D4291ac14Aa1160504cA45A0A1F2E7a5c.png"
+        },
+        {
+            "id": "0x7798b38892ddd5886fd875fc959dfdcf7e038930b9d261919b0cc1bf2a62fd39",
+            "bio": "An adventure game to learn about Web3 in a fun way, without any technical jargon",
+            "displayName": "Revolte",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAC4DDaf8FBfFba0f1e8c7619720335FD4f03EaCD.png"
+        },
+        {
+            "id": "0x6520b1492d761fd7f08b4e7a2094d9c6bc0832f93a10bafd918c21996c4305b2",
+            "bio": "Free&open source omni-chain analytical tools",
+            "displayName": "Chaineye",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdA2B9efEd0018e521845D96924832e28d2E56437.png"
+        },
+        {
+            "id": "0xeb5da95440608276fea071123fbd4d7c292c2a5bd5a3d32ccb8905e8bb92e9a7",
+            "bio": "A community-owned and operated suite of tools making web3 more usable 🤝",
+            "displayName": "IDriss",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x88d7709ce401e4E7b5068156423ECB4f60A99F75.png"
+        },
+        {
+            "id": "0xe133a0192b2b9a8b83b1fab0c5edde0c3fd79bc331bc03098c2d2430fbc11e8d",
+            "bio": "CryptoConexión is a hub for blockchain, crypto, Web3 & AI in Latin America. ",
+            "displayName": "CryptoConexión",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc4D286963cdED90E479F82495D75b739e1d831B1.png"
+        },
+        {
+            "id": "0x38de0038ed83f94aeb539f03721a54dadd7caed4496a284f413e20eda27b8716",
+            "bio": "We are a web3 messaging protocol built as a public good. ",
+            "displayName": "dm3 protocol.",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1d921dff757610FbDB0073479e12c0a07d382677.jpeg"
+        },
+        {
+            "id": "0x753761b9a99b1133f7dbdbf333c8bc24ab9ca96e3a4e208b01184694e003b9d0",
+            "bio": "Building *augmented shared reality* with public goods infrastructure & flywheels",
+            "displayName": "Geo Web",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDE798cD9C53F4806B9Cc7dD27aDf7c641540167c.png"
+        },
+        {
+            "id": "0x04227ff23823ec09a03a531c924e8bdf5a6d486f3e0e3006b2fbb1a8de58f0d1",
+            "bio": "The DeFi Pioneer in Africa, Empowering Individuals and Businesses To Adopt Web3.",
+            "displayName": "DeFi Africa",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd952010BAFcAdB7a2052EE697C883A0565A8c01E.png"
+        }
+    ],
+    "status": "draft",
+    "walletAddress": "0xE7389a2D3efdAA1ef330a4476f423c40Af362e39",
+    "domainName": "fractal-visions.town",
+    "twitter": "Fractal_Visions",
+    "discord": "fractalvisions",
+    "isBadgeholder": false,
+    "attestationUid": null,
+    "approvalAttestationUid": null,
+    "forkedFrom": null,
+    "rubric": {
+        "_id": "65695f6e9c41a3dbb6808a7a",
+        "createdBy": "Chomtana",
+        "name": "Quick Voting",
+        "__v": 0,
+        "categories": [],
+        "criteria": [
+            {
+                "title": "Reach & User Quality",
+                "isNegative": false,
+                "scores": {
+                    "0": "Low reach and mostly bot / airdrop hunters",
+                    "1": "Moderate reach but mostly airdrop hunters",
+                    "2": "Reach small or medium group of users who are actively contribute to the Optimism Collective",
+                    "3": "High reach but mostly are airdrop hunters and a few contribute to the Optimism Collective",
+                    "4": "Reach large group of users who are actively contribute to the Optimism Collective",
+                    "5": "Project is adopted by general public"
+                },
+                "_id": "65695f6ec417afa156a73131"
+            },
+            {
+                "title": "Project Quality",
+                "isNegative": false,
+                "scores": {
+                    "0": "Project doesn't solve any problem and is not useful at all",
+                    "1": "Project is developed with low effort",
+                    "2": "Project solve problems but lacking user experience",
+                    "3": "Project solve problems and provide great user/developer experience but lacking tutorial/documentation",
+                    "4": "Project solve problems and provide great user/developer experience with high quality tutorial/documentation",
+                    "5": "Project is a demanding piece in the Optimism collective"
+                },
+                "_id": "65695f6ec417afa156a73132"
+            },
+            {
+                "title": "Funding Received",
+                "isNegative": true,
+                "scores": {
+                    "0": "Project received <= 100k$ in funding",
+                    "-1": "Project received <= 1M$ in funding",
+                    "-2": "Project received >1M$ or raised fund beyond seed investment",
+                    "-3": "Project is listed in major exchanges"
+                },
+                "_id": "65695f6ec417afa156a73133"
+            }
+        ],
+        "description": "Vote and rank projects in a quick way by voting on reach and project quality",
+        "isActive": true
+    },
+    "rubricId": "65695f6e9c41a3dbb6808a7a",
+    "categories": [],
+    "histories": [],
+    "createdAt": "2023-12-06T07:45:23.500Z",
+    "updatedAt": "2023-12-06T07:45:23.500Z",
+    "id": "657026932a10f91def754fd2"
+}

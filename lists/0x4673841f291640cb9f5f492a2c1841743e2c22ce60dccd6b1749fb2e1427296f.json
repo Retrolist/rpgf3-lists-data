@@ -1,0 +1,212 @@
+{
+    "id": "0x4673841f291640cb9f5f492a2c1841743e2c22ce60dccd6b1749fb2e1427296f",
+    "listName": "Farcaster Projects",
+    "listDescription": "I'm the founder of Purple, a Public Goods DAO dedicated to the Farcaster ecosystem. Farcaster is the most significant decentralized social network on Optimism is a Schelling Point for discussion around the OP Stack. This is a list of projects who have made contributions to the infrastructure and ecosystem for the Farcaster Protocol.",
+    "impactEvaluationDescription": "Select your own allocations, these numbers are meant to represent impact by X-Large, Large, Medium, Small, X-small",
+    "impactEvaluationLink": "https://warpcast.com/",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x79619331d5996c793ac13edcd77c369de5e72344add6ebedac5977c0552067a0",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xc2823a54c1f07eb30a69cb3c042c674182b50d49e03c7d48ba5cb84220f0bc62",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x52a5eb33b424f5d62f6cdac8943d4b180adb5cdd5d0dbd861c0d38f522386542",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xd73aaa3a4013be0da321660ed59523edbeb6654e773a2f852fb3828156c3d7bd",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xc72bc291e1063c2981475f586b6b62ba77eb05b8acca3501c80839659fbf3ad3",
+            "OPAmount": 75000
+        },
+        {
+            "RPGF3_Application_UID": "0xe5bbc9d1ad7f67a66262067fbb7651335c9df66bce10147c6631ebc6a4140324",
+            "OPAmount": 75000
+        },
+        {
+            "RPGF3_Application_UID": "0x051b47e31196729a4acc8aac69a69dec2112bfec9812b5bb4d6e085f9681b1f6",
+            "OPAmount": 75000
+        },
+        {
+            "RPGF3_Application_UID": "0x4402871ae482fcae5ad8857dd1ef3c86495c1e7c66f807abcf98622db04debc6",
+            "OPAmount": 75000
+        },
+        {
+            "RPGF3_Application_UID": "0xdee444308961ba4f353fc5912a3cf87ffb002fb4c3f5674182e4dbab75bf0622",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x83b63f78793a42b790fc046ef62adc58f278b8555e6faed25c2fbcfa28122238",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xf2fa6ac688020b373c3b7a0342f89986ef1fe95003abb826cfcef3a842bbcb9a",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x352c6b7d6506710f5198c90c202a7571baf253e177876f43697521a15149220c",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0xea94ce5c3d9360b195b12a641ab7df0da73844d5117a6ae8b654cece4e136fea",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0xb55f172408d975bc360ca8a0d6561f22569ff15bee56cf18109cd3640c609922",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0x67b7139e5b9fbe236be4e777258a936bd45b01aa951635219adfa0306f4f3b57",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0x4c106bf9e0c1501a9e306b0287a75f95b2a8546d2e9e23cb78fea53d48cbe841",
+            "OPAmount": 20000
+        },
+        {
+            "RPGF3_Application_UID": "0x165a6c018e2ee9d78c4a79c669ba30a762a2fafc772c34f760573595ea28a02a",
+            "OPAmount": 20000
+        },
+        {
+            "RPGF3_Application_UID": "0x564162823418a919885acb3cff4ea7857147144353c792923d4e7eb27e110d8c",
+            "OPAmount": 20000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x79619331d5996c793ac13edcd77c369de5e72344add6ebedac5977c0552067a0",
+            "bio": "5+ projects over 1.5 years, supporting consumers and developers on Farcaster",
+            "displayName": "Greg's Farcaster Projects",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x179A862703a4adfb29896552DF9e307980D19285.png"
+        },
+        {
+            "id": "0xc2823a54c1f07eb30a69cb3c042c674182b50d49e03c7d48ba5cb84220f0bc62",
+            "bio": "flink is a Reddit-like Farcaster interface to see hot & trending conversations",
+            "displayName": "flink",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x333601a803CAc32B7D17A38d32c9728A93b422f4.png"
+        },
+        {
+            "id": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+            "bio": "far.quest helped over 100,000 people learn about Farcaster, built on Optimism",
+            "displayName": "far.quest",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png"
+        },
+        {
+            "id": "0x52a5eb33b424f5d62f6cdac8943d4b180adb5cdd5d0dbd861c0d38f522386542",
+            "bio": "Discover the best new web3 projects. Like Product Hunt, but for Web3.",
+            "displayName": "Launchcaster",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f.png"
+        },
+        {
+            "id": "0xd73aaa3a4013be0da321660ed59523edbeb6654e773a2f852fb3828156c3d7bd",
+            "bio": "Airstack: The easiest way to integrate everything web3",
+            "displayName": "Airstack",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeaf55242a90bb3289dB8184772b0B98562053559.png"
+        },
+        {
+            "id": "0xc72bc291e1063c2981475f586b6b62ba77eb05b8acca3501c80839659fbf3ad3",
+            "bio": "Community-curated crypto media dapp & open source P2P protocol",
+            "displayName": "Kiwi News",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xee324c588ceF1BF1c1360883E4318834af66366d.png"
+        },
+        {
+            "id": "0xe5bbc9d1ad7f67a66262067fbb7651335c9df66bce10147c6631ebc6a4140324",
+            "bio": "Dad, builder, entrepreneur. Building things and explaining complex concepts.",
+            "displayName": "vrypan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x93c620D2aF377C6C37e3E3c1d3E065eb04b08aE2.png"
+        },
+        {
+            "id": "0x051b47e31196729a4acc8aac69a69dec2112bfec9812b5bb4d6e085f9681b1f6",
+            "bio": "Social surveys for the next generation of thinkers",
+            "displayName": "Ponder",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x64Ff33b653B26edCb4644E27d3720F3C653F8371.png"
+        },
+        {
+            "id": "0x4402871ae482fcae5ad8857dd1ef3c86495c1e7c66f807abcf98622db04debc6",
+            "bio": "Eventcaster is the social calendar and meetups app built on Farcaster",
+            "displayName": "Eventcaster",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x538527f3602acaD78596F17B422Fcf5613Af1409.png"
+        },
+        {
+            "id": "0xdee444308961ba4f353fc5912a3cf87ffb002fb4c3f5674182e4dbab75bf0622",
+            "bio": "Run a node at home, the easy way",
+            "displayName": "NiceNode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9cce47E9cF12C6147c9844adBB81fE85880c4df4.png"
+        },
+        {
+            "id": "0x83b63f78793a42b790fc046ef62adc58f278b8555e6faed25c2fbcfa28122238",
+            "bio": "Hanging out on Farcaster",
+            "displayName": "Brian Kim",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa35156ca4294c13fe256B10091F3D6595E3Bf7d7.jpeg"
+        },
+        {
+            "id": "0xf2fa6ac688020b373c3b7a0342f89986ef1fe95003abb826cfcef3a842bbcb9a",
+            "bio": "Social messaging app for onchain friends with native Farcaster integration",
+            "displayName": "Frens",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72.png"
+        },
+        {
+            "id": "0x352c6b7d6506710f5198c90c202a7571baf253e177876f43697521a15149220c",
+            "bio": "Explorer for the Farcaster network",
+            "displayName": "prego",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4977A4b74D3a81dB4c462d9073E10796d0cEE333.png"
+        },
+        {
+            "id": "0xea94ce5c3d9360b195b12a641ab7df0da73844d5117a6ae8b654cece4e136fea",
+            "bio": "the Farcaster client for power users",
+            "displayName": "herocast",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c.png"
+        },
+        {
+            "id": "0xb55f172408d975bc360ca8a0d6561f22569ff15bee56cf18109cd3640c609922",
+            "bio": "Dev + Creative Artist (Toronto, Canada)",
+            "displayName": "ghostlinkz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x05FF7cC8B490B38898744037f951F3247673C2ed.png"
+        },
+        {
+            "id": "0x67b7139e5b9fbe236be4e777258a936bd45b01aa951635219adfa0306f4f3b57",
+            "bio": "Connect 1:1 with other Farcaster users, charge for your time or donate to DAOs",
+            "displayName": "gang",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfa922ce609FeD47950E3f48662C9651d42ada194.png"
+        },
+        {
+            "id": "0x4c106bf9e0c1501a9e306b0287a75f95b2a8546d2e9e23cb78fea53d48cbe841",
+            "bio": "Crew is building business accounts for Farcaster",
+            "displayName": "Crew",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2271fe6D76ab94352eF826d97445048Bd8C4d45F.png"
+        },
+        {
+            "id": "0x165a6c018e2ee9d78c4a79c669ba30a762a2fafc772c34f760573595ea28a02a",
+            "bio": "The best place to find people on Farcaster",
+            "displayName": "Findcaster",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1358155a15930f89eBc787a34Eb4ccfd9720bC62.png"
+        },
+        {
+            "id": "0x564162823418a919885acb3cff4ea7857147144353c792923d4e7eb27e110d8c",
+            "bio": "The home of multiplayer crypto - manage any crypto group from an XMTP group chat",
+            "displayName": "Forum",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEeC7E4B2287e98B6ca30242e2D2D2F283a78Fc82.png"
+        }
+    ],
+    "walletAddress": "0x3B60e31CFC48a9074CD5bEbb26C9EAa77650a43F",
+    "domainName": "ccarella.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x4673841f291640cb9f5f492a2c1841743e2c22ce60dccd6b1749fb2e1427296f",
+    "approvalAttestationUid": "0x4673841f291640cb9f5f492a2c1841743e2c22ce60dccd6b1749fb2e1427296f",
+    "categories": [],
+    "createdAt": "2023-12-04T13:32:31",
+    "updatedAt": "2023-12-04T13:32:31",
+    "revokedAt": null,
+    "avatar": "https://i.imgur.com/bQ7LbYs.jpg"
+}

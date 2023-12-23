@@ -1,0 +1,130 @@
+{
+    "listName": "African Contributors",
+    "listDescription": "This is an unofficial list of contributors from the African Region",
+    "impactEvaluationInput": "",
+    "impactEvaluationDescription": "Created by ayohtunde.town using RetroList with \"Categorization Only\" rubric.",
+    "impactEvaluationLink": "https://retropgf3.retrolist.app/list/656f15af2a10f91def752d37",
+    "impactEvaluationType": "rubric",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x8a952a834ff9186399c06935ffcdff482fb38b38808a7419fc415ad307a2e69b",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656f15af2a10f91def752d38"
+        },
+        {
+            "RPGF3_Application_UID": "0xa1dfddef3afe0156af5fd5870560d13423820a235ec8550e7f66a0e7d5c947c5",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656f15af2a10f91def752d39"
+        },
+        {
+            "RPGF3_Application_UID": "0x04227ff23823ec09a03a531c924e8bdf5a6d486f3e0e3006b2fbb1a8de58f0d1",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656f15af2a10f91def752d3a"
+        },
+        {
+            "RPGF3_Application_UID": "0xad58a1e8a62acd6e69bb570e7dc3aa85b93712d01f881842c77bc78cc713b51a",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656f15af2a10f91def752d3b"
+        },
+        {
+            "RPGF3_Application_UID": "0x1335374f0d00c61bf195d9eaeb9c4c55ae4a1a0b883ee0d71b680a4783ad528f",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656f15af2a10f91def752d3c"
+        },
+        {
+            "RPGF3_Application_UID": "0xd2ea00dba1cb56582c77344a4678996d72c35f39c853b3b6b5c6be49876e3018",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656f15af2a10f91def752d3d"
+        },
+        {
+            "RPGF3_Application_UID": "0xf41f199697d23be53eb353e02947670e439498081fd2c733ff8befea0c974c37",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656f15af2a10f91def752d3e"
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x8a952a834ff9186399c06935ffcdff482fb38b38808a7419fc415ad307a2e69b",
+            "bio": "I am an Optimism Ambassador (in training), a UI/UX designer, and a writer.",
+            "displayName": "AyohTunde",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbA8D6600F02CD4Abd93eC63Eb99463a18aC75004.png"
+        },
+        {
+            "id": "0xa1dfddef3afe0156af5fd5870560d13423820a235ec8550e7f66a0e7d5c947c5",
+            "bio": "Driving Web3 Advancement in Africa through Talent Development & Tech Innovation.",
+            "displayName": "AyaHQ",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf203D6C796B99d0F2f861d1B838074822dd64D7c.png"
+        },
+        {
+            "id": "0x04227ff23823ec09a03a531c924e8bdf5a6d486f3e0e3006b2fbb1a8de58f0d1",
+            "bio": "The DeFi Pioneer in Africa, Empowering Individuals and Businesses To Adopt Web3.",
+            "displayName": "DeFi Africa",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd952010BAFcAdB7a2052EE697C883A0565A8c01E.png"
+        },
+        {
+            "id": "0xad58a1e8a62acd6e69bb570e7dc3aa85b93712d01f881842c77bc78cc713b51a",
+            "bio": "Educating and onboarding everyday Africans to Web3",
+            "displayName": "Bankless Africa",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x74021a7599CF772275c6d5699Fb681bEeB0d7AA8.png"
+        },
+        {
+            "id": "0x1335374f0d00c61bf195d9eaeb9c4c55ae4a1a0b883ee0d71b680a4783ad528f",
+            "bio": "Largest ETH event in Africa",
+            "displayName": "ETHSafari 2023",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171.png"
+        },
+        {
+            "id": "0xd2ea00dba1cb56582c77344a4678996d72c35f39c853b3b6b5c6be49876e3018",
+            "bio": "Africa's foremost campus web3 bootcamp, helping devs transition to web3.",
+            "displayName": "BlockchainOAU",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd05d9Fd4c48d2aa9E284AF2b501F714f65a5D5D8.png"
+        },
+        {
+            "id": "0xf41f199697d23be53eb353e02947670e439498081fd2c733ff8befea0c974c37",
+            "bio": "Abena is an academic researcher, community builder and founder of ETHAccra. ",
+            "displayName": "ETHAccra",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ac685a55bce6b515fC1Ea713146f6D099A5054b.png"
+        }
+    ],
+    "status": "reviewing",
+    "walletAddress": "0xbA8D6600F02CD4Abd93eC63Eb99463a18aC75004",
+    "domainName": "ayohtunde.town",
+    "twitter": "AYOHTUNDE",
+    "discord": "ayohtunde",
+    "isBadgeholder": false,
+    "attestationUid": "0x4b5e4a57458eba2bd88722a88f0c34710650721653c49b3eba7ad4160fa9c240",
+    "approvalAttestationUid": null,
+    "forkedFrom": null,
+    "rubric": {
+        "_id": "65695f889c41a3dbb680a30c",
+        "createdBy": "Chomtana",
+        "name": "Categorization Only",
+        "__v": 0,
+        "categories": [],
+        "criteria": [
+            {
+                "title": "Categorization Only",
+                "isNegative": false,
+                "scores": {
+                    "0": "Categorization Only"
+                },
+                "_id": "65695f88c417afa156a73138"
+            }
+        ],
+        "description": "Categorization projects without allocating any OP to them",
+        "isActive": true
+    },
+    "rubricId": "65695f889c41a3dbb680a30c",
+    "categories": [],
+    "histories": [],
+    "createdAt": "2023-12-05T12:21:03.061Z",
+    "updatedAt": "2023-12-05T12:30:36.324Z",
+    "id": "656f15af2a10f91def752d37"
+}

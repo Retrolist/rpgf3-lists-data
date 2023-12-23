@@ -1,0 +1,134 @@
+{
+    "id": "0x599392887e04528ea18d571c4ac65a4acf4ccd0b4f1236fae5d237430cfc9147",
+    "listName": "🎪 Conferences, Events & Hackathons (test)",
+    "listDescription": "Conferences, Events and Hackathons",
+    "impactEvaluationDescription": "I trusted my gut",
+    "impactEvaluationLink": "https://docs.google.com/presentation/d/1PvkdfjhLNYxGfIAR_pF6CwL8FsKI6_ltt4GW5rvpV5I/edit?usp=sharing",
+    "impactEvaluationType": "OTHER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x083cc62e08ddd1cafe05d94c4694b684bc5cbb44513b02ac884d368dea7f9c24",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x2113aa30f96029c1a9af0c1c15677fb80ecc169fb05b3d0c90e6eb77f5e758c1",
+            "OPAmount": 30000
+        },
+        {
+            "RPGF3_Application_UID": "0x73b6ff6fb7a5bb5f271b1636a1baa24a327e144e45195a53b9645fcb659a48d3",
+            "OPAmount": 20000
+        },
+        {
+            "RPGF3_Application_UID": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0x8788f5efe99abf2a82ff0c27361baf9321c7601c06599551635aadfdd7980cf9",
+            "OPAmount": 15000
+        },
+        {
+            "RPGF3_Application_UID": "0xf41f199697d23be53eb353e02947670e439498081fd2c733ff8befea0c974c37",
+            "OPAmount": 20000
+        },
+        {
+            "RPGF3_Application_UID": "0x8f6fc027d996489f020e2b5591374f2c97833fe20cab3124e1c7377f5b7e583f",
+            "OPAmount": 20000
+        },
+        {
+            "RPGF3_Application_UID": "0x1335374f0d00c61bf195d9eaeb9c4c55ae4a1a0b883ee0d71b680a4783ad528f",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xa9f6de6ad7b1cb903f0063e588f0f729f13ddd76d77495e25a3860c27a721773",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xf3526ec21d5b1146008c629fe9837f2c5ab099b1590e28dfb7005c126234fb11",
+            "OPAmount": 10000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+            "bio": "Collective of people from Berlin: Protocol Berg, Goerli Testnet.",
+            "displayName": "Department of Decentralization",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.png"
+        },
+        {
+            "id": "0x083cc62e08ddd1cafe05d94c4694b684bc5cbb44513b02ac884d368dea7f9c24",
+            "bio": "Ethereum France is an association that promotes Ethereum through events",
+            "displayName": "Ethereum France",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C7944604F3ca37A081c0D2C4d4e4714a24979Af.png"
+        },
+        {
+            "id": "0x2113aa30f96029c1a9af0c1c15677fb80ecc169fb05b3d0c90e6eb77f5e758c1",
+            "bio": "Empowering Mexico's Ethereum Enthusiasts",
+            "displayName": "Ethereum Mexico",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x596a9BCad70d07AFF4215b2a17ad36298139fB6C.png"
+        },
+        {
+            "id": "0x73b6ff6fb7a5bb5f271b1636a1baa24a327e144e45195a53b9645fcb659a48d3",
+            "bio": "Zuzalu creates pop-up city experiments to help human flourish and tech progress",
+            "displayName": "Zuzalu",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x510e221C48ee37DAfc0d3802b43679Cf5d78561f.png"
+        },
+        {
+            "id": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+            "bio": "Web3 Community in Colombia",
+            "displayName": "Ethereum Colombia",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD164AF956E0f34Be07a86752fe43AE788F647531.png"
+        },
+        {
+            "id": "0x8788f5efe99abf2a82ff0c27361baf9321c7601c06599551635aadfdd7980cf9",
+            "bio": "Ethereum Community in Lima, Perú.",
+            "displayName": "Ethereum Lima",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2f6c8F867df4E49e4Fb24741C414f315E266C21B.png"
+        },
+        {
+            "id": "0xf41f199697d23be53eb353e02947670e439498081fd2c733ff8befea0c974c37",
+            "bio": "Abena is an academic researcher, community builder and founder of ETHAccra.",
+            "displayName": "ETHAccra",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ac685a55bce6b515fC1Ea713146f6D099A5054b.png"
+        },
+        {
+            "id": "0x8f6fc027d996489f020e2b5591374f2c97833fe20cab3124e1c7377f5b7e583f",
+            "bio": "Impact Focused conference, hackathon and festival in Barcelona-Spain",
+            "displayName": "ETHBarcelona",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB605745f67e8027ffe2df603b67529421c717EE8.png"
+        },
+        {
+            "id": "0x1335374f0d00c61bf195d9eaeb9c4c55ae4a1a0b883ee0d71b680a4783ad528f",
+            "bio": "Largest ETH event in Africa",
+            "displayName": "ETHSafari 2023",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171.png"
+        },
+        {
+            "id": "0xa9f6de6ad7b1cb903f0063e588f0f729f13ddd76d77495e25a3860c27a721773",
+            "bio": "ETHGlobal is the infrastructure of the Ethereum community.",
+            "displayName": "ETHGlobal",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe993486B257Cd1481aef74b3B909A2627Fc8d305.png"
+        },
+        {
+            "id": "0xf3526ec21d5b1146008c629fe9837f2c5ab099b1590e28dfb7005c126234fb11",
+            "bio": "Eth-Volcano is driven by community adoption via Ethereum education.",
+            "displayName": "Eth-Volcano",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.png"
+        }
+    ],
+    "walletAddress": "0x4a6894Dd556fab996f8D50b521f900CAEedC168e",
+    "domainName": "smolsunny.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x599392887e04528ea18d571c4ac65a4acf4ccd0b4f1236fae5d237430cfc9147",
+    "approvalAttestationUid": null,
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-11-01T09:38:23",
+    "updatedAt": "2023-11-01T09:38:23",
+    "revokedAt": null,
+    "avatar": "https://euc.li/smolsunny.eth"
+}

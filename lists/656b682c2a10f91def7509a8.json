@@ -1,0 +1,82 @@
+{
+    "listName": "NFT Communities on Optimism ",
+    "listDescription": "\"The Big 3\" Optimism NFT builders that have high volume, a large community, and have been consistently building since before and after the Quix marketplace shutdown. ",
+    "impactEvaluationInput": "",
+    "impactEvaluationDescription": "Created by dicaso5.town using RetroList with \"Categorization Only\" rubric.",
+    "impactEvaluationLink": "https://retropgf3.retrolist.app/list/656b682c2a10f91def7509a8",
+    "impactEvaluationType": "rubric",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656b682c2a10f91def7509a9"
+        },
+        {
+            "RPGF3_Application_UID": "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656b682c2a10f91def7509aa"
+        },
+        {
+            "RPGF3_Application_UID": "0xcbb4c5eb3789d11832b4f96d36e7eb38797d948d5f086df686a1f218a132385b",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656b682c2a10f91def7509ab"
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+            "bio": "The #1 NFT community on Optimism!",
+            "displayName": "OptiChads",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10850762bAc0dc6660630c1EfFe188A7cbFDdc88.png"
+        },
+        {
+            "id": "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+            "bio": "Bored Town, a nurturing ecosystem where creativity meets innovation.",
+            "displayName": "Bored Town NFT art community",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D63038e7f74bc089eb38e61Be8Da937918900D6.png"
+        },
+        {
+            "id": "0xcbb4c5eb3789d11832b4f96d36e7eb38797d948d5f086df686a1f218a132385b",
+            "bio": "An NFT project committed to establishing a genuine business framework.",
+            "displayName": "Apetimism",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x16ac527d938c36Caec5A6b0665ef7b456C22f7D2.png"
+        }
+    ],
+    "status": "qualified",
+    "walletAddress": "0x10850762bAc0dc6660630c1EfFe188A7cbFDdc88",
+    "domainName": "dicaso5.town",
+    "twitter": "Dicaso5",
+    "discord": "dicaso",
+    "isBadgeholder": false,
+    "attestationUid": "0x87cc7a96ec553395da1d42d6d1d32a767cf772a7193ba732eccda3cc6a9ab314",
+    "approvalAttestationUid": null,
+    "forkedFrom": null,
+    "rubric": {
+        "_id": "65695f889c41a3dbb680a30c",
+        "createdBy": "Chomtana",
+        "name": "Categorization Only",
+        "__v": 0,
+        "categories": [],
+        "criteria": [
+            {
+                "title": "Categorization Only",
+                "isNegative": false,
+                "scores": {
+                    "0": "Categorization Only"
+                },
+                "_id": "65695f88c417afa156a73138"
+            }
+        ],
+        "description": "Categorization projects without allocating any OP to them",
+        "isActive": true
+    },
+    "rubricId": "65695f889c41a3dbb680a30c",
+    "categories": [],
+    "histories": [],
+    "createdAt": "2023-12-02T17:23:56.876Z",
+    "updatedAt": "2023-12-02T17:25:34.326Z",
+    "id": "656b682c2a10f91def7509a8"
+}

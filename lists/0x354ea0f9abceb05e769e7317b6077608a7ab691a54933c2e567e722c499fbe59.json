@@ -1,0 +1,132 @@
+{
+    "id": "0x354ea0f9abceb05e769e7317b6077608a7ab691a54933c2e567e722c499fbe59",
+    "listName": "Joan's News Media list",
+    "listDescription": "This list highlights eleven different sources of web3 news - some more general, and some targeted at specific groups of users. The variety is in itself a public good. \n\nMy notes:\nhttps://www.dropbox.com/scl/fi/eb9w2nwol1r6rxw9c3d54/News.ods?rlkey=31142aeg7hgamrcv4e4v08dls&dl=0",
+    "impactEvaluationDescription": "I sampled all of the mentioned news sources and made a first, subjective, evaluation based on that. \n\nI gave a little extra weight to Optimism specific news, as they probably rely more fully on the Optimism Collective for support. \n\nAlso, 'The Optimist' (mistakenly spelled as 'The Opimist' in the application) serves a large number of language groups and is largely made by people, many of whom also contribute to Optimism in other ways. \n\nAs for the more targeted publications, I found them to be high quality. I believe they are serving their respective target groups well. \n\nI particularly value the concept of Web3ForGood and their ambition to reach an audience who are specifically looking for ways to do good in the world.",
+    "impactEvaluationLink": "https://www.dropbox.com/scl/fi/eb9w2nwol1r6rxw9c3d54/News.ods?rlkey=31142aeg7hgamrcv4e4v08dls&dl=0",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479",
+            "OPAmount": 20000
+        },
+        {
+            "RPGF3_Application_UID": "0x23e8758d25a0b7e8d40da7506e696c539174e69c80d0490ac0bd8a8094dd1d2e",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xad7bb25d68a8e4db00e21bff02fd2db31935feaae6c5bfd329e8f621dd77ce10",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0xf6ad557d7f9065d81c1e90f0d41b7808c028437740b206be489523c76035e5a9",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0x7cf3ed5c483080c5b132ff4902b425e20d9cb4c8c737154cefa6005a7bfc12d5",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0xdee6cb0f6b1f53a8734710c729098de1412c0c8c8dd7b05c9b93851c4e76e59f",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x9f5ccc80778dc01dbe8e31eace95372221028dbc18182da6262ee195cf98faca",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xc72bc291e1063c2981475f586b6b62ba77eb05b8acca3501c80839659fbf3ad3",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xb55f172408d975bc360ca8a0d6561f22569ff15bee56cf18109cd3640c609922",
+            "OPAmount": 5000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479",
+            "bio": "The unique media about OP Superchain",
+            "displayName": "The Opimist",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03143EE031AA7bD7b6846750d066A27f18D39edd.png"
+        },
+        {
+            "id": "0x23e8758d25a0b7e8d40da7506e696c539174e69c80d0490ac0bd8a8094dd1d2e",
+            "bio": "A weekly newsletter dedicated to delivering news about the Optimism Superchain.",
+            "displayName": "The Optimism Superchain Roundup",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5.png"
+        },
+        {
+            "id": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "bio": "A podcast and newsletter segment covering Optimism ecosystem news.",
+            "displayName": "ETH Daily (OP News)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEB40A065854bd90126A4E697aeA0976BA51b2eE7.png"
+        },
+        {
+            "id": "0xad7bb25d68a8e4db00e21bff02fd2db31935feaae6c5bfd329e8f621dd77ce10",
+            "bio": "Comprehensive weekly newsletter covering Ethereum's Layer 2 ecosystem.",
+            "displayName": "Layer 2 Weekly Roundup",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x24b0529c7226AE66968B9A8b521b266A2cA4a898.png"
+        },
+        {
+            "id": "0xf6ad557d7f9065d81c1e90f0d41b7808c028437740b206be489523c76035e5a9",
+            "bio": "A public good for the modular community, providing news, updates, & education",
+            "displayName": "Modular Media",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc.png"
+        },
+        {
+            "id": "0x7cf3ed5c483080c5b132ff4902b425e20d9cb4c8c737154cefa6005a7bfc12d5",
+            "bio": "Coinbold is a website where you can find news about different cryptocurrencies",
+            "displayName": "Coinbold",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9C8cc9735005A7424eBF868105fCC93adf6073b0.png"
+        },
+        {
+            "id": "0xdee6cb0f6b1f53a8734710c729098de1412c0c8c8dd7b05c9b93851c4e76e59f",
+            "bio": "A media hub highlighting Web3 tech's role in positive social change.",
+            "displayName": "Web3ForGood",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB79F0156573A54e852fB9Ac7b5Bc6250B33405a0.png"
+        },
+        {
+            "id": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+            "bio": "Weekly newsletter about Ethereum.  Since August 21, 2016.",
+            "displayName": "Week in Ethereum News",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x288C53a1BA857EaD34AD0e79F644087F8174185a.png"
+        },
+        {
+            "id": "0x9f5ccc80778dc01dbe8e31eace95372221028dbc18182da6262ee195cf98faca",
+            "bio": "OurNetwork is the leading crypto analytics newsletter and community.",
+            "displayName": "OurNetwork",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9C159121CEEBF937E9bad98fd0c895d7f6038bd4.png"
+        },
+        {
+            "id": "0xc72bc291e1063c2981475f586b6b62ba77eb05b8acca3501c80839659fbf3ad3",
+            "bio": "Community-curated crypto media dapp & open source P2P protocol",
+            "displayName": "Kiwi News",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xee324c588ceF1BF1c1360883E4318834af66366d.png"
+        },
+        {
+            "id": "0xb55f172408d975bc360ca8a0d6561f22569ff15bee56cf18109cd3640c609922",
+            "bio": "Dev + Creative Artist (Toronto, Canada)",
+            "displayName": "ghostlinkz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x05FF7cC8B490B38898744037f951F3247673C2ed.png"
+        }
+    ],
+    "walletAddress": "0xe422d6C46a69e989BA6468CcD0435Cb0c5C243E3",
+    "domainName": null,
+    "isBadgeholder": true,
+    "attestationUid": "0x354ea0f9abceb05e769e7317b6077608a7ab691a54933c2e567e722c499fbe59",
+    "approvalAttestationUid": "0x354ea0f9abceb05e769e7317b6077608a7ab691a54933c2e567e722c499fbe59",
+    "categories": [],
+    "createdAt": "2023-11-30T17:15:45",
+    "updatedAt": "2023-11-30T17:15:45",
+    "revokedAt": null,
+    "avatar": null
+}

@@ -1,0 +1,184 @@
+{
+    "id": "0x7b06818fd0e91baf472b5c8a6509c1382d8bb51e4089918bab61b845af1f792c",
+    "listName": "ERC-4337 account abstraction related projects",
+    "listDescription": "This is a list of projects that are either using ERC-4337 themselves, are promoting its usage, or are enabling people to build on top of it. It also includes projects that we believe are beneficial to security, developer experience, etc. Due to possible conflicts of interest, I have chosen to allocate the same amount of tokens to each project. Ignore the amounts, do your own research.\n\nDisclosure: I'm a co-author of ERC-4337 and will exclude “Account Abstraction - ERC 4337” from my ballot.",
+    "impactEvaluationDescription": "This list is a subset of another list created by Marc from Candide wallet. The link below will send you to Marc’s complete list, which was curated in collaboration with me and consists of wallets and wallet specific dev Tools. The second tab on Marc’s google sheet outlines his methodology for ranking projects. This system attempts to provide a final score to each project by answering several questions. These questions revolve around the project’s impact on Optimism, both from a developer ecosystem perspective and from an end user experience, the quality of its code and its commitment to open source principles, and the profit gap, which does not focus on if and how much that project raised in capital, but on the difference between that project’s overall impact and the revenue we guestimate it is potentially generating. ",
+    "impactEvaluationLink": "https://docs.google.com/spreadsheets/d/1s4J-TwN9Gd2AQtKtt0xxKyfQ0hAnJlsW6j4astXLC9g/edit?usp=sharing",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x7f119f8a9ac1b020748dcff53e48cffe1f851f709959e5ffc825a35d36f4063a",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0x54c617b7842807a5d0a0806eed01bcf497adc62cf76c9f6e67ffd42daee5cada",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0xf3df23e97d2c4b6936cafe233e48416ed37708a2a0eecd959450a82ed3a5f730",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0x956b110e3b9aa11c53bbf41b97d34fadb4d516faede3304fa2807db3fd6d7407",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0x6752ee31f5e09caedd68da815fc684456bca90ffa4336fd021180f91ef5ac85a",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0xa16c4dc88f363dfb26d0ededc0ad2cf018de28216e0184b996de50751877c244",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0x53cb6fdfffcd21aa5dfa3148f22fcbcfded49bafde4545047c2e43279fb0fbb6",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0x564162823418a919885acb3cff4ea7857147144353c792923d4e7eb27e110d8c",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0x9b2503a1c38eb7324c250449d59685ff0ce278da814eece9e09b23cb1040ea07",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0x99684d69323305f8db8feeb8a34d5057b76eb99ec660a9cf339e068b99803e60",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0x4be3403e085715cdac5dc7c9fc3dfebfe9064d89ed6af5da1c612d3fac932356",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0x4afa3f3679237d1a52cfd87f258f57d8de01d64a69182591807c471accdc0f16",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0xc15f111484081470f19dfc3881788a82c8190a130e85b68d5fbce1cc650d1416",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0xfe9dac03e5168415428bacaeaab40470bc95d66495fee2505e7d8cf612f15001",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+            "OPAmount": 444444
+        },
+        {
+            "RPGF3_Application_UID": "0x89b53a59649679cb236eebf535a54d7e1cec185f6910384f3043a76a5a47d489",
+            "OPAmount": 444444
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x7f119f8a9ac1b020748dcff53e48cffe1f851f709959e5ffc825a35d36f4063a",
+            "bio": "ERC-4337 account abstraction core team",
+            "displayName": "Account Abstraction - ERC-4337",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x54c617b7842807a5d0a0806eed01bcf497adc62cf76c9f6e67ffd42daee5cada",
+            "bio": "Most Used 4337 UserOp Explorer for Account Abstraction",
+            "displayName": "JiffyScan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0.png"
+        },
+        {
+            "id": "0xf3df23e97d2c4b6936cafe233e48416ed37708a2a0eecd959450a82ed3a5f730",
+            "bio": "Building EVM account abstraction infrastructure, open standards and education",
+            "displayName": "Alchemy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC.png"
+        },
+        {
+            "id": "0x956b110e3b9aa11c53bbf41b97d34fadb4d516faede3304fa2807db3fd6d7407",
+            "bio": "OPStack improvement with ERC-4337 account and native hardware signature verifier",
+            "displayName": "Clave (formerly Opclave)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcCA02de5372cB0CaAc425543487789eEF5d17fB5.png"
+        },
+        {
+            "id": "0x6752ee31f5e09caedd68da815fc684456bca90ffa4336fd021180f91ef5ac85a",
+            "bio": "First audited, production-ready verifier for Secure Enclave & Passkey signatures",
+            "displayName": "P256Verifier",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB.png"
+        },
+        {
+            "id": "0xa16c4dc88f363dfb26d0ededc0ad2cf018de28216e0184b996de50751877c244",
+            "bio": "'blst' is the cryptography library used by all Ethereum clients to power PoS",
+            "displayName": "blst Cryptography Library",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x756678bD0d2358d2198511c3adF50502fDF45597.png"
+        },
+        {
+            "id": "0x53cb6fdfffcd21aa5dfa3148f22fcbcfded49bafde4545047c2e43279fb0fbb6",
+            "bio": "The smart contract wallet made Ethereum safe and easy. #socialRecovery #4337",
+            "displayName": "Soul Wallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2.png"
+        },
+        {
+            "id": "0x564162823418a919885acb3cff4ea7857147144353c792923d4e7eb27e110d8c",
+            "bio": "The home of multiplayer crypto - manage any crypto group from an XMTP group chat",
+            "displayName": "Forum",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEeC7E4B2287e98B6ca30242e2D2D2F283a78Fc82.png"
+        },
+        {
+            "id": "0x9b2503a1c38eb7324c250449d59685ff0ce278da814eece9e09b23cb1040ea07",
+            "bio": "Expert Cryptographer for 19 years (17 Defense then 2 Eth ecosystem).",
+            "displayName": "Reno",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x936632cC3B9BC47ad23D41dC7cc200015c447f71.png"
+        },
+        {
+            "id": "0x99684d69323305f8db8feeb8a34d5057b76eb99ec660a9cf339e068b99803e60",
+            "bio": "Gas optimized Solidity snippets",
+            "displayName": "Vectorized",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F5D295778796a8b9f29600A585Ab73D452AcB1c.png"
+        },
+        {
+            "id": "0x4be3403e085715cdac5dc7c9fc3dfebfe9064d89ed6af5da1c612d3fac932356",
+            "bio": "Developed tool for devnet & bundler, contributed PRs to op-node, wrote articles.",
+            "displayName": "joohhnnn",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf8E30C251AA7974aA0A2d9e452d863681f8B59Ac.png"
+        },
+        {
+            "id": "0x4afa3f3679237d1a52cfd87f258f57d8de01d64a69182591807c471accdc0f16",
+            "bio": "A Dune dashboard that presents data on the adoption of ERC4337 Smart Accounts",
+            "displayName": "ERC4337 Smart Accounts Dune Dashboard",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.jpeg"
+        },
+        {
+            "id": "0xc15f111484081470f19dfc3881788a82c8190a130e85b68d5fbce1cc650d1416",
+            "bio": "COLLECT – OWN – BELONG",
+            "displayName": "anotherblock",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD8A7d1E1e7e7B35280001180a95e5013E54d1310.png"
+        },
+        {
+            "id": "0xfe9dac03e5168415428bacaeaab40470bc95d66495fee2505e7d8cf612f15001",
+            "bio": "A payments dApp that allows you to send funds to people who don't have a wallet",
+            "displayName": "Woosh",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3B2d493a88D97D26BE518c8048778d155831462B.png"
+        },
+        {
+            "id": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+            "bio": "Candide builds open Account Abstraction software",
+            "displayName": "Candide",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56a1740878966Bc82a1d9C047E46B02533857626.png"
+        },
+        {
+            "id": "0x89b53a59649679cb236eebf535a54d7e1cec185f6910384f3043a76a5a47d489",
+            "bio": "Your wallets are about to disapear!",
+            "displayName": "Wallet Abstraction",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a.png"
+        }
+    ],
+    "walletAddress": "0xdb5781a835b60110298fF7205D8ef9678Ff1f800",
+    "domainName": "yoav.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x7b06818fd0e91baf472b5c8a6509c1382d8bb51e4089918bab61b845af1f792c",
+    "approvalAttestationUid": "0x7b06818fd0e91baf472b5c8a6509c1382d8bb51e4089918bab61b845af1f792c",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-12-07T03:31:23",
+    "updatedAt": "2023-12-07T03:31:23",
+    "revokedAt": null,
+    "avatar": "https://ipfs.io/ipfs/bafybeiev5hfchaqltv2drvwvnlssybo33kow24ccbxzmrpwpnmx3vlpona"
+}

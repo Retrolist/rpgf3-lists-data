@@ -1,0 +1,32 @@
+{
+    "id": "0x34d3d663b64102a76f9b8ddb757e99e9736ecdccae4c5c63658ecd3e4bcea12d",
+    "listName": "kenedys.eth",
+    "listDescription": "Optimism is designed to be as simple as possible for the featureset it provides. Ideally, Optimism should be composed of the minimum number of moving parts required for a secure, scalable, and flexible L2 system. This simplicity gives Optimism's design a number of significant advantages over other more complex L2 constructions.\n\nSimplicity reduces engineering overhead, which in turn means we can spend our time working on new features instead of re-creating existing ones. Optimism prefers to use existing battle-tested Ethereum code and infrastructure where possible. The most visible example of this philosophy in practice is the choice to use Geth as Optimism's client software.\n\nWhen dealing with critical infrastructure, simplicity is also security. Every line of code we write is an opportunity to introduce unintentional bugs. A simple protocol means there's less code to write and, as a result, less surface area for potential mistakes. A clean and minimal codebase is also more accessible to external contributors and auditors. All of this serves to maximize the security and correctness of the Optimism protocol.\n\nSimplicity is also important for the long-term vision of Optimism. By limiting the amount of code that we write on top of Ethereum tooling, we're able to spend most of our time working directly with existing codebases. Engineering effort that goes into Optimism can also directly benefit Ethereum, and vice versa. This will only become more pronounced as the Optimism protocol solidifies and existing resources can be redirected towards core Ethereum infrastructure",
+    "impactEvaluationDescription": "learn and earn",
+    "impactEvaluationLink": "https://twitter.com/masjon29850178",
+    "impactEvaluationType": "OTHER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
+            "OPAmount": 0
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
+            "bio": "A Dune wizard and data enthusiast from Cambodia 🇰🇭",
+            "displayName": "0xKhmer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB.png"
+        }
+    ],
+    "walletAddress": "0x7D3e4505307741f31CF79eA650a05718EE2Cf85b",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0x34d3d663b64102a76f9b8ddb757e99e9736ecdccae4c5c63658ecd3e4bcea12d",
+    "approvalAttestationUid": null,
+    "categories": [],
+    "createdAt": "2023-10-27T04:41:49",
+    "updatedAt": "2023-10-27T04:41:49",
+    "revokedAt": null,
+    "avatar": null
+}

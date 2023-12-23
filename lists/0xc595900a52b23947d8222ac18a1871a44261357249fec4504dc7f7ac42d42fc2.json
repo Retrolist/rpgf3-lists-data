@@ -1,0 +1,34 @@
+{
+    "id": "0xc595900a52b23947d8222ac18a1871a44261357249fec4504dc7f7ac42d42fc2",
+    "listName": "Ethereum's Core Protocol Stewards ⛓️🛡️",
+    "listDescription": "This list contains a collective of Ethereum's active core protocol contributors, which today comprises 152 individuals. These individuals have at least 6 months of continuous contributions focused on the following areas:\n\n1. Ethereum L1 core protocol maintenance and development\nIncludes production client implementations like Erigon, Geth, Hyperledger Besu, Lighthouse, Lodestar, Nethermind, Nimbus, Prysm and Teku, as well as client testing/security/infra which supports these implementations, and finally coordination work related to upgrades and maintenance\n\n2. Research and implementation experiments related to potential protocol changes/refinements\nExamples: verkle tries, portal network, EVM improvements: Ipsilon, consensus work, cryptography, mechanism design & resource pricing\n\n3. Spec work resulting from the above\n\nAstute observers will note that this list only contains one project - Protocol Guild. How can this be, you may ask?\n\nThe Protocol Guild provides a single high-signal list of Ethereum's core protocol contributors, that the ecosystem can use to channel public goods funding towards. This list is curated by these core protocol contributors themselves, providing very high accuracy assurances, given that they have significantly higher context and domain expertise compared to any external curator. You can learn more about the curation process here: https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html\n\nIt should be noted that any funds sent to the Protocol Guild are vested directly to Ethereum's core protocol contributors over time, creating long-term incentives for such stewardship while facilitating knowledge handover. You can learn more about the Guild's smart contract architecture here: https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html",
+    "impactEvaluationDescription": "How does the work of the Protocol Guild relate to Optimism? \n\nAs a rollup, Optimism leverages Ethereum for settlement & security assurances. It also uses several core infrastructure components (client implementations, specifications, test suites, etc.) developed and maintained by Protocol Guild contributors over the years. Optimism also directly benefits from protocol upgrades such as proto-danksharding (EIP-4844), which will significantly reduce the fees its users need to pay.\n\nAll of this work supports a mutual relationship:\n\n- Ethereum provides an infrastructural foundation with particular characteristics (eg. social, political, technical, economic) that only it can uniquely provide\n\n- Optimism produces lower-cost blockspace that the base layer is not able to provide, while still inheriting some of its characteristics. The project also has more space for experimentation eg. integrating infra funding circuits into the blockspace production process.\n\nGiven the foundational impact Ethereum's core protocol contributors have had on the OP stack, I am assigning the maximum possible allocation for a single project - 5m OP. \n\nHowever, I will not personally vote for the Protocol Guild, due to a conflict of interest, as indicated here: https://gov.optimism.io/t/badgeholder-conflict-of-interest-disclosures/5569/46?u=cheeky-gorilla ✌️",
+    "impactEvaluationLink": "https://vote.optimism.io/retropgf/3/application/0x2a1d784639add63bb313c3836b5dc1421d0a775d4cf7459c97bfbee95f39e26f",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "OPAmount": 5000000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "bio": "A collective of Ethereum's active core protocol contributors",
+            "displayName": "Protocol Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F.png"
+        }
+    ],
+    "walletAddress": "0xeF32eb37f3E8B4bDDdF99879b23015F309ED7304",
+    "domainName": null,
+    "isBadgeholder": true,
+    "attestationUid": "0xc595900a52b23947d8222ac18a1871a44261357249fec4504dc7f7ac42d42fc2",
+    "approvalAttestationUid": "0xc595900a52b23947d8222ac18a1871a44261357249fec4504dc7f7ac42d42fc2",
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-11-14T09:42:47",
+    "updatedAt": "2023-11-14T09:42:47",
+    "revokedAt": null,
+    "avatar": null
+}

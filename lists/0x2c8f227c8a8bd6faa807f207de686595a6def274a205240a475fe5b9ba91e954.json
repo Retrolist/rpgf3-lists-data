@@ -1,0 +1,594 @@
+{
+    "id": "0x2c8f227c8a8bd6faa807f207de686595a6def274a205240a475fe5b9ba91e954",
+    "listName": "EthernautDAO Impact List",
+    "listDescription": "This list showcases projects that are well-known to the EthernautDAO and resonate with our core values.",
+    "impactEvaluationDescription": "At EthernautDAO, led by Alejandro Santander (Ethernaut) and Gonzalo Diez (Gonna), we focus on supporting projects that align with our mission and show potential for impact. Our voting list helps identify and support these projects using a direct evaluation method.\n\nOur evaluation process is simple:\n\n1. **Initial Scoring**: We rate each project from 1-15 based on our understanding of its potential and areas that need work.\n2. **Average Scores**: We average these scores to get a fair overall rating.\n3. **Team Engagement**: We talk to project teams to find out what they need for the next semester. We adjust scores by adding 0.5 points for every 100k in funding they require.\n4. **Funds Distribution**: We then distribute 10 million OP tokens according to these scores, ensuring fair resource allocation based on each project's merit and needs.\n\nFor more details on how we calculate these scores, see the linked document.\n\nNote: We don't vote on projects listed in the “Conflict” column. For these, we only suggest a possible allocation based on our knowledge of the project and its impact.",
+    "impactEvaluationLink": "https://catkin-zebu-4ea.notion.site/EthernautDAO-Impact-List-9948df320f8b4eeab099a6821e9908f3",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xe0031e9ff51d941d62bcb1545812bdd132151a24d8767f4cc0d552b82c8567ac",
+            "OPAmount": 466172
+        },
+        {
+            "RPGF3_Application_UID": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+            "OPAmount": 388477
+        },
+        {
+            "RPGF3_Application_UID": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "OPAmount": 279703
+        },
+        {
+            "RPGF3_Application_UID": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "OPAmount": 279703
+        },
+        {
+            "RPGF3_Application_UID": "0x6640372710ef432d006f6e2a0737213975305cb2f7d0c84e7be338b9c6ddb275",
+            "OPAmount": 279703
+        },
+        {
+            "RPGF3_Application_UID": "0xf3e6f4737869efd0967440e4f97ea91b3ce3611c801675319874ea02f4d7a668",
+            "OPAmount": 264164
+        },
+        {
+            "RPGF3_Application_UID": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "OPAmount": 264164
+        },
+        {
+            "RPGF3_Application_UID": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+            "OPAmount": 264164
+        },
+        {
+            "RPGF3_Application_UID": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+            "OPAmount": 264164
+        },
+        {
+            "RPGF3_Application_UID": "0x7a09be22acae5e2d531965a619820b6b9d985f60051c524c2e2b5036aac7489b",
+            "OPAmount": 248625
+        },
+        {
+            "RPGF3_Application_UID": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+            "OPAmount": 233086
+        },
+        {
+            "RPGF3_Application_UID": "0x1b205ded96fa08412a2c8b7100de978779b13fd81fd8a85aaf71f7994065c690",
+            "OPAmount": 217547
+        },
+        {
+            "RPGF3_Application_UID": "0x07a0323c1fc9072714b937056ec35d0c5acff5df41fb3e266b329ac2ed68d5f8",
+            "OPAmount": 217547
+        },
+        {
+            "RPGF3_Application_UID": "0x7500c59003e12f46731f0e3bf33ef270085e700ce1d0ec0ae2ae42b4ea655ebe",
+            "OPAmount": 209778
+        },
+        {
+            "RPGF3_Application_UID": "0x1dfca7cffa9babbcc0b9646e2e620da444285f4dc7d6e7f3692446ffe4d6b66b",
+            "OPAmount": 202008
+        },
+        {
+            "RPGF3_Application_UID": "0xa9f6de6ad7b1cb903f0063e588f0f729f13ddd76d77495e25a3860c27a721773",
+            "OPAmount": 202008
+        },
+        {
+            "RPGF3_Application_UID": "0xaf869c5736e4275f6d6bd2c4a9b8dac21dab4558e0758e6db27e13807f6b1a94",
+            "OPAmount": 202008
+        },
+        {
+            "RPGF3_Application_UID": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "OPAmount": 202008
+        },
+        {
+            "RPGF3_Application_UID": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+            "OPAmount": 202008
+        },
+        {
+            "RPGF3_Application_UID": "0x66c36ca6f9138b613a0b76f54beeb24c9653bc5140acb272d58f4709f68a8a1c",
+            "OPAmount": 202008
+        },
+        {
+            "RPGF3_Application_UID": "0xd8dd0f0bc1682dcd7c63bed3de0e0439282f7a7132658ada1c5cc5644bca3f30",
+            "OPAmount": 202008
+        },
+        {
+            "RPGF3_Application_UID": "0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
+            "OPAmount": 186469
+        },
+        {
+            "RPGF3_Application_UID": "0xf751fd5e236ec136a340fa5d2080938512056728c9301ac7dc27d6ab78791e72",
+            "OPAmount": 186469
+        },
+        {
+            "RPGF3_Application_UID": "0x23afbebc655637c91f6a42572b8af43c2ae6e61655c55ba52e5ace484eff8e72",
+            "OPAmount": 181807
+        },
+        {
+            "RPGF3_Application_UID": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+            "OPAmount": 170930
+        },
+        {
+            "RPGF3_Application_UID": "0x723da383185924834ea462c791d4e21dac5dedc94ba164bd37adc571ba5008ed",
+            "OPAmount": 170930
+        },
+        {
+            "RPGF3_Application_UID": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "OPAmount": 170930
+        },
+        {
+            "RPGF3_Application_UID": "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+            "OPAmount": 170930
+        },
+        {
+            "RPGF3_Application_UID": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
+            "OPAmount": 169376
+        },
+        {
+            "RPGF3_Application_UID": "0x4a7b07b51c87113b9eb67b3cca6bb396d675ba51b21a77639bf22854bd74624d",
+            "OPAmount": 165336
+        },
+        {
+            "RPGF3_Application_UID": "0x4cd4c0671a5d7bda3cd010d83ca26956c608eb0fc4350291acedb62596d3c03c",
+            "OPAmount": 163161
+        },
+        {
+            "RPGF3_Application_UID": "0x9d9f675cf53acdfcaf5bbcb67b1143b94daaa5b4f7acdc96049a1c3e5619d1ce",
+            "OPAmount": 163161
+        },
+        {
+            "RPGF3_Application_UID": "0x1440934dcf3ca194befd08b28e86eb6c2d68dd984070cf51f68fb3ad144b496c",
+            "OPAmount": 155391
+        },
+        {
+            "RPGF3_Application_UID": "0xb396a17448c7a2eb8a22f2982ac8bd4e51acb1bca4b5e58bed38aa8df066db0f",
+            "OPAmount": 155391
+        },
+        {
+            "RPGF3_Application_UID": "0xd5ced576ab6921e32ee00c18d49c69149ba5ccbec76f1e9bbc3d5b008f23145f",
+            "OPAmount": 155391
+        },
+        {
+            "RPGF3_Application_UID": "0xa4593794fec99c360105db59a4a337a2ce652f6259448462b75db63de702ba8f",
+            "OPAmount": 155391
+        },
+        {
+            "RPGF3_Application_UID": "0x1ca89428d9e392a3b1baa84bfb6d6a06b284b20cdfceca1b3c739bf088860a9e",
+            "OPAmount": 139852
+        },
+        {
+            "RPGF3_Application_UID": "0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+            "OPAmount": 139852
+        },
+        {
+            "RPGF3_Application_UID": "0x380869d62245a876e782065034acdfbd8233dee1363117ded1a9ef3347b1bca9",
+            "OPAmount": 139852
+        },
+        {
+            "RPGF3_Application_UID": "0xbe51b31b1366e22c4a45b46985c449d8f79d9a1b82e140818538e8cd1ce9e880",
+            "OPAmount": 139852
+        },
+        {
+            "RPGF3_Application_UID": "0x490ad76a69ed6e4999c570bf5b7eb2336ff8e31906a3df6bf88b9144558acccf",
+            "OPAmount": 139852
+        },
+        {
+            "RPGF3_Application_UID": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+            "OPAmount": 139852
+        },
+        {
+            "RPGF3_Application_UID": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+            "OPAmount": 136744
+        },
+        {
+            "RPGF3_Application_UID": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+            "OPAmount": 132082
+        },
+        {
+            "RPGF3_Application_UID": "0xe7f1ebfe8e8c9980ba192a76b77e18f747e82d642f985681748615457c0e8b7c",
+            "OPAmount": 124313
+        },
+        {
+            "RPGF3_Application_UID": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+            "OPAmount": 124313
+        },
+        {
+            "RPGF3_Application_UID": "0x06b26b0ba3df69696ea47a30cd1f8114824ff994556f5331c8eefc96bac8cf9e",
+            "OPAmount": 124313
+        },
+        {
+            "RPGF3_Application_UID": "0x7d188db9e7369a77fe3680893b65d95fcac5d7c00f9387f74c323efce908306e",
+            "OPAmount": 93235
+        },
+        {
+            "RPGF3_Application_UID": "0x101871d3c582cd1a8322f911e6f9623d8c1a6f19108149d9c1a6ef4650080780",
+            "OPAmount": 93235
+        },
+        {
+            "RPGF3_Application_UID": "0x4b5d1bb924ecf1996a5c193a61a18ee1603e8f3b71eccb3a1e2e73c059ca4091",
+            "OPAmount": 93235
+        },
+        {
+            "RPGF3_Application_UID": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "OPAmount": 85465
+        },
+        {
+            "RPGF3_Application_UID": "0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
+            "OPAmount": 77696
+        },
+        {
+            "RPGF3_Application_UID": "0x644241a4eb82579d4b1b3cba47b1c54b22274d074e8b261a00be7204e4ce3ef8",
+            "OPAmount": 77696
+        },
+        {
+            "RPGF3_Application_UID": "0x72f6d960a8d3b50bcc6723270fd211884b60dabece4f3b400014369f442810ed",
+            "OPAmount": 62157
+        },
+        {
+            "RPGF3_Application_UID": "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+            "OPAmount": 54387
+        },
+        {
+            "RPGF3_Application_UID": "0x9b32619656175fc08131529bb3fd476d4fc8199b0feffbe3c230274dc1900aeb",
+            "OPAmount": 46618
+        },
+        {
+            "RPGF3_Application_UID": "0xefe128594155a47fd209ddfb9340d0bfb9aa72f7214be78febb9deb80307038d",
+            "OPAmount": 23309
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xe0031e9ff51d941d62bcb1545812bdd132151a24d8767f4cc0d552b82c8567ac",
+            "bio": "Hardhat is a development environment to build and deploy your Ethereum software",
+            "displayName": "Hardhat",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x329Ee91AE6A0A28a0a2B729B80adC50855ceE2d2.png"
+        },
+        {
+            "id": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+            "bio": "A curated group of builders creating open source tools and educational content.",
+            "displayName": "🏰 BuidlGuidl",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.png"
+        },
+        {
+            "id": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "bio": "Solidity is a statically-typed curly-braces programming language for EVM chains",
+            "displayName": "Solidity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x151EF20A3ADe1CC1161391594f8a32461389a54e.png"
+        },
+        {
+            "id": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "bio": "A collective of Ethereum's active core protocol contributors",
+            "displayName": "Protocol Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F.png"
+        },
+        {
+            "id": "0x6640372710ef432d006f6e2a0737213975305cb2f7d0c84e7be338b9c6ddb275",
+            "bio": "Synthetix provides liquidity for permissionless derivatives on-chain",
+            "displayName": "Synthetix",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7B66b603347038CCAd178387c696660bcdcB14d7.png"
+        },
+        {
+            "id": "0xf3e6f4737869efd0967440e4f97ea91b3ce3611c801675319874ea02f4d7a668",
+            "bio": "Ethers.js is a simple, compact and complete library for everything Ethereum.",
+            "displayName": "ethers.js",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8ba1f109551bD432803012645Ac136ddd64DBA72.jpeg"
+        },
+        {
+            "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "bio": "Token house and Citizen house governance app and contract",
+            "displayName": "Agora",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+        },
+        {
+            "id": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+            "bio": "Snapshot is a voting platform that allows DAOs to vote without gas fees.",
+            "displayName": "Snapshot",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.png"
+        },
+        {
+            "id": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+            "bio": "web3 community platform for members to build relationships, work together & vote",
+            "displayName": "CharmVerse",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.png"
+        },
+        {
+            "id": "0x7a09be22acae5e2d531965a619820b6b9d985f60051c524c2e2b5036aac7489b",
+            "bio": "Cannon is a DevOps tool for Ethereum, inspired by IaC tools like Terraform.",
+            "displayName": "Cannon",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07Aeeb7E544A070a2553e142828fb30c214a1F86.png"
+        },
+        {
+            "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+            "bio": "Tally is an onchain governance app for Ethereum ecosystem",
+            "displayName": "Tally",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
+        },
+        {
+            "id": "0x1b205ded96fa08412a2c8b7100de978779b13fd81fd8a85aaf71f7994065c690",
+            "bio": "Vyper is a contract-oriented, pythonic programming language for the EVM",
+            "displayName": "Vyper",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b98718264cA14d0A17C145FfE1e4F3c38a39372.png"
+        },
+        {
+            "id": "0x07a0323c1fc9072714b937056ec35d0c5acff5df41fb3e266b329ac2ed68d5f8",
+            "bio": "TypeScript Interfaces for Ethereum",
+            "displayName": "Wagmi / Viem",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd2135CfB216b74109775236E36d4b433F1DF507B.png"
+        },
+        {
+            "id": "0x7500c59003e12f46731f0e3bf33ef270085e700ce1d0ec0ae2ae42b4ea655ebe",
+            "bio": "Foundry is a smart contract development toolchain.",
+            "displayName": "foundry",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x1dfca7cffa9babbcc0b9646e2e620da444285f4dc7d6e7f3692446ffe4d6b66b",
+            "bio": "A wargame for developers to learn how to break dummy smart contracts.",
+            "displayName": "The Ethernaut",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7D5a44baad1992092504bb8DCA602615fCe09351.png"
+        },
+        {
+            "id": "0xa9f6de6ad7b1cb903f0063e588f0f729f13ddd76d77495e25a3860c27a721773",
+            "bio": "ETHGlobal is the infrastructure of the Ethereum community.",
+            "displayName": "ETHGlobal",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe993486B257Cd1481aef74b3B909A2627Fc8d305.png"
+        },
+        {
+            "id": "0xaf869c5736e4275f6d6bd2c4a9b8dac21dab4558e0758e6db27e13807f6b1a94",
+            "bio": "Immunefi is a web3 focused bug bounty platform.",
+            "displayName": "Immunefi",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
+            "displayName": "Dappnode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+            "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+            "bio": "Bringing nonprofits to Optimism & building towards “Impact = Profit” since 2016",
+            "displayName": "Giveth",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+            "id": "0x66c36ca6f9138b613a0b76f54beeb24c9653bc5140acb272d58f4709f68a8a1c",
+            "bio": "Ethereum security advocates doing research, education and awareness.",
+            "displayName": "The Red Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5cA1BEdb6DC8eb75581d19e87c7A77b54F9FC43A.png"
+        },
+        {
+            "id": "0xd8dd0f0bc1682dcd7c63bed3de0e0439282f7a7132658ada1c5cc5644bca3f30",
+            "bio": "Measure the impact of open source contributions. Onchain and off.",
+            "displayName": "Open Source Observer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3.png"
+        },
+        {
+            "id": "0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
+            "bio": "A rich toolset for the entire journey of Web3 contract development",
+            "displayName": "Remix Project",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa923A7CD364779c8b97522ca031804Ce639fA2Be.png"
+        },
+        {
+            "id": "0xf751fd5e236ec136a340fa5d2080938512056728c9301ac7dc27d6ab78791e72",
+            "bio": "OpenZeppelin Contracts are the go-to library for smart contract development.",
+            "displayName": "OpenZeppelin Contracts",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e1E9D592BAb52406289A1B4e8Bc1236d9eAD33e.png"
+        },
+        {
+            "id": "0x23afbebc655637c91f6a42572b8af43c2ae6e61655c55ba52e5ace484eff8e72",
+            "bio": "Synpress is an end-to-end testing framework for dApps in the Web3 ecosystem.",
+            "displayName": "Synpress",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd35E119782059A27FEAd4EddA8B555f393650BC8.png"
+        },
+        {
+            "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+            "bio": "Independent Ethereum educator, investor & advisor. Founder of The Daily Gwei.",
+            "displayName": "Sassal.eth",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+        },
+        {
+            "id": "0x723da383185924834ea462c791d4e21dac5dedc94ba164bd37adc571ba5008ed",
+            "bio": "The best way to connect a wallet",
+            "displayName": "RainbowKit",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a3d05c70581bD345fe117c06e45f9669205384f.png"
+        },
+        {
+            "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "bio": "Karma is a suite of contributor reputation tools helping DAOs improve governance",
+            "displayName": "Karma",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+        },
+        {
+            "id": "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+            "bio": "Empowering OP Collective with data-driven insights  🚩🌐",
+            "displayName": "OP Governance Analytics Dashboard",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x17296956b4E07Ff8931E4ff4eA06709FaB70b879.png"
+        },
+        {
+            "id": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
+            "bio": "We migrate senior web2 devs to web3 with free trailored mentorsips",
+            "displayName": "EthernautDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4.png"
+        },
+        {
+            "id": "0x4a7b07b51c87113b9eb67b3cca6bb396d675ba51b21a77639bf22854bd74624d",
+            "bio": "Our mandate is to make the grants process smoother for everyone involved!",
+            "displayName": "Optimism Grants Council Season 4",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png"
+        },
+        {
+            "id": "0x4cd4c0671a5d7bda3cd010d83ca26956c608eb0fc4350291acedb62596d3c03c",
+            "bio": "Kwenta is a perpetual futures exchange on Optimism",
+            "displayName": "Kwenta",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x9d9f675cf53acdfcaf5bbcb67b1143b94daaa5b4f7acdc96049a1c3e5619d1ce",
+            "bio": "A self-custodial derivatives exchange built on Optimism",
+            "displayName": "Lyra Finance",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x1440934dcf3ca194befd08b28e86eb6c2d68dd984070cf51f68fb3ad144b496c",
+            "bio": "L2BEAT is a public goods company dedicated to providing on-chain transparency.",
+            "displayName": "L2BEAT 💗",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD.png"
+        },
+        {
+            "id": "0xb396a17448c7a2eb8a22f2982ac8bd4e51acb1bca4b5e58bed38aa8df066db0f",
+            "bio": "Slither is a static analysis framework for smart contracts",
+            "displayName": "Slither",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xd5ced576ab6921e32ee00c18d49c69149ba5ccbec76f1e9bbc3d5b008f23145f",
+            "bio": "Web3.js is a JS/TS library that enables interacting w/ EVM compatible chains",
+            "displayName": "Web3js",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0.png"
+        },
+        {
+            "id": "0xa4593794fec99c360105db59a4a337a2ce652f6259448462b75db63de702ba8f",
+            "bio": "CryptoZombies: an interactive blockchain coding school",
+            "displayName": "CryptoZombies",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbb105E3c6D6406A3F0aAB98cD8D0E3a127bD6436.png"
+        },
+        {
+            "id": "0x1ca89428d9e392a3b1baa84bfb6d6a06b284b20cdfceca1b3c739bf088860a9e",
+            "bio": "DappRadar is the gateway for web3 dapps, data, and insights.",
+            "displayName": "DappRadar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE416dE13e7859Ba860de0DE3563dA1e4e97dbd97.png"
+        },
+        {
+            "id": "0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+            "bio": "Open Source Ethereum Explorer",
+            "displayName": "beaconcha.in",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979.jpeg"
+        },
+        {
+            "id": "0x380869d62245a876e782065034acdfbd8233dee1363117ded1a9ef3347b1bca9",
+            "bio": "Grateful is a Web3 recurring payment method that empowers a global gift economy",
+            "displayName": "Grateful",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfF284BADB6f6030C726782767fe45770570Ca381.png"
+        },
+        {
+            "id": "0xbe51b31b1366e22c4a45b46985c449d8f79d9a1b82e140818538e8cd1ce9e880",
+            "bio": "The home for web3 publishing.",
+            "displayName": "Mirror",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114.png"
+        },
+        {
+            "id": "0x490ad76a69ed6e4999c570bf5b7eb2336ff8e31906a3df6bf88b9144558acccf",
+            "bio": "The Graph organizes and makes usable web3 data for dapps via GraphQL.",
+            "displayName": "Edge & Node / The Graph",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+            "bio": "Run a ~$300 PnP Ethereum L1 and L2 node on ARM boads that uses only ~10w to run.",
+            "displayName": "Ethereum on ARM",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x91A3b28aE8a04C174448d4b10150C844871fCb3c.png"
+        },
+        {
+            "id": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+            "bio": "Weekly newsletter about Ethereum.  Since August 21, 2016.",
+            "displayName": "Week in Ethereum News",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x288C53a1BA857EaD34AD0e79F644087F8174185a.png"
+        },
+        {
+            "id": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+            "bio": "Gitcoin enables communities to build, fund and protect what matters to them.",
+            "displayName": "Gitcoin",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png"
+        },
+        {
+            "id": "0xe7f1ebfe8e8c9980ba192a76b77e18f747e82d642f985681748615457c0e8b7c",
+            "bio": "Decentralized project management & process improvement for Ethereum Blockchain",
+            "displayName": "Ethereum Cat Herders",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf13e477365B0FAa64130DA2FF663aAb20d32d929.png"
+        },
+        {
+            "id": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+            "bio": "System-wide web3 Platform",
+            "displayName": "Frame",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c.png"
+        },
+        {
+            "id": "0x06b26b0ba3df69696ea47a30cd1f8114824ff994556f5331c8eefc96bac8cf9e",
+            "bio": "A community for Ethereum smart contract security education",
+            "displayName": "Secureum",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc.png"
+        },
+        {
+            "id": "0x7d188db9e7369a77fe3680893b65d95fcac5d7c00f9387f74c323efce908306e",
+            "bio": "A Prettier formatter for the Solidity language",
+            "displayName": "Prettier Solidity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFc756d8632A19CEbd76560CE0A6967279E32131b.png"
+        },
+        {
+            "id": "0x101871d3c582cd1a8322f911e6f9623d8c1a6f19108149d9c1a6ef4650080780",
+            "bio": "Incubating digital public goods via conferences, hackathons, and residencies.",
+            "displayName": "Funding the Commons",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20.png"
+        },
+        {
+            "id": "0x4b5d1bb924ecf1996a5c193a61a18ee1603e8f3b71eccb3a1e2e73c059ca4091",
+            "bio": "Fully-managed, production-grade rollups on Ethereum.",
+            "displayName": "Conduit",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "bio": "Unlock your community potential - reputation scores, rewards and deep insights",
+            "displayName": "Praise",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+            "id": "0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
+            "bio": "A protocol to target users & deploy onchain earning opportunities",
+            "displayName": "RabbitHole",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.png"
+        },
+        {
+            "id": "0x644241a4eb82579d4b1b3cba47b1c54b22274d074e8b261a00be7204e4ce3ef8",
+            "bio": "Yearn is a decentralized suite of products that earn yield.",
+            "displayName": "Yearn",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF6411852b105042bb8bbc6Dd50C0e8F30Af63337.png"
+        },
+        {
+            "id": "0x72f6d960a8d3b50bcc6723270fd211884b60dabece4f3b400014369f442810ed",
+            "bio": "A decentralised node network providing developer RPCs & public endpoints",
+            "displayName": "Pocket Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7b8B83e68C73AA4F00e6eD1A505dE15147AD5764.png"
+        },
+        {
+            "id": "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+            "bio": "Jessy’s Hacker House supports a strong community of builders",
+            "displayName": "Jessy's Hacker House",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.png"
+        },
+        {
+            "id": "0x9b32619656175fc08131529bb3fd476d4fc8199b0feffbe3c230274dc1900aeb",
+            "bio": "Impact Evaluation and data availability catalyst for the Optimism Ecosystem.",
+            "displayName": "LauNaMu",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5d36a202687fD6Bd0f670545334bF0B4827Cc1E2.png"
+        },
+        {
+            "id": "0xefe128594155a47fd209ddfb9340d0bfb9aa72f7214be78febb9deb80307038d",
+            "bio": "Global education and Crypto Native Onboarding",
+            "displayName": "Bankless DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1e3a41F770219e03649b434b4c1E07850DfCFf66.png"
+        }
+    ],
+    "walletAddress": "0x45a10F35BeFa4aB841c77860204b133118B7CcAE",
+    "domainName": "theethernaut.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x2c8f227c8a8bd6faa807f207de686595a6def274a205240a475fe5b9ba91e954",
+    "approvalAttestationUid": "0x2c8f227c8a8bd6faa807f207de686595a6def274a205240a475fe5b9ba91e954",
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-11-29T01:21:53",
+    "updatedAt": "2023-11-29T01:21:53",
+    "revokedAt": null,
+    "avatar": null
+}

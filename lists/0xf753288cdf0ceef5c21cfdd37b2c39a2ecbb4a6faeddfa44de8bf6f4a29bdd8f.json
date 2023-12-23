@@ -1,0 +1,72 @@
+{
+    "id": "0xf753288cdf0ceef5c21cfdd37b2c39a2ecbb4a6faeddfa44de8bf6f4a29bdd8f",
+    "listName": "Farcaster Projects",
+    "listDescription": "Farcaster is a decentralized, permissionless, composable social network running on Optimism.  \nI'm the Founder of Purple, A DAO that provides small grants funding to projects in the Farcaster ecosystem. \nThis is a list of projects in the Farcaster ecosystem.",
+    "impactEvaluationDescription": "I measure impact by:\n\n* Increase in network activity\n* Increase in new user signup\n* Increase in developer activity\n* Increase in user retention",
+    "impactEvaluationLink": "https://purple.construction/",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x79619331d5996c793ac13edcd77c369de5e72344add6ebedac5977c0552067a0",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xc72bc291e1063c2981475f586b6b62ba77eb05b8acca3501c80839659fbf3ad3",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xea94ce5c3d9360b195b12a641ab7df0da73844d5117a6ae8b654cece4e136fea",
+            "OPAmount": 15000
+        },
+        {
+            "RPGF3_Application_UID": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+            "OPAmount": 15000
+        },
+        {
+            "RPGF3_Application_UID": "0xc2823a54c1f07eb30a69cb3c042c674182b50d49e03c7d48ba5cb84220f0bc62",
+            "OPAmount": 50000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x79619331d5996c793ac13edcd77c369de5e72344add6ebedac5977c0552067a0",
+            "bio": "5+ projects over 1.5 years, supporting consumers and developers on Farcaster",
+            "displayName": "Greg's Farcaster Projects",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x179A862703a4adfb29896552DF9e307980D19285.png"
+        },
+        {
+            "id": "0xc72bc291e1063c2981475f586b6b62ba77eb05b8acca3501c80839659fbf3ad3",
+            "bio": "Community-curated crypto media dapp & open source P2P protocol",
+            "displayName": "Kiwi News",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xee324c588ceF1BF1c1360883E4318834af66366d.png"
+        },
+        {
+            "id": "0xea94ce5c3d9360b195b12a641ab7df0da73844d5117a6ae8b654cece4e136fea",
+            "bio": "the Farcaster client for power users",
+            "displayName": "herocast",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c.png"
+        },
+        {
+            "id": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+            "bio": "far.quest helped over 100,000 people learn about Farcaster, built on Optimism",
+            "displayName": "far.quest",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png"
+        },
+        {
+            "id": "0xc2823a54c1f07eb30a69cb3c042c674182b50d49e03c7d48ba5cb84220f0bc62",
+            "bio": "flink is a Reddit-like Farcaster interface to see hot & trending conversations",
+            "displayName": "flink",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x333601a803CAc32B7D17A38d32c9728A93b422f4.png"
+        }
+    ],
+    "walletAddress": "0x3B60e31CFC48a9074CD5bEbb26C9EAa77650a43F",
+    "domainName": "ccarella.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xf753288cdf0ceef5c21cfdd37b2c39a2ecbb4a6faeddfa44de8bf6f4a29bdd8f",
+    "approvalAttestationUid": "0xf753288cdf0ceef5c21cfdd37b2c39a2ecbb4a6faeddfa44de8bf6f4a29bdd8f",
+    "categories": [],
+    "createdAt": "2023-10-25T18:29:57",
+    "updatedAt": "2023-10-25T18:29:57",
+    "revokedAt": null,
+    "avatar": "https://i.imgur.com/bQ7LbYs.jpg"
+}

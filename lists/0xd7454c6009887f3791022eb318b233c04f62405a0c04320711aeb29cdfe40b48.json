@@ -1,0 +1,154 @@
+{
+    "id": "0xd7454c6009887f3791022eb318b233c04f62405a0c04320711aeb29cdfe40b48",
+    "listName": "Giveth Galaxy Projects - No VC funding, All for the Greater Good!",
+    "listDescription": "The Giveth Galaxy has been pushing since 2016 to make give the nonprofit space a place in web3. We have a dream of making nonprofits profitable with economic models. Every project in this category is has a role to play in making that vision a reality. I am able to vote for just 2 of these projects. Gravity DAO and Bonding Curve Research, as they are led by ex-Givethers and I have no economic ties.",
+    "impactEvaluationDescription": "I judged the impact fairly on how much impact they had on optimism relative to the other 643 projects. I am assuming only 400 projects should get scored by my method so if they have an average impact, I give them 75,000, above average gets more and below average gets less.",
+    "impactEvaluationLink": "https://gov.optimism.io/t/badgeholder-conflict-of-interest-disclosures/5569/61",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x5c26992a23287833260d79c0d697129c168d5fbe366d3716484ffb6073e01db4",
+            "OPAmount": 70000
+        },
+        {
+            "RPGF3_Application_UID": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+            "OPAmount": 190000
+        },
+        {
+            "RPGF3_Application_UID": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+            "OPAmount": 150000
+        },
+        {
+            "RPGF3_Application_UID": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "OPAmount": 75000
+        },
+        {
+            "RPGF3_Application_UID": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+            "OPAmount": 75000
+        },
+        {
+            "RPGF3_Application_UID": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+            "OPAmount": 75000
+        },
+        {
+            "RPGF3_Application_UID": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+            "OPAmount": 85000
+        },
+        {
+            "RPGF3_Application_UID": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "OPAmount": 110000
+        },
+        {
+            "RPGF3_Application_UID": "0x62b8c0895d6654e29f76021c1cabd87c59f4fe65f740b86368eda5649b697d4a",
+            "OPAmount": 75000
+        },
+        {
+            "RPGF3_Application_UID": "0xcef5619c73158a1b4dd128f918bad2bd2c8c5f6701bb6d2834e92289a9b5f145",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+            "OPAmount": 50000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x5c26992a23287833260d79c0d697129c168d5fbe366d3716484ffb6073e01db4",
+            "bio": "Web3's collaborative hub driving regenerative change and supporting public goods",
+            "displayName": "Giveth Web3 House",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6989F472Bef8931e6Ca882b1f875539b7D5DA19.png"
+        },
+        {
+            "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+            "bio": "Bringing nonprofits to Optimism & building towards “Impact = Profit” since 2016",
+            "displayName": "Giveth",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+            "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+            "bio": "Simplifying the voting RetroPGF experience: easier to face 2 than 2000",
+            "displayName": "Pairwise",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
+        },
+        {
+            "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "bio": "Unlock your community potential - reputation scores, rewards and deep insights",
+            "displayName": "Praise",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+            "id": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+            "bio": "Grants Management for Public Goods Projects on Optimism",
+            "displayName": "Public Goods Grant Management",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png"
+        },
+        {
+            "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+            "bio": "On-chain reputation layer for regens in public goods",
+            "displayName": "RegenScore",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+        },
+        {
+            "id": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+            "bio": "A community initiative to amplify RetroPGF",
+            "displayName": "RetroPGF Community",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png"
+        },
+        {
+            "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
+            "displayName": "Dappnode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+            "id": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+            "bio": "Ethical, safe, resilient and diverse economic systems to benefit the world.",
+            "displayName": "Token Engineering Commons",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png"
+        },
+        {
+            "id": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "bio": "Fund & govern your mission with Augmented Bonding Curves & Aragon on Optimism.",
+            "displayName": "Commons Stack",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png"
+        },
+        {
+            "id": "0x62b8c0895d6654e29f76021c1cabd87c59f4fe65f740b86368eda5649b697d4a",
+            "bio": "Privacy-first proof of human uniqueness using an anonymous social graph.",
+            "displayName": "BrightID",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF.png"
+        },
+        {
+            "id": "0xcef5619c73158a1b4dd128f918bad2bd2c8c5f6701bb6d2834e92289a9b5f145",
+            "bio": "A group of researchers dedicated to R,D,E & application of Bonding Curves",
+            "displayName": "Bonding Curve Research Group",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b.png"
+        },
+        {
+            "id": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+            "bio": "Graviton training on Optimism. Conflict management and trust creation in Web3.",
+            "displayName": "Gravity DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.jpeg"
+        }
+    ],
+    "walletAddress": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+    "domainName": "griff.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xd7454c6009887f3791022eb318b233c04f62405a0c04320711aeb29cdfe40b48",
+    "approvalAttestationUid": "0xd7454c6009887f3791022eb318b233c04f62405a0c04320711aeb29cdfe40b48",
+    "categories": [
+        "COLLECTIVE_GOVERNANCE"
+    ],
+    "createdAt": "2023-12-03T07:47:27",
+    "updatedAt": "2023-12-03T07:47:27",
+    "revokedAt": null,
+    "avatar": "https://ipfs.io/ipfs/QmQbDo8NynZ3kXQbbY1kRDf4czxr4CWGYmGz8XHR1GCKfX/image.png"
+}

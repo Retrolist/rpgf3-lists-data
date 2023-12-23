@@ -1,0 +1,104 @@
+{
+    "id": "0xd80d3f046056e377b4c00e427fa24539761c4196be4aefca8ae9df13ea2fcc5d",
+    "listName": "Blockchain News & Media",
+    "listDescription": "Staying updated with the rapid developments in the blockchain realm is essential for enthusiasts, developers, and investors alike. Blockchain News & Media outlets provide timely updates, expert analyses, and in-depth features on the latest trends, innovations, and breakthroughs in the industry. These platforms play a pivotal role in disseminating accurate information, fostering community discussions, and highlighting the achievements and challenges faced by blockchain projects worldwide. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Blockchain News & Media.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479",
+            "OPAmount": 145800
+        },
+        {
+            "RPGF3_Application_UID": "0xc72bc291e1063c2981475f586b6b62ba77eb05b8acca3501c80839659fbf3ad3",
+            "OPAmount": 145800
+        },
+        {
+            "RPGF3_Application_UID": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+            "OPAmount": 145800
+        },
+        {
+            "RPGF3_Application_UID": "0xd95dd72e655f1c98636d52fd36e2ec8f9dad3abbd978eb305de574e2532c46f8",
+            "OPAmount": 145800
+        },
+        {
+            "RPGF3_Application_UID": "0xa571be4c06b5885440e5924d0c047ef911b6ebdcfa173e0c2c176570355a566a",
+            "OPAmount": 145800
+        },
+        {
+            "RPGF3_Application_UID": "0x23e8758d25a0b7e8d40da7506e696c539174e69c80d0490ac0bd8a8094dd1d2e",
+            "OPAmount": 145800
+        },
+        {
+            "RPGF3_Application_UID": "0x8b7c072535aef80e3f2c2020327fb7975aaaf3a9aa39d843b947e8fd7fc70e64",
+            "OPAmount": 145800
+        },
+        {
+            "RPGF3_Application_UID": "0xd06423aa05a359735b911e9988486822acb3c3f62e3397ed35d6430240454b0f",
+            "OPAmount": 145800
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479",
+            "bio": "The unique media about OP Superchain",
+            "displayName": "The Opimist",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03143EE031AA7bD7b6846750d066A27f18D39edd.png"
+        },
+        {
+            "id": "0xc72bc291e1063c2981475f586b6b62ba77eb05b8acca3501c80839659fbf3ad3",
+            "bio": "Community-curated crypto media dapp & open source P2P protocol",
+            "displayName": "Kiwi News",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xee324c588ceF1BF1c1360883E4318834af66366d.png"
+        },
+        {
+            "id": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+            "bio": "Weekly newsletter about Ethereum.  Since August 21, 2016.",
+            "displayName": "Week in Ethereum News",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x288C53a1BA857EaD34AD0e79F644087F8174185a.png"
+        },
+        {
+            "id": "0xd95dd72e655f1c98636d52fd36e2ec8f9dad3abbd978eb305de574e2532c46f8",
+            "bio": "Messari Protocol Services provides freely available research and reporting",
+            "displayName": "Messari",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xa571be4c06b5885440e5924d0c047ef911b6ebdcfa173e0c2c176570355a566a",
+            "bio": "Mobile companion for your Ethereum journey.",
+            "displayName": "Interface",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3b5359709945587Af3d800aA174B3E2dDc92d38d.png"
+        },
+        {
+            "id": "0x23e8758d25a0b7e8d40da7506e696c539174e69c80d0490ac0bd8a8094dd1d2e",
+            "bio": "A weekly newsletter dedicated to delivering news about the Optimism Superchain.",
+            "displayName": "The Optimism Superchain Roundup",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5.png"
+        },
+        {
+            "id": "0x8b7c072535aef80e3f2c2020327fb7975aaaf3a9aa39d843b947e8fd7fc70e64",
+            "bio": "Supporting decentralization through non-censoring proposer-builder separation.",
+            "displayName": "Ultra Sound Relay",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8dbd44FAFD2D795700693cdA7f5275714eBE075.png"
+        },
+        {
+            "id": "0xd06423aa05a359735b911e9988486822acb3c3f62e3397ed35d6430240454b0f",
+            "bio": "Spreading the ultra sound money meme 🦇🔊, and building ultrasound.money.",
+            "displayName": "Ultra Sound Money",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8dbd44FAFD2D795700693cdA7f5275714eBE075.png"
+        }
+    ],
+    "walletAddress": "0x06d769d6Fd47e8db4b35E0BE76c345Bd095A9F3e",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0xd80d3f046056e377b4c00e427fa24539761c4196be4aefca8ae9df13ea2fcc5d",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-12T06:22:47",
+    "updatedAt": "2023-12-12T06:22:47",
+    "revokedAt": null,
+    "avatar": null
+}

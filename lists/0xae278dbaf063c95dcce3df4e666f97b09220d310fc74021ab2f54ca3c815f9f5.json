@@ -1,0 +1,64 @@
+{
+    "id": "0xae278dbaf063c95dcce3df4e666f97b09220d310fc74021ab2f54ca3c815f9f5",
+    "listName": "Optimism Contribution tracks",
+    "listDescription": "The contributor tracks in the Optimism Collective are OG community-led initiatives that generate value daily for a diversity of profiles that engage with the official channels of the Optimism Ecosystem, be it protocol developers, engineers setting up their nodes, governance participants, or new projects building on the OP Chains. The sustainable decentralization of these efforts is fundamental to ensure continuous growth of the Ecosystem and has served as a stepping stone for long-term OP contributors.\n\nDisclaimer: Through the analysis of the data of these projects I found out I'm included in the Optimism Translators because I translated 0.42% of the Bedrock docs into Spanish, so I can't and won't vote for that project. However, I AM including a recommended amount based on a rigorous methodology I hope will serve others: https://gov.optimism.io/t/badgeholder-conflict-of-interest-disclosures/5569/57?u=launamu",
+    "impactEvaluationDescription": "Each category uses a distinct set of criteria and metrics for evaluation, tailored to the specific objectives and activities within the Optimism ecosystem. Having worked previously in Ops I have also included some bias into behaviours I believe should be rewarded in each category to incentivize the continuous good performance (or improvement) of contributors.\n\n1. **Numba NERDs**: Focuses on deep dive analyses, utilization in discussions, decision-making impact, recommendations to ecosystem partners, and governance data accessibility. Evaluation involves counting analyses, tracking mentions, assessing decisions' influence, evaluating recommendations, and analyzing data accessibility. Ratings are given on a 1-5 scale.\n\n2. **Optimism Translators**: Involves calculating the average number of words per article, total words translated per language, and categorizing languages based on rarity and speaking population. The evaluation incorporates multipliers for word counts, rarity levels, and speaking populations, leading to a final amount combining Help Center and Article OP amounts.\n\n3. **TechNERDs**: Assesses time saved for developers, response time efficiency, support ticket resolution, user support rating, community engagement, innovation, and overall ecosystem health. Metrics include hours saved, response times, ticket resolutions, user ratings, community engagement, and innovation contributions.\n\n4. **SupNERDs**: Calculates total hours worked based on messages sent and average messages per hour. It evaluates support and safety, user experience, adoption, and language support through resolved queries, user ratings, engagement metrics, and multilingual support services. ",
+    "impactEvaluationLink": "https://github.com/0xyNaMu/RetroPGF3List_Methodology/blob/ContributorTracks/README.md",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "OPAmount": 156000
+        },
+        {
+            "RPGF3_Application_UID": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "OPAmount": 206000
+        },
+        {
+            "RPGF3_Application_UID": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x127bdc6d776fb958f986cd2059b43e917a2d74e912c0b360316f77a05b30087b",
+            "OPAmount": 40000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "bio": "The NumbaNERDs program ensures the collective has quality analytics available.",
+            "displayName": "NumbaNERDs",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "bio": "Translators make Optimism accessible to non-English speakers over 27 languages!",
+            "displayName": "Optimism Translators",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9138051E95425610Eae7a0784F9138df485fb698.png"
+        },
+        {
+            "id": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "bio": "Support NERDs provide moderation and onboarding services to the Optimism Discord",
+            "displayName": "Support NERDs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.png"
+        },
+        {
+            "id": "0x127bdc6d776fb958f986cd2059b43e917a2d74e912c0b360316f77a05b30087b",
+            "bio": "Technical support specialists assisting developers building on the OP Stack.",
+            "displayName": "TechNERD Program",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF.png"
+        }
+    ],
+    "walletAddress": "0x5d36a202687fD6Bd0f670545334bF0B4827Cc1E2",
+    "domainName": "launamu.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xae278dbaf063c95dcce3df4e666f97b09220d310fc74021ab2f54ca3c815f9f5",
+    "approvalAttestationUid": "0xae278dbaf063c95dcce3df4e666f97b09220d310fc74021ab2f54ca3c815f9f5",
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-12-04T23:26:47",
+    "updatedAt": "2023-12-04T23:26:47",
+    "revokedAt": null,
+    "avatar": "https://ipfs.io/ipfs/bafkreifr4mjulfflcwfe7nblqk2dwf4e2u4kfccn4cmdbrd3fspaljve34"
+}

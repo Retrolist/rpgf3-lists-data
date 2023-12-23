@@ -1,0 +1,225 @@
+{
+    "listName": "RetroList Only",
+    "listDescription": "This list contains only RetroList for testing in the production purpose.",
+    "impactEvaluationInput": "RetroList provides a better ballot voting experience, so I think RetroList should get OP allocated more than the average.",
+    "impactEvaluationDescription": "RetroList provides a better ballot voting experience, so I think RetroList should get OP allocated more than the average.\n\nCreated by chomtana.town using RetroList with \"User and DAO Tooling Rubric\" rubric.",
+    "impactEvaluationLink": "https://retropgf3.retrolist.app/list/6558e03cd95fd5c4cc2e8341",
+    "impactEvaluationType": "rubric",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x6886a3d5da589ee9fc5528548edca61cbefa640ff7b11d7d545281d3423cfd93",
+            "OPAmount": 231874,
+            "evaluation": {
+                "6558d9dfe0ded8095db33486": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "6558e03cd95fd5c4cc2e8343"
+                },
+                "6558d9dfe0ded8095db33487": {
+                    "score": 4,
+                    "comment": "RetroPGF 3 is a critical mission in the Optimism Collective that need a powerful list creation UI",
+                    "_id": "6558e03cd95fd5c4cc2e8344"
+                },
+                "6558d9dfe0ded8095db33488": {
+                    "score": 4,
+                    "comment": "Likely to continue development for upcoming RetroPGF rounds",
+                    "_id": "6558e03cd95fd5c4cc2e8345"
+                },
+                "6558d9dfe0ded8095db33489": {
+                    "score": 4,
+                    "comment": "",
+                    "_id": "6558e03cd95fd5c4cc2e8346"
+                },
+                "6558d9dfe0ded8095db3348a": {
+                    "score": 3,
+                    "comment": "",
+                    "_id": "6558e03cd95fd5c4cc2e8347"
+                },
+                "6558d9dfe0ded8095db3348b": {
+                    "score": 2,
+                    "comment": "",
+                    "_id": "6558e03cd95fd5c4cc2e8348"
+                },
+                "6558d9dfe0ded8095db3348c": {
+                    "score": 2,
+                    "comment": "",
+                    "_id": "6558e03cd95fd5c4cc2e8349"
+                },
+                "6558d9dfe0ded8095db3348d": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "6558e03cd95fd5c4cc2e834a"
+                },
+                "6558d9dfe0ded8095db3348e": {
+                    "score": -1,
+                    "comment": "",
+                    "_id": "6558e03cd95fd5c4cc2e834b"
+                },
+                "6558d9dfe0ded8095db3348f": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "6558e03cd95fd5c4cc2e834c"
+                }
+            },
+            "_id": "6558e03cd95fd5c4cc2e8342"
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x6886a3d5da589ee9fc5528548edca61cbefa640ff7b11d7d545281d3423cfd93",
+            "bio": "RetroPGF Rubric-based List Creation UI opening to public crowdsourcing",
+            "displayName": "Retrolist | RetroPGF Rubric-based List Creation UI",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x73F4e6132Cd9E4a3945d9CA6E98e5985BBe16d2D.png"
+        }
+    ],
+    "status": "qualified",
+    "walletAddress": "0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27",
+    "domainName": "chomtana.town",
+    "twitter": "Chomtana",
+    "discord": "chomtana",
+    "isBadgeholder": false,
+    "attestationUid": "0x8414061982c3adab60bc9c898a2e2f4216009721ca79fe67621e6e01cb66d933",
+    "approvalAttestationUid": null,
+    "forkedFrom": null,
+    "rubric": {
+        "_id": "6558d9e0e5695aaff07513ef",
+        "createdBy": "Chomtana",
+        "name": "User and DAO Tooling Rubric",
+        "__v": 0,
+        "categories": [
+            "END_USER_EXPERIENCE_AND_ADOPTION",
+            "COLLECTIVE_GOVERNANCE"
+        ],
+        "criteria": [
+            {
+                "title": "User adoption",
+                "isNegative": false,
+                "scores": {
+                    "0": "Project is not used by anybody",
+                    "1": "Project is mostly used by only airdrop hunters",
+                    "2": "Project is occasionally used by a few users",
+                    "3": "Project is adopted by a small group of users who drive value to the Optimism ecosystems",
+                    "4": "Project is adopted by a large group of users who drive value to the Optimism ecosystems",
+                    "5": "Project is widely adopted by general public and driving value to the Optimism ecosystems"
+                },
+                "_id": "6558d9dfe0ded8095db33486"
+            },
+            {
+                "title": "Severity of problem",
+                "isNegative": false,
+                "scores": {
+                    "0": "Project doesn't solve any problem",
+                    "1": "Project only solve common problems",
+                    "2": "Project solve new problems that are not critical",
+                    "3": "Project solve critical problems but are not demanding in the Optimism Collective",
+                    "4": "Project is a demanding piece in the Optimism collective"
+                },
+                "_id": "6558d9dfe0ded8095db33487"
+            },
+            {
+                "title": "Builder commitment",
+                "isNegative": false,
+                "scores": {
+                    "0": "No commitment attraction",
+                    "1": "Mercenary commitment attraction (stays until benefits end)",
+                    "2": "Commitment attraction (1 – 3 months after rewards end)",
+                    "3": "Commitment attraction (1 year after rewards end)",
+                    "4": "Commitment attraction (2+ years after rewards end)"
+                },
+                "_id": "6558d9dfe0ded8095db33488"
+            },
+            {
+                "title": "Likelihood of success",
+                "isNegative": false,
+                "scores": {
+                    "0": "There's a clear flaw in the design that cannot be easily remedied",
+                    "1": "Difficult to see the project continuing for more than a year",
+                    "2": "There's a reasonable chance that the project has intermediate-to-long-term success (+1 Year)",
+                    "3": "The project is likely to generate long-term, sustainable value for the Optimism ecosystem",
+                    "4": "The project has a substantial likelihood of generating long-term, sustainable value for the Optimism ecosystem"
+                },
+                "_id": "6558d9dfe0ded8095db33489"
+            },
+            {
+                "title": "Novelty",
+                "isNegative": false,
+                "scores": {
+                    "0": "There is little to distinguish this project from other projects that exist on Optimism already",
+                    "1": "This is one of a small number of examples of a project being built on Optimism that is otherwise common throughout Web3",
+                    "2": "This project is distinguishable from other projects in Web3 on the margins (e.g., a different way of doing something that may be done in other contexts already)",
+                    "3": "This project is distinguishable from other projects in Web3: very few other projects are doing something similar and this is not merely a different way of performing an existing operation",
+                    "4": "This project is on the horizon and is meaningfully different from other projects in Web3"
+                },
+                "_id": "6558d9dfe0ded8095db3348a"
+            },
+            {
+                "title": "Team assessment",
+                "isNegative": false,
+                "scores": {
+                    "0": "The team does not substantiate the ability to deliver the project",
+                    "1": "The team does not show significant ability to deliver the project",
+                    "2": "The team shows a significant ability to deliver the project",
+                    "3": "The team shows a significant ability to drive the adoption",
+                    "4": "The team exceeds what is required to drive the adoption"
+                },
+                "_id": "6558d9dfe0ded8095db3348b"
+            },
+            {
+                "title": "Optimism relationship",
+                "isNegative": false,
+                "scores": {
+                    "0": "This is a multi-chain application that fork across many chains",
+                    "2": "This application is designed exclusively for Optimism (Can be multi-chain but customized specially for Optimism)"
+                },
+                "_id": "6558d9dfe0ded8095db3348c"
+            },
+            {
+                "title": "Open-sourcing",
+                "isNegative": false,
+                "scores": {
+                    "0": "Not open-source",
+                    "1": "Partially open-source",
+                    "2": "Committed to a long-term open-source model"
+                },
+                "_id": "6558d9dfe0ded8095db3348d"
+            },
+            {
+                "title": "Development Progress",
+                "isNegative": true,
+                "scores": {
+                    "0": "Product is working and providing impact",
+                    "-1": "Product is under active development",
+                    "-2": "Product is under development but not active",
+                    "-3": "No development beyond an MVP",
+                    "-4": "Only demo video or design provided",
+                    "-5": "No development beyond a proposal paper"
+                },
+                "_id": "6558d9dfe0ded8095db3348e"
+            },
+            {
+                "title": "Funding Received",
+                "isNegative": true,
+                "scores": {
+                    "0": "Project received <= 50k$ in funding",
+                    "-1": "Project received <= 100k$ in funding",
+                    "-2": "Project received <= 500k$ in funding",
+                    "-3": "Project received <= 1M$ in funding or received a seed investment",
+                    "-4": "Project received >1M$ or raised fund beyond seed investment",
+                    "-5": "Project is listed in major exchanges"
+                },
+                "_id": "6558d9dfe0ded8095db3348f"
+            }
+        ],
+        "description": "Rubric for evaluating tooling developed for user and DAO",
+        "isActive": true
+    },
+    "rubricId": "6558d9e0e5695aaff07513ef",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION",
+        "COLLECTIVE_GOVERNANCE"
+    ],
+    "histories": [],
+    "createdAt": "2023-11-18T16:03:08.961Z",
+    "updatedAt": "2023-12-02T07:55:13.906Z",
+    "id": "6558e03cd95fd5c4cc2e8341"
+}

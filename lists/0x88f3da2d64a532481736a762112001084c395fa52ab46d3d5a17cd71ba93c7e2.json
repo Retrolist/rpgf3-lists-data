@@ -1,0 +1,132 @@
+{
+    "id": "0x88f3da2d64a532481736a762112001084c395fa52ab46d3d5a17cd71ba93c7e2",
+    "listName": "TOP Projects| Sub-category evaluated with scoring system",
+    "listDescription": "This is my \"TOP Projects List\", with the goal of: Reward the most impactful and aligned projects of the ecosystem. We will be very selective and generous with these projects. Trying to overcompensate for their amazing work. \nMy intention is that this list is useful for badgeholders. \nI am assigning 18% (5,400,000 OP) of all of the OP to this sub-category.  \nI think this is the most subjective of my lists. Use it as you like, with this in mind. \n",
+    "impactEvaluationDescription": "The process of evaluation for this list was using my scoring system, described in detailed in the notion link below, here's a brief overview.\nThe purpose of my scoring system is to evaluate projects in an objective, quantitative, thorough and meritocratic way.\nProjects are divided and evaluated into sub-categories. Then, within them, they receive a score from 1 (low) to 3 (high) across 4 criteria, these scores are multiplied and determine the OP allocation of each project automatically. \n\nThe 4 criteria are:\n1. Money extracted from the collective\n2. Alignment with Collective's Values \n3. Metric strength (Based on Metrics Garden)\n4. Metric quantity (Benchmarked against projects of the same sub-category) \n\n*You can see all scores in the google sheets link provided below. \nScoring results: See the \"Governance contributions\" sheet: https://docs.google.com/spreadsheets/d/13XQS7tXzxwKBZCp_TuMvgTNPVYxF0m6VLNTweurTDOo/edit?usp=sharing\nRationale: https://cryptoversidad.notion.site/Diego-s-Voting-Framework-cc751201e0f544d3bd04210e63b78dd7",
+    "impactEvaluationLink": "https://cryptoversidad.notion.site/Diego-s-Voting-Framework-cc751201e0f544d3bd04210e63b78dd7",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xa9f6de6ad7b1cb903f0063e588f0f729f13ddd76d77495e25a3860c27a721773",
+            "OPAmount": 297551.02
+        },
+        {
+            "RPGF3_Application_UID": "0x99ad2850c7cbda52a16676d6ab956b1434c64f4124d5f2108aa12fda5325205c",
+            "OPAmount": 297551.02
+        },
+        {
+            "RPGF3_Application_UID": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "OPAmount": 352653.06
+        },
+        {
+            "RPGF3_Application_UID": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "OPAmount": 352653.06
+        },
+        {
+            "RPGF3_Application_UID": "0x6640372710ef432d006f6e2a0737213975305cb2f7d0c84e7be338b9c6ddb275",
+            "OPAmount": 396734.69
+        },
+        {
+            "RPGF3_Application_UID": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "OPAmount": 528979.59
+        },
+        {
+            "RPGF3_Application_UID": "0x1440934dcf3ca194befd08b28e86eb6c2d68dd984070cf51f68fb3ad144b496c",
+            "OPAmount": 528979.59
+        },
+        {
+            "RPGF3_Application_UID": "0xf751fd5e236ec136a340fa5d2080938512056728c9301ac7dc27d6ab78791e72",
+            "OPAmount": 528979.59
+        },
+        {
+            "RPGF3_Application_UID": "0x93977731af37cb1a984d86979b1c4e3dc421a6328fee9a15ff2c110cf0ba7ae2",
+            "OPAmount": 705306.12
+        },
+        {
+            "RPGF3_Application_UID": "0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
+            "OPAmount": 705306.12
+        },
+        {
+            "RPGF3_Application_UID": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
+            "OPAmount": 705306.12
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xa9f6de6ad7b1cb903f0063e588f0f729f13ddd76d77495e25a3860c27a721773",
+            "bio": "ETHGlobal is the infrastructure of the Ethereum community.",
+            "displayName": "ETHGlobal",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe993486B257Cd1481aef74b3B909A2627Fc8d305.png"
+        },
+        {
+            "id": "0x99ad2850c7cbda52a16676d6ab956b1434c64f4124d5f2108aa12fda5325205c",
+            "bio": "The central trading and liquidity marketplace on Base.",
+            "displayName": "Aerodrome Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2C4F3af64e1A832deb10D98aFAA71233794467F8.png"
+        },
+        {
+            "id": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "bio": "A collective of Ethereum's active core protocol contributors",
+            "displayName": "Protocol Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F.png"
+        },
+        {
+            "id": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "bio": "Test in Prod is a core development team of Optimism Collective.",
+            "displayName": "Test in Prod",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0583EeA7C089A7f74c1Fe4e6CCF1072FA016b50A.png"
+        },
+        {
+            "id": "0x6640372710ef432d006f6e2a0737213975305cb2f7d0c84e7be338b9c6ddb275",
+            "bio": "Synthetix provides liquidity for permissionless derivatives on-chain",
+            "displayName": "Synthetix",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7B66b603347038CCAd178387c696660bcdcB14d7.png"
+        },
+        {
+            "id": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "bio": "Solidity is a statically-typed curly-braces programming language for EVM chains",
+            "displayName": "Solidity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x151EF20A3ADe1CC1161391594f8a32461389a54e.png"
+        },
+        {
+            "id": "0x1440934dcf3ca194befd08b28e86eb6c2d68dd984070cf51f68fb3ad144b496c",
+            "bio": "L2BEAT is a public goods company dedicated to providing on-chain transparency.",
+            "displayName": "L2BEAT 💗",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD.png"
+        },
+        {
+            "id": "0xf751fd5e236ec136a340fa5d2080938512056728c9301ac7dc27d6ab78791e72",
+            "bio": "OpenZeppelin Contracts are the go-to library for smart contract development.",
+            "displayName": "OpenZeppelin Contracts",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e1E9D592BAb52406289A1B4e8Bc1236d9eAD33e.png"
+        },
+        {
+            "id": "0x93977731af37cb1a984d86979b1c4e3dc421a6328fee9a15ff2c110cf0ba7ae2",
+            "bio": "The central trading and liquidity marketplace on Optimism.",
+            "displayName": "Velodrome",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652.png"
+        },
+        {
+            "id": "0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
+            "bio": "A rich toolset for the entire journey of Web3 contract development",
+            "displayName": "Remix Project",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa923A7CD364779c8b97522ca031804Ce639fA2Be.png"
+        },
+        {
+            "id": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
+            "bio": "Core OP Stack infrastructure for making attestations onchain or offchain.",
+            "displayName": "Ethereum Attestation Service",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e95B8E249c4536FE1db2E4ce5476010767C0A05.png"
+        }
+    ],
+    "walletAddress": "0x64FeD9e56B548343E7bb47c49ecd7FFa9f1A34FE",
+    "domainName": "dmars300.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x88f3da2d64a532481736a762112001084c395fa52ab46d3d5a17cd71ba93c7e2",
+    "approvalAttestationUid": "0x88f3da2d64a532481736a762112001084c395fa52ab46d3d5a17cd71ba93c7e2",
+    "categories": [],
+    "createdAt": "2023-12-04T19:27:27",
+    "updatedAt": "2023-12-04T19:27:27",
+    "revokedAt": null,
+    "avatar": null
+}

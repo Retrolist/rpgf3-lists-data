@@ -1,0 +1,212 @@
+{
+    "id": "0x29117baf683517eb3d6a2ee89a40f48ca93ee4de50316a53d9908c6a68837163",
+    "listName": "Node Infra & Support",
+    "listDescription": "This list is focused on node infra providers and ancillary projects that help make running node infrastructure easier.",
+    "impactEvaluationDescription": "Impact on this list has been determined by focusing on several factors:\n\n* Is the work open source?\n* Is the work well-documented?\n* Is the project actively developed and already having an impact on the developer/infra provider community?\n* Is the project specifically impactful in Layer 2/the Optimism Ecosystem?\n\nBased on the answers to these questions I allocated differing amounts of OP to each of the projects on this list.",
+    "impactEvaluationLink": "https://vote.optimism.io/retropgf/3",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x8b7c072535aef80e3f2c2020327fb7975aaaf3a9aa39d843b947e8fd7fc70e64",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x90ef634fad04d6ac2882db44d4a84f31c7f0621f3abd00efb067416e4ff1641c",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xfaf9206c9d5c4c2df0edd60d2abef094b823610341f042e359e1c871956ee084",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x46f5cb8434c4f1188ff9581ef4723a7450d6c8b76346d1ef8e8ff4bd9d4de8ce",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x72f6d960a8d3b50bcc6723270fd211884b60dabece4f3b400014369f442810ed",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x932ab86dcbf750b9224665f7d9974c6e9e428470974ae59658b61cd7c3283728",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xf3df23e97d2c4b6936cafe233e48416ed37708a2a0eecd959450a82ed3a5f730",
+            "OPAmount": 15000
+        },
+        {
+            "RPGF3_Application_UID": "0xfd039c82990da0bed2f74f106936835555b458adc3c45e7eb7caef7ed6b4e778",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xdee444308961ba4f353fc5912a3cf87ffb002fb4c3f5674182e4dbab75bf0622",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x42e31df838a5ec5afb2756b26e286455f52d06f8ddc202c389d046590f583fb8",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x1516df1a13142b00b7e5ee4496faab4709d2fc8fd67b0c3780e976fc7062528f",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xcbd7ce5a3a7a13d43a1b169828dc2356c46d818493a6e1165ee7d07fae103e43",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x4b5d1bb924ecf1996a5c193a61a18ee1603e8f3b71eccb3a1e2e73c059ca4091",
+            "OPAmount": 15000
+        },
+        {
+            "RPGF3_Application_UID": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x7a09be22acae5e2d531965a619820b6b9d985f60051c524c2e2b5036aac7489b",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x4fa62d7e6f1c9e324e6faeb6589d100573bd57b709df68edbe00204200670e1a",
+            "OPAmount": 50000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x8b7c072535aef80e3f2c2020327fb7975aaaf3a9aa39d843b947e8fd7fc70e64",
+            "bio": "Supporting decentralization through non-censoring proposer-builder separation.",
+            "displayName": "Ultra Sound Relay",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8dbd44FAFD2D795700693cdA7f5275714eBE075.png"
+        },
+        {
+            "id": "0x90ef634fad04d6ac2882db44d4a84f31c7f0621f3abd00efb067416e4ff1641c",
+            "bio": "Fast, Low Latency Indexer written for L2s",
+            "displayName": "Optimistic Indexer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x23651C9b3Ba495f5D30867583035faCA4840870F.png"
+        },
+        {
+            "id": "0xfaf9206c9d5c4c2df0edd60d2abef094b823610341f042e359e1c871956ee084",
+            "bio": "DevOps platform for smart contract deployments",
+            "displayName": "Sphinx (formerly ChugSplash)",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x46f5cb8434c4f1188ff9581ef4723a7450d6c8b76346d1ef8e8ff4bd9d4de8ce",
+            "bio": "Nethermind is a Blockchain Research and Software Engineering Company",
+            "displayName": "Nethermind",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "bio": "Ethereum implementation on the efficiency frontier",
+            "displayName": "Erigon",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "bio": "An Ethereum execution layer client",
+            "displayName": "go-ethereum",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x72f6d960a8d3b50bcc6723270fd211884b60dabece4f3b400014369f442810ed",
+            "bio": "A decentralised node network providing developer RPCs & public endpoints",
+            "displayName": "Pocket Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7b8B83e68C73AA4F00e6eD1A505dE15147AD5764.png"
+        },
+        {
+            "id": "0x932ab86dcbf750b9224665f7d9974c6e9e428470974ae59658b61cd7c3283728",
+            "bio": "RPC, Snapshot, & Indexing services with top performance, at market-low prices.",
+            "displayName": "Nodies DLB",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x24372Ba79203e2c68bB7615032A172E3DAed6991.png"
+        },
+        {
+            "id": "0xf3df23e97d2c4b6936cafe233e48416ed37708a2a0eecd959450a82ed3a5f730",
+            "bio": "Building EVM account abstraction infrastructure, open standards and education",
+            "displayName": "Alchemy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC.png"
+        },
+        {
+            "id": "0xfd039c82990da0bed2f74f106936835555b458adc3c45e7eb7caef7ed6b4e778",
+            "bio": "Rust Ethereum Virtual Machine",
+            "displayName": "revm",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98ea1E15E93fF392755Fd79E739c3ED60808B56B.png"
+        },
+        {
+            "id": "0xdee444308961ba4f353fc5912a3cf87ffb002fb4c3f5674182e4dbab75bf0622",
+            "bio": "Run a node at home, the easy way",
+            "displayName": "NiceNode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9cce47E9cF12C6147c9844adBB81fE85880c4df4.png"
+        },
+        {
+            "id": "0x42e31df838a5ec5afb2756b26e286455f52d06f8ddc202c389d046590f583fb8",
+            "bio": "The simplest way to spin your own dev / prod rollup.",
+            "displayName": "roll-op",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576F1E53afe5e99b2257258C7E3248d3a1822548.png"
+        },
+        {
+            "id": "0x1516df1a13142b00b7e5ee4496faab4709d2fc8fd67b0c3780e976fc7062528f",
+            "bio": "UI for OP Stack & Node & Subgraph deployment with open-source scripts.",
+            "displayName": "Upnode Deploy | OP Stack Deployment UI",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2813a5B046909e5FC42a657b8e0dd9BAbFED18e7.png"
+        },
+        {
+            "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
+            "displayName": "Dappnode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+            "id": "0xcbd7ce5a3a7a13d43a1b169828dc2356c46d818493a6e1165ee7d07fae103e43",
+            "bio": "Rollup codes is an interactive reference specification for the rollup ecosystem.",
+            "displayName": "Rollup.codes",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7d3F21bcb6C547737812A3213Ea105192f9e151f.png"
+        },
+        {
+            "id": "0x4b5d1bb924ecf1996a5c193a61a18ee1603e8f3b71eccb3a1e2e73c059ca4091",
+            "bio": "Fully-managed, production-grade rollups on Ethereum.",
+            "displayName": "Conduit",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "bio": "OP Reth is Reth but for the Optimism Collective, a new high performance client.",
+            "displayName": "OP Reth",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x7a09be22acae5e2d531965a619820b6b9d985f60051c524c2e2b5036aac7489b",
+            "bio": "Cannon is a DevOps tool for Ethereum, inspired by IaC tools like Terraform.",
+            "displayName": "Cannon",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07Aeeb7E544A070a2553e142828fb30c214a1F86.png"
+        },
+        {
+            "id": "0x4fa62d7e6f1c9e324e6faeb6589d100573bd57b709df68edbe00204200670e1a",
+            "bio": "Ankr provides Optimism with developer tooling and Free RPC Endpoints",
+            "displayName": "Ankr",
+            "profileImageUrl": null
+        }
+    ],
+    "walletAddress": "0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90",
+    "domainName": "faina.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x29117baf683517eb3d6a2ee89a40f48ca93ee4de50316a53d9908c6a68837163",
+    "approvalAttestationUid": "0x29117baf683517eb3d6a2ee89a40f48ca93ee4de50316a53d9908c6a68837163",
+    "categories": [],
+    "createdAt": "2023-11-28T01:30:09",
+    "updatedAt": "2023-11-28T01:30:09",
+    "revokedAt": null,
+    "avatar": null
+}

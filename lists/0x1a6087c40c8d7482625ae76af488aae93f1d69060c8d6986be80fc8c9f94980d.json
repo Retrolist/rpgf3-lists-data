@@ -1,0 +1,612 @@
+{
+    "id": "0x1a6087c40c8d7482625ae76af488aae93f1d69060c8d6986be80fc8c9f94980d",
+    "listName": "Overlooked Applicants having a hard time meeting Quorum",
+    "listDescription": "This list was created for overlooked projects that are having a hard time meeting Quorum. I'm an elected Synthetix Ambassador and co-author at Lyra Research Collective, with a vested interest in the ecosystem's success. As a Synthetix Ambassador, I am elected to showcase ecosystem projects and contribute to their success.",
+    "impactEvaluationDescription": "https://twitter.com/mastermojo83/status/1731043785461674174    Feel free to adjust the OP amount around as you please. It is recommended that Badgeholders should use their own judgment and due diligence when allocating funds.",
+    "impactEvaluationLink": "https://twitter.com/mastermojo83/status/1731043785461674174",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x63f1bc4ab9034a6d4abe00be3027b8acc6f08863d50f65d90c33d4746a710b3f",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x07eb70211826da3e78898cf90a43959efc016390207ae49ea19ac856deda8e68",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x77fed52df52899326c6f32bf7f310beed1bfd2fab75b3c952017e590481846e5",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x60da4d7694d025119a3c47f6fd67aa417718fe089f8c98d4f0ccda524cd777df",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xd2591c94e8666a5f1cf11b49d6ce9e85a970f48606316300793b8fed927ca94b",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x5f8df8b9433d455d6ddd42a1cbb9c3d659f4f982ee772722be1365a7916fbd31",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x2e014c80dabfa93ba83bb6ccab23904dc5c3e9b5d40d367d54d0cad0dd67eda7",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x877274b9531669039d60b16f0bb436f30720126fd2c1d4a76d20558a5130a4c4",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x6b85d1e6159c2dd0613159b2e4708ae23f8e3a1554a5557590534e63aa282eb8",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x1d0fd9b7e22d5104b7581d43eca15536106894dc0800877f624b2acac306f234",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x47fb1ee20e9de14d6603a2a4b55ba558412bbd506132c7dcaa2a313019ac8785",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xdee6cb0f6b1f53a8734710c729098de1412c0c8c8dd7b05c9b93851c4e76e59f",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x7d2de8099d2435961b98eb1456efab1b02d74bf818149397f099f69719c81eb4",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x7f2e8ef2821d238e8d62001c389cf1bf2a387aad76a14cc993417862a4eac3ab",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x04fcef24af88ed2a4d9f1eda19581b46a1737ee12955810bbeb4870b7b5c4d50",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xec3f9d8ca269e264d0b8b3516c2a71d34cc145b78150b3d4afe207b6aef0efce",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x319e92614fd4d193ae32199f9459862ba5def14978cf005b19343843ca2e0693",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xee4fa88a475e80c188306d12d648ff98e2147d74970f06e662dfcfd602d08514",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xaa1fcb942f1a3d9a7d8c2513fa3e65aaffea63ae2d5fd1fc6c7b6955800858df",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x50eacddd935ff1aac3538b5e6d9ce744c136259b49521f9d02ca4c01d3c64fef",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xb050be8189ff0dee56ad57c86088d3240e2d3192d9f426053400833599465720",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x39d1825ce239c5125f84e5269af4c692a71a93f651dd40e813f0aabaf016b5fd",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x2f0277bbde0a1e3e8ea5e6d2f2e7548f763589963af75e14035401e2c27c7b26",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xb013f320dfc52223d553455adbec3dad79691698c85b5ea8c27e81c46fd014b5",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xd412bec807ece79f76f3534624c7eaa7bc5db63b57110b0893b9f10b9433ffbd",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x562c47bd4dd5e1967202c09d4dc2186b35cdc06bdbed50a3a5a841e6b54797dd",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x007d41961338c04bb3a18e498d6d955072d4df3ea1fb43b16381269ea581049a",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x8cce00b421d2f19c829d484b423a49f311d41355238c5c5a73b72d62c5c63f56",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x4384f12001b8b7bcbf3abe9d0a354378851b34f68634ef0e9cec92152c18c1c2",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xbea55899c9810003561b271b4f689ec0f5f2a259e0891d64379fc323ca10c074",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x32a2e7a1ffaeb5a4259aacf2263474f9a93d7759bb672e13102a9851f94fb05b",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x4e08982cc62798c181d57115ec78b2a0758dbf497814ccd84c2ee1e9dcd9e607",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x753761b9a99b1133f7dbdbf333c8bc24ab9ca96e3a4e208b01184694e003b9d0",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xa4f5f97064e5ebdc97591521be056a911731925f81c694ed0bc84f6fc1b7ddea",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x013c4c5aa12146fb2c42a6864e3cc9afb7212a62145487b514bceab1f588ae79",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xcb72b4a9f6e5950ccccf6689630e054658457421989cc37842dbd8ddaacd19d8",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x5effc6bf83d22623146bdd81e6bb55bc287b68aced8ad0d4be8cccbf5f408b19",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x987e3249c439bb522909400c838dd27fc0fa42d4a1b4728f303dcc16ee059482",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xd8dd0f0bc1682dcd7c63bed3de0e0439282f7a7132658ada1c5cc5644bca3f30",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "OPAmount": 10000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
+            "bio": "Simplifying crypto news for everyone - one byte at a time",
+            "displayName": "Polynomial Bytes",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa5A0CE7D84025f986568356475451E31714B4C95.png"
+        },
+        {
+            "id": "0x63f1bc4ab9034a6d4abe00be3027b8acc6f08863d50f65d90c33d4746a710b3f",
+            "bio": "A media initiative out of the  @LyraFinance  community.",
+            "displayName": "Lyra Research Collective",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+            "bio": "The leading DAO analytics engine with 19k+ DAOs and 8+ million wallet profiles.",
+            "displayName": "DeepDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+        },
+        {
+            "id": "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479",
+            "bio": "The unique media about OP Superchain",
+            "displayName": "The Opimist",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03143EE031AA7bD7b6846750d066A27f18D39edd.png"
+        },
+        {
+            "id": "0x07eb70211826da3e78898cf90a43959efc016390207ae49ea19ac856deda8e68",
+            "bio": "We are a DeFi risk analyst nonprofit specializing in stablecoins, RWAs and LSTs.",
+            "displayName": "Llama Risk",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x34d6Dbd097f6b739C59D7467779549Aea60e1F84.png"
+        },
+        {
+            "id": "0x77fed52df52899326c6f32bf7f310beed1bfd2fab75b3c952017e590481846e5",
+            "bio": "Bankless Academy hosts a web3 onboarding journey, starting on Optimism.",
+            "displayName": "Bankless Academy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe1887fF140BfA9D3b45D0B2077b7471124acD242.jpeg"
+        },
+        {
+            "id": "0x60da4d7694d025119a3c47f6fd67aa417718fe089f8c98d4f0ccda524cd777df",
+            "bio": "The gateway to decentralised frontends in the DeFi ecosystem",
+            "displayName": "Synthetix IPFS Node",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7.png"
+        },
+        {
+            "id": "0xd2591c94e8666a5f1cf11b49d6ce9e85a970f48606316300793b8fed927ca94b",
+            "bio": "Cryptotesters is a community of crypto power users.",
+            "displayName": "Cryptotesters",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9340d7Cabb81E95a8CAC60e997E97543D2371aDd.png"
+        },
+        {
+            "id": "0x5f8df8b9433d455d6ddd42a1cbb9c3d659f4f982ee772722be1365a7916fbd31",
+            "bio": "Explore, analyze and copy on-chain traders from the top of the perpetual DEX",
+            "displayName": "Copin.io",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1A561e43f264952D7b4F25Fb4967122c87618Beb.png"
+        },
+        {
+            "id": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
+            "bio": "Build, maintain, and grow true DAOs effortlessly. Innovate without limits!",
+            "displayName": "EthereansOS",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x2e014c80dabfa93ba83bb6ccab23904dc5c3e9b5d40d367d54d0cad0dd67eda7",
+            "bio": "Public Goods maxi growing the collective through impact onboarding + regen2degen",
+            "displayName": "Carlos Melgar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEFEdaf9c07E6eB56BB8F82f30018e4461B1c5F4c.png"
+        },
+        {
+            "id": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
+            "bio": "An onchain URL shortener, on Optimism.",
+            "displayName": "Slugs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png"
+        },
+        {
+            "id": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "bio": "Support NERDs provide moderation and onboarding services to the Optimism Discord",
+            "displayName": "Support NERDs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.png"
+        },
+        {
+            "id": "0x877274b9531669039d60b16f0bb436f30720126fd2c1d4a76d20558a5130a4c4",
+            "bio": "Independent L2 Educator",
+            "displayName": "DeFI Saint",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.jpeg"
+        },
+        {
+            "id": "0x6b85d1e6159c2dd0613159b2e4708ae23f8e3a1554a5557590534e63aa282eb8",
+            "bio": "Multichain grant dapp where contributors get rewarded for funding projects.",
+            "displayName": "GiveStation (youbuidl)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9120b6fdF6eeF4Eea3Eb56EcAe7EcFB79a8e7bDD.png"
+        },
+        {
+            "id": "0x1d0fd9b7e22d5104b7581d43eca15536106894dc0800877f624b2acac306f234",
+            "bio": "I create dashboards, tools, and content to make web3 data easier to navigate.",
+            "displayName": "Andrew Hong (ilemi)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06.png"
+        },
+        {
+            "id": "0x47fb1ee20e9de14d6603a2a4b55ba558412bbd506132c7dcaa2a313019ac8785",
+            "bio": "An onchain media collective producing engaging educational content about web 3.",
+            "displayName": "The Noun Square Media Collective",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16.png"
+        },
+        {
+            "id": "0xdee6cb0f6b1f53a8734710c729098de1412c0c8c8dd7b05c9b93851c4e76e59f",
+            "bio": "A media hub highlighting Web3 tech's role in positive social change.",
+            "displayName": "Web3ForGood",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB79F0156573A54e852fB9Ac7b5Bc6250B33405a0.png"
+        },
+        {
+            "id": "0x7d2de8099d2435961b98eb1456efab1b02d74bf818149397f099f69719c81eb4",
+            "bio": "Events @ethereum  🦄 Web3 | OSS | Decentralization | Privacy 🛠️ Indie Maker",
+            "displayName": "wslyvh",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8289432ACD5EB0214B1C2526A5EDB480Aa06A9ab.png"
+        },
+        {
+            "id": "0x7f2e8ef2821d238e8d62001c389cf1bf2a387aad76a14cc993417862a4eac3ab",
+            "bio": "Collective HQ for everything OP Stack & the Superchain Ecosystem",
+            "displayName": "Superchain Eco",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5eE94B80d60880f25048b61588d8CB23C79AA3Ae.png"
+        },
+        {
+            "id": "0x04fcef24af88ed2a4d9f1eda19581b46a1737ee12955810bbeb4870b7b5c4d50",
+            "bio": "I'm doing the ETH and DeFi educational contents for Thais",
+            "displayName": "0xDeFiTH",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xec3f9d8ca269e264d0b8b3516c2a71d34cc145b78150b3d4afe207b6aef0efce",
+            "bio": "The largest core development group in Web3",
+            "displayName": "Wonderland",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x36143ebA6D522FBe2c7884B011feA558c203856C.png"
+        },
+        {
+            "id": "0x319e92614fd4d193ae32199f9459862ba5def14978cf005b19343843ca2e0693",
+            "bio": "A Dune dataset of rollup costs and revenues",
+            "displayName": "Rollup Economics Dune Spell",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE.png"
+        },
+        {
+            "id": "0xee4fa88a475e80c188306d12d648ff98e2147d74970f06e662dfcfd602d08514",
+            "bio": "Latin American artists and w3b culture promoters collective.",
+            "displayName": "Newtro Arts",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33912a0d6bEFf5Fb8e5B70688CE858D5e7E8104E.png"
+        },
+        {
+            "id": "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+            "bio": "Optimism Ambassador, Project advisors",
+            "displayName": "Subli",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2.jpeg"
+        },
+        {
+            "id": "0xaa1fcb942f1a3d9a7d8c2513fa3e65aaffea63ae2d5fd1fc6c7b6955800858df",
+            "bio": "French Crypto YouTuber, sharing content on L2 and DeFi education",
+            "displayName": "CryptoMage",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1609f039A96ce10756f5C6D403a80400DC081a02.png"
+        },
+        {
+            "id": "0x50eacddd935ff1aac3538b5e6d9ce744c136259b49521f9d02ca4c01d3c64fef",
+            "bio": "Bringing insights to life as a Researcher and Threadooor.",
+            "displayName": "Hitasyurek",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4830764Cb1252Fc7553231E2FBF5b09961a29c59.png"
+        },
+        {
+            "id": "0xb050be8189ff0dee56ad57c86088d3240e2d3192d9f426053400833599465720",
+            "bio": "Batch create onchain EAS attestations using the power of CSV and copy/paste.",
+            "displayName": "Attest Fest",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDAb4775a4408D88B4C0bf6afc657985e2F1313f3.png"
+        },
+        {
+            "id": "0x39d1825ce239c5125f84e5269af4c692a71a93f651dd40e813f0aabaf016b5fd",
+            "bio": "BMX is a perpetual DEX built on Base with unique tokenomics.",
+            "displayName": "BMX by Morphex",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce.png"
+        },
+        {
+            "id": "0x2f0277bbde0a1e3e8ea5e6d2f2e7548f763589963af75e14035401e2c27c7b26",
+            "bio": "A hub of curated and original insights on Optimism's ethos and vision",
+            "displayName": "Optimism Vision Reservoir",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x66D071A20d7942767739BBca130E08e4848D12Bc.png"
+        },
+        {
+            "id": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+            "bio": "Discover useful web3 apps and tools easily",
+            "displayName": "Web3xplorer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.png"
+        },
+        {
+            "id": "0xb013f320dfc52223d553455adbec3dad79691698c85b5ea8c27e81c46fd014b5",
+            "bio": "Passionate about blockchain and the positive impact it can have on the globe.",
+            "displayName": "Cardo",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbC1500dAafF721f626Ef1a4F1a8C4e333648c5A4.png"
+        },
+        {
+            "id": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "bio": "Translators make Optimism accessible to non-English speakers over 27 languages!",
+            "displayName": "Optimism Translators",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9138051E95425610Eae7a0784F9138df485fb698.png"
+        },
+        {
+            "id": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+            "bio": "The #1 NFT community on Optimism!",
+            "displayName": "OptiChads",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10850762bAc0dc6660630c1EfFe188A7cbFDdc88.png"
+        },
+        {
+            "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+            "bio": "Turkey's first and biggest university blockchain society!",
+            "displayName": "ITU Blockchain",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
+        },
+        {
+            "id": "0xd412bec807ece79f76f3534624c7eaa7bc5db63b57110b0893b9f10b9433ffbd",
+            "bio": "A Web3 community in LATAM. We educate and promote the adoption of Web3 tech.",
+            "displayName": "T2LATAM",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2C2fC22575f5eFF9e4311708eABedA2791957c85.png"
+        },
+        {
+            "id": "0x562c47bd4dd5e1967202c09d4dc2186b35cdc06bdbed50a3a5a841e6b54797dd",
+            "bio": "Bringing positive-sum, regenerative digital systems to the world",
+            "displayName": "GreenPill Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2d4b4F032d180D187359D51430a88870e34B0Aa4.png"
+        },
+        {
+            "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+            "bio": "On-chain reputation layer for regens in public goods",
+            "displayName": "RegenScore",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+        },
+        {
+            "id": "0x007d41961338c04bb3a18e498d6d955072d4df3ea1fb43b16381269ea581049a",
+            "bio": "Public Assembly is an onchain collective focused on creating what's missing.",
+            "displayName": "Public Assembly",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFEC0Ad833FB7D20A83E373279f37c88159bAd99E.png"
+        },
+        {
+            "id": "0x8cce00b421d2f19c829d484b423a49f311d41355238c5c5a73b72d62c5c63f56",
+            "bio": "Reef scientist integrating public goods, DeSci, and web3, based in Latam Ü",
+            "displayName": "Rodrigo NuñΞz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4D5B28d08e8c00e041053b0dc584e00e6997Daa3.png"
+        },
+        {
+            "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+            "bio": "The standards body for DAOs, with 80+ member organizations.",
+            "displayName": "EIP-4824/ DAOstar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+        },
+        {
+            "id": "0x4384f12001b8b7bcbf3abe9d0a354378851b34f68634ef0e9cec92152c18c1c2",
+            "bio": "Helping Mass Adoption",
+            "displayName": "Inbest Program",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.png"
+        },
+        {
+            "id": "0xbea55899c9810003561b271b4f689ec0f5f2a259e0891d64379fc323ca10c074",
+            "bio": "The meta-aggregator perps, swaps, and free public infrastructure for all users",
+            "displayName": "UniDex",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2E5d207a4C0F7e7C52F6622DCC6EB44bC0fE1A13.png"
+        },
+        {
+            "id": "0x32a2e7a1ffaeb5a4259aacf2263474f9a93d7759bb672e13102a9851f94fb05b",
+            "bio": "On-chain analytics platform",
+            "displayName": "Parsec Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9161A575356b607EA471a6189e3cE31B5FC914ca.png"
+        },
+        {
+            "id": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+            "bio": "A community initiative to amplify RetroPGF",
+            "displayName": "RetroPGF Community",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png"
+        },
+        {
+            "id": "0x4e08982cc62798c181d57115ec78b2a0758dbf497814ccd84c2ee1e9dcd9e607",
+            "bio": "Empowering the Portuguese-speaking community with education about web3.",
+            "displayName": "Modular Crypto",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F.png"
+        },
+        {
+            "id": "0x753761b9a99b1133f7dbdbf333c8bc24ab9ca96e3a4e208b01184694e003b9d0",
+            "bio": "Building *augmented shared reality* with public goods infrastructure & flywheels",
+            "displayName": "Geo Web",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDE798cD9C53F4806B9Cc7dD27aDf7c641540167c.png"
+        },
+        {
+            "id": "0xa4f5f97064e5ebdc97591521be056a911731925f81c694ed0bc84f6fc1b7ddea",
+            "bio": "1st Web3 community in BELUX: 25+ events, 50+ speakers, 2500+ visitors, 3yrs old",
+            "displayName": "Cryptosquare",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFA69D3739D3A06Ea9317e18E21963b19367D2f15.jpeg"
+        },
+        {
+            "id": "0x013c4c5aa12146fb2c42a6864e3cc9afb7212a62145487b514bceab1f588ae79",
+            "bio": "Layer 2 Analytics & Knowledge Platform. Metrics, Blockspace, Labeling and APIs.",
+            "displayName": "growthepie",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9438b8B447179740cD97869997a2FCc9b4AA63a2.png"
+        },
+        {
+            "id": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+            "bio": "Layer3 makes learning and exploring crypto fun, engaging, and rewarding.",
+            "displayName": "Layer3",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+            "bio": "I am a Web3 Data Analyst covering the Optimism Ecosystem",
+            "displayName": "MarcoV",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x283266045Ab2aB0793a62CADC21D55f685636Ae0.png"
+        },
+        {
+            "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+            "bio": "I make YouTube videos explaining Ethereum, L2s, and the World Computer vision.",
+            "displayName": "jordanmmck",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
+        },
+        {
+            "id": "0xcb72b4a9f6e5950ccccf6689630e054658457421989cc37842dbd8ddaacd19d8",
+            "bio": "Web3 recurring payments infrastructure",
+            "displayName": "Yoki Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3A5B12814b03C517FDAB62d8781c22f3406aeef4.png"
+        },
+        {
+            "id": "0x5effc6bf83d22623146bdd81e6bb55bc287b68aced8ad0d4be8cccbf5f408b19",
+            "bio": "An accomplished software engineer and architect",
+            "displayName": "0xSalman",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x987e3249c439bb522909400c838dd27fc0fa42d4a1b4728f303dcc16ee059482",
+            "bio": "Node Guardians is an RPG-platform for skilled devs to test their coding skills.",
+            "displayName": "Node Guardians",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6ef87E0Aaadb2c3d07fD98a098Af5FaD0aD45811.png"
+        },
+        {
+            "id": "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc",
+            "bio": "Join the movement towards a more sustainable and equitable future in #Medellín🌱",
+            "displayName": "ReFi Medellín",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x302E2A0D4291ac14Aa1160504cA45A0A1F2E7a5c.png"
+        },
+        {
+            "id": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+            "bio": "Learning and sharing",
+            "displayName": "daboyshine",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313.png"
+        },
+        {
+            "id": "0xd8dd0f0bc1682dcd7c63bed3de0e0439282f7a7132658ada1c5cc5644bca3f30",
+            "bio": "Measure the impact of open source contributions. Onchain and off.",
+            "displayName": "Open Source Observer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3.png"
+        },
+        {
+            "id": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "bio": "A podcast and newsletter segment covering Optimism ecosystem news.",
+            "displayName": "ETH Daily (OP News)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEB40A065854bd90126A4E697aeA0976BA51b2eE7.png"
+        }
+    ],
+    "walletAddress": "0xF68D2BfCecd7895BBa05a7451Dd09A1749026454",
+    "domainName": "mastermojo.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x1a6087c40c8d7482625ae76af488aae93f1d69060c8d6986be80fc8c9f94980d",
+    "approvalAttestationUid": "0x1a6087c40c8d7482625ae76af488aae93f1d69060c8d6986be80fc8c9f94980d",
+    "categories": [],
+    "createdAt": "2023-12-04T02:47:03",
+    "updatedAt": "2023-12-04T02:47:03",
+    "revokedAt": null,
+    "avatar": "https://euc.li/mastermojo.eth"
+}

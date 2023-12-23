@@ -1,0 +1,38 @@
+{
+  "data":{
+    "attestations":[
+      {
+        "id":"0xf6a37b8cbd67ec092e019c99f2981fe6849e9e39b9c8b6d56f58be6cb15ef7a2",
+        "decodedDataJson":"[{\"name\":\"listName\",\"type\":\"string\",\"signature\":\"string listName\",\"value\":{\"name\":\"listName\",\"type\":\"string\",\"value\":\"Governance Tokenomics and Analytics - Individuals\"}},{\"name\":\"listMetadataPtrType\",\"type\":\"uint256\",\"signature\":\"uint256 listMetadataPtrType\",\"value\":{\"name\":\"listMetadataPtrType\",\"type\":\"uint256\",\"value\":{\"type\":\"BigNumber\",\"hex\":\"0x01\"}}},{\"name\":\"listMetadataPtr\",\"type\":\"string\",\"signature\":\"string listMetadataPtr\",\"value\":{\"name\":\"listMetadataPtr\",\"type\":\"string\",\"value\":\"https://giveth.mypinata.cloud/ipfs/QmajnPgqKo8z527o6zjVcaL45qybh5dcKkkTeBFVg15udv\"}}]",
+        "attester":"0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "time":1701901059,
+        "txid":"0x81b72ab1e966f76856264513424369f59579330c71f9b58a3f4cac4f4d5af8cb",
+        "revocationTime":0
+      },
+      {
+        "id":"0x7b06818fd0e91baf472b5c8a6509c1382d8bb51e4089918bab61b845af1f792c",
+        "decodedDataJson":"[{\"name\":\"listName\",\"type\":\"string\",\"signature\":\"string listName\",\"value\":{\"name\":\"listName\",\"type\":\"string\",\"value\":\"ERC-4337 account abstraction related projects\"}},{\"name\":\"listMetadataPtrType\",\"type\":\"uint256\",\"signature\":\"uint256 listMetadataPtrType\",\"value\":{\"name\":\"listMetadataPtrType\",\"type\":\"uint256\",\"value\":{\"type\":\"BigNumber\",\"hex\":\"0x01\"}}},{\"name\":\"listMetadataPtr\",\"type\":\"string\",\"signature\":\"string listMetadataPtr\",\"value\":{\"name\":\"listMetadataPtr\",\"type\":\"string\",\"value\":\"https://w3s.link/ipfs/bafybeihiueumwbfalpmhm3e5s6rks4fa2x3tm762vxy6ii3ufk7fc4ejaq/metadata.json\"}}]",
+        "attester":"0xdb5781a835b60110298fF7205D8ef9678Ff1f800",
+        "time":1701919883,
+        "txid":"0x71fe262576331de07bebcbbac5e34db5eac25b0785549c4681885ccf274c5989",
+        "revocationTime":0
+      },
+      {
+        "id":"0x78b18bbd28b4c1b8cb2e8a82f03894c1fd8f5ef3b42d62c11a42b0f672eb3596",
+        "decodedDataJson":"[{\"name\":\"listName\",\"type\":\"string\",\"signature\":\"string listName\",\"value\":{\"name\":\"listName\",\"type\":\"string\",\"value\":\"Alternative v2\"}},{\"name\":\"listMetadataPtrType\",\"type\":\"uint256\",\"signature\":\"uint256 listMetadataPtrType\",\"value\":{\"name\":\"listMetadataPtrType\",\"type\":\"uint256\",\"value\":{\"type\":\"BigNumber\",\"hex\":\"0x01\"}}},{\"name\":\"listMetadataPtr\",\"type\":\"string\",\"signature\":\"string listMetadataPtr\",\"value\":{\"name\":\"listMetadataPtr\",\"type\":\"string\",\"value\":\"https://w3s.link/ipfs/bafybeibhynhv37vggn7qtq4zdm5b7zaqubo66zhwlnhnbtdiyzdohogh6m/metadata.json\"}}]",
+        "attester":"0x64FeD9e56B548343E7bb47c49ecd7FFa9f1A34FE",
+        "time":1701920619,
+        "txid":"0xb7c8f99d0e7236b0cc095e620dca9c2c979eecaf39fe23a0a6130732eb8aa8e9",
+        "revocationTime":0
+      },
+      {
+        "id":"0xd80d3f046056e377b4c00e427fa24539761c4196be4aefca8ae9df13ea2fcc5d",
+        "decodedDataJson":"[{\"name\":\"listName\",\"type\":\"string\",\"signature\":\"string listName\",\"value\":{\"name\":\"listName\",\"type\":\"string\",\"value\":\"Blockchain News & Media\"}},{\"name\":\"listMetadataPtrType\",\"type\":\"uint256\",\"signature\":\"uint256 listMetadataPtrType\",\"value\":{\"name\":\"listMetadataPtrType\",\"type\":\"uint256\",\"value\":{\"type\":\"BigNumber\",\"hex\":\"0x01\"}}},{\"name\":\"listMetadataPtr\",\"type\":\"string\",\"signature\":\"string listMetadataPtr\",\"value\":{\"name\":\"listMetadataPtr\",\"type\":\"string\",\"value\":\"https://giveth.mypinata.cloud/ipfs/QmTXuWPZDrfEHh657BvnPm7sFgNxRbdmeHu24Sbafbihq1\"}}]",
+        "attester":"0x06d769d6Fd47e8db4b35E0BE76c345Bd095A9F3e",
+        "time":1702362167,
+        "txid":"0x591a48fd025fb7536f933ddd8923864ca2b7f64e7cd6126618eb3bd4d5635059",
+        "revocationTime":0
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+    "id": "0xb0680b79dd50b9b147958ca2147c8288e056d633540db85ab422deee772181ac",
+    "listName": "Nouns ⌐◨-◨",
+    "listDescription": "Nouns has had a massive impact on the funding, education, awareness and discussion surrounding Public Goods funding. The Nounish model itself is an experiment in NFT provenance funding public goods. \n\nThis is a list of projects that are Nounish, as defined by having members in Nouns, having received a Nouns grant or are using the Nouns style of Governance. These projects have all had impact on the OP Superchain from a mobile operating system that includes a system level OP wallet to a media network that discusses and educates people on the Superchain.\n\nNote: I am a Member of Builder DAO, the DAO that manages builder protocol, and thus will not be allocating OP to it due to a conflict of interest. ",
+    "impactEvaluationDescription": "This framework includes 5 tiers of impact by measuring the human, technical, cultural and educational impact to quantify how many people have onboarded and converted to active users of the Superchain. It then tries to fill the gap between Impact and Profit for each tier. ",
+    "impactEvaluationLink": "https://nouns.wtf/",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "OPAmount": 1000000
+        },
+        {
+            "RPGF3_Application_UID": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "OPAmount": 1000000
+        },
+        {
+            "RPGF3_Application_UID": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "OPAmount": 1000000
+        },
+        {
+            "RPGF3_Application_UID": "0x686631456b8a61089497f6cb36abb0b9965c47464383603402a8688b8b69fa93",
+            "OPAmount": 1000000
+        },
+        {
+            "RPGF3_Application_UID": "0x47fb1ee20e9de14d6603a2a4b55ba558412bbd506132c7dcaa2a313019ac8785",
+            "OPAmount": 750000
+        },
+        {
+            "RPGF3_Application_UID": "0xfdb49a44b3f75ed85a6f61f4c5a36a358ef8712b9b151050aedf65d4c2abae91",
+            "OPAmount": 500000
+        },
+        {
+            "RPGF3_Application_UID": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "OPAmount": 500000
+        },
+        {
+            "RPGF3_Application_UID": "0x007d41961338c04bb3a18e498d6d955072d4df3ea1fb43b16381269ea581049a",
+            "OPAmount": 150000
+        },
+        {
+            "RPGF3_Application_UID": "0xd9dc151858206f4d87677730385c5c01c836e1be51f51264534486b18c01939f",
+            "OPAmount": 150000
+        },
+        {
+            "RPGF3_Application_UID": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "OPAmount": 150000
+        },
+        {
+            "RPGF3_Application_UID": "0xa35852733815089884475191afbbed7c67c94cf6cb3de86eb2cf4e1f136523d7",
+            "OPAmount": 75000
+        },
+        {
+            "RPGF3_Application_UID": "0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
+            "OPAmount": 75000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "bio": "Token house and Citizen house governance app and contract",
+            "displayName": "Agora",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+        },
+        {
+            "id": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "bio": "The easiest way to create and launch a Nounish DAO on the OP stack.",
+            "displayName": "Builder Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x01503DC708ce3C55017194847A07aCb679D49f47.png"
+        },
+        {
+            "id": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "bio": "A collective of Ethereum's active core protocol contributors",
+            "displayName": "Protocol Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F.png"
+        },
+        {
+            "id": "0x686631456b8a61089497f6cb36abb0b9965c47464383603402a8688b8b69fa93",
+            "bio": "Upload Imagination, Earn Ethereum.",
+            "displayName": "ZORA",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8700B87C2A053BDE8Cdc84d5078B4AE47c127FeB.png"
+        },
+        {
+            "id": "0x47fb1ee20e9de14d6603a2a4b55ba558412bbd506132c7dcaa2a313019ac8785",
+            "bio": "An onchain media collective producing engaging educational content about web 3.",
+            "displayName": "The Noun Square Media Collective",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16.png"
+        },
+        {
+            "id": "0xfdb49a44b3f75ed85a6f61f4c5a36a358ef8712b9b151050aedf65d4c2abae91",
+            "bio": "ethOS is a free & open source mobile OS that embraces Ethereum",
+            "displayName": "ethOS",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x12dC5fF4AB146D9f70e50bd5f9854114a115e6c9.png"
+        },
+        {
+            "id": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "bio": "Paint Together. Mint Daily.",
+            "displayName": "BasePaint",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb48E8dA63c2aFc5633702B7acf4BDe830c1dE48b.png"
+        },
+        {
+            "id": "0x007d41961338c04bb3a18e498d6d955072d4df3ea1fb43b16381269ea581049a",
+            "bio": "Public Assembly is an onchain collective focused on creating what's missing.",
+            "displayName": "Public Assembly",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFEC0Ad833FB7D20A83E373279f37c88159bAd99E.png"
+        },
+        {
+            "id": "0xd9dc151858206f4d87677730385c5c01c836e1be51f51264534486b18c01939f",
+            "bio": "Blockchain forensics, investigations, and whistleblower",
+            "displayName": "ZachXBT",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D502fA3C2Aac31d88d6BDA8fBd38AB861211458.png"
+        },
+        {
+            "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "bio": "Karma is a suite of contributor reputation tools helping DAOs improve governance",
+            "displayName": "Karma",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+        },
+        {
+            "id": "0xa35852733815089884475191afbbed7c67c94cf6cb3de86eb2cf4e1f136523d7",
+            "bio": "Based Nouns is a community-run DAO & NFT project on the Base network.",
+            "displayName": "Based Nouns",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD3Dada2362b12D4fe52BeEBe0Bd0fA1a341F340D.png"
+        },
+        {
+            "id": "0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
+            "bio": "Public Nouns funds experiments in the public goods space.",
+            "displayName": "Public Nouns",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB.png"
+        }
+    ],
+    "walletAddress": "0x3B60e31CFC48a9074CD5bEbb26C9EAa77650a43F",
+    "domainName": "ccarella.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xb0680b79dd50b9b147958ca2147c8288e056d633540db85ab422deee772181ac",
+    "approvalAttestationUid": "0xb0680b79dd50b9b147958ca2147c8288e056d633540db85ab422deee772181ac",
+    "categories": [],
+    "createdAt": "2023-11-29T18:35:33",
+    "updatedAt": "2023-11-29T18:35:33",
+    "revokedAt": null,
+    "avatar": "https://i.imgur.com/bQ7LbYs.jpg"
+}

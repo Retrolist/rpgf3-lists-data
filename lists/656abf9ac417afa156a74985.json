@@ -1,0 +1,106 @@
+{
+    "listName": "OP Contribution Path",
+    "listDescription": "A list of official Optimism Contribution Path all badgeholders should vote for",
+    "impactEvaluationInput": "",
+    "impactEvaluationDescription": "Created by chomtana.town using RetroList with \"Categorization Only\" rubric.",
+    "impactEvaluationLink": "https://retropgf3.retrolist.app/list/656abf9ac417afa156a74985",
+    "impactEvaluationType": "rubric",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x127bdc6d776fb958f986cd2059b43e917a2d74e912c0b360316f77a05b30087b",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656abf9ac417afa156a74986"
+        },
+        {
+            "RPGF3_Application_UID": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656abf9ac417afa156a74987"
+        },
+        {
+            "RPGF3_Application_UID": "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656abf9ac417afa156a74988"
+        },
+        {
+            "RPGF3_Application_UID": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656abf9ac417afa156a74989"
+        },
+        {
+            "RPGF3_Application_UID": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "OPAmount": 0,
+            "evaluation": {},
+            "_id": "656abf9ac417afa156a7498a"
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x127bdc6d776fb958f986cd2059b43e917a2d74e912c0b360316f77a05b30087b",
+            "bio": "Technical support specialists assisting developers building on the OP Stack.",
+            "displayName": "TechNERD Program",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF.png"
+        },
+        {
+            "id": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "bio": "The NumbaNERDs program ensures the collective has quality analytics available.",
+            "displayName": "NumbaNERDs",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+            "bio": "Ambassadors are decentralized marketing arm of the Optimism Collective",
+            "displayName": "Optimism Ambassadors",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x50b6a381993834C623b2Bded6825824C936E48bB.png"
+        },
+        {
+            "id": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "bio": "Support NERDs provide moderation and onboarding services to the Optimism Discord",
+            "displayName": "Support NERDs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.png"
+        },
+        {
+            "id": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "bio": "Translators make Optimism accessible to non-English speakers over 27 languages!",
+            "displayName": "Optimism Translators",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9138051E95425610Eae7a0784F9138df485fb698.png"
+        }
+    ],
+    "status": "qualified",
+    "walletAddress": "0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27",
+    "domainName": "chomtana.town",
+    "twitter": "Chomtana",
+    "discord": "chomtana",
+    "isBadgeholder": false,
+    "attestationUid": "0x61e92585ba636c0b2ac37a66034f1415045b7137660e56d3afad59e15f4727c8",
+    "approvalAttestationUid": null,
+    "forkedFrom": null,
+    "rubric": {
+        "_id": "65695f889c41a3dbb680a30c",
+        "createdBy": "Chomtana",
+        "name": "Categorization Only",
+        "__v": 0,
+        "categories": [],
+        "criteria": [
+            {
+                "title": "Categorization Only",
+                "isNegative": false,
+                "scores": {
+                    "0": "Categorization Only"
+                },
+                "_id": "65695f88c417afa156a73138"
+            }
+        ],
+        "description": "Categorization projects without allocating any OP to them",
+        "isActive": true
+    },
+    "rubricId": "65695f889c41a3dbb680a30c",
+    "categories": [],
+    "histories": [],
+    "createdAt": "2023-12-02T05:24:42.261Z",
+    "updatedAt": "2023-12-02T07:55:13.908Z",
+    "id": "656abf9ac417afa156a74985"
+}

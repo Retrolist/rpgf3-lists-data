@@ -1,0 +1,124 @@
+{
+    "id": "0x908a9e47c68e2c5f512b21d4a15d1bbddb27ef58f490b01dea5debb86e19ce0a",
+    "listName": "List of projects that stand out, with no token or major funding ",
+    "listDescription": "This is a list containing public good projects and other initiatives that I find high impact",
+    "impactEvaluationDescription": "Projects that don't have a token or major funding ",
+    "impactEvaluationLink": "https://x.com/0xmillie_eth/status/1730973281929351371?s=20",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x1440934dcf3ca194befd08b28e86eb6c2d68dd984070cf51f68fb3ad144b496c",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xff1e9125432799c370c8074274f6b1d833c49cda519a7724cb3671550680901e",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x488ecb65fbc1b1f66c7723a9b30424f10292beb3d130e5ae6f6b18117763035d",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x169944e7e6d6a3cbfb72b9da9234e9f74b99111b00c1be854c8807fed8043397",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x1b205ded96fa08412a2c8b7100de978779b13fd81fd8a85aaf71f7994065c690",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "OPAmount": 0
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "bio": "Open and transparent DeFi analytics.",
+            "displayName": "DefiLlama",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd.png"
+        },
+        {
+            "id": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
+            "bio": "Simplifying crypto news for everyone - one byte at a time",
+            "displayName": "Polynomial Bytes",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa5A0CE7D84025f986568356475451E31714B4C95.png"
+        },
+        {
+            "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+            "bio": "The leading DAO analytics engine with 19k+ DAOs and 8+ million wallet profiles.",
+            "displayName": "DeepDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+        },
+        {
+            "id": "0x1440934dcf3ca194befd08b28e86eb6c2d68dd984070cf51f68fb3ad144b496c",
+            "bio": "L2BEAT is a public goods company dedicated to providing on-chain transparency.",
+            "displayName": "L2BEAT 💗",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD.png"
+        },
+        {
+            "id": "0xff1e9125432799c370c8074274f6b1d833c49cda519a7724cb3671550680901e",
+            "bio": "The local-first, opensource asset tracking and management tool for crypto/tradfi",
+            "displayName": "rotki",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.png"
+        },
+        {
+            "id": "0x488ecb65fbc1b1f66c7723a9b30424f10292beb3d130e5ae6f6b18117763035d",
+            "bio": "Umbra is a stealth address privacy protocol for EVM networks.",
+            "displayName": "Umbra",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8.png"
+        },
+        {
+            "id": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+            "bio": "Discover useful web3 apps and tools easily",
+            "displayName": "Web3xplorer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.png"
+        },
+        {
+            "id": "0x169944e7e6d6a3cbfb72b9da9234e9f74b99111b00c1be854c8807fed8043397",
+            "bio": "Smol: simple, elegant and functional blockchain dapps for common crypto tasks.",
+            "displayName": "draper",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB7A31346433430D92846f0181C55Fc506B9b22d8.png"
+        },
+        {
+            "id": "0x1b205ded96fa08412a2c8b7100de978779b13fd81fd8a85aaf71f7994065c690",
+            "bio": "Vyper is a contract-oriented, pythonic programming language for the EVM",
+            "displayName": "Vyper",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b98718264cA14d0A17C145FfE1e4F3c38a39372.png"
+        },
+        {
+            "id": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "bio": "A podcast and newsletter segment covering Optimism ecosystem news.",
+            "displayName": "ETH Daily (OP News)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEB40A065854bd90126A4E697aeA0976BA51b2eE7.png"
+        }
+    ],
+    "walletAddress": "0x98Ab20307fdABa1ce8b16d69d22461c6dbe85459",
+    "domainName": "0xmillie.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x908a9e47c68e2c5f512b21d4a15d1bbddb27ef58f490b01dea5debb86e19ce0a",
+    "approvalAttestationUid": "0x908a9e47c68e2c5f512b21d4a15d1bbddb27ef58f490b01dea5debb86e19ce0a",
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-12-03T00:21:37",
+    "updatedAt": "2023-12-03T00:21:37",
+    "revokedAt": null,
+    "avatar": null
+}

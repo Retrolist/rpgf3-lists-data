@@ -1,0 +1,354 @@
+{
+    "id": "0x633954dfd0b833cd81558bab8b460e00dd112217b320600a6a64bc3de7e48bd4",
+    "listName": "Joan's Education List",
+    "listDescription": "All of my lists for RPGF3 will be highlighting impact that concerns end users/citizens of the Optimism ecosystem. \nMy main question going into all of this was: What kind of culture will Optimism offer all of these humans? \n\nTo answer this, I have been reading RPGF3 applications with a focus on education, news, arts, social media, local efforts, identity, reputation, roles, etc.\n\nI wanted to know what Optimism can offer humans *beyond* bits and coins. \n\nTHIS LIST is about educational resources and efforts. \n\nOpen access to knowledge and skills is a prerequisite for individuals and societies to evolve. \nIt is necessary for a person to enter the spaces of their choice and apply themselves in meaningful ways.\nWithout such free opportunity, there can be no democracy, transparency, freedom, collaboration, etc.\n\nThe list focuses broadly on web3 education. Perspective is necessary, both to become a professional and to stay human. \n\nThe list only includes resources in English language - I highly value efforts in other languages as well, but I will look at them separately.\n\nThe list excludes the 'official OP contribution path' applications - they are already covered elsewhere: https://round3.optimism.io/lists/0x828ab1fad3e08cdcc56b97e09ad4490de96a9147b5323a5f78fc5545b40cff1e.\n\nMy list with groups of different types of education efforts and comments for each application included: https://www.dropbox.com/scl/fi/aon5xa3jt2vbvi2x2e0bh/Education.ods?rlkey=dhf0rrmuvb9lqag8op4q5m40c&dl=0",
+    "impactEvaluationDescription": "1. I downloaded a list of all applications from api.retrolist.app (1594 applications).\n\n2. I narrowed it down to the list of elligible applications (644 applications).\n\n3. I further reduced the list according to my overall motivation described above. (343 applications). \n\n    > I removed defi, wallets, technical infrastructure, legal, b2b, government (where not relevant to general users).\n    > I removed anything too technical for me, as well as spam / out of scope / undocumented claims.\n    > I removed applications focused on airdrop farming and 'learn to earn quests'.\n   \n   > Exceptions: \n   > I kept basic education on defi/dev and solutions to help users understand & navigate web3 securely.\n   > I generally kept applications targeting language groups other than English (for a separate list).\n\n4. I then spent quite a bit of time studying and categorizing the applications. One of my categories was 'education'. \n\n5. I have researched the projects in my education category to the best of my abilities, and as well as time permitted. \n   The decision to keep an application or not, and the final OP allocation, were based on my highly subjective judgement. \n   While *anything* can be a learning experience, I aimed for a list of quality web3 education targeting Optimism citizens. \n   \nSuggested amount of support:\n\nThere are 33 projects in this list, which corresponds to about 5% of the elligible applications of this round.\nMy suggestions total an amount of 551.000 OP, which is less than 2% of the RPGF3 pool.\n\nI hope that this very conservative suggestion will inspire you to *increase* the support where you see fit, while still offering at least basic support to projects that you don't have time to research carefully yourself. \n\nDisclaimer and conflict of interest disclosure:\n\n1. I do not support the concept of 'learn to earn'. It is not healthy to human motivation.\n\n2. I was appointed as a badgeholder by Kernel who was a top 50 recipient of RPGF2. \n    I have included Kernel in the list below, but I have chosen to abstain from voting for them myself in RPGF3. \n    I encourage you to do your own research and support Kernel as you see fit.",
+    "impactEvaluationLink": "https://www.dropbox.com/scl/fi/aon5xa3jt2vbvi2x2e0bh/Education.ods?rlkey=dhf0rrmuvb9lqag8op4q5m40c&dl=0",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x2f0277bbde0a1e3e8ea5e6d2f2e7548f763589963af75e14035401e2c27c7b26",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0x557bf27e3e62e0f9cefaf40b9a36e24440ff5eca45d73f3a85072cf18b04ee57",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
+            "OPAmount": 2000
+        },
+        {
+            "RPGF3_Application_UID": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+            "OPAmount": 2000
+        },
+        {
+            "RPGF3_Application_UID": "0xb7dabe6cef237688405965319267646c67ea6c664a4487c1c70f8da3abe5173b",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x97c886fb0d5a8bfab9a5fc21425872c711d020d8ba98d381b4d122301d2937ce",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0x0ace9050e3c67022816825143db0a483647bc719202adffc555e04b4bfd4f522",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x77fed52df52899326c6f32bf7f310beed1bfd2fab75b3c952017e590481846e5",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xd0be450b707867d713e589deeeb24b3edc78e417cf673c0ea25f537b9e6f8bb3",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0x0fd702364b086485a727ee20c94abe75c1c916e9ad9c6dc17eff8c64487dfd8a",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0xa4593794fec99c360105db59a4a337a2ce652f6259448462b75db63de702ba8f",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0xcc7d599bd163798695c68910ae40ea5da4f548b2c141525f461fab0d9c1f62dd",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0x3cda55b2201bc6838291f6dc8d6325d321f4b011d91f4e6dcd14371751ee3a2b",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
+            "OPAmount": 2000
+        },
+        {
+            "RPGF3_Application_UID": "0x6093215024946600fa2f854f941d918ea3a7f11283cb4e430969c36937b39e66",
+            "OPAmount": 2000
+        },
+        {
+            "RPGF3_Application_UID": "0x1dfca7cffa9babbcc0b9646e2e620da444285f4dc7d6e7f3692446ffe4d6b66b",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0xf451d8a3046d53c14c1ccbeca4b8f082cc08b08434a510226efcc9d48a55c954",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0xabf8a11afc616116d966b45900c77737cbe34dcdab0198c17c3376e1526d6403",
+            "OPAmount": 2000
+        },
+        {
+            "RPGF3_Application_UID": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+            "OPAmount": 2000
+        },
+        {
+            "RPGF3_Application_UID": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
+            "OPAmount": 2000
+        },
+        {
+            "RPGF3_Application_UID": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+            "OPAmount": 2000
+        },
+        {
+            "RPGF3_Application_UID": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+            "OPAmount": 10000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x2f0277bbde0a1e3e8ea5e6d2f2e7548f763589963af75e14035401e2c27c7b26",
+            "bio": "A hub of curated and original insights on Optimism's ethos and vision",
+            "displayName": "Optimism Vision Reservoir",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x66D071A20d7942767739BBca130E08e4848D12Bc.png"
+        },
+        {
+            "id": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
+            "bio": "Making learning Optimism 10x easier.",
+            "displayName": "Optimistic Academy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDFC65E0292573311DF30eA4De81F941bCd726aB6.png"
+        },
+        {
+            "id": "0x557bf27e3e62e0f9cefaf40b9a36e24440ff5eca45d73f3a85072cf18b04ee57",
+            "bio": "Optimism University: Engage, Educate, and Elevate in the World of Optimism.",
+            "displayName": "Optimism University",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5794e3BA7391b2b9806B738b20c3F2099e16Dd5d.png"
+        },
+        {
+            "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+            "bio": "RetroPGF Hub is the place to explore, discover, and awareness about RetroPGF.",
+            "displayName": "RetroPGF Hub",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
+        },
+        {
+            "id": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
+            "bio": "An Optimism glossary, a directory of tools and resources, and a micro lesson",
+            "displayName": "Optimism Guide",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa83926fe58B9bEd62103b540d7eb928f64125979.png"
+        },
+        {
+            "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+            "bio": "All resources related to Optimism governance on a single website",
+            "displayName": "Optimism Resource Center",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
+        },
+        {
+            "id": "0xb7dabe6cef237688405965319267646c67ea6c664a4487c1c70f8da3abe5173b",
+            "bio": "IC3 is a multidisciplinary academic blockchain research initiative",
+            "displayName": "IC3",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBF430a49C4d85AeeD3908619D5387A1fbF8E74A9.png"
+        },
+        {
+            "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+            "bio": "RadicalxChange Foundation is a nonprofit seeking to improve basic institutions.",
+            "displayName": "RadicalxChange Foundation",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
+        },
+        {
+            "id": "0x97c886fb0d5a8bfab9a5fc21425872c711d020d8ba98d381b4d122301d2937ce",
+            "bio": "Protocols research from all angles across many domains, open-sourced findings.",
+            "displayName": "Summer of Protocols",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10F5d45854e038071485AC9e402308cF80D2d2fE.png"
+        },
+        {
+            "id": "0x0ace9050e3c67022816825143db0a483647bc719202adffc555e04b4bfd4f522",
+            "bio": "The first bachelor-level study program based on Optimism NFT proofs.",
+            "displayName": "Token Engineering Academy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3b067Af83F540cB827825a6Ee5480441a4237E77.png"
+        },
+        {
+            "id": "0x77fed52df52899326c6f32bf7f310beed1bfd2fab75b3c952017e590481846e5",
+            "bio": "Bankless Academy hosts a web3 onboarding journey, starting on Optimism.",
+            "displayName": "Bankless Academy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe1887fF140BfA9D3b45D0B2077b7471124acD242.jpeg"
+        },
+        {
+            "id": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+            "bio": "A curated group of builders creating open source tools and educational content.",
+            "displayName": "🏰 BuidlGuidl",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.png"
+        },
+        {
+            "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+            "bio": "A peer-learning environment dedicated to building a better web, together.",
+            "displayName": "Kernel",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
+        },
+        {
+            "id": "0xd0be450b707867d713e589deeeb24b3edc78e417cf673c0ea25f537b9e6f8bb3",
+            "bio": "The largest web3 dev community w/ education and opportunities for 100k+ students",
+            "displayName": "LearnWeb3",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0D1f2Bd5351a65a78Ac0BeF3C8fAEf643C046508.png"
+        },
+        {
+            "id": "0x0fd702364b086485a727ee20c94abe75c1c916e9ad9c6dc17eff8c64487dfd8a",
+            "bio": "Web3 Open University for developers.",
+            "displayName": "WTF Academy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54.png"
+        },
+        {
+            "id": "0xa4593794fec99c360105db59a4a337a2ce652f6259448462b75db63de702ba8f",
+            "bio": "CryptoZombies: an interactive blockchain coding school",
+            "displayName": "CryptoZombies",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbb105E3c6D6406A3F0aAB98cD8D0E3a127bD6436.png"
+        },
+        {
+            "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+            "bio": "I share what I learned about Solidity, Vyper and DeFi",
+            "displayName": "Taz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+        },
+        {
+            "id": "0xcc7d599bd163798695c68910ae40ea5da4f548b2c141525f461fab0d9c1f62dd",
+            "bio": "80+ web3 engineers helping main protocols and networks since 2016.",
+            "displayName": "Protofire Blockchain Learning Path",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5fC34D03cFdf145Db5f3c5B5558e39a4164AAa30.png"
+        },
+        {
+            "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+            "bio": "Smart Contract Engineer, Security Researcher, and Educator",
+            "displayName": "PatrickAlphaC",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
+        },
+        {
+            "id": "0x3cda55b2201bc6838291f6dc8d6325d321f4b011d91f4e6dcd14371751ee3a2b",
+            "bio": "Building dapps with rollups",
+            "displayName": "0xs34n",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
+            "bio": "Layer2 Tutorials with Funny and Easy-to-understand Diagrams and Animation.",
+            "displayName": "MyFirstLayer2",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAcb4313910574b69e8116617105b97993ED8319d.png"
+        },
+        {
+            "id": "0x6093215024946600fa2f854f941d918ea3a7f11283cb4e430969c36937b39e66",
+            "bio": "Connecting web3 projects with the best analysts for data insights.",
+            "displayName": "MetricsDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa0F00e59ef57D82449ACcB05b9512A47b264374b.png"
+        },
+        {
+            "id": "0x1dfca7cffa9babbcc0b9646e2e620da444285f4dc7d6e7f3692446ffe4d6b66b",
+            "bio": "A wargame for developers to learn how to break dummy smart contracts.",
+            "displayName": "The Ethernaut",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7D5a44baad1992092504bb8DCA602615fCe09351.png"
+        },
+        {
+            "id": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+            "bio": "Layer3 makes learning and exploring crypto fun, engaging, and rewarding.",
+            "displayName": "Layer3",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+            "bio": "Educating and onboarding the next wave of public goods users & builders to Web3.",
+            "displayName": "Accessible Education for Web3 Public Goods Changemakers",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
+        },
+        {
+            "id": "0xf451d8a3046d53c14c1ccbeca4b8f082cc08b08434a510226efcc9d48a55c954",
+            "bio": "Bankless Publishing is driving adoption, education, & awareness of web3.",
+            "displayName": "Bankless Publishing",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9.png"
+        },
+        {
+            "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+            "bio": "I make YouTube videos explaining Ethereum, L2s, and the World Computer vision.",
+            "displayName": "jordanmmck",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
+        },
+        {
+            "id": "0xabf8a11afc616116d966b45900c77737cbe34dcdab0198c17c3376e1526d6403",
+            "bio": "Zero Knowledge is a podcast focused on zk tech and the decentralized web",
+            "displayName": "Zero Knowledge Podcast",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701.png"
+        },
+        {
+            "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+            "bio": "Researcher & Content Creator focusing on modular scaling, rollups & zk tech!",
+            "displayName": "zerokn0wledge",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+        },
+        {
+            "id": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
+            "bio": "Education brand helping people explore DeFi with relevant research and tutorials",
+            "displayName": "The Rollup",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3.png"
+        },
+        {
+            "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+            "bio": "We creates guides, instructional videos, and technical support about staking.",
+            "displayName": "EthStaker",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
+        },
+        {
+            "id": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
+            "bio": "We migrate senior web2 devs to web3 with free trailored mentorsips",
+            "displayName": "EthernautDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4.png"
+        },
+        {
+            "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+            "bio": "Digital inclusion of vulnerable LatAm communities via web3 education w/Optimism.",
+            "displayName": "Proof of Integrity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
+        }
+    ],
+    "walletAddress": "0xe422d6C46a69e989BA6468CcD0435Cb0c5C243E3",
+    "domainName": null,
+    "isBadgeholder": true,
+    "attestationUid": "0x633954dfd0b833cd81558bab8b460e00dd112217b320600a6a64bc3de7e48bd4",
+    "approvalAttestationUid": "0x633954dfd0b833cd81558bab8b460e00dd112217b320600a6a64bc3de7e48bd4",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-11-25T11:51:33",
+    "updatedAt": "2023-11-25T11:51:33",
+    "revokedAt": null,
+    "avatar": null
+}

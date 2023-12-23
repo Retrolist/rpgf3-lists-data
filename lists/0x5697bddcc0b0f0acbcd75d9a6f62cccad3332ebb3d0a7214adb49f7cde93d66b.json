@@ -1,0 +1,32 @@
+{
+    "id": "0x5697bddcc0b0f0acbcd75d9a6f62cccad3332ebb3d0a7214adb49f7cde93d66b",
+    "listName": "Conflict of interests",
+    "listDescription": "These are projects I'm involved and I would love others to vote because I cant.",
+    "impactEvaluationDescription": "I've seen these projects impacting Optimism myself.",
+    "impactEvaluationLink": "https://mint.ethernautdao.io/",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
+            "OPAmount": 50000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
+            "bio": "We migrate senior web2 devs to web3 with free trailored mentorsips",
+            "displayName": "EthernautDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4.png"
+        }
+    ],
+    "walletAddress": "0xDCF7bE2ff93E1a7671724598b1526F3A33B1eC25",
+    "domainName": "gonna.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x5697bddcc0b0f0acbcd75d9a6f62cccad3332ebb3d0a7214adb49f7cde93d66b",
+    "approvalAttestationUid": "0x5697bddcc0b0f0acbcd75d9a6f62cccad3332ebb3d0a7214adb49f7cde93d66b",
+    "categories": [],
+    "createdAt": "2023-10-25T19:59:13",
+    "updatedAt": "2023-10-25T19:59:13",
+    "revokedAt": null,
+    "avatar": "https://euc.li/gonna.eth"
+}

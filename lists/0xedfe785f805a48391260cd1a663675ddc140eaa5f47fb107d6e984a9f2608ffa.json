@@ -1,0 +1,64 @@
+{
+    "id": "0xedfe785f805a48391260cd1a663675ddc140eaa5f47fb107d6e984a9f2608ffa",
+    "listName": "Joan's End User Wallet Safety list",
+    "listDescription": "This list highlights four projects that aim at keeping web3 end users safe onchain by blocklisting scammers and helping users understand their own wallet actions and take reasonable measures.\n\nMy notes:\nhttps://www.dropbox.com/scl/fi/2m036dj9e7cz7ul03qa7a/Security.ods?rlkey=3rth9wn9im4gcu3sz0zh2sx20&dl=0",
+    "impactEvaluationDescription": "One of the projects (ChainPatrol) aims at detecting and blocklisting scammer sites. The blocklist is then being used by Metamask, Coinbase Wallet and others to warn users before they interact with those sites. That seems like a sensible approach.\n\nThe other three projects are tools made for the users themselves. I tested them with my own wallet and found the experience very worth my time and effort. A couple of them also have some very helpful educational material available for free on their websites.\n\nThe 50,000 OP suggested for each of the four applicants are simply an expression of my firm belief that they are highly valuable contributions in each their way. More users will find their way to web3 if they feel empowered and know how to stay safe and protect their assets.",
+    "impactEvaluationLink": "https://www.dropbox.com/scl/fi/2m036dj9e7cz7ul03qa7a/Security.ods?rlkey=3rth9wn9im4gcu3sz0zh2sx20&dl=0",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xf9160cc40a4a58bbbf08c93df3fd2050b48a9fe7b7b2ce24325b6a30c265afc9",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x8879309f2fcaea2302c281212c36d7a1446914ed6fa2f88162b0918d09b25fdd",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x8c31dee5481fdf0cade4e023ca397551f62c016db3690f0a5ae47855a2bc8060",
+            "OPAmount": 50000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xf9160cc40a4a58bbbf08c93df3fd2050b48a9fe7b7b2ce24325b6a30c265afc9",
+            "bio": "Chainpatrol protects the Optimism Collective by blocking online threats daily",
+            "displayName": "ChainPatrol - Real Time Security protecting the OP Collective",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D9d22E1821Be3b1Ce2A8ACB6FE47fFEF04243c3.png"
+        },
+        {
+            "id": "0x8879309f2fcaea2302c281212c36d7a1446914ed6fa2f88162b0918d09b25fdd",
+            "bio": "Know what is going in and out of your wallet before signing.",
+            "displayName": "Fire",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x57B02589d6e24203FC43e442ce9A4803E290293b.png"
+        },
+        {
+            "id": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "bio": "Revoke.cash is a token approvals dashboard and browser extension to stay safe.",
+            "displayName": "Revoke.cash",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe126b3E5d052f1F575828f61fEBA4f4f2603652a.png"
+        },
+        {
+            "id": "0x8c31dee5481fdf0cade4e023ca397551f62c016db3690f0a5ae47855a2bc8060",
+            "bio": "Helping the next 100m+ users protect their crypto.",
+            "displayName": "Wallet Guard",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c.png"
+        }
+    ],
+    "walletAddress": "0xe422d6C46a69e989BA6468CcD0435Cb0c5C243E3",
+    "domainName": null,
+    "isBadgeholder": true,
+    "attestationUid": "0xedfe785f805a48391260cd1a663675ddc140eaa5f47fb107d6e984a9f2608ffa",
+    "approvalAttestationUid": "0xedfe785f805a48391260cd1a663675ddc140eaa5f47fb107d6e984a9f2608ffa",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-11-28T15:09:59",
+    "updatedAt": "2023-11-28T15:09:59",
+    "revokedAt": null,
+    "avatar": null
+}

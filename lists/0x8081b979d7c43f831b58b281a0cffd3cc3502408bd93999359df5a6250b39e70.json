@@ -1,0 +1,144 @@
+{
+    "id": "0x8081b979d7c43f831b58b281a0cffd3cc3502408bd93999359df5a6250b39e70",
+    "listName": "Optimism + Ethereum's scaling advocates",
+    "listDescription": "This list highlights notable contributors who have provided quality content and research on Optimism, but also related ones such as scaling and Ethereum itself, all in a consistent way. (Optimism Español is included here but is part of my list of conflict of interests)",
+    "impactEvaluationDescription": "Contribute to the maturity of the understanding of the entire ecosystem is relevant for developers and users, which positively impacts all categories and these applications are put their grane of salt in this regard. I must mention that the measurements for these types of contributions are not very rigid as they involve many qualitative aspects. However, the scope and originality of the contributions are some essential considerations. Moreover, since Optimism is built on Ethereum, any contributions that can be ported to Optimism are also taken into account.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x58947058b1c0a3d31c4c8f6e43c891459156ceb6e6fbf9547ee087ec78f0517b",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xfe045e0d02b58c2903386276d53354410960fe7f028995eb5c84cb8a69dc19bc",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x1440934dcf3ca194befd08b28e86eb6c2d68dd984070cf51f68fb3ad144b496c",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xaa1ea2a6a67fcacd76ef8e24de0b32a6227314899a930eb8cbbc7fd5fcc5dd0d",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xabf8a11afc616116d966b45900c77737cbe34dcdab0198c17c3376e1526d6403",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x4abf6854e35bbc14e85ec879c4545b98934e75a6d4a28bfc7b8b088240f64435",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x7bba50affa4ef77da95d392f7898f12af64ccfec1909d410ad8a2baf2aea8ff3",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x8c6ef03ae9da84c0fc10a72d404ac170d884ba0252512c08ee58f8fde8131079",
+            "OPAmount": 0
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x58947058b1c0a3d31c4c8f6e43c891459156ceb6e6fbf9547ee087ec78f0517b",
+            "bio": "I write about crypto-related topics like governance, sustainability and scaling.",
+            "displayName": "polynya",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x429F9aDA43e9F345CbB85EC88681BB70Df808892.png"
+        },
+        {
+            "id": "0xfe045e0d02b58c2903386276d53354410960fe7f028995eb5c84cb8a69dc19bc",
+            "bio": "Blockchain researcher focused on security and scalability.",
+            "displayName": "donnoh.eth",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33D66941465ac776C38096cb1bc496C673aE7390.jpeg"
+        },
+        {
+            "id": "0x1440934dcf3ca194befd08b28e86eb6c2d68dd984070cf51f68fb3ad144b496c",
+            "bio": "L2BEAT is a public goods company dedicated to providing on-chain transparency.",
+            "displayName": "L2BEAT 💗",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD.png"
+        },
+        {
+            "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+            "bio": "Independent Ethereum educator, investor & advisor. Founder of The Daily Gwei.",
+            "displayName": "Sassal.eth",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+        },
+        {
+            "id": "0xaa1ea2a6a67fcacd76ef8e24de0b32a6227314899a930eb8cbbc7fd5fcc5dd0d",
+            "bio": "OP original content creator and educator for thai community since June 2022.",
+            "displayName": "Thesleeper.eth Thai OP Educator",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x00409fC839a2Ec2e6d12305423d37Cd011279C09.png"
+        },
+        {
+            "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+            "bio": "I make YouTube videos explaining Ethereum, L2s, and the World Computer vision.",
+            "displayName": "jordanmmck",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
+        },
+        {
+            "id": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
+            "bio": "Education brand helping people explore DeFi with relevant research and tutorials",
+            "displayName": "The Rollup",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3.png"
+        },
+        {
+            "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+            "bio": "Researcher & Content Creator focusing on modular scaling, rollups & zk tech!",
+            "displayName": "zerokn0wledge",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+        },
+        {
+            "id": "0xabf8a11afc616116d966b45900c77737cbe34dcdab0198c17c3376e1526d6403",
+            "bio": "Zero Knowledge is a podcast focused on zk tech and the decentralized web",
+            "displayName": "Zero Knowledge Podcast",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701.png"
+        },
+        {
+            "id": "0x4abf6854e35bbc14e85ec879c4545b98934e75a6d4a28bfc7b8b088240f64435",
+            "bio": "Your #1 source of news about Layer-2 solutions for nearly two years.",
+            "displayName": "L2 Planet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D9d84F4D8a4254ea23Fe18825193Cbd1b21b749.png"
+        },
+        {
+            "id": "0x7bba50affa4ef77da95d392f7898f12af64ccfec1909d410ad8a2baf2aea8ff3",
+            "bio": "A platform dedicated to analyzing web3 technologies for Spanish speakers",
+            "displayName": "Kairos Research",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6D465d2081b799770d0Ce7E755d8dB1665903fFB.png"
+        },
+        {
+            "id": "0x8c6ef03ae9da84c0fc10a72d404ac170d884ba0252512c08ee58f8fde8131079",
+            "bio": "Spanish-language community dedicated to the Optimism ecosystem",
+            "displayName": "Optimism Español",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e4865634EC54dFF742E1a7452a456919B8e277b.jpeg"
+        }
+    ],
+    "walletAddress": "0x94Db037207F6fB697DBd33524aaDffD108819DC8",
+    "domainName": "joxes.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x8081b979d7c43f831b58b281a0cffd3cc3502408bd93999359df5a6250b39e70",
+    "approvalAttestationUid": "0x8081b979d7c43f831b58b281a0cffd3cc3502408bd93999359df5a6250b39e70",
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-12-06T05:27:05",
+    "updatedAt": "2023-12-06T05:27:05",
+    "revokedAt": null,
+    "avatar": "https://euc.li/joxes.eth"
+}

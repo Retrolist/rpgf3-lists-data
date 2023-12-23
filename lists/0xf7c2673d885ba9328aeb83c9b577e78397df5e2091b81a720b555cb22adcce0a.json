@@ -1,0 +1,215 @@
+{
+    "listName": "Launchpad/Web3 Projects",
+    "listDescription": "This a list of zero-code web3/launchpad projects ",
+    "impactEvaluationInput": "",
+    "impactEvaluationDescription": "Created by 0xvjeez.town using RetroList with \"Quick Voting\" rubric.",
+    "impactEvaluationLink": "https://retropgf3.retrolist.app/list/656e4d302a10f91def752342",
+    "impactEvaluationType": "rubric",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x709f25d1796c2f33da8e7855f600a3ac5d10a1adf55a5a7ad3b1bfc7a71c6db8",
+            "OPAmount": 54084,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 5,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def752344"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 2,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def752345"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": -2,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def752346"
+                }
+            },
+            "_id": "656e4d302a10f91def752343"
+        },
+        {
+            "RPGF3_Application_UID": "0xc4d5e887d3b75b6c2226b00aac456da6344fd96ba92f5935533616470b070367",
+            "OPAmount": 54084,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 2,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def752348"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 3,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def752349"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def75234a"
+                }
+            },
+            "_id": "656e4d302a10f91def752347"
+        },
+        {
+            "RPGF3_Application_UID": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+            "OPAmount": 21633,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 1,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def75234c"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 1,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def75234d"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def75234e"
+                }
+            },
+            "_id": "656e4d302a10f91def75234b"
+        },
+        {
+            "RPGF3_Application_UID": "0xd3d27cce909e5bb892f7a664e3f87539476f784eb6944c32430c0099ee48fb01",
+            "OPAmount": 21633,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 1,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def752350"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 1,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def752351"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def752352"
+                }
+            },
+            "_id": "656e4d302a10f91def75234f"
+        },
+        {
+            "RPGF3_Application_UID": "0xf2e5092df31bedfdc2e758e6a5f63da1a02f2e1e4903b18b6215b821b3e10324",
+            "OPAmount": 21633,
+            "evaluation": {
+                "65695f6ec417afa156a73131": {
+                    "score": 1,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def752354"
+                },
+                "65695f6ec417afa156a73132": {
+                    "score": 1,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def752355"
+                },
+                "65695f6ec417afa156a73133": {
+                    "score": 0,
+                    "comment": "",
+                    "_id": "656e4d302a10f91def752356"
+                }
+            },
+            "_id": "656e4d302a10f91def752353"
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x709f25d1796c2f33da8e7855f600a3ac5d10a1adf55a5a7ad3b1bfc7a71c6db8",
+            "bio": "Apetimism Launchpad is our No-Code, Superchain-compatible NFT Launchpad",
+            "displayName": "Apetimism Launchpad",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF0974C239B7d08b7240b690B69EC3dD8aE783EFC.png"
+        },
+        {
+            "id": "0xc4d5e887d3b75b6c2226b00aac456da6344fd96ba92f5935533616470b070367",
+            "bio": "a 0-code launchpad/mintpad to facilitate the creation of dynamic NFT collections",
+            "displayName": "Tockable.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97.png"
+        },
+        {
+            "id": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+            "bio": "Discover useful web3 apps and tools easily",
+            "displayName": "Web3xplorer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.png"
+        },
+        {
+            "id": "0xd3d27cce909e5bb892f7a664e3f87539476f784eb6944c32430c0099ee48fb01",
+            "bio": "I create educational info about the Ethereum ecosystem, i.e. L2s in German",
+            "displayName": "web3made",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4Cf100cce352029e726185980E4611de835D6C7B.png"
+        },
+        {
+            "id": "0xf2e5092df31bedfdc2e758e6a5f63da1a02f2e1e4903b18b6215b821b3e10324",
+            "bio": "CIS influencer",
+            "displayName": "ProMint",
+            "profileImageUrl": null
+        }
+    ],
+    "status": "reviewing",
+    "walletAddress": "0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97",
+    "domainName": "0xvjeez.town",
+    "twitter": "0xVjeez",
+    "discord": "3rik3rik3rik",
+    "isBadgeholder": false,
+    "attestationUid": "0xf7c2673d885ba9328aeb83c9b577e78397df5e2091b81a720b555cb22adcce0a",
+    "approvalAttestationUid": null,
+    "forkedFrom": null,
+    "rubric": {
+        "_id": "65695f6e9c41a3dbb6808a7a",
+        "createdBy": "Chomtana",
+        "name": "Quick Voting",
+        "__v": 0,
+        "categories": [],
+        "criteria": [
+            {
+                "title": "Reach & User Quality",
+                "isNegative": false,
+                "scores": {
+                    "0": "Low reach and mostly bot / airdrop hunters",
+                    "1": "Moderate reach but mostly airdrop hunters",
+                    "2": "Reach small or medium group of users who are actively contribute to the Optimism Collective",
+                    "3": "High reach but mostly are airdrop hunters and a few contribute to the Optimism Collective",
+                    "4": "Reach large group of users who are actively contribute to the Optimism Collective",
+                    "5": "Project is adopted by general public"
+                },
+                "_id": "65695f6ec417afa156a73131"
+            },
+            {
+                "title": "Project Quality",
+                "isNegative": false,
+                "scores": {
+                    "0": "Project doesn't solve any problem and is not useful at all",
+                    "1": "Project is developed with low effort",
+                    "2": "Project solve problems but lacking user experience",
+                    "3": "Project solve problems and provide great user/developer experience but lacking tutorial/documentation",
+                    "4": "Project solve problems and provide great user/developer experience with high quality tutorial/documentation",
+                    "5": "Project is a demanding piece in the Optimism collective"
+                },
+                "_id": "65695f6ec417afa156a73132"
+            },
+            {
+                "title": "Funding Received",
+                "isNegative": true,
+                "scores": {
+                    "0": "Project received <= 100k$ in funding",
+                    "-1": "Project received <= 1M$ in funding",
+                    "-2": "Project received >1M$ or raised fund beyond seed investment",
+                    "-3": "Project is listed in major exchanges"
+                },
+                "_id": "65695f6ec417afa156a73133"
+            }
+        ],
+        "description": "Vote and rank projects in a quick way by voting on reach and project quality",
+        "isActive": true
+    },
+    "rubricId": "65695f6e9c41a3dbb6808a7a",
+    "categories": [],
+    "histories": [],
+    "createdAt": "2023-12-04T22:05:36.477Z",
+    "updatedAt": "2023-12-04T22:12:46.856Z",
+    "id": "656e4d302a10f91def752342"
+}
