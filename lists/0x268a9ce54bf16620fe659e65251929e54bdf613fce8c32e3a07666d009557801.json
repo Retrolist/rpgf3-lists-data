@@ -1,0 +1,114 @@
+{
+    "id": "0x268a9ce54bf16620fe659e65251929e54bdf613fce8c32e3a07666d009557801",
+    "listName": "DeFi, Decentralized Finance",
+    "listDescription": "Decentralized Finance, commonly known as DeFi, represents a transformative shift in the world of finance. DeFi platforms and applications aim to recreate traditional financial systems such as lending, borrowing, trading, and earning interest, but in a decentralized manner without intermediaries. Built predominantly on the Ethereum blockchain, DeFi promises greater financial inclusivity, transparency, and democratization, allowing anyone with an internet connection to access a myriad of financial services. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to DeFi, Decentralized Finance.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x70e67f4b67a491564f7d4df7ddf4e5360791fd9a614a74804a2a452405293409",
+            "OPAmount": 761
+        },
+        {
+            "RPGF3_Application_UID": "0xfa3462fae5e6305802212e022903900ed2b64c10481a8865898493e810903682",
+            "OPAmount": 761
+        },
+        {
+            "RPGF3_Application_UID": "0x974dc60d513de1b51ea0a8ace8df5bb3bb22223e84ae23550497b90f05883e73",
+            "OPAmount": 761
+        },
+        {
+            "RPGF3_Application_UID": "0xcef5619c73158a1b4dd128f918bad2bd2c8c5f6701bb6d2834e92289a9b5f145",
+            "OPAmount": 761
+        },
+        {
+            "RPGF3_Application_UID": "0x99ad2850c7cbda52a16676d6ab956b1434c64f4124d5f2108aa12fda5325205c",
+            "OPAmount": 761
+        },
+        {
+            "RPGF3_Application_UID": "0x76a3260167144f6bd35d5cb0996e48edf645100aa3b4abcd6302a454d34bcee0",
+            "OPAmount": 761
+        },
+        {
+            "RPGF3_Application_UID": "0xbc6583686167c19f766494799349f0a3786ae41aca6d124ebc85460f4b8a26cc",
+            "OPAmount": 761
+        },
+        {
+            "RPGF3_Application_UID": "0x4cd4c0671a5d7bda3cd010d83ca26956c608eb0fc4350291acedb62596d3c03c",
+            "OPAmount": 761
+        },
+        {
+            "RPGF3_Application_UID": "0x09805bd3ff5a0a11b48617d60129da46e585eb7207d3b7f8bbf587bd61849792",
+            "OPAmount": 761
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x70e67f4b67a491564f7d4df7ddf4e5360791fd9a614a74804a2a452405293409",
+            "bio": "True P2P lending",
+            "displayName": "PWN DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd26a52885d80e4aa206A283912FdcA94CCb7844B.png"
+        },
+        {
+            "id": "0xfa3462fae5e6305802212e022903900ed2b64c10481a8865898493e810903682",
+            "bio": "Borrow against staked LP, hedge risk, and earn yield on your yield",
+            "displayName": "VMEX Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3f42b02e699388c668b5B5d6E694C6623Ef82B4d.png"
+        },
+        {
+            "id": "0x974dc60d513de1b51ea0a8ace8df5bb3bb22223e84ae23550497b90f05883e73",
+            "bio": "MetaDex Aggregator, Swap, Felo, Gasless and Perpetuals",
+            "displayName": "Kromatika Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x556c178B5f1793B8a626eA57FbBA79010b4370Bd.png"
+        },
+        {
+            "id": "0xcef5619c73158a1b4dd128f918bad2bd2c8c5f6701bb6d2834e92289a9b5f145",
+            "bio": "A group of researchers dedicated to R,D,E & application of Bonding Curves",
+            "displayName": "Bonding Curve Research Group",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b.png"
+        },
+        {
+            "id": "0x99ad2850c7cbda52a16676d6ab956b1434c64f4124d5f2108aa12fda5325205c",
+            "bio": "The central trading and liquidity marketplace on Base.",
+            "displayName": "Aerodrome Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2C4F3af64e1A832deb10D98aFAA71233794467F8.png"
+        },
+        {
+            "id": "0x76a3260167144f6bd35d5cb0996e48edf645100aa3b4abcd6302a454d34bcee0",
+            "bio": "dForce is a decentralized stablecoin powered by an integrated DeFi matrix.",
+            "displayName": "dForce",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x83A771769D1A344deED9Ea24aB58071e9Db2D90A.png"
+        },
+        {
+            "id": "0xbc6583686167c19f766494799349f0a3786ae41aca6d124ebc85460f4b8a26cc",
+            "bio": "I'm leading the Optimism Prime project and building DeFi tools for the community",
+            "displayName": "c2ba",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x49a5492FDFe5AcC966dD5f41310dfDfe8dAA349C.jpeg"
+        },
+        {
+            "id": "0x4cd4c0671a5d7bda3cd010d83ca26956c608eb0fc4350291acedb62596d3c03c",
+            "bio": "Kwenta is a perpetual futures exchange on Optimism",
+            "displayName": "Kwenta",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x09805bd3ff5a0a11b48617d60129da46e585eb7207d3b7f8bbf587bd61849792",
+            "bio": "Liquidity and trading hub for Base",
+            "displayName": "Equalizer",
+            "profileImageUrl": null
+        }
+    ],
+    "walletAddress": "0xA4D506434445Bb7303eA34A07bc38484cdC64a95",
+    "domainName": "moenick.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x268a9ce54bf16620fe659e65251929e54bdf613fce8c32e3a07666d009557801",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-11T12:32:51",
+    "updatedAt": "2023-11-11T12:32:51",
+    "revokedAt": null,
+    "avatar": "https://euc.li/moenick.eth"
+}

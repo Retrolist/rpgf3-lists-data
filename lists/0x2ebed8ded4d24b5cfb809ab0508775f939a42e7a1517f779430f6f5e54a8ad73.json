@@ -1,0 +1,84 @@
+{
+    "id": "0x2ebed8ded4d24b5cfb809ab0508775f939a42e7a1517f779430f6f5e54a8ad73",
+    "listName": "Africa list (by Yoseph)",
+    "listDescription": "A list of the Africa based projects have been creating impact and contributing to the development of the ecosystem.\n\nIt's important to note that in the current stage of the African ecosystem, when ETHEREUM grows => OPTIMISM grows. \n\nWhy? Ethereum mainnet has been predominantly unusable due to high gas fees, and the center of gravity in the Ethereum community has been heavily disconnected from Africa. So whenever community builders do meaningful work to train talent and grow the Ethereum ecosystem on the continent, they make it directly possible to grow Optimism. Without that type of work, Optimism wouldn't stand a decent chance to penetrate the African market. When evaluating projects, I assume whoever is growing Ethereum is also growing Optimism.",
+    "impactEvaluationDescription": "I have included only projects that I can personally attest have been doing meaningful work for longer than a year.\n\nCriteria:\n1. Track record of execution (length of track record and depth of impact)\n2. Mission / vision alignment with Ethereum and Optimism, based on strategic and operational decisions the team has been making\n3. Where in the lifecycle the project is\n\nI am allocating 50% of my total OP budget to Africa specific projects. This is because the work of so many has been overlooked and unnoticed by the majority of the Ethereum and Optimism communities, and it's important to put significant effort to retroactively recognize all that work.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x07cdfb60650fd3060411253b3c91abdab2739c0b122047ab6d014436fe912282",
+            "OPAmount": 5000000
+        },
+        {
+            "RPGF3_Application_UID": "0x1335374f0d00c61bf195d9eaeb9c4c55ae4a1a0b883ee0d71b680a4783ad528f",
+            "OPAmount": 3000000
+        },
+        {
+            "RPGF3_Application_UID": "0xf41f199697d23be53eb353e02947670e439498081fd2c733ff8befea0c974c37",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0xa1dfddef3afe0156af5fd5870560d13423820a235ec8550e7f66a0e7d5c947c5",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0xad58a1e8a62acd6e69bb570e7dc3aa85b93712d01f881842c77bc78cc713b51a",
+            "OPAmount": 1000000
+        },
+        {
+            "RPGF3_Application_UID": "0x04227ff23823ec09a03a531c924e8bdf5a6d486f3e0e3006b2fbb1a8de58f0d1",
+            "OPAmount": 1000000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x07cdfb60650fd3060411253b3c91abdab2739c0b122047ab6d014436fe912282",
+            "bio": "Grooming Web3 developer in Africa for global contribution",
+            "displayName": "Web3bridge",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A.png"
+        },
+        {
+            "id": "0x1335374f0d00c61bf195d9eaeb9c4c55ae4a1a0b883ee0d71b680a4783ad528f",
+            "bio": "Largest ETH event in Africa",
+            "displayName": "ETHSafari 2023",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171.png"
+        },
+        {
+            "id": "0xf41f199697d23be53eb353e02947670e439498081fd2c733ff8befea0c974c37",
+            "bio": "Abena is an academic researcher, community builder and founder of ETHAccra.",
+            "displayName": "ETHAccra",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ac685a55bce6b515fC1Ea713146f6D099A5054b.png"
+        },
+        {
+            "id": "0xa1dfddef3afe0156af5fd5870560d13423820a235ec8550e7f66a0e7d5c947c5",
+            "bio": "Driving Web3 Advancement in Africa through Talent Development & Tech Innovation.",
+            "displayName": "AyaHQ",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf203D6C796B99d0F2f861d1B838074822dd64D7c.png"
+        },
+        {
+            "id": "0xad58a1e8a62acd6e69bb570e7dc3aa85b93712d01f881842c77bc78cc713b51a",
+            "bio": "Educating and onboarding everyday Africans to Web3",
+            "displayName": "Bankless Africa",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x74021a7599CF772275c6d5699Fb681bEeB0d7AA8.png"
+        },
+        {
+            "id": "0x04227ff23823ec09a03a531c924e8bdf5a6d486f3e0e3006b2fbb1a8de58f0d1",
+            "bio": "The DeFi Pioneer in Africa, Empowering Individuals and Businesses To Adopt Web3.",
+            "displayName": "DeFi Africa",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd952010BAFcAdB7a2052EE697C883A0565A8c01E.png"
+        }
+    ],
+    "walletAddress": "0x378c23B326504Df4d29c81BA6757F53b2c59f315",
+    "domainName": "yoseph.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x2ebed8ded4d24b5cfb809ab0508775f939a42e7a1517f779430f6f5e54a8ad73",
+    "approvalAttestationUid": "0x2ebed8ded4d24b5cfb809ab0508775f939a42e7a1517f779430f6f5e54a8ad73",
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-12-06T00:23:33",
+    "updatedAt": "2023-12-06T00:23:33",
+    "revokedAt": null,
+    "avatar": null
+}

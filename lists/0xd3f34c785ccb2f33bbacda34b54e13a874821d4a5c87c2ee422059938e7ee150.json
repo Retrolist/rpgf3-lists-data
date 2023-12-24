@@ -1,0 +1,94 @@
+{
+    "id": "0xd3f34c785ccb2f33bbacda34b54e13a874821d4a5c87c2ee422059938e7ee150",
+    "listName": "Exchanges, DEX, Trading & Liquidity",
+    "listDescription": "undefined Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Exchanges, DEX, Trading & Liquidity.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xb3959024102e91174b2efeea3d0307b967c4c0f4a0319eef45b99f5a40c174d3",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0xc2eba66a043d5471132cb40947e81f106f83d0bbbc0d4af3fff5e800ad7411c2",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x686631456b8a61089497f6cb36abb0b9965c47464383603402a8688b8b69fa93",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x93977731af37cb1a984d86979b1c4e3dc421a6328fee9a15ff2c110cf0ba7ae2",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0xa68cedeaeff9ca00cd18ef58f1bd1281100051532c53820737d703331aac9869",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0xfe9dac03e5168415428bacaeaab40470bc95d66495fee2505e7d8cf612f15001",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x65fc350b5c476f3638d7a6853c4fee99dba8b7965e856bb8d2709eca0a7f1281",
+            "OPAmount": 95846
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xb3959024102e91174b2efeea3d0307b967c4c0f4a0319eef45b99f5a40c174d3",
+            "bio": "UXUY is the next-gen decentralized multi-chain trading platform.",
+            "displayName": "UXUY",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0e14e65C5790Ecd88e2BD36f9Eee780B95E22354.png"
+        },
+        {
+            "id": "0xc2eba66a043d5471132cb40947e81f106f83d0bbbc0d4af3fff5e800ad7411c2",
+            "bio": "A leading multi-chain DEX supporting the DeFi needs of 25+ Blockchain Ecosystems",
+            "displayName": "Sushi",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5732B7695F06b9080109B10dec0856e1b801c15.png"
+        },
+        {
+            "id": "0x686631456b8a61089497f6cb36abb0b9965c47464383603402a8688b8b69fa93",
+            "bio": "Upload Imagination, Earn Ethereum.",
+            "displayName": "ZORA",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8700B87C2A053BDE8Cdc84d5078B4AE47c127FeB.png"
+        },
+        {
+            "id": "0x93977731af37cb1a984d86979b1c4e3dc421a6328fee9a15ff2c110cf0ba7ae2",
+            "bio": "The central trading and liquidity marketplace on Optimism.",
+            "displayName": "Velodrome",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652.png"
+        },
+        {
+            "id": "0xa68cedeaeff9ca00cd18ef58f1bd1281100051532c53820737d703331aac9869",
+            "bio": "Baseswap is a decentralized exchange (DEX) on Base with several products.",
+            "displayName": "Baseswap",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2BA3c3e9D61C776b415ECCd753133dEF6737770A.png"
+        },
+        {
+            "id": "0xfe9dac03e5168415428bacaeaab40470bc95d66495fee2505e7d8cf612f15001",
+            "bio": "A payments dApp that allows you to send funds to people who don't have a wallet",
+            "displayName": "Woosh",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3B2d493a88D97D26BE518c8048778d155831462B.png"
+        },
+        {
+            "id": "0x65fc350b5c476f3638d7a6853c4fee99dba8b7965e856bb8d2709eca0a7f1281",
+            "bio": "Platform for multiplayer collaboration on fashion drops with digital IP rights.",
+            "displayName": "Crowdmuse",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb38b6c236347603e0705f912B877D6308Ec10f13.png"
+        }
+    ],
+    "walletAddress": "0x8ED91f4e13Ad1D74205a05E2eFeB1DB5175845a3",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0xd3f34c785ccb2f33bbacda34b54e13a874821d4a5c87c2ee422059938e7ee150",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-12T13:30:45",
+    "updatedAt": "2023-11-12T13:30:45",
+    "revokedAt": null,
+    "avatar": null
+}

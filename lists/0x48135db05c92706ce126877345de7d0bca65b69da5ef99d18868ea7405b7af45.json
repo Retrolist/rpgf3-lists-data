@@ -1,0 +1,34 @@
+{
+    "id": "0x48135db05c92706ce126877345de7d0bca65b69da5ef99d18868ea7405b7af45",
+    "listName": "ZK ID [active on-chain; test]",
+    "listDescription": "Zero knowledge identity projects that have made significant contributions to the OP ecosystem, including live contracts that empower OP users with private & secure identity. These projects enable import of off-chain credentials on to OP to bridge reputation on-chain.",
+    "impactEvaluationDescription": "Minimum 1k users, with auditable deployment of zero knowledge proofs and/or circuits. Clear privacy guidelines and requirements. Must have on-chain activity.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "OTHER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x6edbaf833fdee6fb7ae4411e30ac9da8ee22af2c2aea303adbeaf5de80937d6f",
+            "OPAmount": 0
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x6edbaf833fdee6fb7ae4411e30ac9da8ee22af2c2aea303adbeaf5de80937d6f",
+            "bio": "ZK identity protocol for sybil resistance, secure key custody, and open civics.",
+            "displayName": "Holonym",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33359285F30E7B3386dE70ca500F4fe27853765B.png"
+        }
+    ],
+    "walletAddress": "0x33359285F30E7B3386dE70ca500F4fe27853765B",
+    "domainName": "ltd.opscientia.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x48135db05c92706ce126877345de7d0bca65b69da5ef99d18868ea7405b7af45",
+    "approvalAttestationUid": null,
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-11-03T12:43:35",
+    "updatedAt": "2023-11-03T12:43:35",
+    "revokedAt": null,
+    "avatar": null
+}

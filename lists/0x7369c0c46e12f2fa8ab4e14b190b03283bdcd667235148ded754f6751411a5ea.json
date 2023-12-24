@@ -1,0 +1,144 @@
+{
+    "id": "0x7369c0c46e12f2fa8ab4e14b190b03283bdcd667235148ded754f6751411a5ea",
+    "listName": "Testing List ",
+    "listDescription": "Creating a list to test",
+    "impactEvaluationDescription": "from the value created by their contribution. \n\nNote:- \nnot including two applications for the following reason \n1- Self https://retro-pgf-staging.vercel.app/projects/0xf79ce6e79fdb9112ac891b4e0c8f61c038fde1c1ced9d1b7e03c93c31e5f5b1f\n2- https://retro-pgf-staging.vercel.app/projects/0x97c886fb0d5a8bfab9a5fc21425872c711d020d8ba98d381b4d122301d2937ce, I invited them to submit their proposal, although I am not sure if they did it because of me or not but not including them is better choice here. \nFor both, I request you to make your own judgement. ",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xbe5c87794ca0822b4c390218f3d40f9ed33679285313a429b9027aa17760f6fe",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x97c886fb0d5a8bfab9a5fc21425872c711d020d8ba98d381b4d122301d2937ce",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x58947058b1c0a3d31c4c8f6e43c891459156ceb6e6fbf9547ee087ec78f0517b",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x1440934dcf3ca194befd08b28e86eb6c2d68dd984070cf51f68fb3ad144b496c",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+            "OPAmount": 0
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xbe5c87794ca0822b4c390218f3d40f9ed33679285313a429b9027aa17760f6fe",
+            "bio": "A platform that aggregates financial data on the leading blockchains and dApps.",
+            "displayName": "Token Terminal",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeB67e286faf667A047e435EC90107122b0bC2C01.png"
+        },
+        {
+            "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+            "bio": "Tally is an onchain governance app for Ethereum ecosystem",
+            "displayName": "Tally",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
+        },
+        {
+            "id": "0x97c886fb0d5a8bfab9a5fc21425872c711d020d8ba98d381b4d122301d2937ce",
+            "bio": "Protocols research from all angles across many domains, open-sourced findings.",
+            "displayName": "Summer of Protocols",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10F5d45854e038071485AC9e402308cF80D2d2fE.png"
+        },
+        {
+            "id": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+            "bio": "Snapshot is a voting platform that allows DAOs to vote without gas fees.",
+            "displayName": "Snapshot",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.png"
+        },
+        {
+            "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "bio": "Unlock your community potential - reputation scores, rewards and deep insights",
+            "displayName": "Praise",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+            "id": "0x58947058b1c0a3d31c4c8f6e43c891459156ceb6e6fbf9547ee087ec78f0517b",
+            "bio": "I write about crypto-related topics like governance, sustainability and scaling.",
+            "displayName": "polynya",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x429F9aDA43e9F345CbB85EC88681BB70Df808892.png"
+        },
+        {
+            "id": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "bio": "The NumbaNERDs program ensures the collective has quality analytics available.",
+            "displayName": "NumbaNERDs",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x1440934dcf3ca194befd08b28e86eb6c2d68dd984070cf51f68fb3ad144b496c",
+            "bio": "L2BEAT is a public goods company dedicated to providing on-chain transparency.",
+            "displayName": "L2BEAT 💗",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD.png"
+        },
+        {
+            "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "bio": "Karma is a suite of contributor reputation tools helping DAOs improve governance",
+            "displayName": "Karma",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+        },
+        {
+            "id": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+            "bio": "web3 community platform for members to build relationships, work together & vote",
+            "displayName": "CharmVerse",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.png"
+        },
+        {
+            "id": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+            "bio": "Advocating accessible Optimism governance, amplifying voices in 🇲🇽 and beyond.",
+            "displayName": "Brichis",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.png"
+        },
+        {
+            "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+            "bio": "Working towards increasing Latin Americans participation in governance.",
+            "displayName": "SEED Latam",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
+        }
+    ],
+    "walletAddress": "0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c",
+    "domainName": "hailvitalik.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x7369c0c46e12f2fa8ab4e14b190b03283bdcd667235148ded754f6751411a5ea",
+    "approvalAttestationUid": "0x7369c0c46e12f2fa8ab4e14b190b03283bdcd667235148ded754f6751411a5ea",
+    "categories": [
+        "COLLECTIVE_GOVERNANCE"
+    ],
+    "createdAt": "2023-11-01T23:17:11",
+    "updatedAt": "2023-11-01T23:17:11",
+    "revokedAt": null,
+    "avatar": null
+}

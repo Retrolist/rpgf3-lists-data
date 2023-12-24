@@ -1,0 +1,114 @@
+{
+    "id": "0x0c645e8ec042db344b3a02a923e66ee75ccd48f3a3671c08f19ffaad9be85d87",
+    "listName": "Gaming & Entertainment",
+    "listDescription": "undefined Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Gaming & Entertainment.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x3522b543586e652743d839b52fc9a5c6f84a80c8deaefb9bb0185a09ebbc94fe",
+            "OPAmount": 73803
+        },
+        {
+            "RPGF3_Application_UID": "0x7798b38892ddd5886fd875fc959dfdcf7e038930b9d261919b0cc1bf2a62fd39",
+            "OPAmount": 73803
+        },
+        {
+            "RPGF3_Application_UID": "0xc15f111484081470f19dfc3881788a82c8190a130e85b68d5fbce1cc650d1416",
+            "OPAmount": 73803
+        },
+        {
+            "RPGF3_Application_UID": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "OPAmount": 73803
+        },
+        {
+            "RPGF3_Application_UID": "0xccb0d19eb7ee3c139cd786b773867971d3a1637f06900a9d6d15f09b0b9d8153",
+            "OPAmount": 73803
+        },
+        {
+            "RPGF3_Application_UID": "0x0b411c4ad65b9d556e4cb414b09e63081ce572b737b01a219a2e9f3aa5ee82ca",
+            "OPAmount": 73803
+        },
+        {
+            "RPGF3_Application_UID": "0x33135d1d7ea18427c5096af97f5d5bcac392b8bbe871a9a0a9dd62ce651212df",
+            "OPAmount": 73803
+        },
+        {
+            "RPGF3_Application_UID": "0x23941036bed0443d9f55d25e340a3d92c23a52ac020acbbec3f4805d6d57f4b2",
+            "OPAmount": 73803
+        },
+        {
+            "RPGF3_Application_UID": "0x307febda7530cf58de21328592978957be0fc81bbf80d4feb4a42a61d6f39f6c",
+            "OPAmount": 73803
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x3522b543586e652743d839b52fc9a5c6f84a80c8deaefb9bb0185a09ebbc94fe",
+            "bio": "Your one-stop-shop for news, takes, alpha, and research for onchain games.",
+            "displayName": "WASD",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x7798b38892ddd5886fd875fc959dfdcf7e038930b9d261919b0cc1bf2a62fd39",
+            "bio": "An adventure game to learn about Web3 in a fun way, without any technical jargon",
+            "displayName": "Revolte",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAC4DDaf8FBfFba0f1e8c7619720335FD4f03EaCD.png"
+        },
+        {
+            "id": "0xc15f111484081470f19dfc3881788a82c8190a130e85b68d5fbce1cc650d1416",
+            "bio": "COLLECT – OWN – BELONG",
+            "displayName": "anotherblock",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD8A7d1E1e7e7B35280001180a95e5013E54d1310.png"
+        },
+        {
+            "id": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "bio": "Paint Together. Mint Daily.",
+            "displayName": "BasePaint",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb48E8dA63c2aFc5633702B7acf4BDe830c1dE48b.png"
+        },
+        {
+            "id": "0xccb0d19eb7ee3c139cd786b773867971d3a1637f06900a9d6d15f09b0b9d8153",
+            "bio": "Downstream is an MMO implemented as a fully onchain, Autonomous World.",
+            "displayName": "Downstream",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa.png"
+        },
+        {
+            "id": "0x0b411c4ad65b9d556e4cb414b09e63081ce572b737b01a219a2e9f3aa5ee82ca",
+            "bio": "Mobile Web3 Gaming & VR/AR Society",
+            "displayName": "JEFE TOKEN",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3f9104a933b9CfEF0a1a0cA0e42C552b9df741c8.png"
+        },
+        {
+            "id": "0x33135d1d7ea18427c5096af97f5d5bcac392b8bbe871a9a0a9dd62ce651212df",
+            "bio": "A scaling solution, developed as part of fully onchain game, Downstream.",
+            "displayName": "Client Side Proofs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa.png"
+        },
+        {
+            "id": "0x23941036bed0443d9f55d25e340a3d92c23a52ac020acbbec3f4805d6d57f4b2",
+            "bio": "Lattice is the team behind MUD, the OSS app framework for Ethereum, and OPCraft",
+            "displayName": "Lattice (OPCraft & MUD)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc640Dd8933f12FC788C56ab121ACa4cdBb7d7FC2.png"
+        },
+        {
+            "id": "0x307febda7530cf58de21328592978957be0fc81bbf80d4feb4a42a61d6f39f6c",
+            "bio": "A Ready-Player-One-like 3D open world platform for gamifying token utilities",
+            "displayName": "Another World",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6cfbF06E8b6612B39333eA7c230208D1d178278d.png"
+        }
+    ],
+    "walletAddress": "0xcd192b61a8Dd586A97592555c1f5709e032F2505",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0x0c645e8ec042db344b3a02a923e66ee75ccd48f3a3671c08f19ffaad9be85d87",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-12T09:21:47",
+    "updatedAt": "2023-11-12T09:21:47",
+    "revokedAt": null,
+    "avatar": null
+}

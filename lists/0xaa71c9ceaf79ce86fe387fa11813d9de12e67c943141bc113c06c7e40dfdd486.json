@@ -1,0 +1,242 @@
+{
+    "id": "0xaa71c9ceaf79ce86fe387fa11813d9de12e67c943141bc113c06c7e40dfdd486",
+    "listName": "Developer Tools - Nodes & Security",
+    "listDescription": "In the world of blockchain development, nodes are fundamental. They represent individual points in the network, ensuring data integrity, verification, and transmission. Security, on the other hand, is paramount. With the decentralized nature of blockchain, ensuring that data is secure and immune to malicious attacks is vital. Developer tools in these areas provide the necessary infrastructure, monitoring capabilities, and protective measures to ensure the robustness and safety of the blockchain network. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Developer Tools - Nodes & Security.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "OTHER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+            "OPAmount": 99999
+        },
+        {
+            "RPGF3_Application_UID": "0x3c5bf96d1ae3c4e995b0892b515cb837d877a11f6f63878bded9b5020598fd3f",
+            "OPAmount": 41176
+        },
+        {
+            "RPGF3_Application_UID": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+            "OPAmount": 41176
+        },
+        {
+            "RPGF3_Application_UID": "0x67fab3ded419221982f0e55f3f63dbf701f18e39f90aef73ac2379ccf7a4fcd6",
+            "OPAmount": 35294
+        },
+        {
+            "RPGF3_Application_UID": "0x8d15e0dc5ed8352869c7c684287b7a24637d584172261b40f19790bac0466f45",
+            "OPAmount": 35294
+        },
+        {
+            "RPGF3_Application_UID": "0x72f6d960a8d3b50bcc6723270fd211884b60dabece4f3b400014369f442810ed",
+            "OPAmount": 35294
+        },
+        {
+            "RPGF3_Application_UID": "0xaf869c5736e4275f6d6bd2c4a9b8dac21dab4558e0758e6db27e13807f6b1a94",
+            "OPAmount": 29412
+        },
+        {
+            "RPGF3_Application_UID": "0xdee444308961ba4f353fc5912a3cf87ffb002fb4c3f5674182e4dbab75bf0622",
+            "OPAmount": 29412
+        },
+        {
+            "RPGF3_Application_UID": "0xcb6ac0e12379465dc8d9c9ef5396ef4b8fbbfc17067e20b21c01b4cf56657636",
+            "OPAmount": 29412
+        },
+        {
+            "RPGF3_Application_UID": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+            "OPAmount": 29412
+        },
+        {
+            "RPGF3_Application_UID": "0xda1670c62e098723eb2771411d114d39fb1da864f5fe3796f5ff9926565cfeda",
+            "OPAmount": 23529
+        },
+        {
+            "RPGF3_Application_UID": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "OPAmount": 23529
+        },
+        {
+            "RPGF3_Application_UID": "0x932ab86dcbf750b9224665f7d9974c6e9e428470974ae59658b61cd7c3283728",
+            "OPAmount": 23529
+        },
+        {
+            "RPGF3_Application_UID": "0xf9160cc40a4a58bbbf08c93df3fd2050b48a9fe7b7b2ce24325b6a30c265afc9",
+            "OPAmount": 17647
+        },
+        {
+            "RPGF3_Application_UID": "0xd34b4f953913284fa62737fcec2439fd6b192149023f6dbd6f3a91f5b716d295",
+            "OPAmount": 17647
+        },
+        {
+            "RPGF3_Application_UID": "0x60da4d7694d025119a3c47f6fd67aa417718fe089f8c98d4f0ccda524cd777df",
+            "OPAmount": 17647
+        },
+        {
+            "RPGF3_Application_UID": "0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+            "OPAmount": 17647
+        },
+        {
+            "RPGF3_Application_UID": "0x1516df1a13142b00b7e5ee4496faab4709d2fc8fd67b0c3780e976fc7062528f",
+            "OPAmount": 11764
+        },
+        {
+            "RPGF3_Application_UID": "0xf295943be951d3e4968d8c5e42378e5ace7da7c801f83033ae6b06b8c7fe9f03",
+            "OPAmount": 11764
+        },
+        {
+            "RPGF3_Application_UID": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "OPAmount": 11764
+        },
+        {
+            "RPGF3_Application_UID": "0x4fa62d7e6f1c9e324e6faeb6589d100573bd57b709df68edbe00204200670e1a",
+            "OPAmount": 11764
+        },
+        {
+            "RPGF3_Application_UID": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "OPAmount": 5882
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+            "bio": "Run a ~$300 PnP Ethereum L1 and L2 node on ARM boads that uses only ~10w to run.",
+            "displayName": "Ethereum on ARM",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x91A3b28aE8a04C174448d4b10150C844871fCb3c.png"
+        },
+        {
+            "id": "0x3c5bf96d1ae3c4e995b0892b515cb837d877a11f6f63878bded9b5020598fd3f",
+            "bio": "Bware Labs is a one-stop shop for all builders within the Web3 space.",
+            "displayName": "Bware Labs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA60aB65B7Fc55F5526Af0b8AB038dc621606C8df.png"
+        },
+        {
+            "id": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+            "bio": "Indexes EVM blockchains using a fully decentralized and local-first stack.",
+            "displayName": "TrueBlocks / Unchained Index",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x67fab3ded419221982f0e55f3f63dbf701f18e39f90aef73ac2379ccf7a4fcd6",
+            "bio": "Web3 Infrastructure Performance Monitoring & Tools",
+            "displayName": "CompareNodes",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4Cf6031eDE6431D323AE5aA6eB1651B81B693Fc5.png"
+        },
+        {
+            "id": "0x8d15e0dc5ed8352869c7c684287b7a24637d584172261b40f19790bac0466f45",
+            "bio": "Building open source Ethereum indexing software and services",
+            "displayName": "Index Supply",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x72f6d960a8d3b50bcc6723270fd211884b60dabece4f3b400014369f442810ed",
+            "bio": "A decentralised node network providing developer RPCs & public endpoints",
+            "displayName": "Pocket Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7b8B83e68C73AA4F00e6eD1A505dE15147AD5764.png"
+        },
+        {
+            "id": "0xaf869c5736e4275f6d6bd2c4a9b8dac21dab4558e0758e6db27e13807f6b1a94",
+            "bio": "Immunefi is a web3 focused bug bounty platform.",
+            "displayName": "Immunefi",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xdee444308961ba4f353fc5912a3cf87ffb002fb4c3f5674182e4dbab75bf0622",
+            "bio": "Run a node at home, the easy way",
+            "displayName": "NiceNode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9cce47E9cF12C6147c9844adBB81fE85880c4df4.png"
+        },
+        {
+            "id": "0xcb6ac0e12379465dc8d9c9ef5396ef4b8fbbfc17067e20b21c01b4cf56657636",
+            "bio": "Full-stack infrastructure solution for fast and reliable dApp development.",
+            "displayName": "Tenderly",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF43350d7F1E6b8E0A6605145DA043f7326E10142.png"
+        },
+        {
+            "id": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+            "bio": "Full-featured open-source block explorer",
+            "displayName": "Blockscout Block Explorer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C36Bd76a6c138187C43da92f66f37E23b4017fA.png"
+        },
+        {
+            "id": "0xda1670c62e098723eb2771411d114d39fb1da864f5fe3796f5ff9926565cfeda",
+            "bio": "Open, decoded, and CC0-licensed Optimism Superchain datasets.",
+            "displayName": "indexed.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9.png"
+        },
+        {
+            "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
+            "displayName": "Dappnode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+            "id": "0x932ab86dcbf750b9224665f7d9974c6e9e428470974ae59658b61cd7c3283728",
+            "bio": "RPC, Snapshot, & Indexing services with top performance, at market-low prices.",
+            "displayName": "Nodies DLB",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x24372Ba79203e2c68bB7615032A172E3DAed6991.png"
+        },
+        {
+            "id": "0xf9160cc40a4a58bbbf08c93df3fd2050b48a9fe7b7b2ce24325b6a30c265afc9",
+            "bio": "Chainpatrol protects the Optimism Collective by blocking online threats daily",
+            "displayName": "ChainPatrol - Real Time Security protecting the OP Collective",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D9d22E1821Be3b1Ce2A8ACB6FE47fFEF04243c3.png"
+        },
+        {
+            "id": "0xd34b4f953913284fa62737fcec2439fd6b192149023f6dbd6f3a91f5b716d295",
+            "bio": "Web3 user security network",
+            "displayName": "GoPlus Security",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a293687b286bBd175513C627d7f871A2f701A87.png"
+        },
+        {
+            "id": "0x60da4d7694d025119a3c47f6fd67aa417718fe089f8c98d4f0ccda524cd777df",
+            "bio": "The gateway to decentralised frontends in the DeFi ecosystem",
+            "displayName": "Synthetix IPFS Node",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7.png"
+        },
+        {
+            "id": "0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+            "bio": "Open Source Ethereum Explorer",
+            "displayName": "beaconcha.in",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979.jpeg"
+        },
+        {
+            "id": "0x1516df1a13142b00b7e5ee4496faab4709d2fc8fd67b0c3780e976fc7062528f",
+            "bio": "UI for OP Stack & Node & Subgraph deployment with open-source scripts.",
+            "displayName": "Upnode Deploy | OP Stack Deployment UI",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2813a5B046909e5FC42a657b8e0dd9BAbFED18e7.png"
+        },
+        {
+            "id": "0xf295943be951d3e4968d8c5e42378e5ace7da7c801f83033ae6b06b8c7fe9f03",
+            "bio": "Internet ledger of truth",
+            "displayName": "Proofivy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x38189D98110A395A1366F1c95875f81fD458a6C3.jpeg"
+        },
+        {
+            "id": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "bio": "OP Reth is Reth but for the Optimism Collective, a new high performance client.",
+            "displayName": "OP Reth",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x4fa62d7e6f1c9e324e6faeb6589d100573bd57b709df68edbe00204200670e1a",
+            "bio": "Ankr provides Optimism with developer tooling and Free RPC Endpoints",
+            "displayName": "Ankr",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "bio": "Test in Prod is a core development team of Optimism Collective.",
+            "displayName": "Test in Prod",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0583EeA7C089A7f74c1Fe4e6CCF1072FA016b50A.png"
+        }
+    ],
+    "walletAddress": "0xE60B9D951da8488405Da3ee341431417898870c8",
+    "domainName": "retropgf.giv.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0xaa71c9ceaf79ce86fe387fa11813d9de12e67c943141bc113c06c7e40dfdd486",
+    "approvalAttestationUid": null,
+    "categories": [],
+    "createdAt": "2023-10-31T01:31:45",
+    "updatedAt": "2023-10-31T01:31:45",
+    "revokedAt": null,
+    "avatar": null
+}

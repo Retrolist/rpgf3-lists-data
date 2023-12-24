@@ -1,0 +1,244 @@
+{
+    "id": "0xff2659d89773b0f2f9bb385b674f6e57ab42ae5c8a1f37849eb7070111b31547",
+    "listName": "Wallet and wallet tools",
+    "listDescription": "undefined Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Wallet and wallet tools.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+            "OPAmount": 189356
+        },
+        {
+            "RPGF3_Application_UID": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
+            "OPAmount": 111386
+        },
+        {
+            "RPGF3_Application_UID": "0x89b53a59649679cb236eebf535a54d7e1cec185f6910384f3043a76a5a47d489",
+            "OPAmount": 100247
+        },
+        {
+            "RPGF3_Application_UID": "0x53cb6fdfffcd21aa5dfa3148f22fcbcfded49bafde4545047c2e43279fb0fbb6",
+            "OPAmount": 77970
+        },
+        {
+            "RPGF3_Application_UID": "0x251336cd934467f35ab8bacf6be71dd8ad87457b6b7edd4a70df44cea59b0e68",
+            "OPAmount": 77970
+        },
+        {
+            "RPGF3_Application_UID": "0x8879309f2fcaea2302c281212c36d7a1446914ed6fa2f88162b0918d09b25fdd",
+            "OPAmount": 66831
+        },
+        {
+            "RPGF3_Application_UID": "0x4a55121a4d6e6e6f70a7a117793940ad6709c14e6339e2b0906315677e4dacf1",
+            "OPAmount": 55693
+        },
+        {
+            "RPGF3_Application_UID": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+            "OPAmount": 55693
+        },
+        {
+            "RPGF3_Application_UID": "0xa97c448ca6377c5fa57fcfb2a4acf93b707164702f8cc3dc2b4ad8dfb5ecb9a8",
+            "OPAmount": 44554
+        },
+        {
+            "RPGF3_Application_UID": "0xd0f85e82439cc4c58186702cec1e6ef21d07a3540799a5938dc54551bf7ce18b",
+            "OPAmount": 44554
+        },
+        {
+            "RPGF3_Application_UID": "0x8c31dee5481fdf0cade4e023ca397551f62c016db3690f0a5ae47855a2bc8060",
+            "OPAmount": 44554
+        },
+        {
+            "RPGF3_Application_UID": "0xb5c0a289d0c30d5faeec110c1c80231e2cf975e85f9ebcf5ccb493e97fb2bc3c",
+            "OPAmount": 33415
+        },
+        {
+            "RPGF3_Application_UID": "0xd9583aeb5f21cb6b172d4638a0465452572567143ab30c49dadb5e6ac5bf91d5",
+            "OPAmount": 33415
+        },
+        {
+            "RPGF3_Application_UID": "0xbdf3e582179cedbd19e3c14d94e1936b5855653242054c3c4170d0b340700f4d",
+            "OPAmount": 22277
+        },
+        {
+            "RPGF3_Application_UID": "0xd8b0dc71191314a8a0a54b20e63a1a6d843ea350461c7300c13f2fd4fa2ddcad",
+            "OPAmount": 22277
+        },
+        {
+            "RPGF3_Application_UID": "0xfdb49a44b3f75ed85a6f61f4c5a36a358ef8712b9b151050aedf65d4c2abae91",
+            "OPAmount": 22277
+        },
+        {
+            "RPGF3_Application_UID": "0x926732964620bac66319e23710f48f8d8e480130347f0de60075c10fd23b531e",
+            "OPAmount": 22277
+        },
+        {
+            "RPGF3_Application_UID": "0xb9df52b520c2f18ab2bd7468e08a1a4b0f9c048f797466369efa61618ec19476",
+            "OPAmount": 22277
+        },
+        {
+            "RPGF3_Application_UID": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+            "OPAmount": 22277
+        },
+        {
+            "RPGF3_Application_UID": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "OPAmount": 22277
+        },
+        {
+            "RPGF3_Application_UID": "0x723da383185924834ea462c791d4e21dac5dedc94ba164bd37adc571ba5008ed",
+            "OPAmount": 22277
+        },
+        {
+            "RPGF3_Application_UID": "0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+            "OPAmount": 11138
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+            "bio": "Candide builds open Account Abstraction software",
+            "displayName": "Candide",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56a1740878966Bc82a1d9C047E46B02533857626.png"
+        },
+        {
+            "id": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
+            "bio": "Turn any NFT into a smart wallet.",
+            "displayName": "6551 Studio",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6.png"
+        },
+        {
+            "id": "0x89b53a59649679cb236eebf535a54d7e1cec185f6910384f3043a76a5a47d489",
+            "bio": "Your wallets are about to disapear!",
+            "displayName": "Wallet Abstraction",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a.png"
+        },
+        {
+            "id": "0x53cb6fdfffcd21aa5dfa3148f22fcbcfded49bafde4545047c2e43279fb0fbb6",
+            "bio": "The smart contract wallet made Ethereum safe and easy. #socialRecovery #4337",
+            "displayName": "Soul Wallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2.png"
+        },
+        {
+            "id": "0x251336cd934467f35ab8bacf6be71dd8ad87457b6b7edd4a70df44cea59b0e68",
+            "bio": "Making Web3 Safer for Everyone",
+            "displayName": "Webacy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF.jpeg"
+        },
+        {
+            "id": "0x8879309f2fcaea2302c281212c36d7a1446914ed6fa2f88162b0918d09b25fdd",
+            "bio": "Know what is going in and out of your wallet before signing.",
+            "displayName": "Fire",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x57B02589d6e24203FC43e442ce9A4803E290293b.png"
+        },
+        {
+            "id": "0x4a55121a4d6e6e6f70a7a117793940ad6709c14e6339e2b0906315677e4dacf1",
+            "bio": "Secure, handy, cost-effective hardware wallet for crypto holders",
+            "displayName": "Keyring",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fD0030D3D21d17Fb4056DE319faD67A853b3C20.png"
+        },
+        {
+            "id": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+            "bio": "System-wide web3 Platform",
+            "displayName": "Frame",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c.png"
+        },
+        {
+            "id": "0xa97c448ca6377c5fa57fcfb2a4acf93b707164702f8cc3dc2b4ad8dfb5ecb9a8",
+            "bio": "Verso Mobile Wallet for Optimism",
+            "displayName": "Verso",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96.png"
+        },
+        {
+            "id": "0xd0f85e82439cc4c58186702cec1e6ef21d07a3540799a5938dc54551bf7ce18b",
+            "bio": "Programmable identity for the multiwallet world",
+            "displayName": "Delegate",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6Ed7D526b020780f694f3c10Dfb25E1b134D3215.png"
+        },
+        {
+            "id": "0x8c31dee5481fdf0cade4e023ca397551f62c016db3690f0a5ae47855a2bc8060",
+            "bio": "Helping the next 100m+ users protect their crypto.",
+            "displayName": "Wallet Guard",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c.png"
+        },
+        {
+            "id": "0xb5c0a289d0c30d5faeec110c1c80231e2cf975e85f9ebcf5ccb493e97fb2bc3c",
+            "bio": "A go-to mobile app for everything onchain",
+            "displayName": "Surreal",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA582360DA4ae1fBb912C975fcce1A0C0e2af91e8.png"
+        },
+        {
+            "id": "0xd9583aeb5f21cb6b172d4638a0465452572567143ab30c49dadb5e6ac5bf91d5",
+            "bio": "Ethereum HD Wallet derivation library in Go",
+            "displayName": "go-ethereum-hdwallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E.png"
+        },
+        {
+            "id": "0xbdf3e582179cedbd19e3c14d94e1936b5855653242054c3c4170d0b340700f4d",
+            "bio": "An open-source, framework-agnostic JavaScript library to onboard users to web3.",
+            "displayName": "Blocknative | Web3 Onboard",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf14613626f1287600d97cBf55AEDd924B62c2af6.png"
+        },
+        {
+            "id": "0xd8b0dc71191314a8a0a54b20e63a1a6d843ea350461c7300c13f2fd4fa2ddcad",
+            "bio": "Fun, powerful, and secure wallets",
+            "displayName": "Rainbow Wallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x465E764B56429788e031160F66a5F9791193B56F.png"
+        },
+        {
+            "id": "0xfdb49a44b3f75ed85a6f61f4c5a36a358ef8712b9b151050aedf65d4c2abae91",
+            "bio": "ethOS is a free & open source mobile OS that embraces Ethereum",
+            "displayName": "ethOS",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x12dC5fF4AB146D9f70e50bd5f9854114a115e6c9.png"
+        },
+        {
+            "id": "0x926732964620bac66319e23710f48f8d8e480130347f0de60075c10fd23b531e",
+            "bio": "Web3 Identity management platform supercharging ENS utility.",
+            "displayName": "Namespace",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x035eBd096AFa6b98372494C7f08f3402324117D3.png"
+        },
+        {
+            "id": "0xb9df52b520c2f18ab2bd7468e08a1a4b0f9c048f797466369efa61618ec19476",
+            "bio": "Castle is a multi-chain EOA and multi-sig aggregator for NFTs and coins on OP.",
+            "displayName": "mehran @ castle",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x071D9fe61cE306AEF04b7889780f889f444D7BF7.png"
+        },
+        {
+            "id": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+            "bio": "The first decentralized one-stop wallet ecosystem & Web3 browser",
+            "displayName": "Infinity Wallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671.png"
+        },
+        {
+            "id": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "bio": "Revoke.cash is a token approvals dashboard and browser extension to stay safe.",
+            "displayName": "Revoke.cash",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe126b3E5d052f1F575828f61fEBA4f4f2603652a.png"
+        },
+        {
+            "id": "0x723da383185924834ea462c791d4e21dac5dedc94ba164bd37adc571ba5008ed",
+            "bio": "The best way to connect a wallet",
+            "displayName": "RainbowKit",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a3d05c70581bD345fe117c06e45f9669205384f.png"
+        },
+        {
+            "id": "0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+            "bio": "Your ENS identity on Optimism. Zero registration & renewal fees.",
+            "displayName": "OptiNames | ENS on Optimism 🔴",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7dc20f310De2fC1B8163F27551544c52eBDB0D30.png"
+        }
+    ],
+    "walletAddress": "0x8ED91f4e13Ad1D74205a05E2eFeB1DB5175845a3",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0xff2659d89773b0f2f9bb385b674f6e57ab42ae5c8a1f37849eb7070111b31547",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-14T11:34:19",
+    "updatedAt": "2023-11-14T11:34:19",
+    "revokedAt": null,
+    "avatar": null
+}

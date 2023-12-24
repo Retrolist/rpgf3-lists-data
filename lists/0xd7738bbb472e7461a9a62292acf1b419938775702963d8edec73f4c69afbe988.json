@@ -1,0 +1,274 @@
+{
+    "id": "0xd7738bbb472e7461a9a62292acf1b419938775702963d8edec73f4c69afbe988",
+    "listName": "Tamara’s Token Engineering List [Updated]",
+    "listDescription": "Token Engineering is a transdisciplinary approach incorporating systems engineering, computer science & cryptography, psychology & decision science, political science & governance, ethics & law, economics & game theory, management science and more. \n\nThe focus of this list are projects that demonstrate rigorous research, analysis and education in this nascent field. This list is incomplete. These are the ones that jump out from projects I’ve seen and have had recommended to review by trusted token engineers. With more time, I might include another dozen. \n\nThere are two projects on this list for which I have a conflict of interest: Commons Stack (co-founder) and Token Engineering Commons (Advisor). Please refer to my conflict of interest post: https://gov.optimism.io/t/badgeholder-conflict-of-interest-disclosures/5569/47 ",
+    "impactEvaluationDescription": "I’ve shared my overall methodology here:  https://docs.google.com/document/d/18wFuid7MUqKTVen41cGFe5S4TmYaAnUiDHmAuj2ibgE  \n\nFor this list, each project is assigned 200K OP for their impact in advancing token engineering within the Optimism and Ethereum ecosystem the past couple of months. I encourage any badgeholder who uses this list to review each individually and adjust for the impact they see. ",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xcef5619c73158a1b4dd128f918bad2bd2c8c5f6701bb6d2834e92289a9b5f145",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x0ace9050e3c67022816825143db0a483647bc719202adffc555e04b4bfd4f522",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xaf72f298c070d96e72345b7f99ee16da493018914aaac00a1db76fda08f5e9f9",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xd9dc151858206f4d87677730385c5c01c836e1be51f51264534486b18c01939f",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xb426cb999cd483bd00f82b9585a6f0963f13e01e6e15403db87e3fed1dc87d96",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x3291020a053ac45717fc2eed0e44a5fe7156889a4d9e015b0e50fff081caea77",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x07eb70211826da3e78898cf90a43959efc016390207ae49ea19ac856deda8e68",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x36e009bec6acb4c7adbe206a5cf88f8678ddf794f2f5e868e0118fcbd543055f",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xe74ccd71062e114e4bbdbc6364d516b65b9003bdb3611de1bf8f774ae63b46f9",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xe7d4cf0cda38c0f0b1ac0853ccaaa23d7c0569412604935edfa57cbb1ec7077b",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xbe5c87794ca0822b4c390218f3d40f9ed33679285313a429b9027aa17760f6fe",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x97c886fb0d5a8bfab9a5fc21425872c711d020d8ba98d381b4d122301d2937ce",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "OPAmount": 200000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xcef5619c73158a1b4dd128f918bad2bd2c8c5f6701bb6d2834e92289a9b5f145",
+            "bio": "A group of researchers dedicated to R,D,E & application of Bonding Curves",
+            "displayName": "Bonding Curve Research Group",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b.png"
+        },
+        {
+            "id": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "bio": "Fund & govern your mission with Augmented Bonding Curves & Aragon on Optimism.",
+            "displayName": "Commons Stack",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png"
+        },
+        {
+            "id": "0x0ace9050e3c67022816825143db0a483647bc719202adffc555e04b4bfd4f522",
+            "bio": "The first bachelor-level study program based on Optimism NFT proofs.",
+            "displayName": "Token Engineering Academy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3b067Af83F540cB827825a6Ee5480441a4237E77.png"
+        },
+        {
+            "id": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+            "bio": "Ethical, safe, resilient and diverse economic systems to benefit the world.",
+            "displayName": "Token Engineering Commons",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png"
+        },
+        {
+            "id": "0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
+            "bio": "Gitcoin Passport makes it easy for projects to detect and stop bots and Sybils.",
+            "displayName": "Gitcoin Passport",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6.png"
+        },
+        {
+            "id": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+            "bio": "Gitcoin enables communities to build, fund and protect what matters to them.",
+            "displayName": "Gitcoin",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png"
+        },
+        {
+            "id": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+            "bio": "Indexes EVM blockchains using a fully decentralized and local-first stack.",
+            "displayName": "TrueBlocks / Unchained Index",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+            "bio": "World-leading nonprofit research collective for DAOs and online self-governance.",
+            "displayName": "Metagov",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.png"
+        },
+        {
+            "id": "0xaf72f298c070d96e72345b7f99ee16da493018914aaac00a1db76fda08f5e9f9",
+            "bio": "My team developed a Data Availability Commitee in the OP Stack",
+            "displayName": "DAC on OP Stack",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAC9ba72fb61aA7c31A95df0A8b6ebA6f41EF875e.png"
+        },
+        {
+            "id": "0xd9dc151858206f4d87677730385c5c01c836e1be51f51264534486b18c01939f",
+            "bio": "Blockchain forensics, investigations, and whistleblower",
+            "displayName": "ZachXBT",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D502fA3C2Aac31d88d6BDA8fBd38AB861211458.png"
+        },
+        {
+            "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+            "bio": "Bringing nonprofits to Optimism & building towards “Impact = Profit” since 2016",
+            "displayName": "Giveth",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+            "id": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+            "bio": "The web3 standard for impact certificates",
+            "displayName": "Hypercerts Foundation",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png"
+        },
+        {
+            "id": "0xb426cb999cd483bd00f82b9585a6f0963f13e01e6e15403db87e3fed1dc87d96",
+            "bio": "Think tank advancing positive-sum coordination mechanism.",
+            "displayName": "Mechanism Institute",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4cd6B4503d02973D78CFF59C9C56f5F378688274.png"
+        },
+        {
+            "id": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "bio": "A collective of Ethereum's active core protocol contributors",
+            "displayName": "Protocol Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F.png"
+        },
+        {
+            "id": "0x3291020a053ac45717fc2eed0e44a5fe7156889a4d9e015b0e50fff081caea77",
+            "bio": "Institutional-grade research collective focused on Ethereum & rollups.",
+            "displayName": "Redacted Research",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe179B39f819d55301762b5745c85F767d988aEbe.png"
+        },
+        {
+            "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+            "bio": "RadicalxChange Foundation is a nonprofit seeking to improve basic institutions.",
+            "displayName": "RadicalxChange Foundation",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
+        },
+        {
+            "id": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
+            "bio": "Modular protocol infrastructure for next generation of smart contract solutions",
+            "displayName": "Inverter Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png"
+        },
+        {
+            "id": "0x07eb70211826da3e78898cf90a43959efc016390207ae49ea19ac856deda8e68",
+            "bio": "We are a DeFi risk analyst nonprofit specializing in stablecoins, RWAs and LSTs.",
+            "displayName": "Llama Risk",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x34d6Dbd097f6b739C59D7467779549Aea60e1F84.png"
+        },
+        {
+            "id": "0x36e009bec6acb4c7adbe206a5cf88f8678ddf794f2f5e868e0118fcbd543055f",
+            "bio": "DefiLab: Open-source tools for DeFi risk & reward analysis. Founded in 2020",
+            "displayName": "Defi-lab.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9fe6764778db6AD5c5ED86242485d1a868a8c52A.jpeg"
+        },
+        {
+            "id": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "bio": "Open and transparent DeFi analytics.",
+            "displayName": "DefiLlama",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd.png"
+        },
+        {
+            "id": "0xe74ccd71062e114e4bbdbc6364d516b65b9003bdb3611de1bf8f774ae63b46f9",
+            "bio": "Facilitating data science on the Ethereum blockchain",
+            "displayName": "EthereumETL",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9FD0C742D81B6f08817F3eF11D09Cb4a9f54eE5f.png"
+        },
+        {
+            "id": "0xe7d4cf0cda38c0f0b1ac0853ccaaa23d7c0569412604935edfa57cbb1ec7077b",
+            "bio": "The CCA promotes the development of Crypto Commons, through events and research.",
+            "displayName": "Crypto Commons Association",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb013701563Fe41358c9308C3020B8DDD71225CB8.png"
+        },
+        {
+            "id": "0xbe5c87794ca0822b4c390218f3d40f9ed33679285313a429b9027aa17760f6fe",
+            "bio": "A platform that aggregates financial data on the leading blockchains and dApps.",
+            "displayName": "Token Terminal",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeB67e286faf667A047e435EC90107122b0bC2C01.png"
+        },
+        {
+            "id": "0x97c886fb0d5a8bfab9a5fc21425872c711d020d8ba98d381b4d122301d2937ce",
+            "bio": "Protocols research from all angles across many domains, open-sourced findings.",
+            "displayName": "Summer of Protocols",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10F5d45854e038071485AC9e402308cF80D2d2fE.png"
+        },
+        {
+            "id": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "bio": "Decentralized and open-source Solidity contract source code verification service",
+            "displayName": "Sourcify",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.png"
+        }
+    ],
+    "walletAddress": "0xcf79C7EaEC5BDC1A9e32D099C5D6BdF67E4cF6e8",
+    "domainName": "tamarandom.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xd7738bbb472e7461a9a62292acf1b419938775702963d8edec73f4c69afbe988",
+    "approvalAttestationUid": "0xd7738bbb472e7461a9a62292acf1b419938775702963d8edec73f4c69afbe988",
+    "categories": [
+        "COLLECTIVE_GOVERNANCE"
+    ],
+    "createdAt": "2023-12-04T16:25:29",
+    "updatedAt": "2023-12-04T16:25:29",
+    "revokedAt": null,
+    "avatar": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiBzdHlsZT0iYmFja2dyb3VuZDojMDAwIj48bGluZWFyR3JhZGllbnQgaWQ9InRvcEdyYWRpZW50IiBncmFkaWVudFRyYW5zZm9ybT0icm90YXRlKDkwKSIgPjxzdG9wIHN0b3AtY29sb3I9IndoaXRlIiAgb2Zmc2V0PSI4MCUiICBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agc3RvcC1jb2xvcj0id2hpdGUiICBvZmZzZXQ9IjEwMCUiICBzdG9wLW9wYWNpdHk9IjEiIC8+PC9saW5lYXJHcmFkaWVudD48ZmlsdGVyIGlkPSJyb29tIiA+PGZlVHVyYnVsZW5jZSBiYXNlRnJlcXVlbmN5PSIwLjAwMDcwNCIgc2VlZD0iMjM3ODcyNyIgcmVzdWx0PSJ0dXJiIiAvPjxmZUNvbG9yTWF0cml4IHZhbHVlcz0iMjMgLTUwIDIzIC00NSAxIDE3IC00NSAxMCAtNjIgMSAyMCAyMiAtNTcgLTU0IDEgMjUgLTM3IDE2IDY0IDEgIiAvPjwvZmlsdGVyPjxmaWx0ZXIgaWQ9InN0YXJzIiA+PGZlVHVyYnVsZW5jZSB0eXBlPSJmcmFjdGFsTm9pc2UiIG51bU9jdGF2ZXM9IjEiIGJhc2VGcmVxdWVuY3k9IjAuMDAyNzgiIHNlZWQ9IjQ1ODI1NzgiIHJlc3VsdD0idHVyYiIgLz48ZmVDb2xvck1hdHJpeCB2YWx1ZXM9IjE1IDAgMCAwIDAgMCAxNSAwIDAgMCAwIDAgMTUgMCAwIDAgMCAwIC0xNSA1IiAvPjwvZmlsdGVyPjxyZWN0IHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiBmaWx0ZXI9InVybCgjcm9vbSkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTIyMCkiIC8+PHJlY3Qgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIGZpbHRlcj0idXJsKCNyb29tKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCw0NDApIHNjYWxlKC0xLDEpIHJvdGF0ZSgxODApIiAvPjxyZWN0IHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI3RvcEdyYWRpZW50KSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwtMTkwKSIgLz48cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0idXJsKCN0b3BHcmFkaWVudCkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsNDEwKSBzY2FsZSgtMSwxKSByb3RhdGUoMTgwKSIgLz48cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgZmlsdGVyPSJ1cmwoI3N0YXJzKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwtMjIwKSIgLz48cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgZmlsdGVyPSJ1cmwoI3N0YXJzKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCw0NDApIHNjYWxlKC0xLDEpIHJvdGF0ZSgxODApIiAvPjxwb2x5Z29uIHBvaW50cz0iMzMsMCAwLDAgMCwzMyAyMzUsMTEwIiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiAvPjxwb2x5Z29uIHBvaW50cz0iMCwyNjcgMCwzMDAgMzMsMzAwIDIzNSwxMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIC8+PHBvbHlnb24gcG9pbnRzPSIyNjcsMCAzMDAsMCAzMDAsMzMgMjM1LDExMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgLz48cG9seWdvbiBwb2ludHM9IjMwMCwyNjcgMzAwLDMwMCAyNjcsMzAwIDIzNSwxMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIC8+PC9zdmc+"
+}

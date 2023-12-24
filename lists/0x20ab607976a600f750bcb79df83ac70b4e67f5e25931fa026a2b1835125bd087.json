@@ -1,0 +1,104 @@
+{
+    "id": "0x20ab607976a600f750bcb79df83ac70b4e67f5e25931fa026a2b1835125bd087",
+    "listName": "Ethereum Core Infrastructure",
+    "listDescription": "This List is on all projects that are core to Ethereum",
+    "impactEvaluationDescription": "I subjectively evaluated projects based on how important they are",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "OTHER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "OPAmount": 0
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "bio": "Solidity is a statically-typed curly-braces programming language for EVM chains",
+            "displayName": "Solidity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x151EF20A3ADe1CC1161391594f8a32461389a54e.png"
+        },
+        {
+            "id": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "bio": "Lodestar is a Typescript ecosystem for Ethereum consensus developed by ChainSafe",
+            "displayName": "Lodestar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDaDd7c883288Cfe2E257B0A361865E5e9349808b.png"
+        },
+        {
+            "id": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "bio": "A collective of Ethereum's active core protocol contributors",
+            "displayName": "Protocol Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F.png"
+        },
+        {
+            "id": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "bio": "An Ethereum execution layer client",
+            "displayName": "go-ethereum",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "bio": "Lodestar is a Typescript ecosystem for Ethereum consensus developed by ChainSafe",
+            "displayName": "Lodestar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDaDd7c883288Cfe2E257B0A361865E5e9349808b.png"
+        },
+        {
+            "id": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "bio": "Solidity is a statically-typed curly-braces programming language for EVM chains",
+            "displayName": "Solidity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x151EF20A3ADe1CC1161391594f8a32461389a54e.png"
+        },
+        {
+            "id": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "bio": "Solidity is a statically-typed curly-braces programming language for EVM chains",
+            "displayName": "Solidity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x151EF20A3ADe1CC1161391594f8a32461389a54e.png"
+        },
+        {
+            "id": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "bio": "Solidity is a statically-typed curly-braces programming language for EVM chains",
+            "displayName": "Solidity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x151EF20A3ADe1CC1161391594f8a32461389a54e.png"
+        }
+    ],
+    "walletAddress": "0x4a6894Dd556fab996f8D50b521f900CAEedC168e",
+    "domainName": "smolsunny.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x20ab607976a600f750bcb79df83ac70b4e67f5e25931fa026a2b1835125bd087",
+    "approvalAttestationUid": null,
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-10-28T11:55:07",
+    "updatedAt": "2023-10-28T11:55:07",
+    "revokedAt": null,
+    "avatar": "https://euc.li/smolsunny.eth"
+}

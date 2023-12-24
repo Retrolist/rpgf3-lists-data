@@ -1,0 +1,214 @@
+{
+    "id": "0x38dca5d4caae0ba93dbdfbf215b622fc2f8b5bf574785189cae50b483bd4f46a",
+    "listName": "Events| Sub-category evaluated with scoring system",
+    "listDescription": "This list rewards the 20 projects that made verifiable impact on Optimism in the \"Events\" sub-category. I am assigning 8.4% (2,520,000 OP) of all of the OP to this sub-category. \n\nMy intention is that this list is useful for badgeholders. \n",
+    "impactEvaluationDescription": "The process of evaluation for this list was using my scoring system, described in detailed in the notion link below, here's a brief overview. The purpose of my scoring system is to evaluate projects in an objective, quantitative, thorough and meritocratic way. Projects are divided and evaluated into sub-categories. Then, within them, they receive a score from 1 (low) to 3 (high) across 4 criteria, these scores are multiplied and determine the OP allocation of each project automatically. \nThe 4 criteria are: \n1. Money extracted from the collective \n2. Alignment with Collective's Values \n3. Metric strength (Based on Metrics Garden) \n4. Metric quantity (Benchmarked against projects of the same sub-category) \n\n*You can see all scores in the google sheets link provided below. Scoring results: See the \"Governance contributions\" sheet: https://docs.google.com/spreadsheets/d/13XQS7tXzxwKBZCp_TuMvgTNPVYxF0m6VLNTweurTDOo/edit?usp=sharing Rationale: https://cryptoversidad.notion.site/Diego-s-Voting-Framework-cc751201e0f544d3bd04210e63b78dd7",
+    "impactEvaluationLink": "https://cryptoversidad.notion.site/Diego-s-Voting-Rationale-cc751201e0f544d3bd04210e63b78dd7",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x54090220e92626ad3d3cee164a9cd14f808abc69257217691a8b1f0b65e5f551",
+            "OPAmount": 50055.87
+        },
+        {
+            "RPGF3_Application_UID": "0x3f414ca96d84352f4b9a9a5096bb750677a4328e1a9c56830cf3edea12cd4fcb",
+            "OPAmount": 75083.8
+        },
+        {
+            "RPGF3_Application_UID": "0xe7d4cf0cda38c0f0b1ac0853ccaaa23d7c0569412604935edfa57cbb1ec7077b",
+            "OPAmount": 75083.8
+        },
+        {
+            "RPGF3_Application_UID": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+            "OPAmount": 75083.8
+        },
+        {
+            "RPGF3_Application_UID": "0xf3526ec21d5b1146008c629fe9837f2c5ab099b1590e28dfb7005c126234fb11",
+            "OPAmount": 75083.8
+        },
+        {
+            "RPGF3_Application_UID": "0x4227de0db7d9388d6c08f297043098cb2de64c8ecc89d08b6bef8b71d4493e47",
+            "OPAmount": 84469.27
+        },
+        {
+            "RPGF3_Application_UID": "0x083cc62e08ddd1cafe05d94c4694b684bc5cbb44513b02ac884d368dea7f9c24",
+            "OPAmount": 100111.73
+        },
+        {
+            "RPGF3_Application_UID": "0x7768eb79db734845f9afaec4741e064eee319fd25fb35bd2956d10739e22d94a",
+            "OPAmount": 112625.7
+        },
+        {
+            "RPGF3_Application_UID": "0x8785599241f957b73e9e24576741bb3e02943bfbd38570135566a1cc61134168",
+            "OPAmount": 112625.7
+        },
+        {
+            "RPGF3_Application_UID": "0x8788f5efe99abf2a82ff0c27361baf9321c7601c06599551635aadfdd7980cf9",
+            "OPAmount": 112625.7
+        },
+        {
+            "RPGF3_Application_UID": "0x8f6fc027d996489f020e2b5591374f2c97833fe20cab3124e1c7377f5b7e583f",
+            "OPAmount": 112625.7
+        },
+        {
+            "RPGF3_Application_UID": "0xa4f5f97064e5ebdc97591521be056a911731925f81c694ed0bc84f6fc1b7ddea",
+            "OPAmount": 112625.7
+        },
+        {
+            "RPGF3_Application_UID": "0x83acb708e662400cbe8f8e9ec313f26d40e78e789577bce3e895d16eea8b5fbc",
+            "OPAmount": 126703.91
+        },
+        {
+            "RPGF3_Application_UID": "0x5c26992a23287833260d79c0d697129c168d5fbe366d3716484ffb6073e01db4",
+            "OPAmount": 150167.6
+        },
+        {
+            "RPGF3_Application_UID": "0xf41f199697d23be53eb353e02947670e439498081fd2c733ff8befea0c974c37",
+            "OPAmount": 150167.6
+        },
+        {
+            "RPGF3_Application_UID": "0x0b2ba3709c19f531dab7bb989f2d7086b4080561f6f49269dd1a3d469c7ef6b1",
+            "OPAmount": 168938.55
+        },
+        {
+            "RPGF3_Application_UID": "0x1335374f0d00c61bf195d9eaeb9c4c55ae4a1a0b883ee0d71b680a4783ad528f",
+            "OPAmount": 225251.4
+        },
+        {
+            "RPGF3_Application_UID": "0x101871d3c582cd1a8322f911e6f9623d8c1a6f19108149d9c1a6ef4650080780",
+            "OPAmount": 300335.2
+        },
+        {
+            "RPGF3_Application_UID": "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+            "OPAmount": 300335.2
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x54090220e92626ad3d3cee164a9cd14f808abc69257217691a8b1f0b65e5f551",
+            "bio": "Promote and create new educational opportunities in technology for Latam talent.",
+            "displayName": "Andino - Talent in technology",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x363cDaA139E1Fc64d308aa2129852745676bA680.jpeg"
+        },
+        {
+            "id": "0x3f414ca96d84352f4b9a9a5096bb750677a4328e1a9c56830cf3edea12cd4fcb",
+            "bio": "First NFT Agency is a startup founded in 2020 in Kyiv, Ukraine.",
+            "displayName": "First NFT Agency",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfBeB914c3C9B7a193C92De130A18716097478332.png"
+        },
+        {
+            "id": "0xe7d4cf0cda38c0f0b1ac0853ccaaa23d7c0569412604935edfa57cbb1ec7077b",
+            "bio": "The CCA promotes the development of Crypto Commons, through events and research.",
+            "displayName": "Crypto Commons Association",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb013701563Fe41358c9308C3020B8DDD71225CB8.png"
+        },
+        {
+            "id": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+            "bio": "Web3 Community in Colombia",
+            "displayName": "Ethereum Colombia",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD164AF956E0f34Be07a86752fe43AE788F647531.png"
+        },
+        {
+            "id": "0xf3526ec21d5b1146008c629fe9837f2c5ab099b1590e28dfb7005c126234fb11",
+            "bio": "Eth-Volcano is driven by community adoption via Ethereum education.",
+            "displayName": "Eth-Volcano",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.png"
+        },
+        {
+            "id": "0x4227de0db7d9388d6c08f297043098cb2de64c8ecc89d08b6bef8b71d4493e47",
+            "bio": "Elevating Ethereum events worldwide.",
+            "displayName": "Duct Tape",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCD465b3998917c42D5296d9234488A7D3148AB82.png"
+        },
+        {
+            "id": "0x083cc62e08ddd1cafe05d94c4694b684bc5cbb44513b02ac884d368dea7f9c24",
+            "bio": "Ethereum France is an association that promotes Ethereum through events",
+            "displayName": "Ethereum France",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C7944604F3ca37A081c0D2C4d4e4714a24979Af.png"
+        },
+        {
+            "id": "0x7768eb79db734845f9afaec4741e064eee319fd25fb35bd2956d10739e22d94a",
+            "bio": "Research and imagination community accelerating better futures",
+            "displayName": "RADAR",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x149D46eC060e75AE188876AdB6b24024637003C7.png"
+        },
+        {
+            "id": "0x8785599241f957b73e9e24576741bb3e02943bfbd38570135566a1cc61134168",
+            "bio": "SpaghettETH is the umbrella collective of the italian ETH communities.",
+            "displayName": "SpaghettETH",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5.png"
+        },
+        {
+            "id": "0x8788f5efe99abf2a82ff0c27361baf9321c7601c06599551635aadfdd7980cf9",
+            "bio": "Ethereum Community in Lima, Perú.",
+            "displayName": "Ethereum Lima",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2f6c8F867df4E49e4Fb24741C414f315E266C21B.png"
+        },
+        {
+            "id": "0x8f6fc027d996489f020e2b5591374f2c97833fe20cab3124e1c7377f5b7e583f",
+            "bio": "Impact Focused conference, hackathon and festival in Barcelona-Spain",
+            "displayName": "ETHBarcelona",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB605745f67e8027ffe2df603b67529421c717EE8.png"
+        },
+        {
+            "id": "0xa4f5f97064e5ebdc97591521be056a911731925f81c694ed0bc84f6fc1b7ddea",
+            "bio": "1st Web3 community in BELUX: 25+ events, 50+ speakers, 2500+ visitors, 3yrs old",
+            "displayName": "Cryptosquare",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFA69D3739D3A06Ea9317e18E21963b19367D2f15.jpeg"
+        },
+        {
+            "id": "0x83acb708e662400cbe8f8e9ec313f26d40e78e789577bce3e895d16eea8b5fbc",
+            "bio": "AW house is an Public Good Ecosystem for Autonomous World builders.",
+            "displayName": "AW House/Komorebi's Hacker House",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1626Cc835842C480c1689A0A69AA419B9F761a4e.png"
+        },
+        {
+            "id": "0x5c26992a23287833260d79c0d697129c168d5fbe366d3716484ffb6073e01db4",
+            "bio": "Web3's collaborative hub driving regenerative change and supporting public goods",
+            "displayName": "Giveth Web3 House",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6989F472Bef8931e6Ca882b1f875539b7D5DA19.png"
+        },
+        {
+            "id": "0xf41f199697d23be53eb353e02947670e439498081fd2c733ff8befea0c974c37",
+            "bio": "Abena is an academic researcher, community builder and founder of ETHAccra.",
+            "displayName": "ETHAccra",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ac685a55bce6b515fC1Ea713146f6D099A5054b.png"
+        },
+        {
+            "id": "0x0b2ba3709c19f531dab7bb989f2d7086b4080561f6f49269dd1a3d469c7ef6b1",
+            "bio": "A censorship resistant web3 events platform and media company",
+            "displayName": "StreamETH",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575.png"
+        },
+        {
+            "id": "0x1335374f0d00c61bf195d9eaeb9c4c55ae4a1a0b883ee0d71b680a4783ad528f",
+            "bio": "Largest ETH event in Africa",
+            "displayName": "ETHSafari 2023",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8d8087ffD46338cA8b08175a8C3cE25CaA67e171.png"
+        },
+        {
+            "id": "0x101871d3c582cd1a8322f911e6f9623d8c1a6f19108149d9c1a6ef4650080780",
+            "bio": "Incubating digital public goods via conferences, hackathons, and residencies.",
+            "displayName": "Funding the Commons",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20.png"
+        },
+        {
+            "id": "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+            "bio": "Jessy’s Hacker House supports a strong community of builders",
+            "displayName": "Jessy's Hacker House",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.png"
+        }
+    ],
+    "walletAddress": "0x64FeD9e56B548343E7bb47c49ecd7FFa9f1A34FE",
+    "domainName": "dmars300.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x38dca5d4caae0ba93dbdfbf215b622fc2f8b5bf574785189cae50b483bd4f46a",
+    "approvalAttestationUid": "0x38dca5d4caae0ba93dbdfbf215b622fc2f8b5bf574785189cae50b483bd4f46a",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-12-04T20:04:09",
+    "updatedAt": "2023-12-04T20:04:09",
+    "revokedAt": null,
+    "avatar": null
+}

@@ -1,0 +1,64 @@
+{
+    "id": "0x1931ad2f71936ad6ab77563911451a9b56ec2144b9242f87b787c8a0341efebb",
+    "listName": "Wallets",
+    "listDescription": "$$$",
+    "impactEvaluationDescription": "-",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "OTHER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xd8b0dc71191314a8a0a54b20e63a1a6d843ea350461c7300c13f2fd4fa2ddcad",
+            "OPAmount": 1
+        },
+        {
+            "RPGF3_Application_UID": "0x53cb6fdfffcd21aa5dfa3148f22fcbcfded49bafde4545047c2e43279fb0fbb6",
+            "OPAmount": 2
+        },
+        {
+            "RPGF3_Application_UID": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+            "OPAmount": 3
+        },
+        {
+            "RPGF3_Application_UID": "0x89b53a59649679cb236eebf535a54d7e1cec185f6910384f3043a76a5a47d489",
+            "OPAmount": 4
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xd8b0dc71191314a8a0a54b20e63a1a6d843ea350461c7300c13f2fd4fa2ddcad",
+            "bio": "Fun, powerful, and secure wallets",
+            "displayName": "Rainbow Wallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x465E764B56429788e031160F66a5F9791193B56F.png"
+        },
+        {
+            "id": "0x53cb6fdfffcd21aa5dfa3148f22fcbcfded49bafde4545047c2e43279fb0fbb6",
+            "bio": "The smart contract wallet made Ethereum safe and easy. #socialRecovery #4337",
+            "displayName": "Soul Wallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2.png"
+        },
+        {
+            "id": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+            "bio": "The first decentralized one-stop wallet ecosystem & Web3 browser",
+            "displayName": "Infinity Wallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671.png"
+        },
+        {
+            "id": "0x89b53a59649679cb236eebf535a54d7e1cec185f6910384f3043a76a5a47d489",
+            "bio": "Your wallets are about to disapear!",
+            "displayName": "Wallet Abstraction",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a.png"
+        }
+    ],
+    "walletAddress": "0x86A0D64A132e26C53a1D0aBEb88a40309e291C48",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0x1931ad2f71936ad6ab77563911451a9b56ec2144b9242f87b787c8a0341efebb",
+    "approvalAttestationUid": null,
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-10-27T16:57:45",
+    "updatedAt": "2023-10-27T16:57:45",
+    "revokedAt": null,
+    "avatar": null
+}

@@ -1,0 +1,74 @@
+{
+    "id": "0x828ab1fad3e08cdcc56b97e09ad4490de96a9147b5323a5f78fc5545b40cff1e",
+    "listName": "OP Community Contributors (Updated)",
+    "listDescription": "The OP Community Contributors represent a cohort of individuals who consistently and proactively contribute to the collective goals through diverse and sustained efforts. Notably, several members have demonstrated their commitment over an extended period, showcasing a depth of dedication to the community's ongoing development and success., categorized into:\n\nOptimism Translators:\nMember: 74\nRPGF#2 Received 85,657.06 OP (avg. = 1157OP)\nThe Optimism Translators are a group spanning 25 languages. They translate the Optimism User Help documentation, as well as translating blog posts and tweets as they are published.\n\nSupports NERDs:\nMember: 40 \nRPGF#2 Received: 93,683.95 OP (avg. = 2342OP)\nThe NERD program provides human to human support on the Optimism Discord. They report spam and scams, ensure questions get answered and do so in a friendly manner. They flag issues and bugs to the team, helping the Optimism community stay safe, smart, and learn about the project. This program has been running for just over a year. They have answered hundreds of user questions while maintaining high answer satisfaction, with an average support rating of 4.75/5.\n\nOptimism Ambassadors:\nMember 42 \nRPGF#2 Received 52,240.79 OP (avg. = 1243OP)\nThe Ambassador program provides grassroots marketing to the Optimism ecosystem. They make Optimism updates and releases more accessible to the general user base, while spreading the optimistic vibe and values. They create memes, YouTube (longer form) content as well as tutorials and guides.\n\nNumbaNerds:\nMember 11\nNot in RPGF#2 \nThe NumbaNERDs program is designed to ensure that there is always high quality analytics and transparency around grant spending for delegates. As our governance grows clear and accessible data becomes ever more essential to good decision making.\n\n\nTechNerds Program:\nMember: 5\nNot in RPGF#2 \nThe TechNERDs program is designed to improve the technical support available to developers in the Optimism Ecosystem.",
+    "impactEvaluationDescription": "Supports NERDs:\nThe NERD program allows new users to easily orient themselves in the ecosystem, and provide a friendly introduction to the Optimism vision and values. They are an invaluable connection between the team and community, often acting as the bridge for feedback and issues. They have done so on a voluntary basis and as such their impact far outweighs their profit.\n\nOptimism Translators:\nTranslators provide one of the most important things you can contribute - accessibility. They make it easier for a wide (and more decentralised) community to fall in love with the Optimistic vision. They have done so voluntarily.\n\nOptimism Ambassadors:\nAmbassadors create unique content as well as guides and explainers on existing content, making the Optimistic vision more approachable to the masses. On top of this, they also share this content within their own communities.\n\nNumbaNerds:\nExperts proficient in finding information to analyze or create an analytic around Optimism.\n\nTechNERD Program:\nSpecialized in addressing technical questions and resolving complex technical issues, contributing to the project's technological advancement.\n\nAllocation Logic :\nGiven that all these community programs involve a large group of contributors working relentlessly, the allocation logic is structured to support various roles:\n\n- Support NERDS: 200,000OP (avg.5,000OP)\nThese individuals dedicate considerable time, working 24/7 to provide information and sustain the vibrancy of the community Discord.\n- Optimism Translators: 222,000OP (avg.3,000OP)\nTheir role is to disseminate our vision and tech updates from OP and OP Labs blog to Optimists worldwide, conveying the information in their respective languages.\n- Optimism Ambassadors: 168,000OP (avg.4,000OP)\nThey fuel the idea by promoting the optimism ecosystem to their followers through exceptional content, thereby expanding awareness.\n- NumbaNERDs: 55,000OP (avg. 5,000OP)\nThis group focuses on analyzing on-chain data to enhance transparency and efficiency within the OP ecosystem.\n- TechNerd Program: 25,000OP (avg. 5,000OP)\nGeared towards assisting and facilitating developers with specific information, their aim is to make the development experience as smooth as possible.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "OPAmount": 222000
+        },
+        {
+            "RPGF3_Application_UID": "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+            "OPAmount": 168000
+        },
+        {
+            "RPGF3_Application_UID": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "OPAmount": 55000
+        },
+        {
+            "RPGF3_Application_UID": "0x127bdc6d776fb958f986cd2059b43e917a2d74e912c0b360316f77a05b30087b",
+            "OPAmount": 25000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "bio": "Support NERDs provide moderation and onboarding services to the Optimism Discord",
+            "displayName": "Support NERDs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.png"
+        },
+        {
+            "id": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "bio": "Translators make Optimism accessible to non-English speakers over 27 languages!",
+            "displayName": "Optimism Translators",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9138051E95425610Eae7a0784F9138df485fb698.png"
+        },
+        {
+            "id": "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+            "bio": "Ambassadors are decentralized marketing arm of the Optimism Collective",
+            "displayName": "Optimism Ambassadors",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x50b6a381993834C623b2Bded6825824C936E48bB.png"
+        },
+        {
+            "id": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "bio": "The NumbaNERDs program ensures the collective has quality analytics available.",
+            "displayName": "NumbaNERDs",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x127bdc6d776fb958f986cd2059b43e917a2d74e912c0b360316f77a05b30087b",
+            "bio": "Technical support specialists assisting developers building on the OP Stack.",
+            "displayName": "TechNERD Program",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF.png"
+        }
+    ],
+    "walletAddress": "0x00409fC839a2Ec2e6d12305423d37Cd011279C09",
+    "domainName": "thesleeper.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x828ab1fad3e08cdcc56b97e09ad4490de96a9147b5323a5f78fc5545b40cff1e",
+    "approvalAttestationUid": "0x828ab1fad3e08cdcc56b97e09ad4490de96a9147b5323a5f78fc5545b40cff1e",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-11-23T10:19:21",
+    "updatedAt": "2023-11-23T10:19:21",
+    "revokedAt": null,
+    "avatar": "https://euc.li/thesleeper.eth"
+}

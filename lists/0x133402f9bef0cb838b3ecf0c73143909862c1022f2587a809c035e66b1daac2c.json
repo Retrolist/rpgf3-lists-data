@@ -1,0 +1,20 @@
+{
+    "id": "0x133402f9bef0cb838b3ecf0c73143909862c1022f2587a809c035e66b1daac2c",
+    "listName": "My longet test list",
+    "listDescription": "dfg",
+    "impactEvaluationDescription": "dfgdfgdf",
+    "impactEvaluationLink": "https://asd.com",
+    "impactEvaluationType": "OTHER",
+    "listContent": [],
+    "projectsMetadata": [],
+    "walletAddress": "0xEA64B234316728f1BFd3b7cDCc1EAf0066D8E055",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0x133402f9bef0cb838b3ecf0c73143909862c1022f2587a809c035e66b1daac2c",
+    "approvalAttestationUid": null,
+    "categories": [],
+    "createdAt": "2023-10-05T14:49:41",
+    "updatedAt": "2023-10-05T14:49:41",
+    "revokedAt": null,
+    "avatar": null
+}

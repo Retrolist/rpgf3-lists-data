@@ -1,0 +1,124 @@
+{
+    "id": "0x746a4dd1597100848eeac26a058ac82fdc6491a11b2f96ea79bd7adcb5aaceaf",
+    "listName": "🔥 Tokens",
+    "listDescription": "This list has two purposes; \n\n1: To spark meaningful discussion around whether token projects should be included at all on the retroPGF round.\n\n2; Creating a list of tokens that 🔥_🔥 believes have been most impactful to the Optimism ecosystem and rewarding them as such.",
+    "impactEvaluationDescription": "The Impact evaluation criteria used here is explicitly about how the token project itself has contributed to the Optimism ecosystem; \n\nHas there been any co-incentives from this token? Has their community joined the Optimism community? How have the communications from both teams happened? etc.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x91941c2cb8e8079a32813cfa72facb995b4803285685955ef4f4772cd525f50b",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xed052bcc8a5141a3baf9e42f7c441d94221ff4c16adf45aae190a53143b61c1d",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x93977731af37cb1a984d86979b1c4e3dc421a6328fee9a15ff2c110cf0ba7ae2",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x99ad2850c7cbda52a16676d6ab956b1434c64f4124d5f2108aa12fda5325205c",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xe2e2f6f6ca6631af544462d867d1fd09f56182c4963ffd6be35dc3651df5ce86",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x6640372710ef432d006f6e2a0737213975305cb2f7d0c84e7be338b9c6ddb275",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x9f84c89d29f0551a5940c885a76b433010c905e8b01a6a761b1ca5e226271bfb",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xa35bcbf65e6ec5f55de08a91b09ebbf11d59fa13c28e8232c1f2d3cf1cdfbcc3",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xc2eba66a043d5471132cb40947e81f106f83d0bbbc0d4af3fff5e800ad7411c2",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x72f6d960a8d3b50bcc6723270fd211884b60dabece4f3b400014369f442810ed",
+            "OPAmount": 200000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x91941c2cb8e8079a32813cfa72facb995b4803285685955ef4f4772cd525f50b",
+            "bio": "A cross-chain bridge for L2s & rollups secured by UMA's optimistic oracle",
+            "displayName": "Across Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b.png"
+        },
+        {
+            "id": "0xed052bcc8a5141a3baf9e42f7c441d94221ff4c16adf45aae190a53143b61c1d",
+            "bio": "Hop DAO governs Hop Protocol and accelerates growth of the cross-chain ecosystem",
+            "displayName": "Hop DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9f8d2dafE9978268aC7c67966B366d6d55e97f07.png"
+        },
+        {
+            "id": "0x93977731af37cb1a984d86979b1c4e3dc421a6328fee9a15ff2c110cf0ba7ae2",
+            "bio": "The central trading and liquidity marketplace on Optimism.",
+            "displayName": "Velodrome",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652.png"
+        },
+        {
+            "id": "0x99ad2850c7cbda52a16676d6ab956b1434c64f4124d5f2108aa12fda5325205c",
+            "bio": "The central trading and liquidity marketplace on Base.",
+            "displayName": "Aerodrome Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2C4F3af64e1A832deb10D98aFAA71233794467F8.png"
+        },
+        {
+            "id": "0xe2e2f6f6ca6631af544462d867d1fd09f56182c4963ffd6be35dc3651df5ce86",
+            "bio": "Gelato is web3's cloud platform",
+            "displayName": "Gelato",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x28bB9385A588EF4747264D19B9A9F1603591680c.png"
+        },
+        {
+            "id": "0x6640372710ef432d006f6e2a0737213975305cb2f7d0c84e7be338b9c6ddb275",
+            "bio": "Synthetix provides liquidity for permissionless derivatives on-chain",
+            "displayName": "Synthetix",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7B66b603347038CCAd178387c696660bcdcB14d7.png"
+        },
+        {
+            "id": "0x9f84c89d29f0551a5940c885a76b433010c905e8b01a6a761b1ca5e226271bfb",
+            "bio": "Services & collaboration tools to build & manage pro-social web3 communities",
+            "displayName": "Collab.Land",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3eEFAa9d6e2ab7972C1001D41C82BB4881389257.png"
+        },
+        {
+            "id": "0xa35bcbf65e6ec5f55de08a91b09ebbf11d59fa13c28e8232c1f2d3cf1cdfbcc3",
+            "bio": "Co-founder of the FOAM protocol, have been involved with Ethereum since 2015.",
+            "displayName": "FOAM",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2195bEaed7b0783f2c13c75FC439396583C1A37D.png"
+        },
+        {
+            "id": "0xc2eba66a043d5471132cb40947e81f106f83d0bbbc0d4af3fff5e800ad7411c2",
+            "bio": "A leading multi-chain DEX supporting the DeFi needs of 25+ Blockchain Ecosystems",
+            "displayName": "Sushi",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5732B7695F06b9080109B10dec0856e1b801c15.png"
+        },
+        {
+            "id": "0x72f6d960a8d3b50bcc6723270fd211884b60dabece4f3b400014369f442810ed",
+            "bio": "A decentralised node network providing developer RPCs & public endpoints",
+            "displayName": "Pocket Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7b8B83e68C73AA4F00e6eD1A505dE15147AD5764.png"
+        }
+    ],
+    "walletAddress": "0x6Dc43be93a8b5Fd37dC16f24872BaBc6dA5E5e3E",
+    "domainName": "james.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x746a4dd1597100848eeac26a058ac82fdc6491a11b2f96ea79bd7adcb5aaceaf",
+    "approvalAttestationUid": "0x746a4dd1597100848eeac26a058ac82fdc6491a11b2f96ea79bd7adcb5aaceaf",
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-11-23T14:48:39",
+    "updatedAt": "2023-11-23T14:48:39",
+    "revokedAt": null,
+    "avatar": "https://i.imgur.com/7aJ1eyu.png"
+}

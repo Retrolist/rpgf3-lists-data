@@ -1,0 +1,374 @@
+{
+    "id": "0xc20bd829061f6fead7548bd64407f73cdf3997a974cd074f36dfccd259be573e",
+    "listName": "Impactful Opensource v2",
+    "listDescription": "This is a list of projects that create opensource code that is here to stay and is not limited by any business source license or other limitations. The code must be truly opensource and not depend on any single company to exist in order to maintain its impact. Well capitalized projects are excluded.\n\nDISCLAIMER: Author of the list is also founder of rotki, which is a project satisfying the requirements and is part of the list.\n\nNotes: \n\n- This is version 2 of the list. Link to version 1 can be found here: https://round3.optimism.io/lists/0x3045bf8797f8e528219d48b23d28b661be5be17d13c28f61f4f6cced1b349c65. This version is a superset of v1 with projects that asked me to be added and meet the requirements. So impact measurements are more lax in this list compared to v1.\n- No specific funds recommendation given. Badgeholders should use their own due dilligence and opinion there. The list simply divides 30m $OP by the number of projects in the list.",
+    "impactEvaluationDescription": "The impact was evaluated by:\n\n- Checking that the project produced truly opensource code. The definition of opensource is that of FSF and OSI. Anything else is just source available and not opensource.\n- The impact of the code must be applicable even if the company/team behind it ceases to exist. Otherwise it's not really a project creating opensource code as a gift to the world but just using the term opensource as marketing.\n- If the project is bootstrapped and has raised no VC funding then extra points are given. As this means that it is harder to be captured by external interests and remains truly owned by its users, by its community and the world.\n- Unlike the v1 version, I have not used all of these projects. I just checked if they satisfy the requirements. So this is a less personal recommendation compared to v1.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0xc96c57a0ae937f815981807f33703080463e59f59b9bc3449a2528870eda970c",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0xff1e9125432799c370c8074274f6b1d833c49cda519a7724cb3671550680901e",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x1b205ded96fa08412a2c8b7100de978779b13fd81fd8a85aaf71f7994065c690",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x795c02e18131bf22626db5172ecbe21e0ee7316ed73921ad079b4d2989dce8b6",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x3b53ead12d8da8d0d1d5150494eb92b0ffb23d76090af9d4dd5341d576d97295",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x48000bf0277f99726173a59b47d05aa6371ea320866e3e9a77e4241a083a4009",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0xf3e6f4737869efd0967440e4f97ea91b3ce3611c801675319874ea02f4d7a668",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0xd5ced576ab6921e32ee00c18d49c69149ba5ccbec76f1e9bbc3d5b008f23145f",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0xfd039c82990da0bed2f74f106936835555b458adc3c45e7eb7caef7ed6b4e778",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x169944e7e6d6a3cbfb72b9da9234e9f74b99111b00c1be854c8807fed8043397",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x5407e7425c015d4852eb1393c7863d0c1e8b6c325c50f2a01c1baa6584daba8d",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x99684d69323305f8db8feeb8a34d5057b76eb99ec660a9cf339e068b99803e60",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x673d8e5392f524e26a6b99ed445c2b7569cdc67423c47a5e6f9ba9c950b2fe79",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x23afbebc655637c91f6a42572b8af43c2ae6e61655c55ba52e5ace484eff8e72",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x46f5cb8434c4f1188ff9581ef4723a7450d6c8b76346d1ef8e8ff4bd9d4de8ce",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x4d6a8934a57ef082939fbf87ce03b8c57abaf7cb436eaa819fb9b5f9736ecd79",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x72636d32db59ae97bb616d46061268f60647e7f90aaf52ac5ed12f89aaa9ff0c",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x0b2ba3709c19f531dab7bb989f2d7086b4080561f6f49269dd1a3d469c7ef6b1",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0xa56c22c8a230b721d39e7dd1615802db826a3c5dfb1ffa86967afa5db890b5ea",
+            "OPAmount": 857142.857143
+        },
+        {
+            "RPGF3_Application_UID": "0x90ef634fad04d6ac2882db44d4a84f31c7f0621f3abd00efb067416e4ff1641c",
+            "OPAmount": 857142.8571
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+            "bio": "Indexes EVM blockchains using a fully decentralized and local-first stack.",
+            "displayName": "TrueBlocks / Unchained Index",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xc96c57a0ae937f815981807f33703080463e59f59b9bc3449a2528870eda970c",
+            "bio": "Otterscan is a fast, local, free and open source Ethereum block explorer",
+            "displayName": "Otterscan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2648Fd2a1D10563AE0931e78559408D56Bc8C85C.png"
+        },
+        {
+            "id": "0xff1e9125432799c370c8074274f6b1d833c49cda519a7724cb3671550680901e",
+            "bio": "The local-first, opensource asset tracking and management tool for crypto/tradfi",
+            "displayName": "rotki",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.png"
+        },
+        {
+            "id": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "bio": "Revoke.cash is a token approvals dashboard and browser extension to stay safe.",
+            "displayName": "Revoke.cash",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe126b3E5d052f1F575828f61fEBA4f4f2603652a.png"
+        },
+        {
+            "id": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "bio": "An Ethereum execution layer client",
+            "displayName": "go-ethereum",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x1b205ded96fa08412a2c8b7100de978779b13fd81fd8a85aaf71f7994065c690",
+            "bio": "Vyper is a contract-oriented, pythonic programming language for the EVM",
+            "displayName": "Vyper",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b98718264cA14d0A17C145FfE1e4F3c38a39372.png"
+        },
+        {
+            "id": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+            "bio": "System-wide web3 Platform",
+            "displayName": "Frame",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c.png"
+        },
+        {
+            "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
+            "displayName": "Dappnode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+            "id": "0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
+            "bio": "A rich toolset for the entire journey of Web3 contract development",
+            "displayName": "Remix Project",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa923A7CD364779c8b97522ca031804Ce639fA2Be.png"
+        },
+        {
+            "id": "0x795c02e18131bf22626db5172ecbe21e0ee7316ed73921ad079b4d2989dce8b6",
+            "bio": "A leading Ethereum consensus client written in rust.",
+            "displayName": "Lighthouse",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03.png"
+        },
+        {
+            "id": "0x3b53ead12d8da8d0d1d5150494eb92b0ffb23d76090af9d4dd5341d576d97295",
+            "bio": "The libp2p Project.",
+            "displayName": "libp2p",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc5eC328828cd381D4dECDe27ededE45264933Edf.png"
+        },
+        {
+            "id": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "bio": "Solidity is a statically-typed curly-braces programming language for EVM chains",
+            "displayName": "Solidity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x151EF20A3ADe1CC1161391594f8a32461389a54e.png"
+        },
+        {
+            "id": "0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+            "bio": "Open Source Ethereum Explorer",
+            "displayName": "beaconcha.in",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979.jpeg"
+        },
+        {
+            "id": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "bio": "Ethereum implementation on the efficiency frontier",
+            "displayName": "Erigon",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x48000bf0277f99726173a59b47d05aa6371ea320866e3e9a77e4241a083a4009",
+            "bio": "Smart contract devtool for Pythonistas, Data Scientists & Security Professionals",
+            "displayName": "ApeWorX LTD",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69.png"
+        },
+        {
+            "id": "0xf3e6f4737869efd0967440e4f97ea91b3ce3611c801675319874ea02f4d7a668",
+            "bio": "Ethers.js is a simple, compact and complete library for everything Ethereum.",
+            "displayName": "ethers.js",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8ba1f109551bD432803012645Ac136ddd64DBA72.jpeg"
+        },
+        {
+            "id": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "bio": "Decentralized and open-source Solidity contract source code verification service",
+            "displayName": "Sourcify",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.png"
+        },
+        {
+            "id": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+            "bio": "Full-featured open-source block explorer",
+            "displayName": "Blockscout Block Explorer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C36Bd76a6c138187C43da92f66f37E23b4017fA.png"
+        },
+        {
+            "id": "0xd5ced576ab6921e32ee00c18d49c69149ba5ccbec76f1e9bbc3d5b008f23145f",
+            "bio": "Web3.js is a JS/TS library that enables interacting w/ EVM compatible chains",
+            "displayName": "Web3js",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0.png"
+        },
+        {
+            "id": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "bio": "Lodestar is a Typescript ecosystem for Ethereum consensus developed by ChainSafe",
+            "displayName": "Lodestar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDaDd7c883288Cfe2E257B0A361865E5e9349808b.png"
+        },
+        {
+            "id": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "bio": "Open and transparent DeFi analytics.",
+            "displayName": "DefiLlama",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd.png"
+        },
+        {
+            "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "bio": "Unlock your community potential - reputation scores, rewards and deep insights",
+            "displayName": "Praise",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+            "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+            "bio": "Simplifying the voting RetroPGF experience: easier to face 2 than 2000",
+            "displayName": "Pairwise",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
+        },
+        {
+            "id": "0xfd039c82990da0bed2f74f106936835555b458adc3c45e7eb7caef7ed6b4e778",
+            "bio": "Rust Ethereum Virtual Machine",
+            "displayName": "revm",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98ea1E15E93fF392755Fd79E739c3ED60808B56B.png"
+        },
+        {
+            "id": "0x169944e7e6d6a3cbfb72b9da9234e9f74b99111b00c1be854c8807fed8043397",
+            "bio": "Smol: simple, elegant and functional blockchain dapps for common crypto tasks.",
+            "displayName": "draper",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB7A31346433430D92846f0181C55Fc506B9b22d8.png"
+        },
+        {
+            "id": "0x5407e7425c015d4852eb1393c7863d0c1e8b6c325c50f2a01c1baa6584daba8d",
+            "bio": "Fe is a high-level language for the EVM.",
+            "displayName": "Fe",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x99684d69323305f8db8feeb8a34d5057b76eb99ec660a9cf339e068b99803e60",
+            "bio": "Gas optimized Solidity snippets",
+            "displayName": "Vectorized",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F5D295778796a8b9f29600A585Ab73D452AcB1c.png"
+        },
+        {
+            "id": "0x673d8e5392f524e26a6b99ed445c2b7569cdc67423c47a5e6f9ba9c950b2fe79",
+            "bio": "Extract ABI (and more) from EVM bytecode, even without source code.",
+            "displayName": "WhatsABI",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5913c6862f3d6641cfDF16a974245f47E58d4BE2.png"
+        },
+        {
+            "id": "0x23afbebc655637c91f6a42572b8af43c2ae6e61655c55ba52e5ace484eff8e72",
+            "bio": "Synpress is an end-to-end testing framework for dApps in the Web3 ecosystem.",
+            "displayName": "Synpress",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd35E119782059A27FEAd4EddA8B555f393650BC8.png"
+        },
+        {
+            "id": "0x46f5cb8434c4f1188ff9581ef4723a7450d6c8b76346d1ef8e8ff4bd9d4de8ce",
+            "bio": "Nethermind is a Blockchain Research and Software Engineering Company",
+            "displayName": "Nethermind",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x4d6a8934a57ef082939fbf87ce03b8c57abaf7cb436eaa819fb9b5f9736ecd79",
+            "bio": "Hildr is an OP Stack rollup client written in latest Java with GraalVM native.",
+            "displayName": "grapebaba",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c.jpeg"
+        },
+        {
+            "id": "0x72636d32db59ae97bb616d46061268f60647e7f90aaf52ac5ed12f89aaa9ff0c",
+            "bio": "Ipsilon is a research team focusing on the EVM.",
+            "displayName": "Ipsilon",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF96Aa4A25fDe246d9dD498B145F52Fab0eAd29f3.png"
+        },
+        {
+            "id": "0x0b2ba3709c19f531dab7bb989f2d7086b4080561f6f49269dd1a3d469c7ef6b1",
+            "bio": "A censorship resistant web3 events platform and media company",
+            "displayName": "StreamETH",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575.png"
+        },
+        {
+            "id": "0xa56c22c8a230b721d39e7dd1615802db826a3c5dfb1ffa86967afa5db890b5ea",
+            "bio": "Scry is the ONLY self-hostable oracle infra. With crosschain data, VRFs and more",
+            "displayName": "PR0",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.png"
+        },
+        {
+            "id": "0x90ef634fad04d6ac2882db44d4a84f31c7f0621f3abd00efb067416e4ff1641c",
+            "bio": "Fast, Low Latency Indexer written for L2s",
+            "displayName": "Optimistic Indexer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x23651C9b3Ba495f5D30867583035faCA4840870F.png"
+        }
+    ],
+    "walletAddress": "0x2B888954421b424C5D3D9Ce9bB67c9bD47537d12",
+    "domainName": "lefteris.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xc20bd829061f6fead7548bd64407f73cdf3997a974cd074f36dfccd259be573e",
+    "approvalAttestationUid": "0xc20bd829061f6fead7548bd64407f73cdf3997a974cd074f36dfccd259be573e",
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-11-29T10:27:49",
+    "updatedAt": "2023-11-29T10:27:49",
+    "revokedAt": null,
+    "avatar": "https://s.gravatar.com/avatar/9c124c1f38e3df30d0c582beec001257?s=420"
+}

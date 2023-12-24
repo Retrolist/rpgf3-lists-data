@@ -1,0 +1,234 @@
+{
+    "id": "0x6e5cb36f23713b22ba9322a7701cde204e3e64650ac3d29454389a526436911b",
+    "listName": "Research and analytics| Sub-category evaluated with scoring system",
+    "listDescription": "This list rewards the 21 projects that made verifiable impact on Optimism in the \"Research and analytics\" sub-category. I am assigning 6% (1,800,000 OP) of all of the OP to this sub-category. \n\nMy intention is that this list is useful for badgeholders. \n",
+    "impactEvaluationDescription": "The process of evaluation for this list was using my scoring system, described in detailed in the notion link below, here's a brief overview. The purpose of my scoring system is to evaluate projects in an objective, quantitative, thorough and meritocratic way. Projects are divided and evaluated into sub-categories. Then, within them, they receive a score from 1 (low) to 3 (high) across 4 criteria, these scores are multiplied and determine the OP allocation of each project automatically. \nThe 4 criteria are: \n1. Money extracted from the collective \n2. Alignment with Collective's Values \n3. Metric strength (Based on Metrics Garden) \n4. Metric quantity (Benchmarked against projects of the same sub-category) \n\n*You can see all scores in the google sheets link provided below. Scoring results: See the \"Governance contributions\" sheet: https://docs.google.com/spreadsheets/d/13XQS7tXzxwKBZCp_TuMvgTNPVYxF0m6VLNTweurTDOo/edit?usp=sharing Rationale: https://cryptoversidad.notion.site/Diego-s-Voting-Framework-cc751201e0f544d3bd04210e63b78dd7",
+    "impactEvaluationLink": "https://cryptoversidad.notion.site/Diego-s-Voting-Rationale-cc751201e0f544d3bd04210e63b78dd7",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "OPAmount": 35940.1
+        },
+        {
+            "RPGF3_Application_UID": "0x1d0fd9b7e22d5104b7581d43eca15536106894dc0800877f624b2acac306f234",
+            "OPAmount": 47920.13
+        },
+        {
+            "RPGF3_Application_UID": "0x5c6601dfaab3603567d35888988d2588444d2f4d009ee16f1ba5ce1ad8036c9c",
+            "OPAmount": 47920.13
+        },
+        {
+            "RPGF3_Application_UID": "0x92b9a280afb2c683301bdbb5c065e0fdb0507656c4378caf1df8505327e21782",
+            "OPAmount": 47920.13
+        },
+        {
+            "RPGF3_Application_UID": "0xda1670c62e098723eb2771411d114d39fb1da864f5fe3796f5ff9926565cfeda",
+            "OPAmount": 47920.13
+        },
+        {
+            "RPGF3_Application_UID": "0x6093215024946600fa2f854f941d918ea3a7f11283cb4e430969c36937b39e66",
+            "OPAmount": 53910.15
+        },
+        {
+            "RPGF3_Application_UID": "0x3291020a053ac45717fc2eed0e44a5fe7156889a4d9e015b0e50fff081caea77",
+            "OPAmount": 71880.2
+        },
+        {
+            "RPGF3_Application_UID": "0x32a2e7a1ffaeb5a4259aacf2263474f9a93d7759bb672e13102a9851f94fb05b",
+            "OPAmount": 71880.2
+        },
+        {
+            "RPGF3_Application_UID": "0x4afa3f3679237d1a52cfd87f258f57d8de01d64a69182591807c471accdc0f16",
+            "OPAmount": 71880.2
+        },
+        {
+            "RPGF3_Application_UID": "0x7b0c961a1f892f654adce33bab1235bffacec1c02069b66490f91fc66765dcf9",
+            "OPAmount": 71880.2
+        },
+        {
+            "RPGF3_Application_UID": "0x7eb64cd4bd3b28fd36029377d136948aa74a5ca126df2e165574c736182267ff",
+            "OPAmount": 71880.2
+        },
+        {
+            "RPGF3_Application_UID": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
+            "OPAmount": 71880.2
+        },
+        {
+            "RPGF3_Application_UID": "0xab83d229faac28758e30acbbbcec653ce3dcc6f98b4b62ce20ee5e963e5ba606",
+            "OPAmount": 80865.22
+        },
+        {
+            "RPGF3_Application_UID": "0xd95dd72e655f1c98636d52fd36e2ec8f9dad3abbd978eb305de574e2532c46f8",
+            "OPAmount": 80865.22
+        },
+        {
+            "RPGF3_Application_UID": "0xe74ccd71062e114e4bbdbc6364d516b65b9003bdb3611de1bf8f774ae63b46f9",
+            "OPAmount": 80865.22
+        },
+        {
+            "RPGF3_Application_UID": "0x013c4c5aa12146fb2c42a6864e3cc9afb7212a62145487b514bceab1f588ae79",
+            "OPAmount": 107820.3
+        },
+        {
+            "RPGF3_Application_UID": "0xf9cbdc7fa9d0e03f65030f716d9a53a98bee7d06861d236484b88ce586988fb6",
+            "OPAmount": 107820.3
+        },
+        {
+            "RPGF3_Application_UID": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+            "OPAmount": 143760.4
+        },
+        {
+            "RPGF3_Application_UID": "0x007d41961338c04bb3a18e498d6d955072d4df3ea1fb43b16381269ea581049a",
+            "OPAmount": 161730.45
+        },
+        {
+            "RPGF3_Application_UID": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+            "OPAmount": 161730.45
+        },
+        {
+            "RPGF3_Application_UID": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+            "OPAmount": 161730.45
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "bio": "The NumbaNERDs program ensures the collective has quality analytics available.",
+            "displayName": "NumbaNERDs",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x1d0fd9b7e22d5104b7581d43eca15536106894dc0800877f624b2acac306f234",
+            "bio": "I create dashboards, tools, and content to make web3 data easier to navigate.",
+            "displayName": "Andrew Hong (ilemi)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06.png"
+        },
+        {
+            "id": "0x5c6601dfaab3603567d35888988d2588444d2f4d009ee16f1ba5ce1ad8036c9c",
+            "bio": "Funding database - historical data, profiles of the investors and startups.",
+            "displayName": "Crypto Fundraising",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF80a109643E78Bf60A34110530d2a5fe0b414996.png"
+        },
+        {
+            "id": "0x92b9a280afb2c683301bdbb5c065e0fdb0507656c4378caf1df8505327e21782",
+            "bio": "A dashboard collections that built with BASE and Optimism data",
+            "displayName": "arabianhorses",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf23F9C10D1559885dABEE67c59c4554E6152697b.png"
+        },
+        {
+            "id": "0xda1670c62e098723eb2771411d114d39fb1da864f5fe3796f5ff9926565cfeda",
+            "bio": "Open, decoded, and CC0-licensed Optimism Superchain datasets.",
+            "displayName": "indexed.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9.png"
+        },
+        {
+            "id": "0x6093215024946600fa2f854f941d918ea3a7f11283cb4e430969c36937b39e66",
+            "bio": "Connecting web3 projects with the best analysts for data insights.",
+            "displayName": "MetricsDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa0F00e59ef57D82449ACcB05b9512A47b264374b.png"
+        },
+        {
+            "id": "0x3291020a053ac45717fc2eed0e44a5fe7156889a4d9e015b0e50fff081caea77",
+            "bio": "Institutional-grade research collective focused on Ethereum & rollups.",
+            "displayName": "Redacted Research",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe179B39f819d55301762b5745c85F767d988aEbe.png"
+        },
+        {
+            "id": "0x32a2e7a1ffaeb5a4259aacf2263474f9a93d7759bb672e13102a9851f94fb05b",
+            "bio": "On-chain analytics platform",
+            "displayName": "Parsec Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9161A575356b607EA471a6189e3cE31B5FC914ca.png"
+        },
+        {
+            "id": "0x4afa3f3679237d1a52cfd87f258f57d8de01d64a69182591807c471accdc0f16",
+            "bio": "A Dune dashboard that presents data on the adoption of ERC4337 Smart Accounts",
+            "displayName": "ERC4337 Smart Accounts Dune Dashboard",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.jpeg"
+        },
+        {
+            "id": "0x7b0c961a1f892f654adce33bab1235bffacec1c02069b66490f91fc66765dcf9",
+            "bio": "CrossAngle is a data & intelligence platform offering gateway to Web3 adoption.",
+            "displayName": "CrossAngle (“Xangle”)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5f80dbFEE26af9aBb7749831255312d5b676b9be.png"
+        },
+        {
+            "id": "0x7eb64cd4bd3b28fd36029377d136948aa74a5ca126df2e165574c736182267ff",
+            "bio": "ITB launched analytics for Optimism, Base, and projects building on the OP Stack",
+            "displayName": "IntoTheBlock Optimism Analytics",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06.png"
+        },
+        {
+            "id": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
+            "bio": "A Dune wizard and data enthusiast from Cambodia 🇰🇭",
+            "displayName": "0xKhmer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB.png"
+        },
+        {
+            "id": "0xab83d229faac28758e30acbbbcec653ce3dcc6f98b4b62ce20ee5e963e5ba606",
+            "bio": "CryptoStats creates public-good data websites, such as CryptoFees.info",
+            "displayName": "CryptoStats & CryptoFees.info",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x69aa21403244889832609963B0028e337a834953.png"
+        },
+        {
+            "id": "0xd95dd72e655f1c98636d52fd36e2ec8f9dad3abbd978eb305de574e2532c46f8",
+            "bio": "Messari Protocol Services provides freely available research and reporting",
+            "displayName": "Messari",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xe74ccd71062e114e4bbdbc6364d516b65b9003bdb3611de1bf8f774ae63b46f9",
+            "bio": "Facilitating data science on the Ethereum blockchain",
+            "displayName": "EthereumETL",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9FD0C742D81B6f08817F3eF11D09Cb4a9f54eE5f.png"
+        },
+        {
+            "id": "0x013c4c5aa12146fb2c42a6864e3cc9afb7212a62145487b514bceab1f588ae79",
+            "bio": "Layer 2 Analytics & Knowledge Platform. Metrics, Blockspace, Labeling and APIs.",
+            "displayName": "growthepie",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9438b8B447179740cD97869997a2FCc9b4AA63a2.png"
+        },
+        {
+            "id": "0xf9cbdc7fa9d0e03f65030f716d9a53a98bee7d06861d236484b88ce586988fb6",
+            "bio": "Fullstack engineer and data analyst. Maxi on Web3 and Public Goods.",
+            "displayName": "Ivan Molto",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7904667C340601AaB73939372C016dC5102732A2.png"
+        },
+        {
+            "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+            "bio": "The leading DAO analytics engine with 19k+ DAOs and 8+ million wallet profiles.",
+            "displayName": "DeepDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+        },
+        {
+            "id": "0x007d41961338c04bb3a18e498d6d955072d4df3ea1fb43b16381269ea581049a",
+            "bio": "Public Assembly is an onchain collective focused on creating what's missing.",
+            "displayName": "Public Assembly",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFEC0Ad833FB7D20A83E373279f37c88159bAd99E.png"
+        },
+        {
+            "id": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+            "bio": "I am a Web3 Data Analyst covering the Optimism Ecosystem",
+            "displayName": "MarcoV",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x283266045Ab2aB0793a62CADC21D55f685636Ae0.png"
+        },
+        {
+            "id": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+            "bio": "Public good dashboards & spells (tables) on Dune",
+            "displayName": "hildobby",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x09a5943a6d10919571eE2C9F63380aEA747ECA97.jpeg"
+        }
+    ],
+    "walletAddress": "0x64FeD9e56B548343E7bb47c49ecd7FFa9f1A34FE",
+    "domainName": "dmars300.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x6e5cb36f23713b22ba9322a7701cde204e3e64650ac3d29454389a526436911b",
+    "approvalAttestationUid": "0x6e5cb36f23713b22ba9322a7701cde204e3e64650ac3d29454389a526436911b",
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-12-04T20:10:07",
+    "updatedAt": "2023-12-04T20:10:07",
+    "revokedAt": null,
+    "avatar": null
+}

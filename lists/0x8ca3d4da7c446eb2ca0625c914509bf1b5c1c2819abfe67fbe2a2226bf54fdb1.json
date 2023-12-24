@@ -1,0 +1,114 @@
+{
+    "id": "0x8ca3d4da7c446eb2ca0625c914509bf1b5c1c2819abfe67fbe2a2226bf54fdb1",
+    "listName": "abcoathup's news gathering resources",
+    "listDescription": "Resources for news gathering, fact checking and unique perspectives on Ethereum & OP Stack that I use when editing my favorite newsletter.",
+    "impactEvaluationDescription": "Using nominal values of XXL (1M), L (200k), M (100k), S (20k) to show relative sizing, though please update with your own values.\n\n## XXL\n* Using Protocol Guild to cover All core devs, Eth R&D Discord, ethresear.ch, Eth magicians, EIP repo, Danny Ryan & Tim Beiko.\n\n## L\n* Sassal provides unique DeFi perspective.  Reduced by 50k as is an investor in Optimism (https://www.youtube.com/watch?v=j5jQtjgHTTU&t=170s) & talking up your investments is it's own retroactive reward.\n* DefiLlama used to evaluate size of projects and impact of security incidents.\n\n## M\n* Ultrasound Money provides ETH burn info.\n* Hildobby provides Lido staking share.\n* Pooja Ranjan (Ethereum Cat Herders) is a member of Protocol Guild (https://protocol-guild.readthedocs.io/en/latest/9-membership.html) so reduced M by 50k to avoid double counting.\n* EthStaker subreddit\n\n## S\n* Eth Daily used for unique view of daily news\n* Faina (Layer 2 Landscape) for regular tweet threads on L2",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+            "OPAmount": 150000
+        },
+        {
+            "RPGF3_Application_UID": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xe7f1ebfe8e8c9980ba192a76b77e18f747e82d642f985681748615457c0e8b7c",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "OPAmount": 2000000
+        },
+        {
+            "RPGF3_Application_UID": "0x708fb4bb4efcfdf20a0ef673daf2df7944f0f2f91f0b607069a2ff822e2cd871",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xd06423aa05a359735b911e9988486822acb3c3f62e3397ed35d6430240454b0f",
+            "OPAmount": 100000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+            "bio": "Independent Ethereum educator, investor & advisor. Founder of The Daily Gwei.",
+            "displayName": "Sassal.eth",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+        },
+        {
+            "id": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "bio": "A podcast and newsletter segment covering Optimism ecosystem news.",
+            "displayName": "ETH Daily (OP News)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEB40A065854bd90126A4E697aeA0976BA51b2eE7.png"
+        },
+        {
+            "id": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "bio": "Open and transparent DeFi analytics.",
+            "displayName": "DefiLlama",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd.png"
+        },
+        {
+            "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+            "bio": "We creates guides, instructional videos, and technical support about staking.",
+            "displayName": "EthStaker",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
+        },
+        {
+            "id": "0xe7f1ebfe8e8c9980ba192a76b77e18f747e82d642f985681748615457c0e8b7c",
+            "bio": "Decentralized project management & process improvement for Ethereum Blockchain",
+            "displayName": "Ethereum Cat Herders",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf13e477365B0FAa64130DA2FF663aAb20d32d929.png"
+        },
+        {
+            "id": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "bio": "A collective of Ethereum's active core protocol contributors",
+            "displayName": "Protocol Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F.png"
+        },
+        {
+            "id": "0x708fb4bb4efcfdf20a0ef673daf2df7944f0f2f91f0b607069a2ff822e2cd871",
+            "bio": "Author of \"Layer 2 Landscape\" threads, & manager of node infra at Infura.",
+            "displayName": "Faina",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.jpeg"
+        },
+        {
+            "id": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+            "bio": "Public good dashboards & spells (tables) on Dune",
+            "displayName": "hildobby",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x09a5943a6d10919571eE2C9F63380aEA747ECA97.jpeg"
+        },
+        {
+            "id": "0xd06423aa05a359735b911e9988486822acb3c3f62e3397ed35d6430240454b0f",
+            "bio": "Spreading the ultra sound money meme 🦇🔊, and building ultrasound.money.",
+            "displayName": "Ultra Sound Money",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8dbd44FAFD2D795700693cdA7f5275714eBE075.png"
+        }
+    ],
+    "walletAddress": "0x288C53a1BA857EaD34AD0e79F644087F8174185a",
+    "domainName": null,
+    "isBadgeholder": true,
+    "attestationUid": "0x8ca3d4da7c446eb2ca0625c914509bf1b5c1c2819abfe67fbe2a2226bf54fdb1",
+    "approvalAttestationUid": "0x8ca3d4da7c446eb2ca0625c914509bf1b5c1c2819abfe67fbe2a2226bf54fdb1",
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-12-02T02:41:23",
+    "updatedAt": "2023-12-02T02:41:23",
+    "revokedAt": null,
+    "avatar": null
+}

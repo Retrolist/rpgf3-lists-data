@@ -1,0 +1,22 @@
+{
+    "id": "0xdcde48c2fb5a2925f91c15f9925d970375ea432d22f5a1b0c751dbd4ae91ef5e",
+    "listName": "Custom list",
+    "listDescription": "Custom list created by Pairwise Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Custom list.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [],
+    "projectsMetadata": [],
+    "walletAddress": "0x8ED91f4e13Ad1D74205a05E2eFeB1DB5175845a3",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0xdcde48c2fb5a2925f91c15f9925d970375ea432d22f5a1b0c751dbd4ae91ef5e",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-04T19:50:51",
+    "updatedAt": "2023-12-04T19:50:51",
+    "revokedAt": null,
+    "avatar": null
+}

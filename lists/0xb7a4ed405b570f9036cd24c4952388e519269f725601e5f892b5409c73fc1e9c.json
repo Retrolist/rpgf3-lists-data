@@ -1,0 +1,104 @@
+{
+    "id": "0xb7a4ed405b570f9036cd24c4952388e519269f725601e5f892b5409c73fc1e9c",
+    "listName": "Ethereum node clients (CL+EL, L1/L2) - V1",
+    "listDescription": "Open source ethereum clients (consensus and execution layers, L1/L2)\n\nThe list is named V1 since it can't be edited.\n\nDISCLAIMER: The amounts are NOT a suggestion and badgeholders must do their own adjustments. The field is required and I just put the max divided by number of projects into each one to avoid any being penalized by having 0 and forgotten to be filled out.",
+    "impactEvaluationDescription": "They sustain Optimism network existence",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x46f5cb8434c4f1188ff9581ef4723a7450d6c8b76346d1ef8e8ff4bd9d4de8ce",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x795c02e18131bf22626db5172ecbe21e0ee7316ed73921ad079b4d2989dce8b6",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xc6e48d375dcab4f18c48d6e24d3fc074ab38bf754381c0f830dbccff1e0f8dbb",
+            "OPAmount": 0
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "bio": "An Ethereum execution layer client",
+            "displayName": "go-ethereum",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "bio": "Ethereum implementation on the efficiency frontier",
+            "displayName": "Erigon",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x46f5cb8434c4f1188ff9581ef4723a7450d6c8b76346d1ef8e8ff4bd9d4de8ce",
+            "bio": "Nethermind is a Blockchain Research and Software Engineering Company",
+            "displayName": "Nethermind",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x795c02e18131bf22626db5172ecbe21e0ee7316ed73921ad079b4d2989dce8b6",
+            "bio": "A leading Ethereum consensus client written in rust.",
+            "displayName": "Lighthouse",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03.png"
+        },
+        {
+            "id": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "bio": "Lodestar is a Typescript ecosystem for Ethereum consensus developed by ChainSafe",
+            "displayName": "Lodestar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDaDd7c883288Cfe2E257B0A361865E5e9349808b.png"
+        },
+        {
+            "id": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "bio": "Test in Prod is a core development team of Optimism Collective.",
+            "displayName": "Test in Prod",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0583EeA7C089A7f74c1Fe4e6CCF1072FA016b50A.png"
+        },
+        {
+            "id": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "bio": "OP Reth is Reth but for the Optimism Collective, a new high performance client.",
+            "displayName": "OP Reth",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xc6e48d375dcab4f18c48d6e24d3fc074ab38bf754381c0f830dbccff1e0f8dbb",
+            "bio": "Ethereum validators of all sizes trust Nimbus to run their nodes.",
+            "displayName": "Nimbus",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4413E96F6b46e59326a7695eF871FA902Ff7935d.png"
+        }
+    ],
+    "walletAddress": "0xd31b671F1a398B519222FdAba5aB5464B9F2a3Fa",
+    "domainName": "wmitsuda.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xb7a4ed405b570f9036cd24c4952388e519269f725601e5f892b5409c73fc1e9c",
+    "approvalAttestationUid": "0xb7a4ed405b570f9036cd24c4952388e519269f725601e5f892b5409c73fc1e9c",
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-11-30T21:31:19",
+    "updatedAt": "2023-11-30T21:31:19",
+    "revokedAt": null,
+    "avatar": "https://secure.gravatar.com/avatar/45584aced38bad6c1250569623ad1909"
+}

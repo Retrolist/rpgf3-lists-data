@@ -1,0 +1,224 @@
+{
+    "id": "0x7337863f396e7e571ac67264c0a76d353930f9260af8a74558295ba71b1dda8e",
+    "listName": "Governance Tools",
+    "listDescription": "Governance Tools empower the decentralized communities to make collective decisions, propose changes, and steer the direction of a project. These tools facilitate voting, discussions, and the implementation of decisions in a transparent and inclusive manner. As the blockchain ecosystem matures, robust governance mechanisms become crucial to ensure the sustainability, adaptability, and fairness of decentralized projects. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Governance Tools.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+            "OPAmount": 140429
+        },
+        {
+            "RPGF3_Application_UID": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+            "OPAmount": 140152
+        },
+        {
+            "RPGF3_Application_UID": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
+            "OPAmount": 140152
+        },
+        {
+            "RPGF3_Application_UID": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+            "OPAmount": 96354
+        },
+        {
+            "RPGF3_Application_UID": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+            "OPAmount": 93619
+        },
+        {
+            "RPGF3_Application_UID": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+            "OPAmount": 71097
+        },
+        {
+            "RPGF3_Application_UID": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+            "OPAmount": 56171
+        },
+        {
+            "RPGF3_Application_UID": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "OPAmount": 56171
+        },
+        {
+            "RPGF3_Application_UID": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+            "OPAmount": 46809
+        },
+        {
+            "RPGF3_Application_UID": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+            "OPAmount": 37447
+        },
+        {
+            "RPGF3_Application_UID": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
+            "OPAmount": 35038
+        },
+        {
+            "RPGF3_Application_UID": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+            "OPAmount": 28492
+        },
+        {
+            "RPGF3_Application_UID": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
+            "OPAmount": 26278
+        },
+        {
+            "RPGF3_Application_UID": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
+            "OPAmount": 26278
+        },
+        {
+            "RPGF3_Application_UID": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+            "OPAmount": 17519
+        },
+        {
+            "RPGF3_Application_UID": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+            "OPAmount": 6553
+        },
+        {
+            "RPGF3_Application_UID": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "OPAmount": 4680
+        },
+        {
+            "RPGF3_Application_UID": "0x68cef3183236e7717d0fc1c7b18e0fa3c6d7f752d2803686712c8168fe21b400",
+            "OPAmount": 3744
+        },
+        {
+            "RPGF3_Application_UID": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
+            "OPAmount": 1862
+        },
+        {
+            "RPGF3_Application_UID": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
+            "OPAmount": 965
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+            "bio": "Tally is an onchain governance app for Ethereum ecosystem",
+            "displayName": "Tally",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
+        },
+        {
+            "id": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+            "bio": "Snapshot is a voting platform that allows DAOs to vote without gas fees.",
+            "displayName": "Snapshot",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.png"
+        },
+        {
+            "id": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
+            "bio": "An onchain URL shortener, on Optimism.",
+            "displayName": "Slugs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png"
+        },
+        {
+            "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+            "bio": "Turkey's first and biggest university blockchain society!",
+            "displayName": "ITU Blockchain",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
+        },
+        {
+            "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+            "bio": "Simplifying the voting RetroPGF experience: easier to face 2 than 2000",
+            "displayName": "Pairwise",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
+        },
+        {
+            "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+            "bio": "Homepage and toolkit for your onchain community",
+            "displayName": "Guild.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
+        },
+        {
+            "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+            "bio": "RadicalxChange Foundation is a nonprofit seeking to improve basic institutions.",
+            "displayName": "RadicalxChange Foundation",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
+        },
+        {
+            "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "bio": "Token house and Citizen house governance app and contract",
+            "displayName": "Agora",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+        },
+        {
+            "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+            "bio": "On-chain reputation layer for regens in public goods",
+            "displayName": "RegenScore",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+        },
+        {
+            "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+            "bio": "The standards body for DAOs, with 80+ member organizations.",
+            "displayName": "EIP-4824/ DAOstar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+        },
+        {
+            "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
+            "bio": "A governance data platform helping stakeholders make more informed decisions",
+            "displayName": "Boardroom",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
+        },
+        {
+            "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+            "bio": "The leading DAO analytics engine with 19k+ DAOs and 8+ million wallet profiles.",
+            "displayName": "DeepDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+        },
+        {
+            "id": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
+            "bio": "Modular protocol infrastructure for next generation of smart contract solutions",
+            "displayName": "Inverter Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png"
+        },
+        {
+            "id": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
+            "bio": "A Governor extension for building powerful DAO voting integrations.",
+            "displayName": "Flexible Voting",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png"
+        },
+        {
+            "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+            "bio": "All resources related to Optimism governance on a single website",
+            "displayName": "Optimism Resource Center",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
+        },
+        {
+            "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+            "bio": "Working towards increasing Latin Americans participation in governance.",
+            "displayName": "SEED Latam",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
+        },
+        {
+            "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "bio": "Karma is a suite of contributor reputation tools helping DAOs improve governance",
+            "displayName": "Karma",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+        },
+        {
+            "id": "0x68cef3183236e7717d0fc1c7b18e0fa3c6d7f752d2803686712c8168fe21b400",
+            "bio": "A public good for collaborative governance in cities with plural voting",
+            "displayName": "Zengo: Decentralized Budget",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.png"
+        },
+        {
+            "id": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
+            "bio": "Group of beta testers with diverse levels of expertise and backgrounds",
+            "displayName": "OP Security Council Rehearsal Beta Testers",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
+            "bio": "Build, maintain, and grow true DAOs effortlessly. Innovate without limits!",
+            "displayName": "EthereansOS",
+            "profileImageUrl": null
+        }
+    ],
+    "walletAddress": "0x826976d7C600d45FB8287CA1d7c76FC8eb732030",
+    "domainName": "divinecomedian.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x7337863f396e7e571ac67264c0a76d353930f9260af8a74558295ba71b1dda8e",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-03T16:26:13",
+    "updatedAt": "2023-12-03T16:26:13",
+    "revokedAt": null,
+    "avatar": "https://i.imgur.com/SARJUC2.jpg"
+}

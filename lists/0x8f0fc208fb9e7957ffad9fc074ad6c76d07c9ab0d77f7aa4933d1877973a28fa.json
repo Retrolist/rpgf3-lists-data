@@ -1,0 +1,334 @@
+{
+    "id": "0x8f0fc208fb9e7957ffad9fc074ad6c76d07c9ab0d77f7aa4933d1877973a28fa",
+    "listName": "Governance contributions/tooling | Sub-category evaluated with scoring system",
+    "listDescription": "This list rewards the 31 projects that made verifiable impact on Optimism in the \"Governance contributions/tooling\" sub-category. I am assigning 13.2% (3,960,000 OP) of all of the OP to this sub-category. \n\nMy intention is that this list is useful for badgeholders. \n",
+    "impactEvaluationDescription": "The process of evaluation for this list was using my scoring system, described in detailed in the notion link below, here's a brief overview. The purpose of my scoring system is to evaluate projects in an objective, quantitative, thorough and meritocratic way. Projects are divided and evaluated into sub-categories. Then, within them, they receive a score from 1 (low) to 3 (high) across 4 criteria, these scores are multiplied and determine the OP allocation of each project automatically. \nThe 4 criteria are: \n1. Money extracted from the collective \n2. Alignment with Collective's Values \n3. Metric strength (Based on Metrics Garden) \n4. Metric quantity (Benchmarked against projects of the same sub-category) \n\n*You can see all scores in the google sheets link provided below. Scoring results: See the \"Governance contributions\" sheet: https://docs.google.com/spreadsheets/d/13XQS7tXzxwKBZCp_TuMvgTNPVYxF0m6VLNTweurTDOo/edit?usp=sharing Rationale: https://cryptoversidad.notion.site/Diego-s-Voting-Framework-cc751201e0f544d3bd04210e63b78dd7",
+    "impactEvaluationLink": "https://cryptoversidad.notion.site/Diego-s-Voting-Rationale-cc751201e0f544d3bd04210e63b78dd7",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x1db11157f88463d1e8d946ec8a44b51a74d8edb76e450fc082b1045af7aeeb6d",
+            "OPAmount": 47854.98
+        },
+        {
+            "RPGF3_Application_UID": "0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+            "OPAmount": 47854.98
+        },
+        {
+            "RPGF3_Application_UID": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+            "OPAmount": 53836.86
+        },
+        {
+            "RPGF3_Application_UID": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+            "OPAmount": 53836.86
+        },
+        {
+            "RPGF3_Application_UID": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "OPAmount": 53836.86
+        },
+        {
+            "RPGF3_Application_UID": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "OPAmount": 53836.86
+        },
+        {
+            "RPGF3_Application_UID": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+            "OPAmount": 71782.48
+        },
+        {
+            "RPGF3_Application_UID": "0x6d984b8e3b187070129658d99f9011baeb2c85955f8aa9aa0c7f91da7ab62b85",
+            "OPAmount": 71782.48
+        },
+        {
+            "RPGF3_Application_UID": "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+            "OPAmount": 80755.29
+        },
+        {
+            "RPGF3_Application_UID": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+            "OPAmount": 80755.29
+        },
+        {
+            "RPGF3_Application_UID": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+            "OPAmount": 95709.97
+        },
+        {
+            "RPGF3_Application_UID": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+            "OPAmount": 107673.72
+        },
+        {
+            "RPGF3_Application_UID": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "OPAmount": 107673.72
+        },
+        {
+            "RPGF3_Application_UID": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+            "OPAmount": 107673.72
+        },
+        {
+            "RPGF3_Application_UID": "0x9b32619656175fc08131529bb3fd476d4fc8199b0feffbe3c230274dc1900aeb",
+            "OPAmount": 143564.95
+        },
+        {
+            "RPGF3_Application_UID": "0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+            "OPAmount": 143564.95
+        },
+        {
+            "RPGF3_Application_UID": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+            "OPAmount": 143564.95
+        },
+        {
+            "RPGF3_Application_UID": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
+            "OPAmount": 143564.95
+        },
+        {
+            "RPGF3_Application_UID": "0x21bd1ffc17577bff57ffab3413191f08a4b1b64bd5c930b5959408ee477d5cf7",
+            "OPAmount": 161510.57
+        },
+        {
+            "RPGF3_Application_UID": "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+            "OPAmount": 161510.57
+        },
+        {
+            "RPGF3_Application_UID": "0x3049e55f433120f538188df5837e7c3a15063e4cba01f14f1ca4181bbe6f5cfe",
+            "OPAmount": 161510.57
+        },
+        {
+            "RPGF3_Application_UID": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+            "OPAmount": 161510.57
+        },
+        {
+            "RPGF3_Application_UID": "0xb426cb999cd483bd00f82b9585a6f0963f13e01e6e15403db87e3fed1dc87d96",
+            "OPAmount": 161510.57
+        },
+        {
+            "RPGF3_Application_UID": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+            "OPAmount": 161510.57
+        },
+        {
+            "RPGF3_Application_UID": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+            "OPAmount": 161510.57
+        },
+        {
+            "RPGF3_Application_UID": "0x4a7b07b51c87113b9eb67b3cca6bb396d675ba51b21a77639bf22854bd74624d",
+            "OPAmount": 191419.94
+        },
+        {
+            "RPGF3_Application_UID": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "OPAmount": 191419.94
+        },
+        {
+            "RPGF3_Application_UID": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+            "OPAmount": 191419.94
+        },
+        {
+            "RPGF3_Application_UID": "0xd8dd0f0bc1682dcd7c63bed3de0e0439282f7a7132658ada1c5cc5644bca3f30",
+            "OPAmount": 215347.43
+        },
+        {
+            "RPGF3_Application_UID": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+            "OPAmount": 215347.43
+        },
+        {
+            "RPGF3_Application_UID": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+            "OPAmount": 215347.43
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x1db11157f88463d1e8d946ec8a44b51a74d8edb76e450fc082b1045af7aeeb6d",
+            "bio": "Who got the grants? A comprehensive database of 300+ OP Grantees & 90M OP",
+            "displayName": "Optimism Grant Analytics: Grant3",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72C58877ef744b86F6ef416a3bE26Ec19d587708.png"
+        },
+        {
+            "id": "0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+            "bio": "A dune dashboard tracking onchain governance behavior at the Op Collective",
+            "displayName": "satorrr",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5c1D15dC3da43A18E60C2DdB87B3466097855530.png"
+        },
+        {
+            "id": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+            "bio": "Graviton training on Optimism. Conflict management and trust creation in Web3.",
+            "displayName": "Gravity DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.jpeg"
+        },
+        {
+            "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+            "bio": "The standards body for DAOs, with 80+ member organizations.",
+            "displayName": "EIP-4824/ DAOstar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+        },
+        {
+            "id": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "bio": "Fund & govern your mission with Augmented Bonding Curves & Aragon on Optimism.",
+            "displayName": "Commons Stack",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png"
+        },
+        {
+            "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "bio": "Karma is a suite of contributor reputation tools helping DAOs improve governance",
+            "displayName": "Karma",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+        },
+        {
+            "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+            "bio": "All resources related to Optimism governance on a single website",
+            "displayName": "Optimism Resource Center",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
+        },
+        {
+            "id": "0x6d984b8e3b187070129658d99f9011baeb2c85955f8aa9aa0c7f91da7ab62b85",
+            "bio": "A changelog and status page for the grant programs of the Optimism Collective",
+            "displayName": "Optimism Grants Changelog",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.png"
+        },
+        {
+            "id": "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+            "bio": "Empowering OP Collective with data-driven insights  🚩🌐",
+            "displayName": "OP Governance Analytics Dashboard",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x17296956b4E07Ff8931E4ff4eA06709FaB70b879.png"
+        },
+        {
+            "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+            "bio": "On-chain reputation layer for regens in public goods",
+            "displayName": "RegenScore",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+        },
+        {
+            "id": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+            "bio": "Snapshot is a voting platform that allows DAOs to vote without gas fees.",
+            "displayName": "Snapshot",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.png"
+        },
+        {
+            "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+            "bio": "RetroPGF Hub is the place to explore, discover, and awareness about RetroPGF.",
+            "displayName": "RetroPGF Hub",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
+        },
+        {
+            "id": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "bio": "Hats is the onchain roles protocol",
+            "displayName": "Hats Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.png"
+        },
+        {
+            "id": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+            "bio": "Grants Management for Public Goods Projects on Optimism",
+            "displayName": "Public Goods Grant Management",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png"
+        },
+        {
+            "id": "0x9b32619656175fc08131529bb3fd476d4fc8199b0feffbe3c230274dc1900aeb",
+            "bio": "Impact Evaluation and data availability catalyst for the Optimism Ecosystem.",
+            "displayName": "LauNaMu",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5d36a202687fD6Bd0f670545334bF0B4827Cc1E2.png"
+        },
+        {
+            "id": "0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+            "bio": "Analyzing Governance Fund Recipients to Increase Transparency in the Collective",
+            "displayName": "raho & tnorm",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B.jpeg"
+        },
+        {
+            "id": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+            "bio": "Advocating accessible Optimism governance, amplifying voices in 🇲🇽 and beyond.",
+            "displayName": "Brichis",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.png"
+        },
+        {
+            "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
+            "bio": "A governance data platform helping stakeholders make more informed decisions",
+            "displayName": "Boardroom",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
+        },
+        {
+            "id": "0x21bd1ffc17577bff57ffab3413191f08a4b1b64bd5c930b5959408ee477d5cf7",
+            "bio": "Latin American women onboarding more women to the Optimism Ecosystem.",
+            "displayName": "HER LATAM _ Optimistas Brillando en Blockchain",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72cBF736B721D5266Aca1E6BCC98C526d0ef2FE0.png"
+        },
+        {
+            "id": "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+            "bio": "Optimism Ambassador, Project advisors",
+            "displayName": "Subli",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2.jpeg"
+        },
+        {
+            "id": "0x3049e55f433120f538188df5837e7c3a15063e4cba01f14f1ca4181bbe6f5cfe",
+            "bio": "Optimism Community Governance Calls and other Community Events",
+            "displayName": "Optimism Community Governance Calls (Michael)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C.png"
+        },
+        {
+            "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+            "bio": "Turkey's first and biggest university blockchain society!",
+            "displayName": "ITU Blockchain",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
+        },
+        {
+            "id": "0xb426cb999cd483bd00f82b9585a6f0963f13e01e6e15403db87e3fed1dc87d96",
+            "bio": "Think tank advancing positive-sum coordination mechanism.",
+            "displayName": "Mechanism Institute",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4cd6B4503d02973D78CFF59C9C56f5F378688274.png"
+        },
+        {
+            "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+            "bio": "Tally is an onchain governance app for Ethereum ecosystem",
+            "displayName": "Tally",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
+        },
+        {
+            "id": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+            "bio": "web3 community platform for members to build relationships, work together & vote",
+            "displayName": "CharmVerse",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.png"
+        },
+        {
+            "id": "0x4a7b07b51c87113b9eb67b3cca6bb396d675ba51b21a77639bf22854bd74624d",
+            "bio": "Our mandate is to make the grants process smoother for everyone involved!",
+            "displayName": "Optimism Grants Council Season 4",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png"
+        },
+        {
+            "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "bio": "Token house and Citizen house governance app and contract",
+            "displayName": "Agora",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+        },
+        {
+            "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+            "bio": "Working towards increasing Latin Americans participation in governance.",
+            "displayName": "SEED Latam",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
+        },
+        {
+            "id": "0xd8dd0f0bc1682dcd7c63bed3de0e0439282f7a7132658ada1c5cc5644bca3f30",
+            "bio": "Measure the impact of open source contributions. Onchain and off.",
+            "displayName": "Open Source Observer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3.png"
+        },
+        {
+            "id": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+            "bio": "World-leading nonprofit research collective for DAOs and online self-governance.",
+            "displayName": "Metagov",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.png"
+        },
+        {
+            "id": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+            "bio": "The web3 standard for impact certificates",
+            "displayName": "Hypercerts Foundation",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png"
+        }
+    ],
+    "walletAddress": "0x64FeD9e56B548343E7bb47c49ecd7FFa9f1A34FE",
+    "domainName": "dmars300.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x8f0fc208fb9e7957ffad9fc074ad6c76d07c9ab0d77f7aa4933d1877973a28fa",
+    "approvalAttestationUid": "0x8f0fc208fb9e7957ffad9fc074ad6c76d07c9ab0d77f7aa4933d1877973a28fa",
+    "categories": [
+        "COLLECTIVE_GOVERNANCE"
+    ],
+    "createdAt": "2023-12-04T19:49:17",
+    "updatedAt": "2023-12-04T19:49:17",
+    "revokedAt": null,
+    "avatar": null
+}

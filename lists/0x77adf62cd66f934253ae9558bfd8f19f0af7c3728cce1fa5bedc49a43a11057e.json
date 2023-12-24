@@ -1,0 +1,54 @@
+{
+    "id": "0x77adf62cd66f934253ae9558bfd8f19f0af7c3728cce1fa5bedc49a43a11057e",
+    "listName": "Learning resources and communities",
+    "listDescription": ".",
+    "impactEvaluationDescription": "I don’t know yet. It’s just a test.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
+            "OPAmount": 0
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+            "bio": "A peer-learning environment dedicated to building a better web, together.",
+            "displayName": "Kernel",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
+        },
+        {
+            "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+            "bio": "Digital inclusion of vulnerable LatAm communities via web3 education w/Optimism.",
+            "displayName": "Proof of Integrity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
+        },
+        {
+            "id": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
+            "bio": "Making learning Optimism 10x easier.",
+            "displayName": "Optimistic Academy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDFC65E0292573311DF30eA4De81F941bCd726aB6.png"
+        }
+    ],
+    "walletAddress": "0xe422d6C46a69e989BA6468CcD0435Cb0c5C243E3",
+    "domainName": null,
+    "isBadgeholder": true,
+    "attestationUid": "0x77adf62cd66f934253ae9558bfd8f19f0af7c3728cce1fa5bedc49a43a11057e",
+    "approvalAttestationUid": "0x77adf62cd66f934253ae9558bfd8f19f0af7c3728cce1fa5bedc49a43a11057e",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-10-28T16:44:37",
+    "updatedAt": "2023-10-28T16:44:37",
+    "revokedAt": null,
+    "avatar": null
+}

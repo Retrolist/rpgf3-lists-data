@@ -1,0 +1,54 @@
+{
+    "id": "0xce28acdaab64f991ebefeffd5b023706764d1bfaf7b1e42bb1f1d03ab10f393f",
+    "listName": "Optimism client diversity - V1",
+    "listDescription": "Open source ethereum clients that support Optimism\n\nIn this list I'm intentionally excluding Geth, since the goal is to highlight client diversity in Optimism ecosystem, which is one of its differentials compared to other L2s.\n\nThe list is named V1 since it can't be edited.\n\nDISCLAIMER: The amounts are NOT a suggestion and badgeholders must do their own adjustments. The field is required and I just put the max divided by number of projects into each one to avoid any being penalized by having 0 and forgotten to be filled out.",
+    "impactEvaluationDescription": "They sustain Optimism network existence",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "OPAmount": 5000000
+        },
+        {
+            "RPGF3_Application_UID": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "OPAmount": 5000000
+        },
+        {
+            "RPGF3_Application_UID": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "OPAmount": 5000000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "bio": "Ethereum implementation on the efficiency frontier",
+            "displayName": "Erigon",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "bio": "Test in Prod is a core development team of Optimism Collective.",
+            "displayName": "Test in Prod",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0583EeA7C089A7f74c1Fe4e6CCF1072FA016b50A.png"
+        },
+        {
+            "id": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "bio": "OP Reth is Reth but for the Optimism Collective, a new high performance client.",
+            "displayName": "OP Reth",
+            "profileImageUrl": null
+        }
+    ],
+    "walletAddress": "0xd31b671F1a398B519222FdAba5aB5464B9F2a3Fa",
+    "domainName": "wmitsuda.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xce28acdaab64f991ebefeffd5b023706764d1bfaf7b1e42bb1f1d03ab10f393f",
+    "approvalAttestationUid": "0xce28acdaab64f991ebefeffd5b023706764d1bfaf7b1e42bb1f1d03ab10f393f",
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-11-30T21:46:03",
+    "updatedAt": "2023-11-30T21:46:03",
+    "revokedAt": null,
+    "avatar": "https://secure.gravatar.com/avatar/45584aced38bad6c1250569623ad1909"
+}

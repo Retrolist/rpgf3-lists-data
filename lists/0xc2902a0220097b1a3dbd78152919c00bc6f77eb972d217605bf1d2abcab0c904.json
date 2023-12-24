@@ -1,0 +1,164 @@
+{
+    "id": "0xc2902a0220097b1a3dbd78152919c00bc6f77eb972d217605bf1d2abcab0c904",
+    "listName": "Explorers, Security & Node Deployment Tools",
+    "listDescription": "undefined Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Explorers, Security & Node Deployment Tools.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x932ab86dcbf750b9224665f7d9974c6e9e428470974ae59658b61cd7c3283728",
+            "OPAmount": 150000
+        },
+        {
+            "RPGF3_Application_UID": "0x72f6d960a8d3b50bcc6723270fd211884b60dabece4f3b400014369f442810ed",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0xdee444308961ba4f353fc5912a3cf87ffb002fb4c3f5674182e4dbab75bf0622",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0x4fa62d7e6f1c9e324e6faeb6589d100573bd57b709df68edbe00204200670e1a",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0xf359066ecd3ee909f58f6190a5e3c7dcad287d6408faecdcac58d5fbb3c88166",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0x67fab3ded419221982f0e55f3f63dbf701f18e39f90aef73ac2379ccf7a4fcd6",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0xc96c57a0ae937f815981807f33703080463e59f59b9bc3449a2528870eda970c",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0xaf869c5736e4275f6d6bd2c4a9b8dac21dab4558e0758e6db27e13807f6b1a94",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0xcb6ac0e12379465dc8d9c9ef5396ef4b8fbbfc17067e20b21c01b4cf56657636",
+            "OPAmount": 51045
+        },
+        {
+            "RPGF3_Application_UID": "0xd34b4f953913284fa62737fcec2439fd6b192149023f6dbd6f3a91f5b716d295",
+            "OPAmount": 35000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x932ab86dcbf750b9224665f7d9974c6e9e428470974ae59658b61cd7c3283728",
+            "bio": "RPC, Snapshot, & Indexing services with top performance, at market-low prices.",
+            "displayName": "Nodies DLB",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x24372Ba79203e2c68bB7615032A172E3DAed6991.png"
+        },
+        {
+            "id": "0x72f6d960a8d3b50bcc6723270fd211884b60dabece4f3b400014369f442810ed",
+            "bio": "A decentralised node network providing developer RPCs & public endpoints",
+            "displayName": "Pocket Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7b8B83e68C73AA4F00e6eD1A505dE15147AD5764.png"
+        },
+        {
+            "id": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "bio": "Test in Prod is a core development team of Optimism Collective.",
+            "displayName": "Test in Prod",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0583EeA7C089A7f74c1Fe4e6CCF1072FA016b50A.png"
+        },
+        {
+            "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
+            "displayName": "Dappnode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+            "id": "0xdee444308961ba4f353fc5912a3cf87ffb002fb4c3f5674182e4dbab75bf0622",
+            "bio": "Run a node at home, the easy way",
+            "displayName": "NiceNode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9cce47E9cF12C6147c9844adBB81fE85880c4df4.png"
+        },
+        {
+            "id": "0x4fa62d7e6f1c9e324e6faeb6589d100573bd57b709df68edbe00204200670e1a",
+            "bio": "Ankr provides Optimism with developer tooling and Free RPC Endpoints",
+            "displayName": "Ankr",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xf359066ecd3ee909f58f6190a5e3c7dcad287d6408faecdcac58d5fbb3c88166",
+            "bio": "The pioneer blockchain explorer to navigate shard blob transactions.",
+            "displayName": "Blobscan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA6505171a320AAD27da33c9514b555D3b331D235.png"
+        },
+        {
+            "id": "0x67fab3ded419221982f0e55f3f63dbf701f18e39f90aef73ac2379ccf7a4fcd6",
+            "bio": "Web3 Infrastructure Performance Monitoring & Tools",
+            "displayName": "CompareNodes",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4Cf6031eDE6431D323AE5aA6eB1651B81B693Fc5.png"
+        },
+        {
+            "id": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "bio": "OP Reth is Reth but for the Optimism Collective, a new high performance client.",
+            "displayName": "OP Reth",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xc96c57a0ae937f815981807f33703080463e59f59b9bc3449a2528870eda970c",
+            "bio": "Otterscan is a fast, local, free and open source Ethereum block explorer",
+            "displayName": "Otterscan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2648Fd2a1D10563AE0931e78559408D56Bc8C85C.png"
+        },
+        {
+            "id": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+            "bio": "Run a ~$300 PnP Ethereum L1 and L2 node on ARM boads that uses only ~10w to run.",
+            "displayName": "Ethereum on ARM",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x91A3b28aE8a04C174448d4b10150C844871fCb3c.png"
+        },
+        {
+            "id": "0xaf869c5736e4275f6d6bd2c4a9b8dac21dab4558e0758e6db27e13807f6b1a94",
+            "bio": "Immunefi is a web3 focused bug bounty platform.",
+            "displayName": "Immunefi",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xcb6ac0e12379465dc8d9c9ef5396ef4b8fbbfc17067e20b21c01b4cf56657636",
+            "bio": "Full-stack infrastructure solution for fast and reliable dApp development.",
+            "displayName": "Tenderly",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF43350d7F1E6b8E0A6605145DA043f7326E10142.png"
+        },
+        {
+            "id": "0xd34b4f953913284fa62737fcec2439fd6b192149023f6dbd6f3a91f5b716d295",
+            "bio": "Web3 user security network",
+            "displayName": "GoPlus Security",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a293687b286bBd175513C627d7f871A2f701A87.png"
+        }
+    ],
+    "walletAddress": "0x8ED91f4e13Ad1D74205a05E2eFeB1DB5175845a3",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0xc2902a0220097b1a3dbd78152919c00bc6f77eb972d217605bf1d2abcab0c904",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-11T11:37:35",
+    "updatedAt": "2023-11-11T11:37:35",
+    "revokedAt": null,
+    "avatar": null
+}

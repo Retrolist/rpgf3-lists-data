@@ -1,0 +1,144 @@
+{
+    "id": "0x78ccb577ef748ac7f51f1721632c202dffb5bd414e1d2512f531fc1b1bd3aff7",
+    "listName": "Blockchain News & Media",
+    "listDescription": "Staying updated with the rapid developments in the blockchain realm is essential for enthusiasts, developers, and investors alike. Blockchain News & Media outlets provide timely updates, expert analyses, and in-depth features on the latest trends, innovations, and breakthroughs in the industry. These platforms play a pivotal role in disseminating accurate information, fostering community discussions, and highlighting the achievements and challenges faced by blockchain projects worldwide. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Blockchain News & Media.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+            "OPAmount": 117499
+        },
+        {
+            "RPGF3_Application_UID": "0x23e8758d25a0b7e8d40da7506e696c539174e69c80d0490ac0bd8a8094dd1d2e",
+            "OPAmount": 117499
+        },
+        {
+            "RPGF3_Application_UID": "0xc72bc291e1063c2981475f586b6b62ba77eb05b8acca3501c80839659fbf3ad3",
+            "OPAmount": 117499
+        },
+        {
+            "RPGF3_Application_UID": "0x47fb1ee20e9de14d6603a2a4b55ba558412bbd506132c7dcaa2a313019ac8785",
+            "OPAmount": 117499
+        },
+        {
+            "RPGF3_Application_UID": "0xa680530709768adaf43448175e4efa768671b7365ffdf6c959213648d5884f1e",
+            "OPAmount": 117499
+        },
+        {
+            "RPGF3_Application_UID": "0xaac8bf562763b22059e11cc682e7f72aa25a233ef47d37c1699514ed28833f14",
+            "OPAmount": 117499
+        },
+        {
+            "RPGF3_Application_UID": "0xdee6cb0f6b1f53a8734710c729098de1412c0c8c8dd7b05c9b93851c4e76e59f",
+            "OPAmount": 117499
+        },
+        {
+            "RPGF3_Application_UID": "0xf1d3d7c5e0214cfea976a996d1f9fad14e242b393d3e4f7da0a6f9c3a0965e61",
+            "OPAmount": 117499
+        },
+        {
+            "RPGF3_Application_UID": "0x4e08982cc62798c181d57115ec78b2a0758dbf497814ccd84c2ee1e9dcd9e607",
+            "OPAmount": 117499
+        },
+        {
+            "RPGF3_Application_UID": "0xf6ad557d7f9065d81c1e90f0d41b7808c028437740b206be489523c76035e5a9",
+            "OPAmount": 117499
+        },
+        {
+            "RPGF3_Application_UID": "0x8b7c072535aef80e3f2c2020327fb7975aaaf3a9aa39d843b947e8fd7fc70e64",
+            "OPAmount": 117499
+        },
+        {
+            "RPGF3_Application_UID": "0x7cf3ed5c483080c5b132ff4902b425e20d9cb4c8c737154cefa6005a7bfc12d5",
+            "OPAmount": 117499
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+            "bio": "Weekly newsletter about Ethereum.  Since August 21, 2016.",
+            "displayName": "Week in Ethereum News",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x288C53a1BA857EaD34AD0e79F644087F8174185a.png"
+        },
+        {
+            "id": "0x23e8758d25a0b7e8d40da7506e696c539174e69c80d0490ac0bd8a8094dd1d2e",
+            "bio": "A weekly newsletter dedicated to delivering news about the Optimism Superchain.",
+            "displayName": "The Optimism Superchain Roundup",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5.png"
+        },
+        {
+            "id": "0xc72bc291e1063c2981475f586b6b62ba77eb05b8acca3501c80839659fbf3ad3",
+            "bio": "Community-curated crypto media dapp & open source P2P protocol",
+            "displayName": "Kiwi News",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xee324c588ceF1BF1c1360883E4318834af66366d.png"
+        },
+        {
+            "id": "0x47fb1ee20e9de14d6603a2a4b55ba558412bbd506132c7dcaa2a313019ac8785",
+            "bio": "An onchain media collective producing engaging educational content about web 3.",
+            "displayName": "The Noun Square Media Collective",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16.png"
+        },
+        {
+            "id": "0xa680530709768adaf43448175e4efa768671b7365ffdf6c959213648d5884f1e",
+            "bio": "Republik Rupiah is the largest blockchain community in Indonesia.",
+            "displayName": "Republik Rupiah",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x88844185FA124f6F620578AfC57037eBEDaAb840.png"
+        },
+        {
+            "id": "0xaac8bf562763b22059e11cc682e7f72aa25a233ef47d37c1699514ed28833f14",
+            "bio": "The Rug is crypto's premier news satire outfit. We take money, seriously.",
+            "displayName": "The Rug",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x38C2e1A4Db953E666b6dfc6B354804cEa7738dDf.png"
+        },
+        {
+            "id": "0xdee6cb0f6b1f53a8734710c729098de1412c0c8c8dd7b05c9b93851c4e76e59f",
+            "bio": "A media hub highlighting Web3 tech's role in positive social change.",
+            "displayName": "Web3ForGood",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB79F0156573A54e852fB9Ac7b5Bc6250B33405a0.png"
+        },
+        {
+            "id": "0xf1d3d7c5e0214cfea976a996d1f9fad14e242b393d3e4f7da0a6f9c3a0965e61",
+            "bio": "Taiwan-based, trusted independent media dedicated to Web3 education since 2017",
+            "displayName": "Blocktrend (區塊勢)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x36F322fC85B24aB13263CFE9217B28f8E2b38381.jpeg"
+        },
+        {
+            "id": "0x4e08982cc62798c181d57115ec78b2a0758dbf497814ccd84c2ee1e9dcd9e607",
+            "bio": "Empowering the Portuguese-speaking community with education about web3.",
+            "displayName": "Modular Crypto",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F.png"
+        },
+        {
+            "id": "0xf6ad557d7f9065d81c1e90f0d41b7808c028437740b206be489523c76035e5a9",
+            "bio": "A public good for the modular community, providing news, updates, & education",
+            "displayName": "Modular Media",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc.png"
+        },
+        {
+            "id": "0x8b7c072535aef80e3f2c2020327fb7975aaaf3a9aa39d843b947e8fd7fc70e64",
+            "bio": "Supporting decentralization through non-censoring proposer-builder separation.",
+            "displayName": "Ultra Sound Relay",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8dbd44FAFD2D795700693cdA7f5275714eBE075.png"
+        },
+        {
+            "id": "0x7cf3ed5c483080c5b132ff4902b425e20d9cb4c8c737154cefa6005a7bfc12d5",
+            "bio": "Coinbold is a website where you can find news about different cryptocurrencies",
+            "displayName": "Coinbold",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9C8cc9735005A7424eBF868105fCC93adf6073b0.png"
+        }
+    ],
+    "walletAddress": "0x8ED91f4e13Ad1D74205a05E2eFeB1DB5175845a3",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0x78ccb577ef748ac7f51f1721632c202dffb5bd414e1d2512f531fc1b1bd3aff7",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-03T12:21:33",
+    "updatedAt": "2023-11-03T12:21:33",
+    "revokedAt": null,
+    "avatar": null
+}

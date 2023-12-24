@@ -1,0 +1,114 @@
+{
+    "id": "0xed9901fbde84c3b282ecbc240c9da4bec088870171a3dc894d5f186b4b63de2b",
+    "listName": "Gaming & Entertainment",
+    "listDescription": "The intersection of blockchain technology with gaming and entertainment is revolutionizing both industries. Blockchain brings to gaming a new dimension of ownership, tradeability, and provenance for in-game assets. Players can now truly own their items, trade them on decentralized markets, and trace their history. Meanwhile, in entertainment, blockchain ensures transparent royalty distribution, unique digital collectibles, and direct artist-to-fan interactions. Both sectors are experiencing a shift towards decentralization, giving power back to creators and consumers. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Gaming & Entertainment.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x17d5e3fb55fdf8354704c1c20bca76b4465283f97ada6a84875f2c0ab582926d",
+            "OPAmount": 213418
+        },
+        {
+            "RPGF3_Application_UID": "0xc15f111484081470f19dfc3881788a82c8190a130e85b68d5fbce1cc650d1416",
+            "OPAmount": 129344
+        },
+        {
+            "RPGF3_Application_UID": "0xd7a5c42e4e59c1ca95ced63e9b15a9dfb333effe68372398fc36a35c1c063ae3",
+            "OPAmount": 90541
+        },
+        {
+            "RPGF3_Application_UID": "0x23941036bed0443d9f55d25e340a3d92c23a52ac020acbbec3f4805d6d57f4b2",
+            "OPAmount": 51737
+        },
+        {
+            "RPGF3_Application_UID": "0x8996adedf208776ae51ee0b57611a82da2b690cde39a86c9952ff622618c2160",
+            "OPAmount": 45270
+        },
+        {
+            "RPGF3_Application_UID": "0x307febda7530cf58de21328592978957be0fc81bbf80d4feb4a42a61d6f39f6c",
+            "OPAmount": 45270
+        },
+        {
+            "RPGF3_Application_UID": "0xccb0d19eb7ee3c139cd786b773867971d3a1637f06900a9d6d15f09b0b9d8153",
+            "OPAmount": 25868
+        },
+        {
+            "RPGF3_Application_UID": "0xcc6eced5cb10ded4e141ba2cb6a4d73a9392ff57123e8f3f5e0ffdebd4f7177b",
+            "OPAmount": 25868
+        },
+        {
+            "RPGF3_Application_UID": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "OPAmount": 25868
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x17d5e3fb55fdf8354704c1c20bca76b4465283f97ada6a84875f2c0ab582926d",
+            "bio": "QuantumFair is a raffle protocol dApp for public goods launched on Optimism.",
+            "displayName": "QuantumFair",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD91F2101c396f4123fC3caB6276511653F4A43Ce.png"
+        },
+        {
+            "id": "0xc15f111484081470f19dfc3881788a82c8190a130e85b68d5fbce1cc650d1416",
+            "bio": "COLLECT – OWN – BELONG",
+            "displayName": "anotherblock",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD8A7d1E1e7e7B35280001180a95e5013E54d1310.png"
+        },
+        {
+            "id": "0xd7a5c42e4e59c1ca95ced63e9b15a9dfb333effe68372398fc36a35c1c063ae3",
+            "bio": "Lorak is an innovative scalable onchain game on Base, using the 6551-eip.",
+            "displayName": "LandTorn - Lorak",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9.jpeg"
+        },
+        {
+            "id": "0x23941036bed0443d9f55d25e340a3d92c23a52ac020acbbec3f4805d6d57f4b2",
+            "bio": "Lattice is the team behind MUD, the OSS app framework for Ethereum, and OPCraft",
+            "displayName": "Lattice (OPCraft & MUD)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc640Dd8933f12FC788C56ab121ACa4cdBb7d7FC2.png"
+        },
+        {
+            "id": "0x8996adedf208776ae51ee0b57611a82da2b690cde39a86c9952ff622618c2160",
+            "bio": "Pin Save - decentralized image, video sharing and content aggregation platform.",
+            "displayName": "Pin Save - decentralized Pinterest",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x48294a067D1bC5a58BCbAB4b3bE329d078D9E1Af.png"
+        },
+        {
+            "id": "0x307febda7530cf58de21328592978957be0fc81bbf80d4feb4a42a61d6f39f6c",
+            "bio": "A Ready-Player-One-like 3D open world platform for gamifying token utilities",
+            "displayName": "Another World",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6cfbF06E8b6612B39333eA7c230208D1d178278d.png"
+        },
+        {
+            "id": "0xccb0d19eb7ee3c139cd786b773867971d3a1637f06900a9d6d15f09b0b9d8153",
+            "bio": "Downstream is an MMO implemented as a fully onchain, Autonomous World.",
+            "displayName": "Downstream",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa.png"
+        },
+        {
+            "id": "0xcc6eced5cb10ded4e141ba2cb6a4d73a9392ff57123e8f3f5e0ffdebd4f7177b",
+            "bio": "Blue Norva is a gamefi project on the Optimism network.",
+            "displayName": "Blue Norva",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb1c290787c03142E4696B67dA31606e2482a6559.png"
+        },
+        {
+            "id": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "bio": "Paint Together. Mint Daily.",
+            "displayName": "BasePaint",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb48E8dA63c2aFc5633702B7acf4BDe830c1dE48b.png"
+        }
+    ],
+    "walletAddress": "0xaEAe3756f2CD7B91260E7691a1AD29a371a1daFF",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0xed9901fbde84c3b282ecbc240c9da4bec088870171a3dc894d5f186b4b63de2b",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-04T00:19:57",
+    "updatedAt": "2023-12-04T00:19:57",
+    "revokedAt": null,
+    "avatar": null
+}

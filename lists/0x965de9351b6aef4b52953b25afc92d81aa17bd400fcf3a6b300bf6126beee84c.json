@@ -1,0 +1,374 @@
+{
+    "id": "0x965de9351b6aef4b52953b25afc92d81aa17bd400fcf3a6b300bf6126beee84c",
+    "listName": "Wallets and Wallet Specific Dev Tools",
+    "listDescription": "Recognizes the impactful projects that have significantly contributed to the Ethereum wallet space. This list scope relates to wallets application and wallet specific dev tooling. Some projects made the list as wallet companion tool, add-ons that improve wallet safety and user-experience. ",
+    "impactEvaluationDescription": "Author and disclaimer: I have experience in wallet development in account abstraction and have been working in the space for the last 2 years. I have a conflict of interest with Candide, a project in the list that I will not be voting for.\n\nAbout: I have created a list that recognizes the impactful projects that have significantly contributed to the wallet space. The list scope include end-user wallets, and wallet specific dev tooling. Some projects made the list as companions for wallets that help in safety. Dashboards, general dev-tooling, and other helpful tools are not in the scope of this list.\n\nImpact Evaluation: I have spent a considerable amount of time looking at each project, looking at github, their apps, and on-chain metrics if available, and gave a score to each category. The list scores a impact evaluation under 3 main vectors: impact (4 points), profit gap (2 points), and open source (2 points). I have deemed that an evaluation counting pixel metrics are impossible to compare between projects, and thus aimed it is an subjective judgment based on my time spend reviewing each applicant. Under each project, a small comment / phrase to review. \n\nDeveloper Ecosystem (category) 4/4\n- Did this project resulted in significant number of developers / projects building wallets on Optimism? 2 points\n- Did this contribution introduce innovative tooling to build wallets on Optimism? 2 points\n\nEnd-user Experience (category) 4/4\n- Did this project resulted in an increase of onchain activity or active usage? 2 points\n- Did this project improved the user experience significantly on Optimism? 2 points\n\nI gave 4 points on Impact because I needed a scale to score teams that had high impact vs low/medium impact on Optimism. Impact has the highest total of points as I deem to give weight more to it than other factors. \n\nProfit Gap (all projects) 3/3\n- Has this project impact been larger than the revenue and grants they received from the collective? 3 points (small, medium, large gaps)\n\nWhen giving a score on the profit gap, the evaluation was on impact minus profit collected = profit gap. I estimated a project on the category they applied to, and then tried to estimate the profit they could have received. More weight has been given to impact than profit because of our personal ability to judge better on impact. We have no way to know how much profit a team have made, hence the 3 points\n\nOpen Source (all projects) 2/2\n- Is this project a high quality open source code? 1 point\n- has this project been actively maintained? 1 point\n\nI gave open source a total of 2 points to score to judge both quality and active maintenance. IMHO open source is a important part of being \"a public good\" in software. RPGF3 expanded beyond just open software, to include more categories that had an impact on Optimism (education, end-consumer apps, etc..). Hence 4 points for Impact, and 2 points for Open Source.\n\nTotal allocation\nImproved Wallet safety, user experience and development remains one of the biggest challenge that Ethereum and its ecosystem faces. Advocating for 6m (20%) of the total allocation. I am biased as I work to improve the wallet space.",
+    "impactEvaluationLink": "https://docs.google.com/spreadsheets/d/1s4J-TwN9Gd2AQtKtt0xxKyfQ0hAnJlsW6j4astXLC9g/edit?usp=sharing",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x7f119f8a9ac1b020748dcff53e48cffe1f851f709959e5ffc825a35d36f4063a",
+            "OPAmount": 469565
+        },
+        {
+            "RPGF3_Application_UID": "0x723da383185924834ea462c791d4e21dac5dedc94ba164bd37adc571ba5008ed",
+            "OPAmount": 182608
+        },
+        {
+            "RPGF3_Application_UID": "0xd8b0dc71191314a8a0a54b20e63a1a6d843ea350461c7300c13f2fd4fa2ddcad",
+            "OPAmount": 182608
+        },
+        {
+            "RPGF3_Application_UID": "0xf3df23e97d2c4b6936cafe233e48416ed37708a2a0eecd959450a82ed3a5f730",
+            "OPAmount": 313043
+        },
+        {
+            "RPGF3_Application_UID": "0x54c617b7842807a5d0a0806eed01bcf497adc62cf76c9f6e67ffd42daee5cada",
+            "OPAmount": 313043
+        },
+        {
+            "RPGF3_Application_UID": "0xbdf3e582179cedbd19e3c14d94e1936b5855653242054c3c4170d0b340700f4d",
+            "OPAmount": 313043
+        },
+        {
+            "RPGF3_Application_UID": "0xd0f85e82439cc4c58186702cec1e6ef21d07a3540799a5938dc54551bf7ce18b",
+            "OPAmount": 260870
+        },
+        {
+            "RPGF3_Application_UID": "0x336e461d9f5ba45ab76f6decf4acbf6cb88c4572a51f34b49df5729292bcf283",
+            "OPAmount": 208696
+        },
+        {
+            "RPGF3_Application_UID": "0x8879309f2fcaea2302c281212c36d7a1446914ed6fa2f88162b0918d09b25fdd",
+            "OPAmount": 208696
+        },
+        {
+            "RPGF3_Application_UID": "0xfdb49a44b3f75ed85a6f61f4c5a36a358ef8712b9b151050aedf65d4c2abae91",
+            "OPAmount": 208696
+        },
+        {
+            "RPGF3_Application_UID": "0xd9583aeb5f21cb6b172d4638a0465452572567143ab30c49dadb5e6ac5bf91d5",
+            "OPAmount": 208696
+        },
+        {
+            "RPGF3_Application_UID": "0x956b110e3b9aa11c53bbf41b97d34fadb4d516faede3304fa2807db3fd6d7407",
+            "OPAmount": 208696
+        },
+        {
+            "RPGF3_Application_UID": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+            "OPAmount": 313043
+        },
+        {
+            "RPGF3_Application_UID": "0x6752ee31f5e09caedd68da815fc684456bca90ffa4336fd021180f91ef5ac85a",
+            "OPAmount": 208696
+        },
+        {
+            "RPGF3_Application_UID": "0xa16c4dc88f363dfb26d0ededc0ad2cf018de28216e0184b996de50751877c244",
+            "OPAmount": 208696
+        },
+        {
+            "RPGF3_Application_UID": "0x53cb6fdfffcd21aa5dfa3148f22fcbcfded49bafde4545047c2e43279fb0fbb6",
+            "OPAmount": 208696
+        },
+        {
+            "RPGF3_Application_UID": "0xec3f9d8ca269e264d0b8b3516c2a71d34cc145b78150b3d4afe207b6aef0efce",
+            "OPAmount": 208696
+        },
+        {
+            "RPGF3_Application_UID": "0x9b2503a1c38eb7324c250449d59685ff0ce278da814eece9e09b23cb1040ea07",
+            "OPAmount": 208696
+        },
+        {
+            "RPGF3_Application_UID": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "OPAmount": 208696
+        },
+        {
+            "RPGF3_Application_UID": "0xca03ef0df923533c97e92b994c20e36d11d5d465321b79b6692c4df3ab2a40fd",
+            "OPAmount": 156522
+        },
+        {
+            "RPGF3_Application_UID": "0x564162823418a919885acb3cff4ea7857147144353c792923d4e7eb27e110d8c",
+            "OPAmount": 156522
+        },
+        {
+            "RPGF3_Application_UID": "0x92d9990c0c00410a880b0c24268dda18b7cfc08a38b9f9d499d9c4393354f393",
+            "OPAmount": 156522
+        },
+        {
+            "RPGF3_Application_UID": "0x4a55121a4d6e6e6f70a7a117793940ad6709c14e6339e2b0906315677e4dacf1",
+            "OPAmount": 156522
+        },
+        {
+            "RPGF3_Application_UID": "0x8c31dee5481fdf0cade4e023ca397551f62c016db3690f0a5ae47855a2bc8060",
+            "OPAmount": 156522
+        },
+        {
+            "RPGF3_Application_UID": "0x99684d69323305f8db8feeb8a34d5057b76eb99ec660a9cf339e068b99803e60",
+            "OPAmount": 156522
+        },
+        {
+            "RPGF3_Application_UID": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+            "OPAmount": 104348
+        },
+        {
+            "RPGF3_Application_UID": "0xd34b4f953913284fa62737fcec2439fd6b192149023f6dbd6f3a91f5b716d295",
+            "OPAmount": 104348
+        },
+        {
+            "RPGF3_Application_UID": "0x4be3403e085715cdac5dc7c9fc3dfebfe9064d89ed6af5da1c612d3fac932356",
+            "OPAmount": 104348
+        },
+        {
+            "RPGF3_Application_UID": "0x4afa3f3679237d1a52cfd87f258f57d8de01d64a69182591807c471accdc0f16",
+            "OPAmount": 104348
+        },
+        {
+            "RPGF3_Application_UID": "0xa97c448ca6377c5fa57fcfb2a4acf93b707164702f8cc3dc2b4ad8dfb5ecb9a8",
+            "OPAmount": 104348
+        },
+        {
+            "RPGF3_Application_UID": "0xe1a29c6b0fb801ec1a0339fbfaa421fd55be8f3f2557997a892273ae9c240eed",
+            "OPAmount": 104348
+        },
+        {
+            "RPGF3_Application_UID": "0x89b53a59649679cb236eebf535a54d7e1cec185f6910384f3043a76a5a47d489",
+            "OPAmount": 104348
+        },
+        {
+            "RPGF3_Application_UID": "0x020a49814aed7362cc564a227d7f1bda9c86b95b7d003080785c97a925fbf2b7",
+            "OPAmount": 52174
+        },
+        {
+            "RPGF3_Application_UID": "0xc15f111484081470f19dfc3881788a82c8190a130e85b68d5fbce1cc650d1416",
+            "OPAmount": 52174
+        },
+        {
+            "RPGF3_Application_UID": "0xfe9dac03e5168415428bacaeaab40470bc95d66495fee2505e7d8cf612f15001",
+            "OPAmount": 52174
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x7f119f8a9ac1b020748dcff53e48cffe1f851f709959e5ffc825a35d36f4063a",
+            "bio": "ERC-4337 account abstraction core team",
+            "displayName": "Account Abstraction - ERC-4337",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x723da383185924834ea462c791d4e21dac5dedc94ba164bd37adc571ba5008ed",
+            "bio": "The best way to connect a wallet",
+            "displayName": "RainbowKit",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a3d05c70581bD345fe117c06e45f9669205384f.png"
+        },
+        {
+            "id": "0xd8b0dc71191314a8a0a54b20e63a1a6d843ea350461c7300c13f2fd4fa2ddcad",
+            "bio": "Fun, powerful, and secure wallets",
+            "displayName": "Rainbow Wallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x465E764B56429788e031160F66a5F9791193B56F.png"
+        },
+        {
+            "id": "0xf3df23e97d2c4b6936cafe233e48416ed37708a2a0eecd959450a82ed3a5f730",
+            "bio": "Building EVM account abstraction infrastructure, open standards and education",
+            "displayName": "Alchemy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC.png"
+        },
+        {
+            "id": "0x54c617b7842807a5d0a0806eed01bcf497adc62cf76c9f6e67ffd42daee5cada",
+            "bio": "Most Used 4337 UserOp Explorer for Account Abstraction",
+            "displayName": "JiffyScan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0.png"
+        },
+        {
+            "id": "0xbdf3e582179cedbd19e3c14d94e1936b5855653242054c3c4170d0b340700f4d",
+            "bio": "An open-source, framework-agnostic JavaScript library to onboard users to web3.",
+            "displayName": "Blocknative | Web3 Onboard",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf14613626f1287600d97cBf55AEDd924B62c2af6.png"
+        },
+        {
+            "id": "0xd0f85e82439cc4c58186702cec1e6ef21d07a3540799a5938dc54551bf7ce18b",
+            "bio": "Programmable identity for the multiwallet world",
+            "displayName": "Delegate",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6Ed7D526b020780f694f3c10Dfb25E1b134D3215.png"
+        },
+        {
+            "id": "0x336e461d9f5ba45ab76f6decf4acbf6cb88c4572a51f34b49df5729292bcf283",
+            "bio": "Beam is the easiest way to send money to anyone, anywhere. Built on OPStack + AA",
+            "displayName": "Beam Wallet LLC",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x982E148216E3Aa6B38f9D901eF578B5c06DD7502.png"
+        },
+        {
+            "id": "0x8879309f2fcaea2302c281212c36d7a1446914ed6fa2f88162b0918d09b25fdd",
+            "bio": "Know what is going in and out of your wallet before signing.",
+            "displayName": "Fire",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x57B02589d6e24203FC43e442ce9A4803E290293b.png"
+        },
+        {
+            "id": "0xfdb49a44b3f75ed85a6f61f4c5a36a358ef8712b9b151050aedf65d4c2abae91",
+            "bio": "ethOS is a free & open source mobile OS that embraces Ethereum",
+            "displayName": "ethOS",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x12dC5fF4AB146D9f70e50bd5f9854114a115e6c9.png"
+        },
+        {
+            "id": "0xd9583aeb5f21cb6b172d4638a0465452572567143ab30c49dadb5e6ac5bf91d5",
+            "bio": "Ethereum HD Wallet derivation library in Go",
+            "displayName": "go-ethereum-hdwallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E.png"
+        },
+        {
+            "id": "0x956b110e3b9aa11c53bbf41b97d34fadb4d516faede3304fa2807db3fd6d7407",
+            "bio": "OPStack improvement with ERC-4337 account and native hardware signature verifier",
+            "displayName": "Clave (formerly Opclave)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcCA02de5372cB0CaAc425543487789eEF5d17fB5.png"
+        },
+        {
+            "id": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+            "bio": "Candide builds open Account Abstraction software",
+            "displayName": "Candide",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56a1740878966Bc82a1d9C047E46B02533857626.png"
+        },
+        {
+            "id": "0x6752ee31f5e09caedd68da815fc684456bca90ffa4336fd021180f91ef5ac85a",
+            "bio": "First audited, production-ready verifier for Secure Enclave & Passkey signatures",
+            "displayName": "P256Verifier",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB.png"
+        },
+        {
+            "id": "0xa16c4dc88f363dfb26d0ededc0ad2cf018de28216e0184b996de50751877c244",
+            "bio": "'blst' is the cryptography library used by all Ethereum clients to power PoS",
+            "displayName": "blst Cryptography Library",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x756678bD0d2358d2198511c3adF50502fDF45597.png"
+        },
+        {
+            "id": "0x53cb6fdfffcd21aa5dfa3148f22fcbcfded49bafde4545047c2e43279fb0fbb6",
+            "bio": "The smart contract wallet made Ethereum safe and easy. #socialRecovery #4337",
+            "displayName": "Soul Wallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2.png"
+        },
+        {
+            "id": "0xec3f9d8ca269e264d0b8b3516c2a71d34cc145b78150b3d4afe207b6aef0efce",
+            "bio": "The largest core development group in Web3",
+            "displayName": "Wonderland",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x36143ebA6D522FBe2c7884B011feA558c203856C.png"
+        },
+        {
+            "id": "0x9b2503a1c38eb7324c250449d59685ff0ce278da814eece9e09b23cb1040ea07",
+            "bio": "Expert Cryptographer for 19 years (17 Defense then 2 Eth ecosystem).",
+            "displayName": "Reno",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x936632cC3B9BC47ad23D41dC7cc200015c447f71.png"
+        },
+        {
+            "id": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "bio": "Revoke.cash is a token approvals dashboard and browser extension to stay safe.",
+            "displayName": "Revoke.cash",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe126b3E5d052f1F575828f61fEBA4f4f2603652a.png"
+        },
+        {
+            "id": "0xca03ef0df923533c97e92b994c20e36d11d5d465321b79b6692c4df3ab2a40fd",
+            "bio": "Lore helps communities form capital and coordinate at internet scale.",
+            "displayName": "Lore",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x266B650F92753FD7Be17B7487C8CC3Bd05EFab8A.png"
+        },
+        {
+            "id": "0x564162823418a919885acb3cff4ea7857147144353c792923d4e7eb27e110d8c",
+            "bio": "The home of multiplayer crypto - manage any crypto group from an XMTP group chat",
+            "displayName": "Forum",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEeC7E4B2287e98B6ca30242e2D2D2F283a78Fc82.png"
+        },
+        {
+            "id": "0x92d9990c0c00410a880b0c24268dda18b7cfc08a38b9f9d499d9c4393354f393",
+            "bio": "Log-in to dapps as any address via WalletConnect, iFrame or Browser Extension",
+            "displayName": "Impersonator",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x63A556c75443b176b5A4078e929e38bEb37a1ff2.png"
+        },
+        {
+            "id": "0x4a55121a4d6e6e6f70a7a117793940ad6709c14e6339e2b0906315677e4dacf1",
+            "bio": "Secure, handy, cost-effective hardware wallet for crypto holders",
+            "displayName": "Keyring",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fD0030D3D21d17Fb4056DE319faD67A853b3C20.png"
+        },
+        {
+            "id": "0x8c31dee5481fdf0cade4e023ca397551f62c016db3690f0a5ae47855a2bc8060",
+            "bio": "Helping the next 100m+ users protect their crypto.",
+            "displayName": "Wallet Guard",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c.png"
+        },
+        {
+            "id": "0x99684d69323305f8db8feeb8a34d5057b76eb99ec660a9cf339e068b99803e60",
+            "bio": "Gas optimized Solidity snippets",
+            "displayName": "Vectorized",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F5D295778796a8b9f29600A585Ab73D452AcB1c.png"
+        },
+        {
+            "id": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+            "bio": "The first decentralized one-stop wallet ecosystem & Web3 browser",
+            "displayName": "Infinity Wallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671.png"
+        },
+        {
+            "id": "0xd34b4f953913284fa62737fcec2439fd6b192149023f6dbd6f3a91f5b716d295",
+            "bio": "Web3 user security network",
+            "displayName": "GoPlus Security",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a293687b286bBd175513C627d7f871A2f701A87.png"
+        },
+        {
+            "id": "0x4be3403e085715cdac5dc7c9fc3dfebfe9064d89ed6af5da1c612d3fac932356",
+            "bio": "Developed tool for devnet & bundler, contributed PRs to op-node, wrote articles.",
+            "displayName": "joohhnnn",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf8E30C251AA7974aA0A2d9e452d863681f8B59Ac.png"
+        },
+        {
+            "id": "0x4afa3f3679237d1a52cfd87f258f57d8de01d64a69182591807c471accdc0f16",
+            "bio": "A Dune dashboard that presents data on the adoption of ERC4337 Smart Accounts",
+            "displayName": "ERC4337 Smart Accounts Dune Dashboard",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.jpeg"
+        },
+        {
+            "id": "0xa97c448ca6377c5fa57fcfb2a4acf93b707164702f8cc3dc2b4ad8dfb5ecb9a8",
+            "bio": "Verso Mobile Wallet for Optimism",
+            "displayName": "Verso",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96.png"
+        },
+        {
+            "id": "0xe1a29c6b0fb801ec1a0339fbfaa421fd55be8f3f2557997a892273ae9c240eed",
+            "bio": "GasHawk saves users and institutions up to 95% on transaction fees.",
+            "displayName": "GasHawk",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC1FDB60CFB2FbbD6EDc9b445D9B508Da2dBF2c9b.png"
+        },
+        {
+            "id": "0x89b53a59649679cb236eebf535a54d7e1cec185f6910384f3043a76a5a47d489",
+            "bio": "Your wallets are about to disapear!",
+            "displayName": "Wallet Abstraction",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a.png"
+        },
+        {
+            "id": "0x020a49814aed7362cc564a227d7f1bda9c86b95b7d003080785c97a925fbf2b7",
+            "bio": "Create ERC-6551 NFTs, and transfer assets to them",
+            "displayName": "ERC-6551 Tooling",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5561974F0D35D8C355241a5568894df7B691BB28.png"
+        },
+        {
+            "id": "0xc15f111484081470f19dfc3881788a82c8190a130e85b68d5fbce1cc650d1416",
+            "bio": "COLLECT – OWN – BELONG",
+            "displayName": "anotherblock",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD8A7d1E1e7e7B35280001180a95e5013E54d1310.png"
+        },
+        {
+            "id": "0xfe9dac03e5168415428bacaeaab40470bc95d66495fee2505e7d8cf612f15001",
+            "bio": "A payments dApp that allows you to send funds to people who don't have a wallet",
+            "displayName": "Woosh",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3B2d493a88D97D26BE518c8048778d155831462B.png"
+        }
+    ],
+    "walletAddress": "0x396a34c10b11E33a4Bf6F3e6A419A23c54Ad34Fb",
+    "domainName": null,
+    "isBadgeholder": true,
+    "attestationUid": "0x965de9351b6aef4b52953b25afc92d81aa17bd400fcf3a6b300bf6126beee84c",
+    "approvalAttestationUid": "0x965de9351b6aef4b52953b25afc92d81aa17bd400fcf3a6b300bf6126beee84c",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-12-05T14:17:33",
+    "updatedAt": "2023-12-05T14:17:33",
+    "revokedAt": null,
+    "avatar": null
+}

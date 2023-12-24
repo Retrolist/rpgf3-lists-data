@@ -1,0 +1,84 @@
+{
+    "id": "0x5abc7cc1d5fbbeabcca56a65fe2a088e6cfc32ee0ee352d0c925e4fafaa24d09",
+    "listName": "OP Onchain Gaming",
+    "listDescription": "Projects making the biggest impact on onchain gaming within the OP ecosystem.",
+    "impactEvaluationDescription": "Although there's a small amount of total projects within this list, trying to measure the;\n\n- Unique experimentation each project has created within the onchain gaming space.\n- Number of humans/players that have interacted with a given project.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xd7a5c42e4e59c1ca95ced63e9b15a9dfb333effe68372398fc36a35c1c063ae3",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x33135d1d7ea18427c5096af97f5d5bcac392b8bbe871a9a0a9dd62ce651212df",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x3522b543586e652743d839b52fc9a5c6f84a80c8deaefb9bb0185a09ebbc94fe",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x83acb708e662400cbe8f8e9ec313f26d40e78e789577bce3e895d16eea8b5fbc",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x23941036bed0443d9f55d25e340a3d92c23a52ac020acbbec3f4805d6d57f4b2",
+            "OPAmount": 1000000
+        },
+        {
+            "RPGF3_Application_UID": "0xbd1652fe3e5c7e160ca3e86da27567cd0f8f8cea3399a1003cf90364ed046d3b",
+            "OPAmount": 1000000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xd7a5c42e4e59c1ca95ced63e9b15a9dfb333effe68372398fc36a35c1c063ae3",
+            "bio": "Lorak is an innovative scalable onchain game on Base, using the 6551-eip.",
+            "displayName": "LandTorn - Lorak",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9.jpeg"
+        },
+        {
+            "id": "0x33135d1d7ea18427c5096af97f5d5bcac392b8bbe871a9a0a9dd62ce651212df",
+            "bio": "A scaling solution, developed as part of fully onchain game, Downstream.",
+            "displayName": "Client Side Proofs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa.png"
+        },
+        {
+            "id": "0x3522b543586e652743d839b52fc9a5c6f84a80c8deaefb9bb0185a09ebbc94fe",
+            "bio": "Your one-stop-shop for news, takes, alpha, and research for onchain games.",
+            "displayName": "WASD",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x83acb708e662400cbe8f8e9ec313f26d40e78e789577bce3e895d16eea8b5fbc",
+            "bio": "AW house is an Public Good Ecosystem for Autonomous World builders.",
+            "displayName": "AW House/Komorebi's Hacker House",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1626Cc835842C480c1689A0A69AA419B9F761a4e.png"
+        },
+        {
+            "id": "0x23941036bed0443d9f55d25e340a3d92c23a52ac020acbbec3f4805d6d57f4b2",
+            "bio": "Lattice is the team behind MUD, the OSS app framework for Ethereum, and OPCraft",
+            "displayName": "Lattice (OPCraft & MUD)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc640Dd8933f12FC788C56ab121ACa4cdBb7d7FC2.png"
+        },
+        {
+            "id": "0xbd1652fe3e5c7e160ca3e86da27567cd0f8f8cea3399a1003cf90364ed046d3b",
+            "bio": "Building & launching a new fully onchain, open source, game every 6 weeks.",
+            "displayName": "Small Brain Games",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d.png"
+        }
+    ],
+    "walletAddress": "0x6Dc43be93a8b5Fd37dC16f24872BaBc6dA5E5e3E",
+    "domainName": "james.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x5abc7cc1d5fbbeabcca56a65fe2a088e6cfc32ee0ee352d0c925e4fafaa24d09",
+    "approvalAttestationUid": "0x5abc7cc1d5fbbeabcca56a65fe2a088e6cfc32ee0ee352d0c925e4fafaa24d09",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-11-13T09:04:29",
+    "updatedAt": "2023-11-13T09:04:29",
+    "revokedAt": null,
+    "avatar": "https://i.imgur.com/7aJ1eyu.png"
+}

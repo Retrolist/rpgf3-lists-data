@@ -1,0 +1,134 @@
+{
+    "id": "0x023c8efc3b7d3083a6b9a79d76ed03609a43dfa11e799833c7fa73ff44321f6a",
+    "listName": "Synthetix Ecosystem Public Goods",
+    "listDescription": "This list outlines Synthetix Ecosystem projects seeking Optimism RPGF. These projects have put building first and have significantly contributed to the growth of the ecosystem and Optimism as a whole by onboarding developers, projects, LPs, and traders. All of these groups are a value add to the Optimism ecosystem. Disclosure - I'm an elected Synthetix Ambassador and co-author at Lyra Research Collective, with a vested interest in the ecosystem's success. As a Synthetix Ambassador, I am elected to showcase ecosystem projects and contribute to their success.",
+    "impactEvaluationDescription": "This list has been curated by the Synthetix Ambassadors. Suggested amounts of OP are allocated based on the positive impact on the Optimism ecosystem.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x6640372710ef432d006f6e2a0737213975305cb2f7d0c84e7be338b9c6ddb275",
+            "OPAmount": 600000
+        },
+        {
+            "RPGF3_Application_UID": "0x60da4d7694d025119a3c47f6fd67aa417718fe089f8c98d4f0ccda524cd777df",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x4cd4c0671a5d7bda3cd010d83ca26956c608eb0fc4350291acedb62596d3c03c",
+            "OPAmount": 500000
+        },
+        {
+            "RPGF3_Application_UID": "0x9d9f675cf53acdfcaf5bbcb67b1143b94daaa5b4f7acdc96049a1c3e5619d1ce",
+            "OPAmount": 300000
+        },
+        {
+            "RPGF3_Application_UID": "0x22440f20a9316a1d01cab2cfc8d8572560b026a538418f1416c3f5289869229f",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x7a09be22acae5e2d531965a619820b6b9d985f60051c524c2e2b5036aac7489b",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x23afbebc655637c91f6a42572b8af43c2ae6e61655c55ba52e5ace484eff8e72",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x5f8df8b9433d455d6ddd42a1cbb9c3d659f4f982ee772722be1365a7916fbd31",
+            "OPAmount": 75000
+        },
+        {
+            "RPGF3_Application_UID": "0x90ef634fad04d6ac2882db44d4a84f31c7f0621f3abd00efb067416e4ff1641c",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x63f1bc4ab9034a6d4abe00be3027b8acc6f08863d50f65d90c33d4746a710b3f",
+            "OPAmount": 25000
+        },
+        {
+            "RPGF3_Application_UID": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
+            "OPAmount": 25000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x6640372710ef432d006f6e2a0737213975305cb2f7d0c84e7be338b9c6ddb275",
+            "bio": "Synthetix provides liquidity for permissionless derivatives on-chain",
+            "displayName": "Synthetix",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7B66b603347038CCAd178387c696660bcdcB14d7.png"
+        },
+        {
+            "id": "0x60da4d7694d025119a3c47f6fd67aa417718fe089f8c98d4f0ccda524cd777df",
+            "bio": "The gateway to decentralised frontends in the DeFi ecosystem",
+            "displayName": "Synthetix IPFS Node",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7.png"
+        },
+        {
+            "id": "0x4cd4c0671a5d7bda3cd010d83ca26956c608eb0fc4350291acedb62596d3c03c",
+            "bio": "Kwenta is a perpetual futures exchange on Optimism",
+            "displayName": "Kwenta",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x9d9f675cf53acdfcaf5bbcb67b1143b94daaa5b4f7acdc96049a1c3e5619d1ce",
+            "bio": "A self-custodial derivatives exchange built on Optimism",
+            "displayName": "Lyra Finance",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x22440f20a9316a1d01cab2cfc8d8572560b026a538418f1416c3f5289869229f",
+            "bio": "The Pyth Network is the largest first-party financial oracle network.",
+            "displayName": "Pyth Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa76B661bfbAA9264F9C8335235D3958a6ACe2aba.png"
+        },
+        {
+            "id": "0x7a09be22acae5e2d531965a619820b6b9d985f60051c524c2e2b5036aac7489b",
+            "bio": "Cannon is a DevOps tool for Ethereum, inspired by IaC tools like Terraform.",
+            "displayName": "Cannon",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07Aeeb7E544A070a2553e142828fb30c214a1F86.png"
+        },
+        {
+            "id": "0x23afbebc655637c91f6a42572b8af43c2ae6e61655c55ba52e5ace484eff8e72",
+            "bio": "Synpress is an end-to-end testing framework for dApps in the Web3 ecosystem.",
+            "displayName": "Synpress",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd35E119782059A27FEAd4EddA8B555f393650BC8.png"
+        },
+        {
+            "id": "0x5f8df8b9433d455d6ddd42a1cbb9c3d659f4f982ee772722be1365a7916fbd31",
+            "bio": "Explore, analyze and copy on-chain traders from the top of the perpetual DEX",
+            "displayName": "Copin.io",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1A561e43f264952D7b4F25Fb4967122c87618Beb.png"
+        },
+        {
+            "id": "0x90ef634fad04d6ac2882db44d4a84f31c7f0621f3abd00efb067416e4ff1641c",
+            "bio": "Fast, Low Latency Indexer written for L2s",
+            "displayName": "Optimistic Indexer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x23651C9b3Ba495f5D30867583035faCA4840870F.png"
+        },
+        {
+            "id": "0x63f1bc4ab9034a6d4abe00be3027b8acc6f08863d50f65d90c33d4746a710b3f",
+            "bio": "A media initiative out of the  @LyraFinance  community.",
+            "displayName": "Lyra Research Collective",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
+            "bio": "Simplifying crypto news for everyone - one byte at a time",
+            "displayName": "Polynomial Bytes",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa5A0CE7D84025f986568356475451E31714B4C95.png"
+        }
+    ],
+    "walletAddress": "0xF68D2BfCecd7895BBa05a7451Dd09A1749026454",
+    "domainName": "mastermojo.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x023c8efc3b7d3083a6b9a79d76ed03609a43dfa11e799833c7fa73ff44321f6a",
+    "approvalAttestationUid": "0x023c8efc3b7d3083a6b9a79d76ed03609a43dfa11e799833c7fa73ff44321f6a",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-11-27T21:05:01",
+    "updatedAt": "2023-11-27T21:05:01",
+    "revokedAt": null,
+    "avatar": "https://euc.li/mastermojo.eth"
+}

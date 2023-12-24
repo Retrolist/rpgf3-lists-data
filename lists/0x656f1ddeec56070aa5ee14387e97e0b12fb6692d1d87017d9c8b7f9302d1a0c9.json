@@ -1,0 +1,94 @@
+{
+    "id": "0x656f1ddeec56070aa5ee14387e97e0b12fb6692d1d87017d9c8b7f9302d1a0c9",
+    "listName": "User Experience & Adoption",
+    "listDescription": "User Experience & Adoption Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to User Experience & Adoption.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x16eecef57c5f4e845ef27f63527122b5d8864ea72b33624fb50fdffdf809b07a",
+            "OPAmount": 106642
+        },
+        {
+            "RPGF3_Application_UID": "0x9b32619656175fc08131529bb3fd476d4fc8199b0feffbe3c230274dc1900aeb",
+            "OPAmount": 106642
+        },
+        {
+            "RPGF3_Application_UID": "0x92d9990c0c00410a880b0c24268dda18b7cfc08a38b9f9d499d9c4393354f393",
+            "OPAmount": 106642
+        },
+        {
+            "RPGF3_Application_UID": "0x4a9fce27c66e104b86ebb868d1811b3c4b3b66d4332eba4a83c50838ba231c99",
+            "OPAmount": 106642
+        },
+        {
+            "RPGF3_Application_UID": "0x83b63f78793a42b790fc046ef62adc58f278b8555e6faed25c2fbcfa28122238",
+            "OPAmount": 106642
+        },
+        {
+            "RPGF3_Application_UID": "0x8a952a834ff9186399c06935ffcdff482fb38b38808a7419fc415ad307a2e69b",
+            "OPAmount": 106642
+        },
+        {
+            "RPGF3_Application_UID": "0xc7250199ce808d8825b8781a546c6944338ee82505570d0e33d7505d341a04bd",
+            "OPAmount": 106642
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x16eecef57c5f4e845ef27f63527122b5d8864ea72b33624fb50fdffdf809b07a",
+            "bio": "Onboarding hackathon projects to Gitcoin Grants on OP mainnet",
+            "displayName": "Learning about OP through Gitcoin Grants",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x591a150574f49245E0D513901A72DaF005E6f997.png"
+        },
+        {
+            "id": "0x9b32619656175fc08131529bb3fd476d4fc8199b0feffbe3c230274dc1900aeb",
+            "bio": "Impact Evaluation and data availability catalyst for the Optimism Ecosystem.",
+            "displayName": "LauNaMu",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5d36a202687fD6Bd0f670545334bF0B4827Cc1E2.png"
+        },
+        {
+            "id": "0x92d9990c0c00410a880b0c24268dda18b7cfc08a38b9f9d499d9c4393354f393",
+            "bio": "Log-in to dapps as any address via WalletConnect, iFrame or Browser Extension",
+            "displayName": "Impersonator",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x63A556c75443b176b5A4078e929e38bEb37a1ff2.png"
+        },
+        {
+            "id": "0x4a9fce27c66e104b86ebb868d1811b3c4b3b66d4332eba4a83c50838ba231c99",
+            "bio": "Head od Design",
+            "displayName": "Marko",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6D97d65aDfF6771b31671443a6b9512104312d3D.png"
+        },
+        {
+            "id": "0x83b63f78793a42b790fc046ef62adc58f278b8555e6faed25c2fbcfa28122238",
+            "bio": "Hanging out on Farcaster",
+            "displayName": "Brian Kim",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa35156ca4294c13fe256B10091F3D6595E3Bf7d7.jpeg"
+        },
+        {
+            "id": "0x8a952a834ff9186399c06935ffcdff482fb38b38808a7419fc415ad307a2e69b",
+            "bio": "I am an Optimism Ambassador (in training), a UI/UX designer, and a writer.",
+            "displayName": "AyohTunde",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbA8D6600F02CD4Abd93eC63Eb99463a18aC75004.png"
+        },
+        {
+            "id": "0xc7250199ce808d8825b8781a546c6944338ee82505570d0e33d7505d341a04bd",
+            "bio": "Dune Wizards data analyst, created lots of usefule onchain data dashboards.",
+            "displayName": "Spring Zhang",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c.jpeg"
+        }
+    ],
+    "walletAddress": "0x881a01BBA8182E14624c046Fd5880c84D14A1507",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0x656f1ddeec56070aa5ee14387e97e0b12fb6692d1d87017d9c8b7f9302d1a0c9",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-26T06:37:35",
+    "updatedAt": "2023-11-26T06:37:35",
+    "revokedAt": null,
+    "avatar": null
+}

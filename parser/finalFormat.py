@@ -69,6 +69,8 @@ def transform_to_list_dto(item, badgeholder_mapping, approval_mapping, projects)
         })
 
         listContentParsed.append(project)
+    
+    if len(listContentParsed) == 0: return None
 
     return {
         "id": item.get("id"),
@@ -112,17 +114,17 @@ def filter_data(data):
         if item.get("revocationTime", 0) > 0:
             continue  # Skip items with revocation time > 0
 
-        impact_link = item.get("body", {}).get("impactEvaluationLink", "")
-        if impact_link in seen_links:
+        ptr_link = item.get("header", {}).get("listMetadataPtr", "")
+        if ptr_link in seen_links:
             continue  # Skip duplicated impact evaluation links
 
         list_name = item.get("header", {}).get("listName", "")
         if list_name.lower().startswith("test list"):
             continue
-        if list_name == "Retrolist Only":
+        if list_name.lower() == "retrolist only":
             continue
 
-        seen_links.add(impact_link)
+        seen_links.add(ptr_link)
         filtered_data.append(item)
 
     return filtered_data
@@ -150,6 +152,7 @@ def main():
 
     # Transform the data to ListDto schema
     transformed_data = [transform_to_list_dto(item, badgeholder_mapping, approval_mapping, projects) for item in filtered_data]
+    transformed_data = [item for item in transformed_data if item]
 
     # Save the transformed data to a JSON file
     save_json_file(transformed_data, output_file_path)

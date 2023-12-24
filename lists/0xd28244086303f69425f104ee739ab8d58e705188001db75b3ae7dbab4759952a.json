@@ -1,0 +1,114 @@
+{
+    "id": "0xd28244086303f69425f104ee739ab8d58e705188001db75b3ae7dbab4759952a",
+    "listName": "NFTs",
+    "listDescription": "NFTs Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to NFTs.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xe8ad8841e7307dbac8a6c716bbade689858fd26200f8c91d52493c781aef0ee0",
+            "OPAmount": 149531
+        },
+        {
+            "RPGF3_Application_UID": "0x245c250124a279a66d179665e7f4b5dee16ba65357bc7e0f1926626396484f07",
+            "OPAmount": 144375
+        },
+        {
+            "RPGF3_Application_UID": "0xd177accf024b0486e7e1760bc3f0d2a42b9651d2f207c3ce4101aefeff25a11c",
+            "OPAmount": 97968
+        },
+        {
+            "RPGF3_Application_UID": "0x1b243949f14790252d540489c7b9e41c5c0460da72f4fcd106125abfaace055c",
+            "OPAmount": 30937
+        },
+        {
+            "RPGF3_Application_UID": "0xb3cc6e59b9e60b3f57ac6ef65ec7db407c28d7f19b2587358e79228eb00a7fb0",
+            "OPAmount": 30937
+        },
+        {
+            "RPGF3_Application_UID": "0x7e27e0d48b7ca1d4fcd44b55169dfa613393c6912ad379f48c511d1f69076f8d",
+            "OPAmount": 15468
+        },
+        {
+            "RPGF3_Application_UID": "0x32c22612166b2cf9a33335b6426914eb962d5afcefe48ed4983792cf6a168326",
+            "OPAmount": 15468
+        },
+        {
+            "RPGF3_Application_UID": "0x14301a25159fd1057d2e3ca076116e44e5e2dda5b49987190f07bac4c7ba5047",
+            "OPAmount": 15468
+        },
+        {
+            "RPGF3_Application_UID": "0x52f7491efe1ee24db5a3d2f6a988d7f575e4818666e7c1e86133d6975de2a255",
+            "OPAmount": 15468
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xe8ad8841e7307dbac8a6c716bbade689858fd26200f8c91d52493c781aef0ee0",
+            "bio": "Music producer and project manager releasing onchain since 2020.",
+            "displayName": "Kristoph Galland",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb3397A6FeEdff2b9fCe9Ca1086CB1Bdd617c16Bf.jpeg"
+        },
+        {
+            "id": "0x245c250124a279a66d179665e7f4b5dee16ba65357bc7e0f1926626396484f07",
+            "bio": "From macro to crypto, I write about stuff that I like.",
+            "displayName": "dudedodut",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD2F5DBC276BC3d9D2E07F5dF4A599E2c5a158B47.jpeg"
+        },
+        {
+            "id": "0xd177accf024b0486e7e1760bc3f0d2a42b9651d2f207c3ce4101aefeff25a11c",
+            "bio": "My creations merge digital and physical, embodying significant blockchain events",
+            "displayName": "Xofee",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFF141bFc450c57Ad84eBaFbD09ffa94A268a7aaE.png"
+        },
+        {
+            "id": "0x1b243949f14790252d540489c7b9e41c5c0460da72f4fcd106125abfaace055c",
+            "bio": "Breaking The Ice On DeFi",
+            "displayName": "IceBreak-R",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa908B6B5247d83Fc8f4856fAaCb9Cb5df30E7Cbd.png"
+        },
+        {
+            "id": "0xb3cc6e59b9e60b3f57ac6ef65ec7db407c28d7f19b2587358e79228eb00a7fb0",
+            "bio": "Web-designer and digital-artist of the Optimism ecosystem",
+            "displayName": "Divergent",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5cB33476CF637f284744b0AD00eadC6388a7eCC5.png"
+        },
+        {
+            "id": "0x7e27e0d48b7ca1d4fcd44b55169dfa613393c6912ad379f48c511d1f69076f8d",
+            "bio": "LATASHÁ's is a pioneering polymath in music, art, and tech.",
+            "displayName": "LATASHÁ",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3A2a72fF37afE42B2c2747366Be5eCDacb211d8a.jpeg"
+        },
+        {
+            "id": "0x32c22612166b2cf9a33335b6426914eb962d5afcefe48ed4983792cf6a168326",
+            "bio": "I am an onchain software engineer. I build open tools for creators on OP.",
+            "displayName": "Sweetman",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38.png"
+        },
+        {
+            "id": "0x14301a25159fd1057d2e3ca076116e44e5e2dda5b49987190f07bac4c7ba5047",
+            "bio": "Web3 engineer",
+            "displayName": "Alex Harley",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4444d38c385d0969C64c4C8f996D7536d16c28B9.jpeg"
+        },
+        {
+            "id": "0x52f7491efe1ee24db5a3d2f6a988d7f575e4818666e7c1e86133d6975de2a255",
+            "bio": "Contributing to the growth of non-fungible technology on L2.",
+            "displayName": "NFTEarth",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB.png"
+        }
+    ],
+    "walletAddress": "0xa32aECda752cF4EF89956e83d60C04835d4FA867",
+    "domainName": "fmckl.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0xd28244086303f69425f104ee739ab8d58e705188001db75b3ae7dbab4759952a",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-14T18:22:29",
+    "updatedAt": "2023-11-14T18:22:29",
+    "revokedAt": null,
+    "avatar": null
+}

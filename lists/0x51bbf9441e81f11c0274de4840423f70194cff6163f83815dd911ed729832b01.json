@@ -1,0 +1,144 @@
+{
+    "id": "0x51bbf9441e81f11c0274de4840423f70194cff6163f83815dd911ed729832b01",
+    "listName": "Self-hosted L2 data analysis - V1",
+    "listDescription": "This is a domain specific list that aims to group node software, hardware, explorers and data providers that support self-hosted data analysis.\n\nThe general criteria is: what would support a data scientist willing to do onchain analysis on optimism?\n\nDISCLOSURE: I have personal involvement in 2 projects in this list, please see my conflict of interest statement here: https://gov.optimism.io/t/badgeholder-conflict-of-interest-disclosures/5569/58?u=wmitsuda\n\nThe list is named V1 since it can't be edited.\n\nDISCLAIMER: The amounts are NOT a suggestion and badgeholders must do their own adjustments. The field is required and I just put the max divided by number of projects into each one to avoid any being penalized by having 0 and forgotten to be filled out.",
+    "impactEvaluationDescription": "- Only open source products.\n- Must support optimism chain data analysis in some level.\n- Only node software that already supports optimism, excluding CLs from this list.\n- Only open data providers, excluding closed/proprietary data platforms.\n- Explorers and cli tooling that aid on raw chain data analysis.\n- Not including specialized applications that would for instance make use of the tools in this list to present higher level data to users. That's on purpose, don't want to make this list huge and too generic.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xc96c57a0ae937f815981807f33703080463e59f59b9bc3449a2528870eda970c",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0x48000bf0277f99726173a59b47d05aa6371ea320866e3e9a77e4241a083a4009",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0x7500c59003e12f46731f0e3bf33ef270085e700ce1d0ec0ae2ae42b4ea655ebe",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0xfa8c195e19637a2d91f11c44d5b5c7c6397a06783864c1a6769285713f325708",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "OPAmount": 2500000
+        },
+        {
+            "RPGF3_Application_UID": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "OPAmount": 2500000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xc96c57a0ae937f815981807f33703080463e59f59b9bc3449a2528870eda970c",
+            "bio": "Otterscan is a fast, local, free and open source Ethereum block explorer",
+            "displayName": "Otterscan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2648Fd2a1D10563AE0931e78559408D56Bc8C85C.png"
+        },
+        {
+            "id": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "bio": "Ethereum implementation on the efficiency frontier",
+            "displayName": "Erigon",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "bio": "Test in Prod is a core development team of Optimism Collective.",
+            "displayName": "Test in Prod",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0583EeA7C089A7f74c1Fe4e6CCF1072FA016b50A.png"
+        },
+        {
+            "id": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "bio": "Decentralized and open-source Solidity contract source code verification service",
+            "displayName": "Sourcify",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.png"
+        },
+        {
+            "id": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "bio": "OP Reth is Reth but for the Optimism Collective, a new high performance client.",
+            "displayName": "OP Reth",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+            "bio": "Full-featured open-source block explorer",
+            "displayName": "Blockscout Block Explorer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C36Bd76a6c138187C43da92f66f37E23b4017fA.png"
+        },
+        {
+            "id": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+            "bio": "Indexes EVM blockchains using a fully decentralized and local-first stack.",
+            "displayName": "TrueBlocks / Unchained Index",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x48000bf0277f99726173a59b47d05aa6371ea320866e3e9a77e4241a083a4009",
+            "bio": "Smart contract devtool for Pythonistas, Data Scientists & Security Professionals",
+            "displayName": "ApeWorX LTD",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69.png"
+        },
+        {
+            "id": "0x7500c59003e12f46731f0e3bf33ef270085e700ce1d0ec0ae2ae42b4ea655ebe",
+            "bio": "Foundry is a smart contract development toolchain.",
+            "displayName": "foundry",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xfa8c195e19637a2d91f11c44d5b5c7c6397a06783864c1a6769285713f325708",
+            "bio": "cryo is the easiest and fastest way to extract bulk datasets from Optimism nodes",
+            "displayName": "cryo",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x40C0BB75D745141727211338eBb4f26202C00Ef2.png"
+        },
+        {
+            "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
+            "displayName": "Dappnode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+            "id": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "bio": "An Ethereum execution layer client",
+            "displayName": "go-ethereum",
+            "profileImageUrl": null
+        }
+    ],
+    "walletAddress": "0xd31b671F1a398B519222FdAba5aB5464B9F2a3Fa",
+    "domainName": "wmitsuda.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x51bbf9441e81f11c0274de4840423f70194cff6163f83815dd911ed729832b01",
+    "approvalAttestationUid": "0x51bbf9441e81f11c0274de4840423f70194cff6163f83815dd911ed729832b01",
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-11-28T23:05:51",
+    "updatedAt": "2023-11-28T23:05:51",
+    "revokedAt": null,
+    "avatar": "https://secure.gravatar.com/avatar/45584aced38bad6c1250569623ad1909"
+}

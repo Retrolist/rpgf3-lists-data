@@ -1,0 +1,134 @@
+{
+    "id": "0xdf9242082a5798aa4a0e0d1709cc0c1b6689ffb46f5976c57a73aac102b1bc61",
+    "listName": "DAOs, ReFi, and DAO Tooling",
+    "listDescription": "Decentralized Autonomous Organizations, represent a new paradigm in organizational governance, where decisions are made collectively by the community without centralized control. ReFi, or Regenerative Finances, is a concept that integrates sustainability and regeneration into financial models, aiming to create financial systems that are not only sustainable but also beneficial for the environment and society. DAO Tooling encompasses the various tools and platforms that facilitate the efficient functioning, governance, and management of DAOs. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to DAOs, ReFi, and DAO Tooling.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x3f3be3996262f122877efc7d90672555eaf42a3d6cf6de7839a0282626aaa55f",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x6886a3d5da589ee9fc5528548edca61cbefa640ff7b11d7d545281d3423cfd93",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x07fb115980ac6617d4b4b6f0cfcbc52bacfbb395b5c0d2d71fc735435627c555",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0xa35852733815089884475191afbbed7c67c94cf6cb3de86eb2cf4e1f136523d7",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x7abbdafaee87210e6340fa7d73be9d31fee4053e6543902e75bd3faf2d523cb1",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x6093215024946600fa2f854f941d918ea3a7f11283cb4e430969c36937b39e66",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "OPAmount": 95846
+        },
+        {
+            "RPGF3_Application_UID": "0x7f66e162c6ff0ebfc20fe8198af210936ff4917fc06c1c47630b89f3000958b4",
+            "OPAmount": 95846
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x3f3be3996262f122877efc7d90672555eaf42a3d6cf6de7839a0282626aaa55f",
+            "bio": "DeSci DAO Regenerating Coral Reef Conservation in Mesoamerica",
+            "displayName": "MesoReefDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x156Bfd9395371F29489FaD5EDF29269b72908F68.png"
+        },
+        {
+            "id": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "bio": "Fund & govern your mission with Augmented Bonding Curves & Aragon on Optimism.",
+            "displayName": "Commons Stack",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png"
+        },
+        {
+            "id": "0x6886a3d5da589ee9fc5528548edca61cbefa640ff7b11d7d545281d3423cfd93",
+            "bio": "RetroPGF Rubric-based List Creation UI opening to public crowdsourcing",
+            "displayName": "Retrolist | RetroPGF Rubric-based List Creation UI",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x73F4e6132Cd9E4a3945d9CA6E98e5985BBe16d2D.png"
+        },
+        {
+            "id": "0x07fb115980ac6617d4b4b6f0cfcbc52bacfbb395b5c0d2d71fc735435627c555",
+            "bio": "An R&D-focused DAO dedicated to providing support for valuable Web3 public goods",
+            "displayName": "LXDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3d7F926e57Ff06e465823b100b95408e805DfA2.png"
+        },
+        {
+            "id": "0xa35852733815089884475191afbbed7c67c94cf6cb3de86eb2cf4e1f136523d7",
+            "bio": "Based Nouns is a community-run DAO & NFT project on the Base network.",
+            "displayName": "Based Nouns",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD3Dada2362b12D4fe52BeEBe0Bd0fA1a341F340D.png"
+        },
+        {
+            "id": "0x7abbdafaee87210e6340fa7d73be9d31fee4053e6543902e75bd3faf2d523cb1",
+            "bio": "VitaDAO is a community owned collective funding early stage longevity research",
+            "displayName": "VitaDAO",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+            "bio": "Ethical, safe, resilient and diverse economic systems to benefit the world.",
+            "displayName": "Token Engineering Commons",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png"
+        },
+        {
+            "id": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "bio": "Hats is the onchain roles protocol",
+            "displayName": "Hats Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.png"
+        },
+        {
+            "id": "0x6093215024946600fa2f854f941d918ea3a7f11283cb4e430969c36937b39e66",
+            "bio": "Connecting web3 projects with the best analysts for data insights.",
+            "displayName": "MetricsDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa0F00e59ef57D82449ACcB05b9512A47b264374b.png"
+        },
+        {
+            "id": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "bio": "The easiest way to create and launch a Nounish DAO on the OP stack.",
+            "displayName": "Builder Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x01503DC708ce3C55017194847A07aCb679D49f47.png"
+        },
+        {
+            "id": "0x7f66e162c6ff0ebfc20fe8198af210936ff4917fc06c1c47630b89f3000958b4",
+            "bio": "Advocating for regenerative economical approach | Onboarding and Edu events",
+            "displayName": "Refi Phangan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92.png"
+        }
+    ],
+    "walletAddress": "0xcd192b61a8Dd586A97592555c1f5709e032F2505",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0xdf9242082a5798aa4a0e0d1709cc0c1b6689ffb46f5976c57a73aac102b1bc61",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-13T09:43:49",
+    "updatedAt": "2023-11-13T09:43:49",
+    "revokedAt": null,
+    "avatar": null
+}

@@ -1,0 +1,164 @@
+{
+    "id": "0x8d48d86b5149717210827856049f105f8335d29d88843073ede0bf253c09e061",
+    "listName": "Digital Identity & Social Privacy Innovations",
+    "listDescription": "As the digital world evolves, the importance of secure and private digital identities becomes paramount. Digital Identity & Social Privacy Innovations focus on creating systems where individuals have control over their personal data, ensuring their privacy while interacting online. These innovations allow users to share information selectively, verify their identity without exposing sensitive data, and engage in online activities with confidence. By integrating blockchain and other decentralized technologies, these solutions offer transparency, security, and user-centric control, revolutionizing how we perceive and manage our digital identities. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Digital Identity & Social Privacy Innovations.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x6edbaf833fdee6fb7ae4411e30ac9da8ee22af2c2aea303adbeaf5de80937d6f",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0x0c50a589d092ac078d4fecce888b1ec40a22cacd7d5d32b59ea277147113f173",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0xea94ce5c3d9360b195b12a641ab7df0da73844d5117a6ae8b654cece4e136fea",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0xbe51b31b1366e22c4a45b46985c449d8f79d9a1b82e140818538e8cd1ce9e880",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0x33fda246eee3e56ffd2ae97a87574bdd1278439dde91e33a235368913d6da48a",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0x38de0038ed83f94aeb539f03721a54dadd7caed4496a284f413e20eda27b8716",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0x633cd3fb8c979e5a98b2fc44c86d0d2003bca6359600731fc0f6a0dd9c3e7981",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0x52a5eb33b424f5d62f6cdac8943d4b180adb5cdd5d0dbd861c0d38f522386542",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0x7768eb79db734845f9afaec4741e064eee319fd25fb35bd2956d10739e22d94a",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0xc41ab9383d84993cbf54be96513d0acc942b7300a585c4ce9b896621dc3e4aaf",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0x488ecb65fbc1b1f66c7723a9b30424f10292beb3d130e5ae6f6b18117763035d",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0x78f3b6b236943d63b83a2977ebe1ad7e8db0a9b7a7e13fc5fa4d949ce1ee747b",
+            "OPAmount": 89000
+        },
+        {
+            "RPGF3_Application_UID": "0x2812e1e3fcb5b5ec3e3223a4dceff58e0e92bb89aeab8a9de6311de322de6175",
+            "OPAmount": 89000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x6edbaf833fdee6fb7ae4411e30ac9da8ee22af2c2aea303adbeaf5de80937d6f",
+            "bio": "ZK identity protocol for sybil resistance, secure key custody, and open civics.",
+            "displayName": "Holonym",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33359285F30E7B3386dE70ca500F4fe27853765B.png"
+        },
+        {
+            "id": "0x0c50a589d092ac078d4fecce888b1ec40a22cacd7d5d32b59ea277147113f173",
+            "bio": "Privacy-preserving ENS gateway, enabling access to Ethereum-native dApps/content",
+            "displayName": "eth.limo",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB352bB4E2A4f27683435f153A259f1B207218b1b.png"
+        },
+        {
+            "id": "0xea94ce5c3d9360b195b12a641ab7df0da73844d5117a6ae8b654cece4e136fea",
+            "bio": "the Farcaster client for power users",
+            "displayName": "herocast",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c.png"
+        },
+        {
+            "id": "0xbe51b31b1366e22c4a45b46985c449d8f79d9a1b82e140818538e8cd1ce9e880",
+            "bio": "The home for web3 publishing.",
+            "displayName": "Mirror",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114.png"
+        },
+        {
+            "id": "0x33fda246eee3e56ffd2ae97a87574bdd1278439dde91e33a235368913d6da48a",
+            "bio": "Leading identity oracle & zk attestation provider on OP",
+            "displayName": "Clique",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a.png"
+        },
+        {
+            "id": "0x38de0038ed83f94aeb539f03721a54dadd7caed4496a284f413e20eda27b8716",
+            "bio": "We are a web3 messaging protocol built as a public good.",
+            "displayName": "dm3 protocol.",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1d921dff757610FbDB0073479e12c0a07d382677.jpeg"
+        },
+        {
+            "id": "0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
+            "bio": "Gitcoin Passport makes it easy for projects to detect and stop bots and Sybils.",
+            "displayName": "Gitcoin Passport",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6.png"
+        },
+        {
+            "id": "0x633cd3fb8c979e5a98b2fc44c86d0d2003bca6359600731fc0f6a0dd9c3e7981",
+            "bio": "ENS-based domain with social profile attestation connecting Web2 and Web3",
+            "displayName": "Opti.domains | Connecting Web2&3 with ENS + Attestation",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8b6c27ec466923fad66Ada94c78AA320eA876969.png"
+        },
+        {
+            "id": "0x52a5eb33b424f5d62f6cdac8943d4b180adb5cdd5d0dbd861c0d38f522386542",
+            "bio": "Discover the best new web3 projects. Like Product Hunt, but for Web3.",
+            "displayName": "Launchcaster",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f.png"
+        },
+        {
+            "id": "0x7768eb79db734845f9afaec4741e064eee319fd25fb35bd2956d10739e22d94a",
+            "bio": "Research and imagination community accelerating better futures",
+            "displayName": "RADAR",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x149D46eC060e75AE188876AdB6b24024637003C7.png"
+        },
+        {
+            "id": "0xc41ab9383d84993cbf54be96513d0acc942b7300a585c4ce9b896621dc3e4aaf",
+            "bio": "Proof of Personhood from your government ID",
+            "displayName": "Coinpassport",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa48c718AE6dE6599c5A46Fd6caBff54Def39473a.png"
+        },
+        {
+            "id": "0x488ecb65fbc1b1f66c7723a9b30424f10292beb3d130e5ae6f6b18117763035d",
+            "bio": "Umbra is a stealth address privacy protocol for EVM networks.",
+            "displayName": "Umbra",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8.png"
+        },
+        {
+            "id": "0x78f3b6b236943d63b83a2977ebe1ad7e8db0a9b7a7e13fc5fa4d949ce1ee747b",
+            "bio": "A platform for onchain podcasts.",
+            "displayName": "Pods",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x050549F8c196Bf1bcC293172746c847fD4D77d9d.png"
+        },
+        {
+            "id": "0x2812e1e3fcb5b5ec3e3223a4dceff58e0e92bb89aeab8a9de6311de322de6175",
+            "bio": "The decentralized trust infrastructure of web 3 - on-chain reputation & feedback",
+            "displayName": "UTU",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3EcfF2CDB27b7aC271F1DeC715A9a2E200988b6f.png"
+        }
+    ],
+    "walletAddress": "0x8ED91f4e13Ad1D74205a05E2eFeB1DB5175845a3",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0x8d48d86b5149717210827856049f105f8335d29d88843073ede0bf253c09e061",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-12T13:32:07",
+    "updatedAt": "2023-11-12T13:32:07",
+    "revokedAt": null,
+    "avatar": null
+}

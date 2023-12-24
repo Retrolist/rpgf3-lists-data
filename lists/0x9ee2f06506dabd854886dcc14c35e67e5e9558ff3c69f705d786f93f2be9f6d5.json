@@ -1,0 +1,34 @@
+{
+    "id": "0x9ee2f06506dabd854886dcc14c35e67e5e9558ff3c69f705d786f93f2be9f6d5",
+    "listName": "My test list",
+    "listDescription": "This is a test",
+    "impactEvaluationDescription": "Test",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "OTHER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "OPAmount": 0
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "bio": "Test in Prod is a core development team of Optimism Collective.",
+            "displayName": "Test in Prod",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0583EeA7C089A7f74c1Fe4e6CCF1072FA016b50A.png"
+        }
+    ],
+    "walletAddress": "0xA18D0226043A76683950f3BAabf0a87Cfb32E1Cb",
+    "domainName": "stepandel.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x9ee2f06506dabd854886dcc14c35e67e5e9558ff3c69f705d786f93f2be9f6d5",
+    "approvalAttestationUid": null,
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-11-06T14:02:09",
+    "updatedAt": "2023-11-06T14:02:09",
+    "revokedAt": null,
+    "avatar": "https://ipfs.io/ipfs/QmeDSzGG6E3UJ3eW9jFQArRyZh6598STLRSB8yFRTWX32N"
+}

@@ -1,0 +1,254 @@
+{
+    "id": "0x080629de1abb09971e736dea116a95b4906e5538d9132a6a9c42419ab3eabc48",
+    "listName": "Custom list",
+    "listDescription": "Custom list created by Pairwise Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Custom list.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xc96c57a0ae937f815981807f33703080463e59f59b9bc3449a2528870eda970c",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0xf3e6f4737869efd0967440e4f97ea91b3ce3611c801675319874ea02f4d7a668",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0xff1e9125432799c370c8074274f6b1d833c49cda519a7724cb3671550680901e",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0xd5ced576ab6921e32ee00c18d49c69149ba5ccbec76f1e9bbc3d5b008f23145f",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0xfd039c82990da0bed2f74f106936835555b458adc3c45e7eb7caef7ed6b4e778",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x3b53ead12d8da8d0d1d5150494eb92b0ffb23d76090af9d4dd5341d576d97295",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x795c02e18131bf22626db5172ecbe21e0ee7316ed73921ad079b4d2989dce8b6",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x1b205ded96fa08412a2c8b7100de978779b13fd81fd8a85aaf71f7994065c690",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "OPAmount": 1200000
+        },
+        {
+            "RPGF3_Application_UID": "0x48000bf0277f99726173a59b47d05aa6371ea320866e3e9a77e4241a083a4009",
+            "OPAmount": 1200000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xc96c57a0ae937f815981807f33703080463e59f59b9bc3449a2528870eda970c",
+            "bio": "Otterscan is a fast, local, free and open source Ethereum block explorer",
+            "displayName": "Otterscan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2648Fd2a1D10563AE0931e78559408D56Bc8C85C.png"
+        },
+        {
+            "id": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "bio": "Open and transparent DeFi analytics.",
+            "displayName": "DefiLlama",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd.png"
+        },
+        {
+            "id": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+            "bio": "Full-featured open-source block explorer",
+            "displayName": "Blockscout Block Explorer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C36Bd76a6c138187C43da92f66f37E23b4017fA.png"
+        },
+        {
+            "id": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+            "bio": "System-wide web3 Platform",
+            "displayName": "Frame",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c.png"
+        },
+        {
+            "id": "0xf3e6f4737869efd0967440e4f97ea91b3ce3611c801675319874ea02f4d7a668",
+            "bio": "Ethers.js is a simple, compact and complete library for everything Ethereum.",
+            "displayName": "ethers.js",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8ba1f109551bD432803012645Ac136ddd64DBA72.jpeg"
+        },
+        {
+            "id": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "bio": "Decentralized and open-source Solidity contract source code verification service",
+            "displayName": "Sourcify",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.png"
+        },
+        {
+            "id": "0xff1e9125432799c370c8074274f6b1d833c49cda519a7724cb3671550680901e",
+            "bio": "The local-first, opensource asset tracking and management tool for crypto/tradfi",
+            "displayName": "rotki",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.png"
+        },
+        {
+            "id": "0xd5ced576ab6921e32ee00c18d49c69149ba5ccbec76f1e9bbc3d5b008f23145f",
+            "bio": "Web3.js is a JS/TS library that enables interacting w/ EVM compatible chains",
+            "displayName": "Web3js",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0.png"
+        },
+        {
+            "id": "0xfd039c82990da0bed2f74f106936835555b458adc3c45e7eb7caef7ed6b4e778",
+            "bio": "Rust Ethereum Virtual Machine",
+            "displayName": "revm",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98ea1E15E93fF392755Fd79E739c3ED60808B56B.png"
+        },
+        {
+            "id": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "bio": "Ethereum implementation on the efficiency frontier",
+            "displayName": "Erigon",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
+            "bio": "A rich toolset for the entire journey of Web3 contract development",
+            "displayName": "Remix Project",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa923A7CD364779c8b97522ca031804Ce639fA2Be.png"
+        },
+        {
+            "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
+            "displayName": "Dappnode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+            "id": "0x3b53ead12d8da8d0d1d5150494eb92b0ffb23d76090af9d4dd5341d576d97295",
+            "bio": "The libp2p Project.",
+            "displayName": "libp2p",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc5eC328828cd381D4dECDe27ededE45264933Edf.png"
+        },
+        {
+            "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+            "bio": "Simplifying the voting RetroPGF experience: easier to face 2 than 2000",
+            "displayName": "Pairwise",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
+        },
+        {
+            "id": "0x795c02e18131bf22626db5172ecbe21e0ee7316ed73921ad079b4d2989dce8b6",
+            "bio": "A leading Ethereum consensus client written in rust.",
+            "displayName": "Lighthouse",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03.png"
+        },
+        {
+            "id": "0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+            "bio": "Open Source Ethereum Explorer",
+            "displayName": "beaconcha.in",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979.jpeg"
+        },
+        {
+            "id": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "bio": "Lodestar is a Typescript ecosystem for Ethereum consensus developed by ChainSafe",
+            "displayName": "Lodestar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDaDd7c883288Cfe2E257B0A361865E5e9349808b.png"
+        },
+        {
+            "id": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "bio": "Revoke.cash is a token approvals dashboard and browser extension to stay safe.",
+            "displayName": "Revoke.cash",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe126b3E5d052f1F575828f61fEBA4f4f2603652a.png"
+        },
+        {
+            "id": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+            "bio": "Indexes EVM blockchains using a fully decentralized and local-first stack.",
+            "displayName": "TrueBlocks / Unchained Index",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "bio": "Unlock your community potential - reputation scores, rewards and deep insights",
+            "displayName": "Praise",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+            "id": "0x1b205ded96fa08412a2c8b7100de978779b13fd81fd8a85aaf71f7994065c690",
+            "bio": "Vyper is a contract-oriented, pythonic programming language for the EVM",
+            "displayName": "Vyper",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b98718264cA14d0A17C145FfE1e4F3c38a39372.png"
+        },
+        {
+            "id": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "bio": "Solidity is a statically-typed curly-braces programming language for EVM chains",
+            "displayName": "Solidity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x151EF20A3ADe1CC1161391594f8a32461389a54e.png"
+        },
+        {
+            "id": "0x48000bf0277f99726173a59b47d05aa6371ea320866e3e9a77e4241a083a4009",
+            "bio": "Smart contract devtool for Pythonistas, Data Scientists & Security Professionals",
+            "displayName": "ApeWorX LTD",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69.png"
+        }
+    ],
+    "walletAddress": "0x8ED91f4e13Ad1D74205a05E2eFeB1DB5175845a3",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0x080629de1abb09971e736dea116a95b4906e5538d9132a6a9c42419ab3eabc48",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-05T10:17:57",
+    "updatedAt": "2023-12-05T10:17:57",
+    "revokedAt": null,
+    "avatar": null
+}

@@ -1,0 +1,84 @@
+{
+    "id": "0x8a772a8d160ae1b84442e74c322c63162f471243bf191c2590939d3e1606a34f",
+    "listName": "Local Impacts of Turkey Ecosystem",
+    "listDescription": "Turkey is a country that stands out with the need for crypto in many areas of life and therefore the active work of various communities, projects and university clubs. This intense interest brought Devconnect to the country this year and contributed to accelerating adaptation. So that, it's important to fund the public goods of the locals to accelerate this adoption and create opportunities. \n\nInspiring by brichis.eth, I've worked on a list of local projects that contributed to the adoption of Ethereum and Optimism in Turkey or resulting from this impact.\n\n* Check my conflict of interest disclosure here: https://gov.optimism.io/t/badgeholder-conflict-of-interest-disclosures/5569/28?u=ulerdogan\n\n** Please reach me out if I am missing any projects to include in the list.",
+    "impactEvaluationDescription": "This list does not evaluate the impacts or allocate funds. Please consider not including the list with the \"0 OP\" allocation directly, it harms the projects.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xfe10e068dafa65cc7d3acd39b5f5f415de69b70be75a67c338bd367dbdad7850",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x956b110e3b9aa11c53bbf41b97d34fadb4d516faede3304fa2807db3fd6d7407",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xc8e743bd0385565571a95fe4333b3a4892fc8f846b76489d3b417e1fb61fad73",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x64c7ca00fc9414ad889721dd400f16c690d62bf1b01cb4202cf56dcd183be5d9",
+            "OPAmount": 0
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+            "bio": "Turkey's first and biggest university blockchain society!",
+            "displayName": "ITU Blockchain",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
+        },
+        {
+            "id": "0xfe10e068dafa65cc7d3acd39b5f5f415de69b70be75a67c338bd367dbdad7850",
+            "bio": "We're a student run blockchain club at the top technical university in Turkey.",
+            "displayName": "ODTU Blockchain",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07fA3338a53CFAA1911A255F0c3054E800873e77.png"
+        },
+        {
+            "id": "0x956b110e3b9aa11c53bbf41b97d34fadb4d516faede3304fa2807db3fd6d7407",
+            "bio": "OPStack improvement with ERC-4337 account and native hardware signature verifier",
+            "displayName": "Clave (formerly Opclave)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcCA02de5372cB0CaAc425543487789eEF5d17fB5.png"
+        },
+        {
+            "id": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
+            "bio": "Modular protocol infrastructure for next generation of smart contract solutions",
+            "displayName": "Inverter Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png"
+        },
+        {
+            "id": "0xc8e743bd0385565571a95fe4333b3a4892fc8f846b76489d3b417e1fb61fad73",
+            "bio": "BanklessDAO's subDAO for Turkish community expansion.",
+            "displayName": "BanklessDAO Turkish",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBd55b361700c3349794aF68879B8a9E0921640Ed.png"
+        },
+        {
+            "id": "0x64c7ca00fc9414ad889721dd400f16c690d62bf1b01cb4202cf56dcd183be5d9",
+            "bio": "A collective of individuals that generating Turkish content about Optimism.",
+            "displayName": "Optimism Türkiye",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x47a71c373e3F407f668509c2A6BD46911162bF56.png"
+        }
+    ],
+    "walletAddress": "0x55aEd0ce035883626e536254dda2F23a5b5D977f",
+    "domainName": "0xulas.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x8a772a8d160ae1b84442e74c322c63162f471243bf191c2590939d3e1606a34f",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-28T14:35:39",
+    "updatedAt": "2023-11-28T14:35:39",
+    "revokedAt": null,
+    "avatar": "https://ipfs.io/ipfs/QmeQnXokSfq3poLRZYFevcVnyneKGieL7STAeGoSX6cZJp/212.png"
+}

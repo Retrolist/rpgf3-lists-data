@@ -1,0 +1,734 @@
+{
+    "id": "0x52d3771ed4451e0cd451655e99809b131b2aa1d418470570b0ee54f810bf15c2",
+    "listName": "Open Source Application Layer Projects Generating Revenue for the Optimism Collective",
+    "listDescription": "Open source applications and application development tools deployed to OP Stack chains that directly contribute to revenues for the collective via gas consumption. RPGF sustainability is paramount - our community will be able to incentivize public goods development long term only if the collective is generating revenues. Therefore this list attempts to shine a spotlight on public goods that are generating revenue at the app layer for the collective by attracting activity and gas consumption on OP Stack chains.\nDisclosure link: https://gov.optimism.io/t/badgeholder-conflict-of-interest-disclosures/5569/54\nInspired by this thread about RPGF sustainability and Optimism Collective revenue: https://x.com/elblockchainguy/status/1726609910404903240?s=46",
+    "impactEvaluationDescription": "This list assumes 20% (6M) of total RPGF funds is allocated to application layer projects deployed on the OP Stack. Projects are roughly categorized into five groups based on gas consumption using ethereum-etl and Chainbase queries derived from the contract addresses available in applicant's forms and their Github repos. I did my best to query unlisted project contract addresses created by factory contracts as well, borrowing from existing Dune dashboards in some cases. Projects in between two categories that are nonprofit or do not have any form of value extraction implemented were bumped up, while others were bumped down if there was heavy extraction. Must be deployed to OP Mainnet, Base, or another OP Stack chain, and contracts must be open sourced via Github repo or verification on a block explorer, Sourcify, or another service. Attempted to include all application layer projects that have generated meaningful sequencer revenue, although some applications like NFT projects and memecoins are excluded from this group if they did not deploy anything other than their token.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x6640372710ef432d006f6e2a0737213975305cb2f7d0c84e7be338b9c6ddb275",
+            "OPAmount": 320000
+        },
+        {
+            "RPGF3_Application_UID": "0x686631456b8a61089497f6cb36abb0b9965c47464383603402a8688b8b69fa93",
+            "OPAmount": 320000
+        },
+        {
+            "RPGF3_Application_UID": "0x4cd4c0671a5d7bda3cd010d83ca26956c608eb0fc4350291acedb62596d3c03c",
+            "OPAmount": 240000
+        },
+        {
+            "RPGF3_Application_UID": "0x93977731af37cb1a984d86979b1c4e3dc421a6328fee9a15ff2c110cf0ba7ae2",
+            "OPAmount": 240000
+        },
+        {
+            "RPGF3_Application_UID": "0x9d9f675cf53acdfcaf5bbcb67b1143b94daaa5b4f7acdc96049a1c3e5619d1ce",
+            "OPAmount": 240000
+        },
+        {
+            "RPGF3_Application_UID": "0xed052bcc8a5141a3baf9e42f7c441d94221ff4c16adf45aae190a53143b61c1d",
+            "OPAmount": 240000
+        },
+        {
+            "RPGF3_Application_UID": "0x99ad2850c7cbda52a16676d6ab956b1434c64f4124d5f2108aa12fda5325205c",
+            "OPAmount": 240000
+        },
+        {
+            "RPGF3_Application_UID": "0xddc9a054991a682b95fd92825602c1b0dafde853408d08328f9cca77e6fd0caf",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x166b7be374825b11dc2af89b61ef1d66b5b45487b97ea3dd569e62f2f7b7b41e",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0xc2eba66a043d5471132cb40947e81f106f83d0bbbc0d4af3fff5e800ad7411c2",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x91941c2cb8e8079a32813cfa72facb995b4803285685955ef4f4772cd525f50b",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x67268a35086153681270e531c0ba637e0a1b752b40a4d0661b88b32bef59b0dc",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0xd75a5bad6fcce7c0b50b8e9a0470a7b29a7ebbcdc0adc455d0ca6ef40b7a7e92",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x488ecb65fbc1b1f66c7723a9b30424f10292beb3d130e5ae6f6b18117763035d",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x644241a4eb82579d4b1b3cba47b1c54b22274d074e8b261a00be7204e4ce3ef8",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0xb1eb9238bbb8108c50f7061ffdf6dd7c465b42ff2038155b430d62fb283e59e2",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0xbd9046f085bcd22857b23dd1bf3965db8a97db88e14598f28b649918a783f60f",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0xe2e2f6f6ca6631af544462d867d1fd09f56182c4963ffd6be35dc3651df5ce86",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x33fda246eee3e56ffd2ae97a87574bdd1278439dde91e33a235368913d6da48a",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0xbe51b31b1366e22c4a45b46985c449d8f79d9a1b82e140818538e8cd1ce9e880",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0xd0f85e82439cc4c58186702cec1e6ef21d07a3540799a5938dc54551bf7ce18b",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0xf751fd5e236ec136a340fa5d2080938512056728c9301ac7dc27d6ab78791e72",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0xb109e7bbedcc8e7b6d89619dae850b707ba071923532899ff2aa4b472af64049",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x351cfe61628239f979f88da463f81b6feaeff65bfbeeed489041a44fef1b6293",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xddda258085505c63d2adc93d0260bee8b8205315f9ab14c3b4c241a640a4a47f",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x0fd67ac5b7610143e5de49212073798303be0009c69266484a75f96eb39fd0bb",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xcda4d6876501268b31d1927f2e9a2b836cd9b2c3faa376c60d468fa8bd2cf23f",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x974dc60d513de1b51ea0a8ace8df5bb3bb22223e84ae23550497b90f05883e73",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x7b65040771f48fc39f1a8cea60c0b5d8eb89a87b8e3c62a364a746ce4e0e8cce",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x76a3260167144f6bd35d5cb0996e48edf645100aa3b4abcd6302a454d34bcee0",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xd6da51fe10242debbb67dd488f20c69c00d2bcbae43cb22ccfb90f0e255ad580",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xeec5041f2bae8c48877836c3e932a2df54a1369c3f297f8474935c0a2bad18f0",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xca68da6f8e6ac0f2c83fccf8b0d7714370ba4b846c4e73761557a484258ec19c",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x633cd3fb8c979e5a98b2fc44c86d0d2003bca6359600731fc0f6a0dd9c3e7981",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x7074a17e86a1120f20f9da403aed0e6adcaacc844d22fc10f7d6fd8088e8c50f",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xd8b0dc71191314a8a0a54b20e63a1a6d843ea350461c7300c13f2fd4fa2ddcad",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xec3f9d8ca269e264d0b8b3516c2a71d34cc145b78150b3d4afe207b6aef0efce",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x22440f20a9316a1d01cab2cfc8d8572560b026a538418f1416c3f5289869229f",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x8a7f7c5ab681ab20b64530c7b28f268f63caa9154fca76ba128e20ea5503c16a",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x6edbaf833fdee6fb7ae4411e30ac9da8ee22af2c2aea303adbeaf5de80937d6f",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xa68cedeaeff9ca00cd18ef58f1bd1281100051532c53820737d703331aac9869",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x50ab0b170675bcf11f1ebad8645045f1d6f7cb78a61ab0da18ee40586e0f2de8",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0xbc82e6ce400f4ca4ff72f53053e4a747dc9e7be16c9c4523f23c752494aef585",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x9f510c4ef96341ed9d8b567d40807095097c51cdc146723c6e34ce0a17ef2881",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x09805bd3ff5a0a11b48617d60129da46e585eb7207d3b7f8bbf587bd61849792",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x4601875bbac07e7fad0b07b6ecd28b48e197e67fbc29c3e713a517391c8251a3",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x71e4915fe3b20feeb949e572cfa4204ab8e0a62ae385a0cbb8474071fb86eb80",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x41680e70d47afaaed2fa5fdd9402b37ef41baeb42738f7c482a282c17e2bfc6e",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0xd9893c11e947871faa9df334f436c53c8fba6930766c39fc3b05d24afccf301d",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x39d1825ce239c5125f84e5269af4c692a71a93f651dd40e813f0aabaf016b5fd",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x52f7491efe1ee24db5a3d2f6a988d7f575e4818666e7c1e86133d6975de2a255",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x5f8df8b9433d455d6ddd42a1cbb9c3d659f4f982ee772722be1365a7916fbd31",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x5ba34710a69f42f2ab26237f6e8dfc7a7236425a9f7e0b5d77c0a16ac8a48d5a",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0xfa3462fae5e6305802212e022903900ed2b64c10481a8865898493e810903682",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0xbd1652fe3e5c7e160ca3e86da27567cd0f8f8cea3399a1003cf90364ed046d3b",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x54b5917ba3ae0b4afb71efd0369f4b65b43bf2453710edcb3340581972f99dea",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x709f25d1796c2f33da8e7855f600a3ac5d10a1adf55a5a7ad3b1bfc7a71c6db8",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0xa56c22c8a230b721d39e7dd1615802db826a3c5dfb1ffa86967afa5db890b5ea",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x169944e7e6d6a3cbfb72b9da9234e9f74b99111b00c1be854c8807fed8043397",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0x57281cd1a4a558617c4fd463f57f2aeb02bde260ad854087947e5e4edb4125ef",
+            "OPAmount": 28000
+        },
+        {
+            "RPGF3_Application_UID": "0xcb72b4a9f6e5950ccccf6689630e054658457421989cc37842dbd8ddaacd19d8",
+            "OPAmount": 28000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x6640372710ef432d006f6e2a0737213975305cb2f7d0c84e7be338b9c6ddb275",
+            "bio": "Synthetix provides liquidity for permissionless derivatives on-chain",
+            "displayName": "Synthetix",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7B66b603347038CCAd178387c696660bcdcB14d7.png"
+        },
+        {
+            "id": "0x686631456b8a61089497f6cb36abb0b9965c47464383603402a8688b8b69fa93",
+            "bio": "Upload Imagination, Earn Ethereum.",
+            "displayName": "ZORA",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8700B87C2A053BDE8Cdc84d5078B4AE47c127FeB.png"
+        },
+        {
+            "id": "0x4cd4c0671a5d7bda3cd010d83ca26956c608eb0fc4350291acedb62596d3c03c",
+            "bio": "Kwenta is a perpetual futures exchange on Optimism",
+            "displayName": "Kwenta",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x93977731af37cb1a984d86979b1c4e3dc421a6328fee9a15ff2c110cf0ba7ae2",
+            "bio": "The central trading and liquidity marketplace on Optimism.",
+            "displayName": "Velodrome",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652.png"
+        },
+        {
+            "id": "0x9d9f675cf53acdfcaf5bbcb67b1143b94daaa5b4f7acdc96049a1c3e5619d1ce",
+            "bio": "A self-custodial derivatives exchange built on Optimism",
+            "displayName": "Lyra Finance",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xed052bcc8a5141a3baf9e42f7c441d94221ff4c16adf45aae190a53143b61c1d",
+            "bio": "Hop DAO governs Hop Protocol and accelerates growth of the cross-chain ecosystem",
+            "displayName": "Hop DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9f8d2dafE9978268aC7c67966B366d6d55e97f07.png"
+        },
+        {
+            "id": "0x99ad2850c7cbda52a16676d6ab956b1434c64f4124d5f2108aa12fda5325205c",
+            "bio": "The central trading and liquidity marketplace on Base.",
+            "displayName": "Aerodrome Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2C4F3af64e1A832deb10D98aFAA71233794467F8.png"
+        },
+        {
+            "id": "0xddc9a054991a682b95fd92825602c1b0dafde853408d08328f9cca77e6fd0caf",
+            "bio": "Synapse DAO maintains the Synapse Bridge and other onboarding tooling",
+            "displayName": "Synapse DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d.png"
+        },
+        {
+            "id": "0x166b7be374825b11dc2af89b61ef1d66b5b45487b97ea3dd569e62f2f7b7b41e",
+            "bio": "Galxe is the leading platform for building web3 communities.",
+            "displayName": "Galxe",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2.png"
+        },
+        {
+            "id": "0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
+            "bio": "A protocol to target users & deploy onchain earning opportunities",
+            "displayName": "RabbitHole",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.png"
+        },
+        {
+            "id": "0xc2eba66a043d5471132cb40947e81f106f83d0bbbc0d4af3fff5e800ad7411c2",
+            "bio": "A leading multi-chain DEX supporting the DeFi needs of 25+ Blockchain Ecosystems",
+            "displayName": "Sushi",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5732B7695F06b9080109B10dec0856e1b801c15.png"
+        },
+        {
+            "id": "0x91941c2cb8e8079a32813cfa72facb995b4803285685955ef4f4772cd525f50b",
+            "bio": "A cross-chain bridge for L2s & rollups secured by UMA's optimistic oracle",
+            "displayName": "Across Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b.png"
+        },
+        {
+            "id": "0x67268a35086153681270e531c0ba637e0a1b752b40a4d0661b88b32bef59b0dc",
+            "bio": "Sonne Finance is a decentralized lending protocol, native on Optimism.",
+            "displayName": "Sonne Finance",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xd75a5bad6fcce7c0b50b8e9a0470a7b29a7ebbcdc0adc455d0ca6ef40b7a7e92",
+            "bio": "OpenOcean is a leading DEX aggregator with best swap prices across 30+ chains.",
+            "displayName": "OpenOcean",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x31C31ea5D121A0aFD850AC6B553185333f8A160c.png"
+        },
+        {
+            "id": "0x488ecb65fbc1b1f66c7723a9b30424f10292beb3d130e5ae6f6b18117763035d",
+            "bio": "Umbra is a stealth address privacy protocol for EVM networks.",
+            "displayName": "Umbra",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8.png"
+        },
+        {
+            "id": "0x644241a4eb82579d4b1b3cba47b1c54b22274d074e8b261a00be7204e4ce3ef8",
+            "bio": "Yearn is a decentralized suite of products that earn yield.",
+            "displayName": "Yearn",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF6411852b105042bb8bbc6Dd50C0e8F30Af63337.png"
+        },
+        {
+            "id": "0xb1eb9238bbb8108c50f7061ffdf6dd7c465b42ff2038155b430d62fb283e59e2",
+            "bio": "Clipper is a DEX built for blue-chip token swaps and sustainable LP returns.",
+            "displayName": "Clipper",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa9556c54ED92e46598716e313E94b22DD12B5657.png"
+        },
+        {
+            "id": "0xbd9046f085bcd22857b23dd1bf3965db8a97db88e14598f28b649918a783f60f",
+            "bio": "Socket is an interoperability bringing seamless connectivity to blockchains.",
+            "displayName": "Socket",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ad673197E99449891C08B79d26bd541FB6856C9.png"
+        },
+        {
+            "id": "0xe2e2f6f6ca6631af544462d867d1fd09f56182c4963ffd6be35dc3651df5ce86",
+            "bio": "Gelato is web3's cloud platform",
+            "displayName": "Gelato",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x28bB9385A588EF4747264D19B9A9F1603591680c.png"
+        },
+        {
+            "id": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+            "bio": "Open and transparent DeFi analytics.",
+            "displayName": "DefiLlama",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd.png"
+        },
+        {
+            "id": "0x33fda246eee3e56ffd2ae97a87574bdd1278439dde91e33a235368913d6da48a",
+            "bio": "Leading identity oracle & zk attestation provider on OP",
+            "displayName": "Clique",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a.png"
+        },
+        {
+            "id": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
+            "bio": "Core OP Stack infrastructure for making attestations onchain or offchain.",
+            "displayName": "Ethereum Attestation Service",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e95B8E249c4536FE1db2E4ce5476010767C0A05.png"
+        },
+        {
+            "id": "0xbe51b31b1366e22c4a45b46985c449d8f79d9a1b82e140818538e8cd1ce9e880",
+            "bio": "The home for web3 publishing.",
+            "displayName": "Mirror",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114.png"
+        },
+        {
+            "id": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "bio": "Paint Together. Mint Daily.",
+            "displayName": "BasePaint",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb48E8dA63c2aFc5633702B7acf4BDe830c1dE48b.png"
+        },
+        {
+            "id": "0xd0f85e82439cc4c58186702cec1e6ef21d07a3540799a5938dc54551bf7ce18b",
+            "bio": "Programmable identity for the multiwallet world",
+            "displayName": "Delegate",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6Ed7D526b020780f694f3c10Dfb25E1b134D3215.png"
+        },
+        {
+            "id": "0xf751fd5e236ec136a340fa5d2080938512056728c9301ac7dc27d6ab78791e72",
+            "bio": "OpenZeppelin Contracts are the go-to library for smart contract development.",
+            "displayName": "OpenZeppelin Contracts",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e1E9D592BAb52406289A1B4e8Bc1236d9eAD33e.png"
+        },
+        {
+            "id": "0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
+            "bio": "Splits makes onchain payments easy.",
+            "displayName": "Splits",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ebC8E61f87A301fF25a606d7C06150f856F24E2.png"
+        },
+        {
+            "id": "0xb109e7bbedcc8e7b6d89619dae850b707ba071923532899ff2aa4b472af64049",
+            "bio": "DeFi Aggregator with multi-input and multi-output swaps.",
+            "displayName": "Odos",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De9109a2333845A15ddE1f2F0c020b37421e1f5.png"
+        },
+        {
+            "id": "0x351cfe61628239f979f88da463f81b6feaeff65bfbeeed489041a44fef1b6293",
+            "bio": "Instant ENS sub-domains for NFT communities on the Superchain.",
+            "displayName": "Wildcards Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6.png"
+        },
+        {
+            "id": "0xddda258085505c63d2adc93d0260bee8b8205315f9ab14c3b4c241a640a4a47f",
+            "bio": "Actionable analytics for Liquidity Providers (LPs) in AMM protocols",
+            "displayName": "Revert",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8cadb20A4811f363Dadb863A190708bEd26245F8.png"
+        },
+        {
+            "id": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "bio": "Hats is the onchain roles protocol",
+            "displayName": "Hats Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.png"
+        },
+        {
+            "id": "0x0fd67ac5b7610143e5de49212073798303be0009c69266484a75f96eb39fd0bb",
+            "bio": "An option protocol that focuses on composability and liquidation aggregation",
+            "displayName": "Grappa Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1.png"
+        },
+        {
+            "id": "0xcda4d6876501268b31d1927f2e9a2b836cd9b2c3faa376c60d468fa8bd2cf23f",
+            "bio": "Multifunctional Omnichain Solution, specialized in LayerZero-centered tools",
+            "displayName": "Merkly",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3469F853c6522DE54Ce839Dd245724e56EF25859.png"
+        },
+        {
+            "id": "0x974dc60d513de1b51ea0a8ace8df5bb3bb22223e84ae23550497b90f05883e73",
+            "bio": "MetaDex Aggregator, Swap, Felo, Gasless and Perpetuals",
+            "displayName": "Kromatika Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x556c178B5f1793B8a626eA57FbBA79010b4370Bd.png"
+        },
+        {
+            "id": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "bio": "The easiest way to create and launch a Nounish DAO on the OP stack.",
+            "displayName": "Builder Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x01503DC708ce3C55017194847A07aCb679D49f47.png"
+        },
+        {
+            "id": "0x7b65040771f48fc39f1a8cea60c0b5d8eb89a87b8e3c62a364a746ce4e0e8cce",
+            "bio": "First native Base lending protocol. Isolated, permissionless, capital efficient.",
+            "displayName": "Seamless Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x53352a00316573E8F52696C572F1293Ac877eF4d.png"
+        },
+        {
+            "id": "0x76a3260167144f6bd35d5cb0996e48edf645100aa3b4abcd6302a454d34bcee0",
+            "bio": "dForce is a decentralized stablecoin powered by an integrated DeFi matrix.",
+            "displayName": "dForce",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x83A771769D1A344deED9Ea24aB58071e9Db2D90A.png"
+        },
+        {
+            "id": "0xd6da51fe10242debbb67dd488f20c69c00d2bcbae43cb22ccfb90f0e255ad580",
+            "bio": "Rhino.fi is the ultimate layer 2 bridge and DeFi aggregator",
+            "displayName": "rhino.fi",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC451b0191351ce308FdFd779D73814c910FC5eCB.png"
+        },
+        {
+            "id": "0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+            "bio": "Revoke.cash is a token approvals dashboard and browser extension to stay safe.",
+            "displayName": "Revoke.cash",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe126b3E5d052f1F575828f61fEBA4f4f2603652a.png"
+        },
+        {
+            "id": "0xeec5041f2bae8c48877836c3e932a2df54a1369c3f297f8474935c0a2bad18f0",
+            "bio": "Infrastructue for digital asset tokenization",
+            "displayName": "Holograph",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C.png"
+        },
+        {
+            "id": "0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
+            "bio": "Gitcoin Passport makes it easy for projects to detect and stop bots and Sybils.",
+            "displayName": "Gitcoin Passport",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6.png"
+        },
+        {
+            "id": "0xca68da6f8e6ac0f2c83fccf8b0d7714370ba4b846c4e73761557a484258ec19c",
+            "bio": "Moonwell is an open and decentralized lending and borrowing protocol.",
+            "displayName": "Moonwell",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x60A0164463f3dC6c27e0AF42D1F64ab8BF225578.png"
+        },
+        {
+            "id": "0x633cd3fb8c979e5a98b2fc44c86d0d2003bca6359600731fc0f6a0dd9c3e7981",
+            "bio": "ENS-based domain with social profile attestation connecting Web2 and Web3",
+            "displayName": "Opti.domains | Connecting Web2&3 with ENS + Attestation",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8b6c27ec466923fad66Ada94c78AA320eA876969.png"
+        },
+        {
+            "id": "0x7074a17e86a1120f20f9da403aed0e6adcaacc844d22fc10f7d6fd8088e8c50f",
+            "bio": "Your Multichain Hub",
+            "displayName": "ShapeShift DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x901a3507Deb114093B18e23b3Ad12F0d6Cbb8df1.png"
+        },
+        {
+            "id": "0xd8b0dc71191314a8a0a54b20e63a1a6d843ea350461c7300c13f2fd4fa2ddcad",
+            "bio": "Fun, powerful, and secure wallets",
+            "displayName": "Rainbow Wallet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x465E764B56429788e031160F66a5F9791193B56F.png"
+        },
+        {
+            "id": "0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+            "bio": "Your ENS identity on Optimism. Zero registration & renewal fees.",
+            "displayName": "OptiNames | ENS on Optimism 🔴",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7dc20f310De2fC1B8163F27551544c52eBDB0D30.png"
+        },
+        {
+            "id": "0xec3f9d8ca269e264d0b8b3516c2a71d34cc145b78150b3d4afe207b6aef0efce",
+            "bio": "The largest core development group in Web3",
+            "displayName": "Wonderland",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x36143ebA6D522FBe2c7884B011feA558c203856C.png"
+        },
+        {
+            "id": "0x22440f20a9316a1d01cab2cfc8d8572560b026a538418f1416c3f5289869229f",
+            "bio": "The Pyth Network is the largest first-party financial oracle network.",
+            "displayName": "Pyth Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa76B661bfbAA9264F9C8335235D3958a6ACe2aba.png"
+        },
+        {
+            "id": "0x8a7f7c5ab681ab20b64530c7b28f268f63caa9154fca76ba128e20ea5503c16a",
+            "bio": "Uniting crypto through seamless crosschain transactions.",
+            "displayName": "Decent.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBAfb15bF152365bd344639b6eDe5Dec09d5Ba64E.png"
+        },
+        {
+            "id": "0x6edbaf833fdee6fb7ae4411e30ac9da8ee22af2c2aea303adbeaf5de80937d6f",
+            "bio": "ZK identity protocol for sybil resistance, secure key custody, and open civics.",
+            "displayName": "Holonym",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33359285F30E7B3386dE70ca500F4fe27853765B.png"
+        },
+        {
+            "id": "0xa68cedeaeff9ca00cd18ef58f1bd1281100051532c53820737d703331aac9869",
+            "bio": "Baseswap is a decentralized exchange (DEX) on Base with several products.",
+            "displayName": "Baseswap",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2BA3c3e9D61C776b415ECCd753133dEF6737770A.png"
+        },
+        {
+            "id": "0x50ab0b170675bcf11f1ebad8645045f1d6f7cb78a61ab0da18ee40586e0f2de8",
+            "bio": "Mosaic is accelerating retroactive rewards for web3 adoption and retention.",
+            "displayName": "Mosaic",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x095C33946136C08BC19790BCc7143c87c03c43ce.png"
+        },
+        {
+            "id": "0xbc82e6ce400f4ca4ff72f53053e4a747dc9e7be16c9c4523f23c752494aef585",
+            "bio": "Native DEX and Launchpad on Base",
+            "displayName": "DackieSwap",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe1581C10EE235F0DEbb655EA365100bCBD84BAD2.png"
+        },
+        {
+            "id": "0x9f510c4ef96341ed9d8b567d40807095097c51cdc146723c6e34ce0a17ef2881",
+            "bio": "We write smart contracts that facilitate the open exchange of ideas and value.",
+            "displayName": "The Open X Project",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb4a16728A270c0A9d57521926FBfb52dA28fb28D.png"
+        },
+        {
+            "id": "0x09805bd3ff5a0a11b48617d60129da46e585eb7207d3b7f8bbf587bd61849792",
+            "bio": "Liquidity and trading hub for Base",
+            "displayName": "Equalizer",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x4601875bbac07e7fad0b07b6ecd28b48e197e67fbc29c3e713a517391c8251a3",
+            "bio": "Base Punk is a Community-driven NFT project with Web3 Domains & Social Dapps",
+            "displayName": "Base Punk",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD688B5ed29Ab77b39884BabD1930213BF7805CD1.png"
+        },
+        {
+            "id": "0x71e4915fe3b20feeb949e572cfa4204ab8e0a62ae385a0cbb8474071fb86eb80",
+            "bio": "Chronicle Protocol provides decentralized and verifiable Oracle infrastructure",
+            "displayName": "Chronicle Labs",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x41680e70d47afaaed2fa5fdd9402b37ef41baeb42738f7c482a282c17e2bfc6e",
+            "bio": "We empower traders with fast cross-chain swaps at the best rates.",
+            "displayName": "Interport Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x47660F6662FA3f4c76406EaEb9A7489Db280C6b3.png"
+        },
+        {
+            "id": "0xd9893c11e947871faa9df334f436c53c8fba6930766c39fc3b05d24afccf301d",
+            "bio": "Pheasant Network is an optimistic bridge specialized for Layer 2.",
+            "displayName": "Pheasant Network",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0CdeF21714e12A518B818C9a70c7AA39D4A69974.png"
+        },
+        {
+            "id": "0x39d1825ce239c5125f84e5269af4c692a71a93f651dd40e813f0aabaf016b5fd",
+            "bio": "BMX is a perpetual DEX built on Base with unique tokenomics.",
+            "displayName": "BMX by Morphex",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce.png"
+        },
+        {
+            "id": "0x52f7491efe1ee24db5a3d2f6a988d7f575e4818666e7c1e86133d6975de2a255",
+            "bio": "Contributing to the growth of non-fungible technology on L2.",
+            "displayName": "NFTEarth",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB.png"
+        },
+        {
+            "id": "0x5f8df8b9433d455d6ddd42a1cbb9c3d659f4f982ee772722be1365a7916fbd31",
+            "bio": "Explore, analyze and copy on-chain traders from the top of the perpetual DEX",
+            "displayName": "Copin.io",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1A561e43f264952D7b4F25Fb4967122c87618Beb.png"
+        },
+        {
+            "id": "0x5ba34710a69f42f2ab26237f6e8dfc7a7236425a9f7e0b5d77c0a16ac8a48d5a",
+            "bio": "Velocimeter is a ve33 Dex offering options tokens as emissions and as a service.",
+            "displayName": "Velocimeter",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x069e85D4F1010DD961897dC8C095FBB5FF297434.png"
+        },
+        {
+            "id": "0xfa3462fae5e6305802212e022903900ed2b64c10481a8865898493e810903682",
+            "bio": "Borrow against staked LP, hedge risk, and earn yield on your yield",
+            "displayName": "VMEX Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3f42b02e699388c668b5B5d6E694C6623Ef82B4d.png"
+        },
+        {
+            "id": "0xbd1652fe3e5c7e160ca3e86da27567cd0f8f8cea3399a1003cf90364ed046d3b",
+            "bio": "Building & launching a new fully onchain, open source, game every 6 weeks.",
+            "displayName": "Small Brain Games",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa4eC807A15f389A2b9aC985eCcF4b08ddDDB6f9d.png"
+        },
+        {
+            "id": "0x54b5917ba3ae0b4afb71efd0369f4b65b43bf2453710edcb3340581972f99dea",
+            "bio": "Open source smart contracts that price any ERC20 asset on OP & Base trustlessly",
+            "displayName": "Optimism Prices Contracts",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe34aF0E043a4189891535F746d8e44c0dbc03c3C.png"
+        },
+        {
+            "id": "0x709f25d1796c2f33da8e7855f600a3ac5d10a1adf55a5a7ad3b1bfc7a71c6db8",
+            "bio": "Apetimism Launchpad is our No-Code, Superchain-compatible NFT Launchpad",
+            "displayName": "Apetimism Launchpad",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF0974C239B7d08b7240b690B69EC3dD8aE783EFC.png"
+        },
+        {
+            "id": "0xa56c22c8a230b721d39e7dd1615802db826a3c5dfb1ffa86967afa5db890b5ea",
+            "bio": "Scry is the ONLY self-hostable oracle infra. With crosschain data, VRFs and more",
+            "displayName": "PR0",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.png"
+        },
+        {
+            "id": "0x169944e7e6d6a3cbfb72b9da9234e9f74b99111b00c1be854c8807fed8043397",
+            "bio": "Smol: simple, elegant and functional blockchain dapps for common crypto tasks.",
+            "displayName": "draper",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB7A31346433430D92846f0181C55Fc506B9b22d8.png"
+        },
+        {
+            "id": "0x57281cd1a4a558617c4fd463f57f2aeb02bde260ad854087947e5e4edb4125ef",
+            "bio": "Building Unlock Protocol to create a better web",
+            "displayName": "Patrick Workman",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4.jpeg"
+        },
+        {
+            "id": "0xcb72b4a9f6e5950ccccf6689630e054658457421989cc37842dbd8ddaacd19d8",
+            "bio": "Web3 recurring payments infrastructure",
+            "displayName": "Yoki Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3A5B12814b03C517FDAB62d8781c22f3406aeef4.png"
+        }
+    ],
+    "walletAddress": "0x92Bf20563e747B2f8711549Be17A9d7B876c4053",
+    "domainName": null,
+    "isBadgeholder": true,
+    "attestationUid": "0x52d3771ed4451e0cd451655e99809b131b2aa1d418470570b0ee54f810bf15c2",
+    "approvalAttestationUid": "0x52d3771ed4451e0cd451655e99809b131b2aa1d418470570b0ee54f810bf15c2",
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-11-23T12:38:07",
+    "updatedAt": "2023-11-23T12:38:07",
+    "revokedAt": null,
+    "avatar": null
+}

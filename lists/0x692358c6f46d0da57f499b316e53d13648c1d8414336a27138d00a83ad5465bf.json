@@ -1,0 +1,214 @@
+{
+    "id": "0x692358c6f46d0da57f499b316e53d13648c1d8414336a27138d00a83ad5465bf",
+    "listName": "Developer Tools - Smart Contracts",
+    "listDescription": "Smart contracts are self-executing contracts with the terms of the agreement directly written into lines of code. They are a foundational element of blockchain technology, particularly on platforms like Ethereum. Developer tools for smart contracts provide the necessary frameworks, libraries, and environments to design, test, deploy, and monitor these digital contracts. These tools ensure that smart contracts operate securely, transparently, and efficiently, automating and streamlining processes without the need for intermediaries. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Developer Tools - Smart Contracts.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xe0031e9ff51d941d62bcb1545812bdd132151a24d8767f4cc0d552b82c8567ac",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0x7ef33a1364294d4672ec7f45c54dd5c40d6630e556b59f9590ac2004c147ba02",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0xe47991998f9a1046c12670765dd02b82353d11341b8f4341665d34ed235c8d8c",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0xf69eeb202a8fa1c807292b1c0ab800337d7fb2a18f8d9354a5441c9bcc289338",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0xf3df23e97d2c4b6936cafe233e48416ed37708a2a0eecd959450a82ed3a5f730",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0xdb7760ac3918bd6aaba6aaf7a84900c313ff3f05093cd87e49738a73b95ad28f",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0xf751fd5e236ec136a340fa5d2080938512056728c9301ac7dc27d6ab78791e72",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0x7500c59003e12f46731f0e3bf33ef270085e700ce1d0ec0ae2ae42b4ea655ebe",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0xf4afe5bc5e36f35bdef48817c59d4e35a52bbab17bfbb946f0df3ef819539202",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0x6752ee31f5e09caedd68da815fc684456bca90ffa4336fd021180f91ef5ac85a",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0x23afbebc655637c91f6a42572b8af43c2ae6e61655c55ba52e5ace484eff8e72",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0x66c36ca6f9138b613a0b76f54beeb24c9653bc5140acb272d58f4709f68a8a1c",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0xfaf9206c9d5c4c2df0edd60d2abef094b823610341f042e359e1c871956ee084",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0xb396a17448c7a2eb8a22f2982ac8bd4e51acb1bca4b5e58bed38aa8df066db0f",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0x9c2c5bfbe81568dc2ffb1106304f3b8cfb0ec4c77634a97c413c28c0f99fb66a",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0x99684d69323305f8db8feeb8a34d5057b76eb99ec660a9cf339e068b99803e60",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0x1834066a554054c55b1d01f9084c0059c384ff959364dca73bd7d87c1589a9de",
+            "OPAmount": 14198
+        },
+        {
+            "RPGF3_Application_UID": "0x44f8e6467fcbdabd7ad750a2eca01902543f398e5c6be69d9715edfef1c04ea2",
+            "OPAmount": 14198
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xe0031e9ff51d941d62bcb1545812bdd132151a24d8767f4cc0d552b82c8567ac",
+            "bio": "Hardhat is a development environment to build and deploy your Ethereum software",
+            "displayName": "Hardhat",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x329Ee91AE6A0A28a0a2B729B80adC50855ceE2d2.png"
+        },
+        {
+            "id": "0x7ef33a1364294d4672ec7f45c54dd5c40d6630e556b59f9590ac2004c147ba02",
+            "bio": "The easiest to create a functional, tradable token. Jump start your community!",
+            "displayName": "Tokepad",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfFc71834456B93F386B85845ce88bB5Dd494a3dB.png"
+        },
+        {
+            "id": "0xe47991998f9a1046c12670765dd02b82353d11341b8f4341665d34ed235c8d8c",
+            "bio": "TypeScript bindings for Ethereum smart contracts",
+            "displayName": "TypeChain / DethCode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb41c548387CF11dC6553CD134C76754D5820EBe1.png"
+        },
+        {
+            "id": "0xf69eeb202a8fa1c807292b1c0ab800337d7fb2a18f8d9354a5441c9bcc289338",
+            "bio": "Set of high-performance libraries for interacting with Ethereum and EVM chains.",
+            "displayName": "Alloy",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xf3df23e97d2c4b6936cafe233e48416ed37708a2a0eecd959450a82ed3a5f730",
+            "bio": "Building EVM account abstraction infrastructure, open standards and education",
+            "displayName": "Alchemy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72EAa8ba8726a10D5e0d8441c592451C7C6670FC.png"
+        },
+        {
+            "id": "0xdb7760ac3918bd6aaba6aaf7a84900c313ff3f05093cd87e49738a73b95ad28f",
+            "bio": "Venom is an IR for Vyper, Fang compiles Venom IR to assembly and bytecode.",
+            "displayName": "Venom & Fang",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "bio": "Decentralized and open-source Solidity contract source code verification service",
+            "displayName": "Sourcify",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.png"
+        },
+        {
+            "id": "0xf751fd5e236ec136a340fa5d2080938512056728c9301ac7dc27d6ab78791e72",
+            "bio": "OpenZeppelin Contracts are the go-to library for smart contract development.",
+            "displayName": "OpenZeppelin Contracts",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e1E9D592BAb52406289A1B4e8Bc1236d9eAD33e.png"
+        },
+        {
+            "id": "0x7500c59003e12f46731f0e3bf33ef270085e700ce1d0ec0ae2ae42b4ea655ebe",
+            "bio": "Foundry is a smart contract development toolchain.",
+            "displayName": "foundry",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xf4afe5bc5e36f35bdef48817c59d4e35a52bbab17bfbb946f0df3ef819539202",
+            "bio": "Open-source web3 build system for full-stack applications.",
+            "displayName": "⚡️ TurboETH",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3417aD1d79D9508912E8d7f3B9167085500b12CE.png"
+        },
+        {
+            "id": "0x6752ee31f5e09caedd68da815fc684456bca90ffa4336fd021180f91ef5ac85a",
+            "bio": "First audited, production-ready verifier for Secure Enclave & Passkey signatures",
+            "displayName": "P256Verifier",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF05b5f04B7a77Ca549C0dE06beaF257f40C66FDB.png"
+        },
+        {
+            "id": "0x23afbebc655637c91f6a42572b8af43c2ae6e61655c55ba52e5ace484eff8e72",
+            "bio": "Synpress is an end-to-end testing framework for dApps in the Web3 ecosystem.",
+            "displayName": "Synpress",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd35E119782059A27FEAd4EddA8B555f393650BC8.png"
+        },
+        {
+            "id": "0x66c36ca6f9138b613a0b76f54beeb24c9653bc5140acb272d58f4709f68a8a1c",
+            "bio": "Ethereum security advocates doing research, education and awareness.",
+            "displayName": "The Red Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5cA1BEdb6DC8eb75581d19e87c7A77b54F9FC43A.png"
+        },
+        {
+            "id": "0xfaf9206c9d5c4c2df0edd60d2abef094b823610341f042e359e1c871956ee084",
+            "bio": "DevOps platform for smart contract deployments",
+            "displayName": "Sphinx (formerly ChugSplash)",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xb396a17448c7a2eb8a22f2982ac8bd4e51acb1bca4b5e58bed38aa8df066db0f",
+            "bio": "Slither is a static analysis framework for smart contracts",
+            "displayName": "Slither",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x9c2c5bfbe81568dc2ffb1106304f3b8cfb0ec4c77634a97c413c28c0f99fb66a",
+            "bio": "A high-quality architecture diagram of the Bedrock smart contracts & docs",
+            "displayName": "Bedrock Contracts Architecture Diagram",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29C5d8b04178a358dC1AfA0F5Fb2C8f5c64d55a6.png"
+        },
+        {
+            "id": "0x99684d69323305f8db8feeb8a34d5057b76eb99ec660a9cf339e068b99803e60",
+            "bio": "Gas optimized Solidity snippets",
+            "displayName": "Vectorized",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F5D295778796a8b9f29600A585Ab73D452AcB1c.png"
+        },
+        {
+            "id": "0x1834066a554054c55b1d01f9084c0059c384ff959364dca73bd7d87c1589a9de",
+            "bio": "State-of-the-art, secure, and optimised 🐍Vyper smart contract building blocks.",
+            "displayName": "🐍 snekmate",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07bF3CDA34aA78d92949bbDce31520714AB5b228.jpeg"
+        },
+        {
+            "id": "0x44f8e6467fcbdabd7ad750a2eca01902543f398e5c6be69d9715edfef1c04ea2",
+            "bio": "Arbiter is a free and open source EVM logic simualtor",
+            "displayName": "Arbiter",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3350C168Cc9B62bd099c1732830B6Bc09bF3343.png"
+        }
+    ],
+    "walletAddress": "0xA4D506434445Bb7303eA34A07bc38484cdC64a95",
+    "domainName": "moenick.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x692358c6f46d0da57f499b316e53d13648c1d8414336a27138d00a83ad5465bf",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-11T12:59:21",
+    "updatedAt": "2023-11-11T12:59:21",
+    "revokedAt": null,
+    "avatar": "https://euc.li/moenick.eth"
+}

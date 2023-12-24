@@ -1,0 +1,144 @@
+{
+    "id": "0xc117d7c35a16ca2816dada0b48debb31abe3320672011bc54d967595cfba2e61",
+    "listName": "L1 Node and staking Infrastructure",
+    "listDescription": "Optimism, like all Ethereum rollups, is dependent on our L1 for security and legitimacy. This list recognizes the clients, relays and other projects that make up this base layer. ",
+    "impactEvaluationDescription": "The benefits of decentralization mean that metrics comparing past impact, such as number of nodes running each client do not seem appropriate. The desired outcome for a more healthy chain is a more diversified base layer, and so, for example, less used clients should not be rewarded less. I have simply suggested an even amount for each project in this list, with the exceptions that projects that have received little or no previous funding (=< $50,000) should get an additional amount;\n\nThese values should obviously taken only as suggestions, and each badgeholder will evaluate relative assignments based on their own assessments and relative values of other projects in their ballots.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xf83fdb938a8b8cbf31494f30e9768fa95b732e03ef41578215b725a95973e9dd",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x795c02e18131bf22626db5172ecbe21e0ee7316ed73921ad079b4d2989dce8b6",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x46f5cb8434c4f1188ff9581ef4723a7450d6c8b76346d1ef8e8ff4bd9d4de8ce",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xc6e48d375dcab4f18c48d6e24d3fc074ab38bf754381c0f830dbccff1e0f8dbb",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x04c658f109c8c51753a72ebd727024f3ea0c6766d3b579252a805f53c5a60ace",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x8b7c072535aef80e3f2c2020327fb7975aaaf3a9aa39d843b947e8fd7fc70e64",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+            "OPAmount": 250000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+            "bio": "Ethereum implementation on the efficiency frontier",
+            "displayName": "Erigon",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "bio": "An Ethereum execution layer client",
+            "displayName": "go-ethereum",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xf83fdb938a8b8cbf31494f30e9768fa95b732e03ef41578215b725a95973e9dd",
+            "bio": "We are building consensus layer client Grandine and EIP-4844 ecosystem.",
+            "displayName": "Grandine",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x93B9f5A8E531C3C8D5048a797F6Ead8CF78FEF36.png"
+        },
+        {
+            "id": "0x795c02e18131bf22626db5172ecbe21e0ee7316ed73921ad079b4d2989dce8b6",
+            "bio": "A leading Ethereum consensus client written in rust.",
+            "displayName": "Lighthouse",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03.png"
+        },
+        {
+            "id": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+            "bio": "Lodestar is a Typescript ecosystem for Ethereum consensus developed by ChainSafe",
+            "displayName": "Lodestar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDaDd7c883288Cfe2E257B0A361865E5e9349808b.png"
+        },
+        {
+            "id": "0x46f5cb8434c4f1188ff9581ef4723a7450d6c8b76346d1ef8e8ff4bd9d4de8ce",
+            "bio": "Nethermind is a Blockchain Research and Software Engineering Company",
+            "displayName": "Nethermind",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xc6e48d375dcab4f18c48d6e24d3fc074ab38bf754381c0f830dbccff1e0f8dbb",
+            "bio": "Ethereum validators of all sizes trust Nimbus to run their nodes.",
+            "displayName": "Nimbus",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4413E96F6b46e59326a7695eF871FA902Ff7935d.png"
+        },
+        {
+            "id": "0x62aa2cbedbc3772d3110b0927f0eea6313a71c9b3d7980ee631ca9aa2e9db3c6",
+            "bio": "OP Reth is Reth but for the Optimism Collective, a new high performance client.",
+            "displayName": "OP Reth",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x04c658f109c8c51753a72ebd727024f3ea0c6766d3b579252a805f53c5a60ace",
+            "bio": "A neutral non-censoring MEV-Boost relay",
+            "displayName": "Aestus Relay",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95224178293c24219c287d7bfc6ad148c99dcFdE.png"
+        },
+        {
+            "id": "0x8b7c072535aef80e3f2c2020327fb7975aaaf3a9aa39d843b947e8fd7fc70e64",
+            "bio": "Supporting decentralization through non-censoring proposer-builder separation.",
+            "displayName": "Ultra Sound Relay",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8dbd44FAFD2D795700693cdA7f5275714eBE075.png"
+        },
+        {
+            "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+            "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
+            "displayName": "Dappnode",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+            "id": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+            "bio": "Run a ~$300 PnP Ethereum L1 and L2 node on ARM boads that uses only ~10w to run.",
+            "displayName": "Ethereum on ARM",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x91A3b28aE8a04C174448d4b10150C844871fCb3c.png"
+        }
+    ],
+    "walletAddress": "0x7899d9b1181cbB427b0b1BE0684C096C260F7474",
+    "domainName": "minimalgravitas.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xc117d7c35a16ca2816dada0b48debb31abe3320672011bc54d967595cfba2e61",
+    "approvalAttestationUid": "0xc117d7c35a16ca2816dada0b48debb31abe3320672011bc54d967595cfba2e61",
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-11-21T15:16:49",
+    "updatedAt": "2023-11-21T15:16:49",
+    "revokedAt": null,
+    "avatar": "https://ipfs.io/ipfs/QmQ2DT3R1NqCUKgzeijcmxz8ovbd7ivogvtFgERQM2YcDh"
+}

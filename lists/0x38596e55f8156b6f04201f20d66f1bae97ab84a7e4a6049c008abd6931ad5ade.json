@@ -1,0 +1,294 @@
+{
+    "id": "0x38596e55f8156b6f04201f20d66f1bae97ab84a7e4a6049c008abd6931ad5ade",
+    "listName": "OP Human Impact, Onboarding & Governance",
+    "listDescription": "Projects that have made the biggest impact on the OP ecosystem in terms of onboarding humans in a meaningful way, as well as creating innovative platforms, technologies, and communities.",
+    "impactEvaluationDescription": "The impact evaluation used in the list prioritizes human impact within the OP ecosystem, aiming to quantify how many humans have been onboarded through these different projects and the level at which they're engaged with these different projects. \n\nDisclosure: 🔥_🔥 has relationships with many of these projects & founders however there are no direct investments, benefits, or holdings of any of these projects. ",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
+            "OPAmount": 300000
+        },
+        {
+            "RPGF3_Application_UID": "0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
+            "OPAmount": 150000
+        },
+        {
+            "RPGF3_Application_UID": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x73b6ff6fb7a5bb5f271b1636a1baa24a327e144e45195a53b9645fcb659a48d3",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+            "OPAmount": 333333
+        },
+        {
+            "RPGF3_Application_UID": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "OPAmount": 75000
+        },
+        {
+            "RPGF3_Application_UID": "0xf2fa6ac688020b373c3b7a0342f89986ef1fe95003abb826cfcef3a842bbcb9a",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x243299d981be04f31e310b35c53b842cb2d875a1eccc273d9f752fab0bb0dfcb",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0xbe51b31b1366e22c4a45b46985c449d8f79d9a1b82e140818538e8cd1ce9e880",
+            "OPAmount": 1000000
+        },
+        {
+            "RPGF3_Application_UID": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "OPAmount": 2000000
+        },
+        {
+            "RPGF3_Application_UID": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "OPAmount": 1000000
+        },
+        {
+            "RPGF3_Application_UID": "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0xa9f6de6ad7b1cb903f0063e588f0f729f13ddd76d77495e25a3860c27a721773",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x557bf27e3e62e0f9cefaf40b9a36e24440ff5eca45d73f3a85072cf18b04ee57",
+            "OPAmount": 100000
+        },
+        {
+            "RPGF3_Application_UID": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+            "OPAmount": 500000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+            "bio": "Your ENS identity on Optimism. Zero registration & renewal fees.",
+            "displayName": "OptiNames | ENS on Optimism 🔴",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7dc20f310De2fC1B8163F27551544c52eBDB0D30.png"
+        },
+        {
+            "id": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "bio": "Paint Together. Mint Daily.",
+            "displayName": "BasePaint",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb48E8dA63c2aFc5633702B7acf4BDe830c1dE48b.png"
+        },
+        {
+            "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+            "bio": "RadicalxChange Foundation is a nonprofit seeking to improve basic institutions.",
+            "displayName": "RadicalxChange Foundation",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
+        },
+        {
+            "id": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
+            "bio": "Core OP Stack infrastructure for making attestations onchain or offchain.",
+            "displayName": "Ethereum Attestation Service",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e95B8E249c4536FE1db2E4ce5476010767C0A05.png"
+        },
+        {
+            "id": "0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+            "bio": "Collective of people from Berlin: Protocol Berg, Goerli Testnet.",
+            "displayName": "Department of Decentralization",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.png"
+        },
+        {
+            "id": "0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
+            "bio": "Gitcoin Passport makes it easy for projects to detect and stop bots and Sybils.",
+            "displayName": "Gitcoin Passport",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6.png"
+        },
+        {
+            "id": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
+            "bio": "An Optimism glossary, a directory of tools and resources, and a micro lesson",
+            "displayName": "Optimism Guide",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa83926fe58B9bEd62103b540d7eb928f64125979.png"
+        },
+        {
+            "id": "0x73b6ff6fb7a5bb5f271b1636a1baa24a327e144e45195a53b9645fcb659a48d3",
+            "bio": "Zuzalu creates pop-up city experiments to help human flourish and tech progress",
+            "displayName": "Zuzalu",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x510e221C48ee37DAfc0d3802b43679Cf5d78561f.png"
+        },
+        {
+            "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+            "bio": "Bringing nonprofits to Optimism & building towards “Impact = Profit” since 2016",
+            "displayName": "Giveth",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+            "id": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "bio": "The easiest way to create and launch a Nounish DAO on the OP stack.",
+            "displayName": "Builder Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x01503DC708ce3C55017194847A07aCb679D49f47.png"
+        },
+        {
+            "id": "0xf2fa6ac688020b373c3b7a0342f89986ef1fe95003abb826cfcef3a842bbcb9a",
+            "bio": "Social messaging app for onchain friends with native Farcaster integration",
+            "displayName": "Frens",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72.png"
+        },
+        {
+            "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+            "bio": "The leading DAO analytics engine with 19k+ DAOs and 8+ million wallet profiles.",
+            "displayName": "DeepDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+        },
+        {
+            "id": "0x243299d981be04f31e310b35c53b842cb2d875a1eccc273d9f752fab0bb0dfcb",
+            "bio": "PublicHAUS is the  decentralized governance  layer of the DAOhaus protocol.",
+            "displayName": "Public HAUS",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d.png"
+        },
+        {
+            "id": "0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
+            "bio": "Public Nouns funds experiments in the public goods space.",
+            "displayName": "Public Nouns",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB.png"
+        },
+        {
+            "id": "0xbe51b31b1366e22c4a45b46985c449d8f79d9a1b82e140818538e8cd1ce9e880",
+            "bio": "The home for web3 publishing.",
+            "displayName": "Mirror",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114.png"
+        },
+        {
+            "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+            "bio": "The standards body for DAOs, with 80+ member organizations.",
+            "displayName": "EIP-4824/ DAOstar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+        },
+        {
+            "id": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+            "bio": "World-leading nonprofit research collective for DAOs and online self-governance.",
+            "displayName": "Metagov",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.png"
+        },
+        {
+            "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+            "bio": "Homepage and toolkit for your onchain community",
+            "displayName": "Guild.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
+        },
+        {
+            "id": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "bio": "A podcast and newsletter segment covering Optimism ecosystem news.",
+            "displayName": "ETH Daily (OP News)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEB40A065854bd90126A4E697aeA0976BA51b2eE7.png"
+        },
+        {
+            "id": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+            "bio": "Ethical, safe, resilient and diverse economic systems to benefit the world.",
+            "displayName": "Token Engineering Commons",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png"
+        },
+        {
+            "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "bio": "Token house and Citizen house governance app and contract",
+            "displayName": "Agora",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+        },
+        {
+            "id": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "bio": "A collective of Ethereum's active core protocol contributors",
+            "displayName": "Protocol Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F.png"
+        },
+        {
+            "id": "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+            "bio": "Empowering OP Collective with data-driven insights  🚩🌐",
+            "displayName": "OP Governance Analytics Dashboard",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x17296956b4E07Ff8931E4ff4eA06709FaB70b879.png"
+        },
+        {
+            "id": "0xa9f6de6ad7b1cb903f0063e588f0f729f13ddd76d77495e25a3860c27a721773",
+            "bio": "ETHGlobal is the infrastructure of the Ethereum community.",
+            "displayName": "ETHGlobal",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe993486B257Cd1481aef74b3B909A2627Fc8d305.png"
+        },
+        {
+            "id": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+            "bio": "The web3 standard for impact certificates",
+            "displayName": "Hypercerts Foundation",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png"
+        },
+        {
+            "id": "0x557bf27e3e62e0f9cefaf40b9a36e24440ff5eca45d73f3a85072cf18b04ee57",
+            "bio": "Optimism University: Engage, Educate, and Elevate in the World of Optimism.",
+            "displayName": "Optimism University",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5794e3BA7391b2b9806B738b20c3F2099e16Dd5d.png"
+        },
+        {
+            "id": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+            "bio": "A curated group of builders creating open source tools and educational content.",
+            "displayName": "🏰 BuidlGuidl",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.png"
+        }
+    ],
+    "walletAddress": "0x6Dc43be93a8b5Fd37dC16f24872BaBc6dA5E5e3E",
+    "domainName": "james.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x38596e55f8156b6f04201f20d66f1bae97ab84a7e4a6049c008abd6931ad5ade",
+    "approvalAttestationUid": "0x38596e55f8156b6f04201f20d66f1bae97ab84a7e4a6049c008abd6931ad5ade",
+    "categories": [
+        "COLLECTIVE_GOVERNANCE"
+    ],
+    "createdAt": "2023-11-13T09:40:43",
+    "updatedAt": "2023-11-13T09:40:43",
+    "revokedAt": null,
+    "avatar": "https://i.imgur.com/7aJ1eyu.png"
+}

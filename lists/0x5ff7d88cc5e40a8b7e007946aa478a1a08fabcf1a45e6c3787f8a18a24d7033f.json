@@ -1,0 +1,164 @@
+{
+    "id": "0x5ff7d88cc5e40a8b7e007946aa478a1a08fabcf1a45e6c3787f8a18a24d7033f",
+    "listName": "Blockchain News & Media",
+    "listDescription": "undefined Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Blockchain News & Media.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xabf8a11afc616116d966b45900c77737cbe34dcdab0198c17c3376e1526d6403",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0xf6ad557d7f9065d81c1e90f0d41b7808c028437740b206be489523c76035e5a9",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0x7cf3ed5c483080c5b132ff4902b425e20d9cb4c8c737154cefa6005a7bfc12d5",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0xa571be4c06b5885440e5924d0c047ef911b6ebdcfa173e0c2c176570355a566a",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0x4abf6854e35bbc14e85ec879c4545b98934e75a6d4a28bfc7b8b088240f64435",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0xe03bb6d607d46c6b70536ae7c0b1fc819c0ed128a5b2ea6ffc63a4d3d9b49786",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0xa680530709768adaf43448175e4efa768671b7365ffdf6c959213648d5884f1e",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0x956b110e3b9aa11c53bbf41b97d34fadb4d516faede3304fa2807db3fd6d7407",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0x63f1bc4ab9034a6d4abe00be3027b8acc6f08863d50f65d90c33d4746a710b3f",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0xd06423aa05a359735b911e9988486822acb3c3f62e3397ed35d6430240454b0f",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0x47fb1ee20e9de14d6603a2a4b55ba558412bbd506132c7dcaa2a313019ac8785",
+            "OPAmount": 257143
+        },
+        {
+            "RPGF3_Application_UID": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "OPAmount": 257143
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xabf8a11afc616116d966b45900c77737cbe34dcdab0198c17c3376e1526d6403",
+            "bio": "Zero Knowledge is a podcast focused on zk tech and the decentralized web",
+            "displayName": "Zero Knowledge Podcast",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701.png"
+        },
+        {
+            "id": "0xf6ad557d7f9065d81c1e90f0d41b7808c028437740b206be489523c76035e5a9",
+            "bio": "A public good for the modular community, providing news, updates, & education",
+            "displayName": "Modular Media",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc.png"
+        },
+        {
+            "id": "0x7cf3ed5c483080c5b132ff4902b425e20d9cb4c8c737154cefa6005a7bfc12d5",
+            "bio": "Coinbold is a website where you can find news about different cryptocurrencies",
+            "displayName": "Coinbold",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9C8cc9735005A7424eBF868105fCC93adf6073b0.png"
+        },
+        {
+            "id": "0xa571be4c06b5885440e5924d0c047ef911b6ebdcfa173e0c2c176570355a566a",
+            "bio": "Mobile companion for your Ethereum journey.",
+            "displayName": "Interface",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3b5359709945587Af3d800aA174B3E2dDc92d38d.png"
+        },
+        {
+            "id": "0x4abf6854e35bbc14e85ec879c4545b98934e75a6d4a28bfc7b8b088240f64435",
+            "bio": "Your #1 source of news about Layer-2 solutions for nearly two years.",
+            "displayName": "L2 Planet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D9d84F4D8a4254ea23Fe18825193Cbd1b21b749.png"
+        },
+        {
+            "id": "0xe03bb6d607d46c6b70536ae7c0b1fc819c0ed128a5b2ea6ffc63a4d3d9b49786",
+            "bio": "Insightful Content, Latest News and Analytics for the #Optimism $OP Community!",
+            "displayName": "OptimismGuru",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3745c2468ab08e2038689f508C78d682864Aa72b.png"
+        },
+        {
+            "id": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+            "bio": "Weekly newsletter about Ethereum.  Since August 21, 2016.",
+            "displayName": "Week in Ethereum News",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x288C53a1BA857EaD34AD0e79F644087F8174185a.png"
+        },
+        {
+            "id": "0xa680530709768adaf43448175e4efa768671b7365ffdf6c959213648d5884f1e",
+            "bio": "Republik Rupiah is the largest blockchain community in Indonesia.",
+            "displayName": "Republik Rupiah",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x88844185FA124f6F620578AfC57037eBEDaAb840.png"
+        },
+        {
+            "id": "0x956b110e3b9aa11c53bbf41b97d34fadb4d516faede3304fa2807db3fd6d7407",
+            "bio": "OPStack improvement with ERC-4337 account and native hardware signature verifier",
+            "displayName": "Clave (formerly Opclave)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcCA02de5372cB0CaAc425543487789eEF5d17fB5.png"
+        },
+        {
+            "id": "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479",
+            "bio": "The unique media about OP Superchain",
+            "displayName": "The Opimist",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03143EE031AA7bD7b6846750d066A27f18D39edd.png"
+        },
+        {
+            "id": "0x63f1bc4ab9034a6d4abe00be3027b8acc6f08863d50f65d90c33d4746a710b3f",
+            "bio": "A media initiative out of the  @LyraFinance  community.",
+            "displayName": "Lyra Research Collective",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xd06423aa05a359735b911e9988486822acb3c3f62e3397ed35d6430240454b0f",
+            "bio": "Spreading the ultra sound money meme 🦇🔊, and building ultrasound.money.",
+            "displayName": "Ultra Sound Money",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8dbd44FAFD2D795700693cdA7f5275714eBE075.png"
+        },
+        {
+            "id": "0x47fb1ee20e9de14d6603a2a4b55ba558412bbd506132c7dcaa2a313019ac8785",
+            "bio": "An onchain media collective producing engaging educational content about web 3.",
+            "displayName": "The Noun Square Media Collective",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16.png"
+        },
+        {
+            "id": "0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+            "bio": "A podcast and newsletter segment covering Optimism ecosystem news.",
+            "displayName": "ETH Daily (OP News)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEB40A065854bd90126A4E697aeA0976BA51b2eE7.png"
+        }
+    ],
+    "walletAddress": "0xA4D506434445Bb7303eA34A07bc38484cdC64a95",
+    "domainName": "moenick.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x5ff7d88cc5e40a8b7e007946aa478a1a08fabcf1a45e6c3787f8a18a24d7033f",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-09T13:29:17",
+    "updatedAt": "2023-11-09T13:29:17",
+    "revokedAt": null,
+    "avatar": "https://euc.li/moenick.eth"
+}

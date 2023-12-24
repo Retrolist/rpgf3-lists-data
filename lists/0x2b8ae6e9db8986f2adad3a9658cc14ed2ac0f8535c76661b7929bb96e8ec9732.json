@@ -1,0 +1,234 @@
+{
+    "id": "0x2b8ae6e9db8986f2adad3a9658cc14ed2ac0f8535c76661b7929bb96e8ec9732",
+    "listName": "Blockchain Developer Hub",
+    "listDescription": "The Blockchain Developer Hub serves as a centralized point of access for all resources, tools, and educational materials that blockchain developers might need. From beginner tutorials to advanced toolkits, documentation, community forums, and more, the hub ensures that developers, regardless of their expertise level, have the necessary tools and knowledge at their fingertips. The hub fosters collaboration, innovation, and the continuous growth of the blockchain developer community. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Blockchain Developer Hub.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xd5ced576ab6921e32ee00c18d49c69149ba5ccbec76f1e9bbc3d5b008f23145f",
+            "OPAmount": 160485
+        },
+        {
+            "RPGF3_Application_UID": "0x169944e7e6d6a3cbfb72b9da9234e9f74b99111b00c1be854c8807fed8043397",
+            "OPAmount": 150455
+        },
+        {
+            "RPGF3_Application_UID": "0xe2e2f6f6ca6631af544462d867d1fd09f56182c4963ffd6be35dc3651df5ce86",
+            "OPAmount": 101879
+        },
+        {
+            "RPGF3_Application_UID": "0xfd039c82990da0bed2f74f106936835555b458adc3c45e7eb7caef7ed6b4e778",
+            "OPAmount": 88445
+        },
+        {
+            "RPGF3_Application_UID": "0x7f119f8a9ac1b020748dcff53e48cffe1f851f709959e5ffc825a35d36f4063a",
+            "OPAmount": 70212
+        },
+        {
+            "RPGF3_Application_UID": "0xe1a29c6b0fb801ec1a0339fbfaa421fd55be8f3f2557997a892273ae9c240eed",
+            "OPAmount": 70212
+        },
+        {
+            "RPGF3_Application_UID": "0xcbd7ce5a3a7a13d43a1b169828dc2356c46d818493a6e1165ee7d07fae103e43",
+            "OPAmount": 60182
+        },
+        {
+            "RPGF3_Application_UID": "0xec3f9d8ca269e264d0b8b3516c2a71d34cc145b78150b3d4afe207b6aef0efce",
+            "OPAmount": 50151
+        },
+        {
+            "RPGF3_Application_UID": "0xd73aaa3a4013be0da321660ed59523edbeb6654e773a2f852fb3828156c3d7bd",
+            "OPAmount": 40121
+        },
+        {
+            "RPGF3_Application_UID": "0x90ef634fad04d6ac2882db44d4a84f31c7f0621f3abd00efb067416e4ff1641c",
+            "OPAmount": 30091
+        },
+        {
+            "RPGF3_Application_UID": "0xd5102da53903c150aeeb5d43a20c3c191fcfe2d43bf1b5eb6939d073ee4e1fa5",
+            "OPAmount": 30091
+        },
+        {
+            "RPGF3_Application_UID": "0x79619331d5996c793ac13edcd77c369de5e72344add6ebedac5977c0552067a0",
+            "OPAmount": 20060
+        },
+        {
+            "RPGF3_Application_UID": "0x54c617b7842807a5d0a0806eed01bcf497adc62cf76c9f6e67ffd42daee5cada",
+            "OPAmount": 20060
+        },
+        {
+            "RPGF3_Application_UID": "0x9267f0bdc4b12ded65ff21fc51648f0e0d510f2b0c9fe8f77f84308453859a53",
+            "OPAmount": 20060
+        },
+        {
+            "RPGF3_Application_UID": "0xf66f24a1481b4245017738ab5b95581a4622f7606c054eb45ea0a4a971050873",
+            "OPAmount": 20060
+        },
+        {
+            "RPGF3_Application_UID": "0xf4eb9aadb3de094b78cd2af2ce146c55d83309c3e63f0880aace2ce8d0928a46",
+            "OPAmount": 20060
+        },
+        {
+            "RPGF3_Application_UID": "0x9b8f75de8014815d9a2ad460848c70f56248f855ac568c8ff8b8dc322267b4f9",
+            "OPAmount": 20060
+        },
+        {
+            "RPGF3_Application_UID": "0x6a534fd1cab7d3770c6f747abf1f481807df4220f3c0464d510b35eed65498a6",
+            "OPAmount": 10030
+        },
+        {
+            "RPGF3_Application_UID": "0xfdb5d70b4aea2de7ccb8b892d57916cab4dbfa2457531636d12b16bca68b3d35",
+            "OPAmount": 5000
+        },
+        {
+            "RPGF3_Application_UID": "0xa35bcbf65e6ec5f55de08a91b09ebbf11d59fa13c28e8232c1f2d3cf1cdfbcc3",
+            "OPAmount": 1988
+        },
+        {
+            "RPGF3_Application_UID": "0x48000bf0277f99726173a59b47d05aa6371ea320866e3e9a77e4241a083a4009",
+            "OPAmount": 497
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xd5ced576ab6921e32ee00c18d49c69149ba5ccbec76f1e9bbc3d5b008f23145f",
+            "bio": "Web3.js is a JS/TS library that enables interacting w/ EVM compatible chains",
+            "displayName": "Web3js",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0.png"
+        },
+        {
+            "id": "0x169944e7e6d6a3cbfb72b9da9234e9f74b99111b00c1be854c8807fed8043397",
+            "bio": "Smol: simple, elegant and functional blockchain dapps for common crypto tasks.",
+            "displayName": "draper",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB7A31346433430D92846f0181C55Fc506B9b22d8.png"
+        },
+        {
+            "id": "0xe2e2f6f6ca6631af544462d867d1fd09f56182c4963ffd6be35dc3651df5ce86",
+            "bio": "Gelato is web3's cloud platform",
+            "displayName": "Gelato",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x28bB9385A588EF4747264D19B9A9F1603591680c.png"
+        },
+        {
+            "id": "0xfd039c82990da0bed2f74f106936835555b458adc3c45e7eb7caef7ed6b4e778",
+            "bio": "Rust Ethereum Virtual Machine",
+            "displayName": "revm",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98ea1E15E93fF392755Fd79E739c3ED60808B56B.png"
+        },
+        {
+            "id": "0x7f119f8a9ac1b020748dcff53e48cffe1f851f709959e5ffc825a35d36f4063a",
+            "bio": "ERC-4337 account abstraction core team",
+            "displayName": "Account Abstraction - ERC-4337",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xe1a29c6b0fb801ec1a0339fbfaa421fd55be8f3f2557997a892273ae9c240eed",
+            "bio": "GasHawk saves users and institutions up to 95% on transaction fees.",
+            "displayName": "GasHawk",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC1FDB60CFB2FbbD6EDc9b445D9B508Da2dBF2c9b.png"
+        },
+        {
+            "id": "0xcbd7ce5a3a7a13d43a1b169828dc2356c46d818493a6e1165ee7d07fae103e43",
+            "bio": "Rollup codes is an interactive reference specification for the rollup ecosystem.",
+            "displayName": "Rollup.codes",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7d3F21bcb6C547737812A3213Ea105192f9e151f.png"
+        },
+        {
+            "id": "0xec3f9d8ca269e264d0b8b3516c2a71d34cc145b78150b3d4afe207b6aef0efce",
+            "bio": "The largest core development group in Web3",
+            "displayName": "Wonderland",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x36143ebA6D522FBe2c7884B011feA558c203856C.png"
+        },
+        {
+            "id": "0xd73aaa3a4013be0da321660ed59523edbeb6654e773a2f852fb3828156c3d7bd",
+            "bio": "Airstack: The easiest way to integrate everything web3",
+            "displayName": "Airstack",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeaf55242a90bb3289dB8184772b0B98562053559.png"
+        },
+        {
+            "id": "0x90ef634fad04d6ac2882db44d4a84f31c7f0621f3abd00efb067416e4ff1641c",
+            "bio": "Fast, Low Latency Indexer written for L2s",
+            "displayName": "Optimistic Indexer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x23651C9b3Ba495f5D30867583035faCA4840870F.png"
+        },
+        {
+            "id": "0xd5102da53903c150aeeb5d43a20c3c191fcfe2d43bf1b5eb6939d073ee4e1fa5",
+            "bio": "Ezkl lets you compile AI/ML models to zero-knowledge proofs",
+            "displayName": "EZKL",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x79619331d5996c793ac13edcd77c369de5e72344add6ebedac5977c0552067a0",
+            "bio": "5+ projects over 1.5 years, supporting consumers and developers on Farcaster",
+            "displayName": "Greg's Farcaster Projects",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x179A862703a4adfb29896552DF9e307980D19285.png"
+        },
+        {
+            "id": "0x54c617b7842807a5d0a0806eed01bcf497adc62cf76c9f6e67ffd42daee5cada",
+            "bio": "Most Used 4337 UserOp Explorer for Account Abstraction",
+            "displayName": "JiffyScan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0.png"
+        },
+        {
+            "id": "0x9267f0bdc4b12ded65ff21fc51648f0e0d510f2b0c9fe8f77f84308453859a53",
+            "bio": "An on-chain verifiable RNG with a smart contract SDK for multiple use cases",
+            "displayName": "ARPA Randcast",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDD1Ce2d72b2FdCCB2D10D3D04D5ca2Ba81E39aD3.png"
+        },
+        {
+            "id": "0xf66f24a1481b4245017738ab5b95581a4622f7606c054eb45ea0a4a971050873",
+            "bio": "DexKit, a blockchain startup, streamlines Web3 DApp creation via DexAppBuilder.",
+            "displayName": "DexKit",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5265Bde27F57E738bE6c1F6AB3544e82cdc92a8f.png"
+        },
+        {
+            "id": "0xf4eb9aadb3de094b78cd2af2ce146c55d83309c3e63f0880aace2ce8d0928a46",
+            "bio": "A secured, censorship resistant Linktree alternative",
+            "displayName": "1W3",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2AC6A3561a43f06d62602eF9728C2B9eEc393326.png"
+        },
+        {
+            "id": "0x9b8f75de8014815d9a2ad460848c70f56248f855ac568c8ff8b8dc322267b4f9",
+            "bio": "We're a web3 software development studio.",
+            "displayName": "WakeUp Labs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9dFa9dfD15d2b2fa9717b4fc545c2bB35a29215c.png"
+        },
+        {
+            "id": "0x6a534fd1cab7d3770c6f747abf1f481807df4220f3c0464d510b35eed65498a6",
+            "bio": "Blocktorch is a monitoring and observability platform for web3 developers",
+            "displayName": "Blocktorch",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc94EdaBAA441B5e39d4979462991D6cCA705486e.png"
+        },
+        {
+            "id": "0xfdb5d70b4aea2de7ccb8b892d57916cab4dbfa2457531636d12b16bca68b3d35",
+            "bio": "Ether.actor is a HTTP debugging toolkit for EVM-based chains.",
+            "displayName": "Ether.actor",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa2Fe4742A62aCf666DdbF055ad0A04E19ecC1B2B.png"
+        },
+        {
+            "id": "0xa35bcbf65e6ec5f55de08a91b09ebbf11d59fa13c28e8232c1f2d3cf1cdfbcc3",
+            "bio": "Co-founder of the FOAM protocol, have been involved with Ethereum since 2015.",
+            "displayName": "FOAM",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2195bEaed7b0783f2c13c75FC439396583C1A37D.png"
+        },
+        {
+            "id": "0x48000bf0277f99726173a59b47d05aa6371ea320866e3e9a77e4241a083a4009",
+            "bio": "Smart contract devtool for Pythonistas, Data Scientists & Security Professionals",
+            "displayName": "ApeWorX LTD",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69.png"
+        }
+    ],
+    "walletAddress": "0x826976d7C600d45FB8287CA1d7c76FC8eb732030",
+    "domainName": "divinecomedian.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x2b8ae6e9db8986f2adad3a9658cc14ed2ac0f8535c76661b7929bb96e8ec9732",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-03T16:16:09",
+    "updatedAt": "2023-12-03T16:16:09",
+    "revokedAt": null,
+    "avatar": "https://i.imgur.com/SARJUC2.jpg"
+}

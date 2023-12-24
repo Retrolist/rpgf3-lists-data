@@ -1,0 +1,124 @@
+{
+    "id": "0xf803ace7c5af5a36f3139e915f875e183986e2737b271ea457ed00fd1b7871e8",
+    "listName": "Blockchain Education",
+    "listDescription": "Blockchain Education Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Blockchain Education.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
+            "OPAmount": 70312
+        },
+        {
+            "RPGF3_Application_UID": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
+            "OPAmount": 70312
+        },
+        {
+            "RPGF3_Application_UID": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+            "OPAmount": 70312
+        },
+        {
+            "RPGF3_Application_UID": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+            "OPAmount": 70312
+        },
+        {
+            "RPGF3_Application_UID": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+            "OPAmount": 70312
+        },
+        {
+            "RPGF3_Application_UID": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+            "OPAmount": 70312
+        },
+        {
+            "RPGF3_Application_UID": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
+            "OPAmount": 70312
+        },
+        {
+            "RPGF3_Application_UID": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
+            "OPAmount": 70312
+        },
+        {
+            "RPGF3_Application_UID": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+            "OPAmount": 70312
+        },
+        {
+            "RPGF3_Application_UID": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
+            "OPAmount": 70312
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
+            "bio": "Educator for OP users/contributors.  Trusted by 71 people for 19k voting power",
+            "displayName": "Gadgeteer (nanobro)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375.jpeg"
+        },
+        {
+            "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
+            "bio": "OP Study was designed to educate people about Optimism and the OP Stack",
+            "displayName": "Admiano",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
+        },
+        {
+            "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+            "bio": "Independent Ethereum educator, investor & advisor. Founder of The Daily Gwei.",
+            "displayName": "Sassal.eth",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+        },
+        {
+            "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+            "bio": "Researcher & Content Creator focusing on modular scaling, rollups & zk tech!",
+            "displayName": "zerokn0wledge",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+        },
+        {
+            "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+            "bio": "I share what I learned about Solidity, Vyper and DeFi",
+            "displayName": "Taz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+        },
+        {
+            "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+            "bio": "Smart Contract Engineer, Security Researcher, and Educator",
+            "displayName": "PatrickAlphaC",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
+        },
+        {
+            "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
+            "bio": "I promote purpose-driven ventures and emerging technologies",
+            "displayName": "criptomommy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
+        },
+        {
+            "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
+            "bio": "Founder & Host @ Web3Talks.xyz | Web3 Educator | Contributor #1 @ Goldmine3.xyz",
+            "displayName": "Mac Budkowski",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
+        },
+        {
+            "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+            "bio": "🔴 Optimism Enthusiastic DEFI Player!!",
+            "displayName": "Rainie",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
+            "bio": "A minor Influencer creating a huge impact: Education/Reviews/AMAs/Collaborations",
+            "displayName": "ZEFIRIUM",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+        }
+    ],
+    "walletAddress": "0x66946def4ba6153C500D743b7A5FebfC1654d6bD",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0xf803ace7c5af5a36f3139e915f875e183986e2737b271ea457ed00fd1b7871e8",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-13T11:06:45",
+    "updatedAt": "2023-11-13T11:06:45",
+    "revokedAt": null,
+    "avatar": null
+}

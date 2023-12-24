@@ -1,0 +1,164 @@
+{
+    "id": "0xe2cd97c6790cc68b37e88b4e804e7adf6b1f9b59c7709458020cf3c466dd2525",
+    "listName": "Web3 Education & Skill Development",
+    "listDescription": "Web3 Education and Skill Development are crucial to ensuring that individuals are well-equipped to navigate and contribute to the rapidly evolving decentralized digital landscape. This involves imparting knowledge about blockchain technologies, smart contracts, decentralized applications, and more. Through structured courses, workshops, webinars, and hands-on projects, individuals can gain both theoretical understanding and practical skills. By fostering a well-educated community, Web3 initiatives can drive adoption, innovation, and the broader acceptance of decentralized technologies. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Web3 Education & Skill Development.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+            "OPAmount": 173229
+        },
+        {
+            "RPGF3_Application_UID": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
+            "OPAmount": 173229
+        },
+        {
+            "RPGF3_Application_UID": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+            "OPAmount": 161680
+        },
+        {
+            "RPGF3_Application_UID": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+            "OPAmount": 150131
+        },
+        {
+            "RPGF3_Application_UID": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
+            "OPAmount": 138583
+        },
+        {
+            "RPGF3_Application_UID": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+            "OPAmount": 138583
+        },
+        {
+            "RPGF3_Application_UID": "0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
+            "OPAmount": 46194
+        },
+        {
+            "RPGF3_Application_UID": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
+            "OPAmount": 34645
+        },
+        {
+            "RPGF3_Application_UID": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+            "OPAmount": 34645
+        },
+        {
+            "RPGF3_Application_UID": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+            "OPAmount": 23097
+        },
+        {
+            "RPGF3_Application_UID": "0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
+            "OPAmount": 23097
+        },
+        {
+            "RPGF3_Application_UID": "0xdc8392820875414ecc45232f76592a17a65865e1e95411911e2508a2d196a94e",
+            "OPAmount": 23097
+        },
+        {
+            "RPGF3_Application_UID": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+            "OPAmount": 23097
+        },
+        {
+            "RPGF3_Application_UID": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
+            "OPAmount": 23097
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+            "bio": "We creates guides, instructional videos, and technical support about staking.",
+            "displayName": "EthStaker",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
+        },
+        {
+            "id": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
+            "bio": "An Optimism glossary, a directory of tools and resources, and a micro lesson",
+            "displayName": "Optimism Guide",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa83926fe58B9bEd62103b540d7eb928f64125979.png"
+        },
+        {
+            "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+            "bio": "Digital inclusion of vulnerable LatAm communities via web3 education w/Optimism.",
+            "displayName": "Proof of Integrity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
+        },
+        {
+            "id": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+            "bio": "Discover useful web3 apps and tools easily",
+            "displayName": "Web3xplorer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.png"
+        },
+        {
+            "id": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
+            "bio": "Making learning Optimism 10x easier.",
+            "displayName": "Optimistic Academy",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDFC65E0292573311DF30eA4De81F941bCd726aB6.png"
+        },
+        {
+            "id": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+            "bio": "far.quest helped over 100,000 people learn about Farcaster, built on Optimism",
+            "displayName": "far.quest",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png"
+        },
+        {
+            "id": "0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
+            "bio": "Layer2 Tutorials with Funny and Easy-to-understand Diagrams and Animation.",
+            "displayName": "MyFirstLayer2",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAcb4313910574b69e8116617105b97993ED8319d.png"
+        },
+        {
+            "id": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
+            "bio": "Education brand helping people explore DeFi with relevant research and tutorials",
+            "displayName": "The Rollup",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3.png"
+        },
+        {
+            "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+            "bio": "Educating and onboarding the next wave of public goods users & builders to Web3.",
+            "displayName": "Accessible Education for Web3 Public Goods Changemakers",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
+        },
+        {
+            "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+            "bio": "A peer-learning environment dedicated to building a better web, together.",
+            "displayName": "Kernel",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
+        },
+        {
+            "id": "0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
+            "bio": "Educational Hub for Decentralized Finance and CryptoEconomics.",
+            "displayName": "Definomics labs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9390fA8656A161442928b442300358D82bEC28b0.png"
+        },
+        {
+            "id": "0xdc8392820875414ecc45232f76592a17a65865e1e95411911e2508a2d196a94e",
+            "bio": "Serve EIP builders, and scale Ethereum.",
+            "displayName": "EIP Fun",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEe972E35311F65e6fD8F6ea7228Bf388B53e1D4a.png"
+        },
+        {
+            "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+            "bio": "Women led community increasing. curiosity in web3 to close the gender gap",
+            "displayName": "Metagals",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
+        },
+        {
+            "id": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
+            "bio": "Simplifying crypto news for everyone - one byte at a time",
+            "displayName": "Polynomial Bytes",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa5A0CE7D84025f986568356475451E31714B4C95.png"
+        }
+    ],
+    "walletAddress": "0xBC04652B7657E9a7C2778f04B425683955DE88C1",
+    "domainName": "fccxw.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0xe2cd97c6790cc68b37e88b4e804e7adf6b1f9b59c7709458020cf3c466dd2525",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-10T05:53:45",
+    "updatedAt": "2023-12-10T05:53:45",
+    "revokedAt": null,
+    "avatar": "https://sushimi.s3.eu-central-1.amazonaws.com/images/5798.jpg"
+}

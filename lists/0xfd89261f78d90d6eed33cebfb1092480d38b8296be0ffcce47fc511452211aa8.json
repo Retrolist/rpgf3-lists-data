@@ -1,0 +1,64 @@
+{
+    "id": "0xfd89261f78d90d6eed33cebfb1092480d38b8296be0ffcce47fc511452211aa8",
+    "listName": "Teeest List",
+    "listDescription": "Testing Lists",
+    "impactEvaluationDescription": "Lets see if this works lol",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "OTHER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
+            "OPAmount": 100
+        },
+        {
+            "RPGF3_Application_UID": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
+            "OPAmount": 200
+        },
+        {
+            "RPGF3_Application_UID": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+            "OPAmount": 300
+        },
+        {
+            "RPGF3_Application_UID": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
+            "OPAmount": 400
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
+            "bio": "A Dune wizard and data enthusiast from Cambodia 🇰🇭",
+            "displayName": "0xKhmer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB.png"
+        },
+        {
+            "id": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
+            "bio": "Turn any NFT into a smart wallet.",
+            "displayName": "6551 Studio",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6.png"
+        },
+        {
+            "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+            "bio": "Educating and onboarding the next wave of public goods users & builders to Web3.",
+            "displayName": "Accessible Education for Web3 Public Goods Changemakers",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
+        },
+        {
+            "id": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
+            "bio": "A Governor extension for building powerful DAO voting integrations.",
+            "displayName": "Flexible Voting",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png"
+        }
+    ],
+    "walletAddress": "0x4a6894Dd556fab996f8D50b521f900CAEedC168e",
+    "domainName": "smolsunny.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0xfd89261f78d90d6eed33cebfb1092480d38b8296be0ffcce47fc511452211aa8",
+    "approvalAttestationUid": null,
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-11-05T15:06:27",
+    "updatedAt": "2023-11-05T15:06:27",
+    "revokedAt": null,
+    "avatar": "https://euc.li/smolsunny.eth"
+}

@@ -1,0 +1,164 @@
+{
+    "id": "0xc018745dd7e34499d35aee11bac0e4d049b4e6d696923e7acf0542950b9d70c6",
+    "listName": "Asset Management & Portfolio Tools",
+    "listDescription": "Asset Management & Portfolio Tools refer to digital platforms and applications that enable users to manage, track, and optimize their cryptocurrency holdings. These tools allow users to view the distribution of their assets, analyze performance metrics, set up alerts for price movements, and even rebalance their portfolios based on specific criteria. As the blockchain and cryptocurrency space has grown, the need for sophisticated management tools has become paramount, especially for users with diverse crypto holdings. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Asset Management & Portfolio Tools.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xff1e9125432799c370c8074274f6b1d833c49cda519a7724cb3671550680901e",
+            "OPAmount": 236178
+        },
+        {
+            "RPGF3_Application_UID": "0x8003d40639213fd76b1037c69629aa32a7f175e89d3a2f57ba099a2de57382a0",
+            "OPAmount": 102879
+        },
+        {
+            "RPGF3_Application_UID": "0x0e5974f587724bffd2ef6415c468f96a65a2749ab920a3c7ef14567fd6480a11",
+            "OPAmount": 102879
+        },
+        {
+            "RPGF3_Application_UID": "0xcb95bf0f687efba8a3c2b3735c90318b154f255e1ea711829aaa4910a731c3db",
+            "OPAmount": 65415
+        },
+        {
+            "RPGF3_Application_UID": "0x1ca89428d9e392a3b1baa84bfb6d6a06b284b20cdfceca1b3c739bf088860a9e",
+            "OPAmount": 52943
+        },
+        {
+            "RPGF3_Application_UID": "0x41bc6ed45ea571f776a95729e345d56e0c4bb28c7856a325f8971a4c3b02dd4f",
+            "OPAmount": 37060
+        },
+        {
+            "RPGF3_Application_UID": "0xcb72b4a9f6e5950ccccf6689630e054658457421989cc37842dbd8ddaacd19d8",
+            "OPAmount": 37060
+        },
+        {
+            "RPGF3_Application_UID": "0xb98aad5071259164b02fe2266401b557446b4d0bcb509fdb94a1acf2095332b4",
+            "OPAmount": 21177
+        },
+        {
+            "RPGF3_Application_UID": "0x32033fcd4dc814d1c0e903446719154dc1466ba27b1422a1e6c664ade1c8adbf",
+            "OPAmount": 21177
+        },
+        {
+            "RPGF3_Application_UID": "0xf7e99050d67483864a93191708b7ec0b23b2f1a85d5bfd8535c464508fb3dfce",
+            "OPAmount": 21177
+        },
+        {
+            "RPGF3_Application_UID": "0x07eb70211826da3e78898cf90a43959efc016390207ae49ea19ac856deda8e68",
+            "OPAmount": 21177
+        },
+        {
+            "RPGF3_Application_UID": "0xfa0b87d5b056e4e5b860b560543e0ec8f1628d189d9dabc41046ae7ef763d39d",
+            "OPAmount": 15882
+        },
+        {
+            "RPGF3_Application_UID": "0x36e009bec6acb4c7adbe206a5cf88f8678ddf794f2f5e868e0118fcbd543055f",
+            "OPAmount": 15882
+        },
+        {
+            "RPGF3_Application_UID": "0xd2de2774bd9ffe36fdcab675bd37e2193f18a087253b0859ddfd1966e103c52a",
+            "OPAmount": 15882
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xff1e9125432799c370c8074274f6b1d833c49cda519a7724cb3671550680901e",
+            "bio": "The local-first, opensource asset tracking and management tool for crypto/tradfi",
+            "displayName": "rotki",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.png"
+        },
+        {
+            "id": "0x8003d40639213fd76b1037c69629aa32a7f175e89d3a2f57ba099a2de57382a0",
+            "bio": "Asset Management for the top blockchains with Optimism interface to Aave",
+            "displayName": "EVM.Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF705b9ba1908cA505537F309B08E6949C1b8f31F.png"
+        },
+        {
+            "id": "0x0e5974f587724bffd2ef6415c468f96a65a2749ab920a3c7ef14567fd6480a11",
+            "bio": "Free tax calculator software for DAO contributors",
+            "displayName": "Taxman: The Web3 Income Tax Helper",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x74fa01a5D0ef8039f1E14F4d4C8f90e8602e07B4.png"
+        },
+        {
+            "id": "0xcb95bf0f687efba8a3c2b3735c90318b154f255e1ea711829aaa4910a731c3db",
+            "bio": "Actual investment performance to find the best stablecoin farming pools",
+            "displayName": "Stable.fish",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x62d51Fa08B15411D9429133aE5F224abf3867729.png"
+        },
+        {
+            "id": "0x1ca89428d9e392a3b1baa84bfb6d6a06b284b20cdfceca1b3c739bf088860a9e",
+            "bio": "DappRadar is the gateway for web3 dapps, data, and insights.",
+            "displayName": "DappRadar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE416dE13e7859Ba860de0DE3563dA1e4e97dbd97.png"
+        },
+        {
+            "id": "0x41bc6ed45ea571f776a95729e345d56e0c4bb28c7856a325f8971a4c3b02dd4f",
+            "bio": "Valio is an asset management platform that connects leading traders and managers",
+            "displayName": "valio.xyz",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xcb72b4a9f6e5950ccccf6689630e054658457421989cc37842dbd8ddaacd19d8",
+            "bio": "Web3 recurring payments infrastructure",
+            "displayName": "Yoki Finance",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3A5B12814b03C517FDAB62d8781c22f3406aeef4.png"
+        },
+        {
+            "id": "0xb98aad5071259164b02fe2266401b557446b4d0bcb509fdb94a1acf2095332b4",
+            "bio": "Open Source, Permissionless & privacy conscious DeFi portfolio tracker",
+            "displayName": "LlamaFolio",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835.png"
+        },
+        {
+            "id": "0x32033fcd4dc814d1c0e903446719154dc1466ba27b1422a1e6c664ade1c8adbf",
+            "bio": "Liquidity Manager & Optimizer - for V3 CL DEXs and Lending Protocols",
+            "displayName": "ACryptoS",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCcCCbE5B70E7Ba9dE405C480f9f8Cd6bA835aDEC.png"
+        },
+        {
+            "id": "0xf7e99050d67483864a93191708b7ec0b23b2f1a85d5bfd8535c464508fb3dfce",
+            "bio": "Discover & verify yields across Ethereum, Optimism, Base, and other L2s",
+            "displayName": "Vaults.fyi",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3.png"
+        },
+        {
+            "id": "0x07eb70211826da3e78898cf90a43959efc016390207ae49ea19ac856deda8e68",
+            "bio": "We are a DeFi risk analyst nonprofit specializing in stablecoins, RWAs and LSTs.",
+            "displayName": "Llama Risk",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x34d6Dbd097f6b739C59D7467779549Aea60e1F84.png"
+        },
+        {
+            "id": "0xfa0b87d5b056e4e5b860b560543e0ec8f1628d189d9dabc41046ae7ef763d39d",
+            "bio": "High freequency trading application",
+            "displayName": "Hummingbot",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x36e009bec6acb4c7adbe206a5cf88f8678ddf794f2f5e868e0118fcbd543055f",
+            "bio": "DefiLab: Open-source tools for DeFi risk & reward analysis. Founded in 2020",
+            "displayName": "Defi-lab.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9fe6764778db6AD5c5ED86242485d1a868a8c52A.jpeg"
+        },
+        {
+            "id": "0xd2de2774bd9ffe36fdcab675bd37e2193f18a087253b0859ddfd1966e103c52a",
+            "bio": "Building the interpretation layer for Web3.",
+            "displayName": "Cielo",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0ef1E49E3C9A608b5c69e88623191A8b197729cC.png"
+        }
+    ],
+    "walletAddress": "0x70895db54574A5736D13Eb8eD88dc76Da84e411e",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0xc018745dd7e34499d35aee11bac0e4d049b4e6d696923e7acf0542950b9d70c6",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-06T18:22:39",
+    "updatedAt": "2023-11-06T18:22:39",
+    "revokedAt": null,
+    "avatar": null
+}

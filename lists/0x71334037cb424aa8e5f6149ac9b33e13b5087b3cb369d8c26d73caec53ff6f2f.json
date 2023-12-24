@@ -1,0 +1,74 @@
+{
+    "id": "0x71334037cb424aa8e5f6149ac9b33e13b5087b3cb369d8c26d73caec53ff6f2f",
+    "listName": "Community Building Projects",
+    "listDescription": "Community Building is the cornerstone of any successful decentralized project or initiative. In the blockchain realm, a strong and engaged community not only provides support but drives innovation, governance, and broader adoption. Community building involves fostering connections, facilitating open communication, and creating an inclusive environment where every member feels valued and heard. Through events, discussions, collaborations, and shared goals, communities can grow organically, strengthening the foundations of decentralized networks and ensuring their sustainability and success. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Community Building Projects.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "OPAmount": 205287
+        },
+        {
+            "RPGF3_Application_UID": "0xe4fb6e52ad970ebb6ea9252ec6e9967e4b4b88d52e5067b980c68515cde43f29",
+            "OPAmount": 205287
+        },
+        {
+            "RPGF3_Application_UID": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "OPAmount": 205287
+        },
+        {
+            "RPGF3_Application_UID": "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+            "OPAmount": 205287
+        },
+        {
+            "RPGF3_Application_UID": "0x9f5ccc80778dc01dbe8e31eace95372221028dbc18182da6262ee195cf98faca",
+            "OPAmount": 205287
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "bio": "Support NERDs provide moderation and onboarding services to the Optimism Discord",
+            "displayName": "Support NERDs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.png"
+        },
+        {
+            "id": "0xe4fb6e52ad970ebb6ea9252ec6e9967e4b4b88d52e5067b980c68515cde43f29",
+            "bio": "Translate official OP Friday Threads from 1 Sep to 20 Oct into 20+ languages",
+            "displayName": "OP Friday Twitter Thread Translation Contest",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5F4BCCcb5C2CBB01c619F5CFED555466e31679b6.png"
+        },
+        {
+            "id": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "bio": "Translators make Optimism accessible to non-English speakers over 27 languages!",
+            "displayName": "Optimism Translators",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9138051E95425610Eae7a0784F9138df485fb698.png"
+        },
+        {
+            "id": "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+            "bio": "Ambassadors are decentralized marketing arm of the Optimism Collective",
+            "displayName": "Optimism Ambassadors",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x50b6a381993834C623b2Bded6825824C936E48bB.png"
+        },
+        {
+            "id": "0x9f5ccc80778dc01dbe8e31eace95372221028dbc18182da6262ee195cf98faca",
+            "bio": "OurNetwork is the leading crypto analytics newsletter and community.",
+            "displayName": "OurNetwork",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9C159121CEEBF937E9bad98fd0c895d7f6038bd4.png"
+        }
+    ],
+    "walletAddress": "0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375",
+    "domainName": "Unknown",
+    "isBadgeholder": false,
+    "attestationUid": "0x71334037cb424aa8e5f6149ac9b33e13b5087b3cb369d8c26d73caec53ff6f2f",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-25T06:56:51",
+    "updatedAt": "2023-11-25T06:56:51",
+    "revokedAt": null,
+    "avatar": "Unknown"
+}

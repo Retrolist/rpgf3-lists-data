@@ -1,0 +1,94 @@
+{
+    "id": "0x1d1c5bf15f232e45fb782c7f048a6d829f9335aebc1fa5e682de5b753a14ab54",
+    "listName": "Web3 Education & Skill Development",
+    "listDescription": "Web3 Education and Skill Development are crucial to ensuring that individuals are well-equipped to navigate and contribute to the rapidly evolving decentralized digital landscape. This involves imparting knowledge about blockchain technologies, smart contracts, decentralized applications, and more. Through structured courses, workshops, webinars, and hands-on projects, individuals can gain both theoretical understanding and practical skills. By fostering a well-educated community, Web3 initiatives can drive adoption, innovation, and the broader acceptance of decentralized technologies. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Web3 Education & Skill Development.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+            "OPAmount": 54215
+        },
+        {
+            "RPGF3_Application_UID": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+            "OPAmount": 30244
+        },
+        {
+            "RPGF3_Application_UID": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+            "OPAmount": 29512
+        },
+        {
+            "RPGF3_Application_UID": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+            "OPAmount": 27705
+        },
+        {
+            "RPGF3_Application_UID": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+            "OPAmount": 27363
+        },
+        {
+            "RPGF3_Application_UID": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+            "OPAmount": 20180
+        },
+        {
+            "RPGF3_Application_UID": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+            "OPAmount": 10778
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+            "bio": "A peer-learning environment dedicated to building a better web, together.",
+            "displayName": "Kernel",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
+        },
+        {
+            "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+            "bio": "Women led community increasing. curiosity in web3 to close the gender gap",
+            "displayName": "Metagals",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
+        },
+        {
+            "id": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+            "bio": "Graviton training on Optimism. Conflict management and trust creation in Web3.",
+            "displayName": "Gravity DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.jpeg"
+        },
+        {
+            "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+            "bio": "Digital inclusion of vulnerable LatAm communities via web3 education w/Optimism.",
+            "displayName": "Proof of Integrity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
+        },
+        {
+            "id": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+            "bio": "far.quest helped over 100,000 people learn about Farcaster, built on Optimism",
+            "displayName": "far.quest",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png"
+        },
+        {
+            "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+            "bio": "We creates guides, instructional videos, and technical support about staking.",
+            "displayName": "EthStaker",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
+        },
+        {
+            "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+            "bio": "Educating and onboarding the next wave of public goods users & builders to Web3.",
+            "displayName": "Accessible Education for Web3 Public Goods Changemakers",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
+        }
+    ],
+    "walletAddress": "0xcf79C7EaEC5BDC1A9e32D099C5D6BdF67E4cF6e8",
+    "domainName": "tamarandom.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x1d1c5bf15f232e45fb782c7f048a6d829f9335aebc1fa5e682de5b753a14ab54",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-22T20:13:07",
+    "updatedAt": "2023-11-22T20:13:07",
+    "revokedAt": null,
+    "avatar": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiBzdHlsZT0iYmFja2dyb3VuZDojMDAwIj48bGluZWFyR3JhZGllbnQgaWQ9InRvcEdyYWRpZW50IiBncmFkaWVudFRyYW5zZm9ybT0icm90YXRlKDkwKSIgPjxzdG9wIHN0b3AtY29sb3I9IndoaXRlIiAgb2Zmc2V0PSI4MCUiICBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agc3RvcC1jb2xvcj0id2hpdGUiICBvZmZzZXQ9IjEwMCUiICBzdG9wLW9wYWNpdHk9IjEiIC8+PC9saW5lYXJHcmFkaWVudD48ZmlsdGVyIGlkPSJyb29tIiA+PGZlVHVyYnVsZW5jZSBiYXNlRnJlcXVlbmN5PSIwLjAwMDcwNCIgc2VlZD0iMjM3ODcyNyIgcmVzdWx0PSJ0dXJiIiAvPjxmZUNvbG9yTWF0cml4IHZhbHVlcz0iMjMgLTUwIDIzIC00NSAxIDE3IC00NSAxMCAtNjIgMSAyMCAyMiAtNTcgLTU0IDEgMjUgLTM3IDE2IDY0IDEgIiAvPjwvZmlsdGVyPjxmaWx0ZXIgaWQ9InN0YXJzIiA+PGZlVHVyYnVsZW5jZSB0eXBlPSJmcmFjdGFsTm9pc2UiIG51bU9jdGF2ZXM9IjEiIGJhc2VGcmVxdWVuY3k9IjAuMDAyNzgiIHNlZWQ9IjQ1ODI1NzgiIHJlc3VsdD0idHVyYiIgLz48ZmVDb2xvck1hdHJpeCB2YWx1ZXM9IjE1IDAgMCAwIDAgMCAxNSAwIDAgMCAwIDAgMTUgMCAwIDAgMCAwIC0xNSA1IiAvPjwvZmlsdGVyPjxyZWN0IHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiBmaWx0ZXI9InVybCgjcm9vbSkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTIyMCkiIC8+PHJlY3Qgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIGZpbHRlcj0idXJsKCNyb29tKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCw0NDApIHNjYWxlKC0xLDEpIHJvdGF0ZSgxODApIiAvPjxyZWN0IHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI3RvcEdyYWRpZW50KSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwtMTkwKSIgLz48cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0idXJsKCN0b3BHcmFkaWVudCkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsNDEwKSBzY2FsZSgtMSwxKSByb3RhdGUoMTgwKSIgLz48cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgZmlsdGVyPSJ1cmwoI3N0YXJzKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwtMjIwKSIgLz48cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgZmlsdGVyPSJ1cmwoI3N0YXJzKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCw0NDApIHNjYWxlKC0xLDEpIHJvdGF0ZSgxODApIiAvPjxwb2x5Z29uIHBvaW50cz0iMzMsMCAwLDAgMCwzMyAyMzUsMTEwIiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiAvPjxwb2x5Z29uIHBvaW50cz0iMCwyNjcgMCwzMDAgMzMsMzAwIDIzNSwxMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIC8+PHBvbHlnb24gcG9pbnRzPSIyNjcsMCAzMDAsMCAzMDAsMzMgMjM1LDExMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgLz48cG9seWdvbiBwb2ludHM9IjMwMCwyNjcgMzAwLDMwMCAyNjcsMzAwIDIzNSwxMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIC8+PC9zdmc+"
+}

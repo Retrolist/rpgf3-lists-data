@@ -1,0 +1,124 @@
+{
+    "id": "0xa17b3b6fee9dd6378e767cfa2905c690d9b950a18fe88aeaa5ab646feba36c29",
+    "listName": "abcoathup's NFT dev tools",
+    "listDescription": "Projects that I used to build fun NFT projects on OP Stack",
+    "impactEvaluationDescription": "Using nominal values of 250k, please update as you see fit\n\nDisclosure: I was previously the Community Manager at OpenZeppelin",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x7500c59003e12f46731f0e3bf33ef270085e700ce1d0ec0ae2ae42b4ea655ebe",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0xe0031e9ff51d941d62bcb1545812bdd132151a24d8767f4cc0d552b82c8567ac",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0xf751fd5e236ec136a340fa5d2080938512056728c9301ac7dc27d6ab78791e72",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x07a0323c1fc9072714b937056ec35d0c5acff5df41fb3e266b329ac2ed68d5f8",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x723da383185924834ea462c791d4e21dac5dedc94ba164bd37adc571ba5008ed",
+            "OPAmount": 250000
+        },
+        {
+            "RPGF3_Application_UID": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+            "OPAmount": 250000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+            "bio": "Solidity is a statically-typed curly-braces programming language for EVM chains",
+            "displayName": "Solidity",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x151EF20A3ADe1CC1161391594f8a32461389a54e.png"
+        },
+        {
+            "id": "0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
+            "bio": "A rich toolset for the entire journey of Web3 contract development",
+            "displayName": "Remix Project",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa923A7CD364779c8b97522ca031804Ce639fA2Be.png"
+        },
+        {
+            "id": "0x7500c59003e12f46731f0e3bf33ef270085e700ce1d0ec0ae2ae42b4ea655ebe",
+            "bio": "Foundry is a smart contract development toolchain.",
+            "displayName": "foundry",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xe0031e9ff51d941d62bcb1545812bdd132151a24d8767f4cc0d552b82c8567ac",
+            "bio": "Hardhat is a development environment to build and deploy your Ethereum software",
+            "displayName": "Hardhat",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x329Ee91AE6A0A28a0a2B729B80adC50855ceE2d2.png"
+        },
+        {
+            "id": "0x0cdf83271ae4293cc360b68edb92f4438ecf6d054ec1ec04a82fd7bd5b96c7ad",
+            "bio": "Decentralized and open-source Solidity contract source code verification service",
+            "displayName": "Sourcify",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x92347362ACc955A6f3Dc7F9D34945AAaC944FFBF.png"
+        },
+        {
+            "id": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+            "bio": "Full-featured open-source block explorer",
+            "displayName": "Blockscout Block Explorer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C36Bd76a6c138187C43da92f66f37E23b4017fA.png"
+        },
+        {
+            "id": "0xf751fd5e236ec136a340fa5d2080938512056728c9301ac7dc27d6ab78791e72",
+            "bio": "OpenZeppelin Contracts are the go-to library for smart contract development.",
+            "displayName": "OpenZeppelin Contracts",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e1E9D592BAb52406289A1B4e8Bc1236d9eAD33e.png"
+        },
+        {
+            "id": "0x07a0323c1fc9072714b937056ec35d0c5acff5df41fb3e266b329ac2ed68d5f8",
+            "bio": "TypeScript Interfaces for Ethereum",
+            "displayName": "Wagmi / Viem",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd2135CfB216b74109775236E36d4b433F1DF507B.png"
+        },
+        {
+            "id": "0x723da383185924834ea462c791d4e21dac5dedc94ba164bd37adc571ba5008ed",
+            "bio": "The best way to connect a wallet",
+            "displayName": "RainbowKit",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a3d05c70581bD345fe117c06e45f9669205384f.png"
+        },
+        {
+            "id": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+            "bio": "A curated group of builders creating open source tools and educational content.",
+            "displayName": "🏰 BuidlGuidl",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.png"
+        }
+    ],
+    "walletAddress": "0x288C53a1BA857EaD34AD0e79F644087F8174185a",
+    "domainName": null,
+    "isBadgeholder": true,
+    "attestationUid": "0xa17b3b6fee9dd6378e767cfa2905c690d9b950a18fe88aeaa5ab646feba36c29",
+    "approvalAttestationUid": "0xa17b3b6fee9dd6378e767cfa2905c690d9b950a18fe88aeaa5ab646feba36c29",
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-12-02T04:58:27",
+    "updatedAt": "2023-12-02T04:58:27",
+    "revokedAt": null,
+    "avatar": null
+}

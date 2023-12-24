@@ -1,0 +1,20 @@
+{
+    "id": "0x782a635a6b646da00fb4bb2173ba40826e2e099aa79921b7287e765cb803df0a",
+    "listName": "very long with duplicates",
+    "listDescription": "",
+    "impactEvaluationDescription": "",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "OTHER",
+    "listContent": [],
+    "projectsMetadata": [],
+    "walletAddress": "0x3977492b0d15488A57aD4c5bd2ECDe7e2572d7FE",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0x782a635a6b646da00fb4bb2173ba40826e2e099aa79921b7287e765cb803df0a",
+    "approvalAttestationUid": null,
+    "categories": [],
+    "createdAt": "2023-10-07T22:03:15",
+    "updatedAt": "2023-10-07T22:03:15",
+    "revokedAt": null,
+    "avatar": null
+}

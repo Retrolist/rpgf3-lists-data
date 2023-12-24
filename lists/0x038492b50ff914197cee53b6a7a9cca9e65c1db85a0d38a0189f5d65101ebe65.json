@@ -1,0 +1,244 @@
+{
+    "id": "0x038492b50ff914197cee53b6a7a9cca9e65c1db85a0d38a0189f5d65101ebe65",
+    "listName": "NFTs, POAPs & Collectibles",
+    "listDescription": "NFTs, POAPs, and collectibles are transforming the world of digital ownership and memorabilia. NFTs offer verifiable digital ownership of unique assets, from art and music to virtual real estate and beyond. POAPs serve as a testament to one's attendance or participation in an event, granting them digital badges that can be kept as memorabilia or even traded. This new era of digital collectibles is underpinned by blockchain technology, ensuring transparency, uniqueness, and tradeability, redefining the value and essence of digital possessions. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to NFTs, POAPs & Collectibles.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x020a49814aed7362cc564a227d7f1bda9c86b95b7d003080785c97a925fbf2b7",
+            "OPAmount": 150987
+        },
+        {
+            "RPGF3_Application_UID": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+            "OPAmount": 103804
+        },
+        {
+            "RPGF3_Application_UID": "0xeec5041f2bae8c48877836c3e932a2df54a1369c3f297f8474935c0a2bad18f0",
+            "OPAmount": 103804
+        },
+        {
+            "RPGF3_Application_UID": "0x351cfe61628239f979f88da463f81b6feaeff65bfbeeed489041a44fef1b6293",
+            "OPAmount": 94367
+        },
+        {
+            "RPGF3_Application_UID": "0x9ee4a4f36ee067a0eed71b43b50b79b9a33f39677630de52d8016d268291f4b0",
+            "OPAmount": 84930
+        },
+        {
+            "RPGF3_Application_UID": "0xde707568dc6837c063c98810d567e0367845f1536a8566e585bd6f335d760793",
+            "OPAmount": 66057
+        },
+        {
+            "RPGF3_Application_UID": "0x14176acd787a18b1165c3c9fe157420aef1112a4bef9eec59b16930fd907efe0",
+            "OPAmount": 37746
+        },
+        {
+            "RPGF3_Application_UID": "0x49b4db4c54b774ca30ad1254df16b4d62bd611953cb5a6de1d34cbf136808814",
+            "OPAmount": 37746
+        },
+        {
+            "RPGF3_Application_UID": "0x7f49dacc2d14e2012a6701f7fd1e643df30ca223cbc9b8edc66f35c68761c2d5",
+            "OPAmount": 37746
+        },
+        {
+            "RPGF3_Application_UID": "0xe55a4c4f4840d8e38ecf86e6061b09a8446f431235417c21c99f8102d171ec89",
+            "OPAmount": 37746
+        },
+        {
+            "RPGF3_Application_UID": "0x8a7f7c5ab681ab20b64530c7b28f268f63caa9154fca76ba128e20ea5503c16a",
+            "OPAmount": 37746
+        },
+        {
+            "RPGF3_Application_UID": "0x715e6959a011d15846500ae9b9b815445e466e64f23a630bcd3323200f591783",
+            "OPAmount": 28310
+        },
+        {
+            "RPGF3_Application_UID": "0xee4fa88a475e80c188306d12d648ff98e2147d74970f06e662dfcfd602d08514",
+            "OPAmount": 28310
+        },
+        {
+            "RPGF3_Application_UID": "0x168c3f157522e723c835ba79d4014f8b2a13637b668d43b4b922bc27231ad1ba",
+            "OPAmount": 22509
+        },
+        {
+            "RPGF3_Application_UID": "0x1a62e4ce6dcb668be423262c84d326f03f4b9981b8a6fc74d556af85af0be8c3",
+            "OPAmount": 18873
+        },
+        {
+            "RPGF3_Application_UID": "0x3f414ca96d84352f4b9a9a5096bb750677a4328e1a9c56830cf3edea12cd4fcb",
+            "OPAmount": 18873
+        },
+        {
+            "RPGF3_Application_UID": "0x4601875bbac07e7fad0b07b6ecd28b48e197e67fbc29c3e713a517391c8251a3",
+            "OPAmount": 18873
+        },
+        {
+            "RPGF3_Application_UID": "0xcbb4c5eb3789d11832b4f96d36e7eb38797d948d5f086df686a1f218a132385b",
+            "OPAmount": 18873
+        },
+        {
+            "RPGF3_Application_UID": "0x23efd9fc3979482023d3e3d2df6c47e269db752d4109d1f3a9df7623296a1d29",
+            "OPAmount": 9436
+        },
+        {
+            "RPGF3_Application_UID": "0x9f510c4ef96341ed9d8b567d40807095097c51cdc146723c6e34ce0a17ef2881",
+            "OPAmount": 9436
+        },
+        {
+            "RPGF3_Application_UID": "0x91a337dccdac32cb717d74594ad991b832d4790ab83e849be86fd8410bfa5a70",
+            "OPAmount": 936
+        },
+        {
+            "RPGF3_Application_UID": "0x32877d8e812b802cedc6a27ad99c2454ef1e2e6c9c1d16147e9a0810a3a01761",
+            "OPAmount": 467
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x020a49814aed7362cc564a227d7f1bda9c86b95b7d003080785c97a925fbf2b7",
+            "bio": "Create ERC-6551 NFTs, and transfer assets to them",
+            "displayName": "ERC-6551 Tooling",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5561974F0D35D8C355241a5568894df7B691BB28.png"
+        },
+        {
+            "id": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+            "bio": "The #1 NFT community on Optimism!",
+            "displayName": "OptiChads",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10850762bAc0dc6660630c1EfFe188A7cbFDdc88.png"
+        },
+        {
+            "id": "0xeec5041f2bae8c48877836c3e932a2df54a1369c3f297f8474935c0a2bad18f0",
+            "bio": "Infrastructue for digital asset tokenization",
+            "displayName": "Holograph",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C.png"
+        },
+        {
+            "id": "0x351cfe61628239f979f88da463f81b6feaeff65bfbeeed489041a44fef1b6293",
+            "bio": "Instant ENS sub-domains for NFT communities on the Superchain.",
+            "displayName": "Wildcards Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6.png"
+        },
+        {
+            "id": "0x9ee4a4f36ee067a0eed71b43b50b79b9a33f39677630de52d8016d268291f4b0",
+            "bio": "Easiest way to Create your NFT MarketPlace on WordPress",
+            "displayName": "Kredeum NFTs Factory",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x981ab0D817710d8FFFC5693383C00D985A3BDa38.png"
+        },
+        {
+            "id": "0xde707568dc6837c063c98810d567e0367845f1536a8566e585bd6f335d760793",
+            "bio": "XomNFT is an NFT researching & community brand. We make NFT-focus public goods.",
+            "displayName": "XomNFT",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1a1051c39652C0FF81A819DA4283871c3f076a3A.png"
+        },
+        {
+            "id": "0x14176acd787a18b1165c3c9fe157420aef1112a4bef9eec59b16930fd907efe0",
+            "bio": "One of the earliest free mint NFT collection on Optimism",
+            "displayName": "Ospace Project",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x941D8Cd7378432Bc4952bA0Dcc9e120C18C92975.png"
+        },
+        {
+            "id": "0x49b4db4c54b774ca30ad1254df16b4d62bd611953cb5a6de1d34cbf136808814",
+            "bio": "Where fans become collectors.",
+            "displayName": "Invest in Music",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x86958A1219AB83c92779285eFeB0D9Dc186E24C0.png"
+        },
+        {
+            "id": "0x7f49dacc2d14e2012a6701f7fd1e643df30ca223cbc9b8edc66f35c68761c2d5",
+            "bio": "Crypto art | music collective. CC0 art with a mission.",
+            "displayName": "EGG 🥚 RECORDS",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB712e1e9c62E8105929D4b32B6Cf1E5024ae7D90.png"
+        },
+        {
+            "id": "0xe55a4c4f4840d8e38ecf86e6061b09a8446f431235417c21c99f8102d171ec89",
+            "bio": "ENS Subnames on OP Stack L2s",
+            "displayName": "Unruggable Names",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8b1f85a93Ac6E4F62695Ea8EF2410d248605FEff.png"
+        },
+        {
+            "id": "0x8a7f7c5ab681ab20b64530c7b28f268f63caa9154fca76ba128e20ea5503c16a",
+            "bio": "Uniting crypto through seamless crosschain transactions.",
+            "displayName": "Decent.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBAfb15bF152365bd344639b6eDe5Dec09d5Ba64E.png"
+        },
+        {
+            "id": "0x715e6959a011d15846500ae9b9b815445e466e64f23a630bcd3323200f591783",
+            "bio": "TK is a music industry professional, crypto investor, and tech founder.",
+            "displayName": "Eternal Garden: ORIGINS",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe43c5133f66f58FE5Ac8f9000AAE020Fbb9B0f85.png"
+        },
+        {
+            "id": "0xee4fa88a475e80c188306d12d648ff98e2147d74970f06e662dfcfd602d08514",
+            "bio": "Latin American artists and w3b culture promoters collective.",
+            "displayName": "Newtro Arts",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33912a0d6bEFf5Fb8e5B70688CE858D5e7E8104E.png"
+        },
+        {
+            "id": "0x168c3f157522e723c835ba79d4014f8b2a13637b668d43b4b922bc27231ad1ba",
+            "bio": "Open edition mint celebrating onchain media.",
+            "displayName": "Onchain Media Enthusiast",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFF0c6EC0130575e51e9B7173F1E095f188e3d524.png"
+        },
+        {
+            "id": "0x1a62e4ce6dcb668be423262c84d326f03f4b9981b8a6fc74d556af85af0be8c3",
+            "bio": "Onchain Records Label",
+            "displayName": "Coop Records Music",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce.png"
+        },
+        {
+            "id": "0x3f414ca96d84352f4b9a9a5096bb750677a4328e1a9c56830cf3edea12cd4fcb",
+            "bio": "First NFT Agency is a startup founded in 2020 in Kyiv, Ukraine.",
+            "displayName": "First NFT Agency",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfBeB914c3C9B7a193C92De130A18716097478332.png"
+        },
+        {
+            "id": "0x4601875bbac07e7fad0b07b6ecd28b48e197e67fbc29c3e713a517391c8251a3",
+            "bio": "Base Punk is a Community-driven NFT project with Web3 Domains & Social Dapps",
+            "displayName": "Base Punk",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD688B5ed29Ab77b39884BabD1930213BF7805CD1.png"
+        },
+        {
+            "id": "0xcbb4c5eb3789d11832b4f96d36e7eb38797d948d5f086df686a1f218a132385b",
+            "bio": "An NFT project committed to establishing a genuine business framework.",
+            "displayName": "Apetimism",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x16ac527d938c36Caec5A6b0665ef7b456C22f7D2.png"
+        },
+        {
+            "id": "0x23efd9fc3979482023d3e3d2df6c47e269db752d4109d1f3a9df7623296a1d29",
+            "bio": "UNWA is an onchain music community in Vietnam.",
+            "displayName": "UNWA",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x763d7679dEaAA655ba4A940B3a1E4E308076B3CB.png"
+        },
+        {
+            "id": "0x9f510c4ef96341ed9d8b567d40807095097c51cdc146723c6e34ce0a17ef2881",
+            "bio": "We write smart contracts that facilitate the open exchange of ideas and value.",
+            "displayName": "The Open X Project",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb4a16728A270c0A9d57521926FBfb52dA28fb28D.png"
+        },
+        {
+            "id": "0x91a337dccdac32cb717d74594ad991b832d4790ab83e849be86fd8410bfa5a70",
+            "bio": "Leading onchain music distributor",
+            "displayName": "LNRZ",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x32877d8e812b802cedc6a27ad99c2454ef1e2e6c9c1d16147e9a0810a3a01761",
+            "bio": "3D Generative Art and PFPs",
+            "displayName": "Travenesia",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA49CEE842116A89299A721D831BCf0511E8F6A15.png"
+        }
+    ],
+    "walletAddress": "0x826976d7C600d45FB8287CA1d7c76FC8eb732030",
+    "domainName": "divinecomedian.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x038492b50ff914197cee53b6a7a9cca9e65c1db85a0d38a0189f5d65101ebe65",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-03T16:30:13",
+    "updatedAt": "2023-12-03T16:30:13",
+    "revokedAt": null,
+    "avatar": "https://i.imgur.com/SARJUC2.jpg"
+}

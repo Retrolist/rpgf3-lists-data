@@ -1,0 +1,114 @@
+{
+    "id": "0x59c1410a9c320596a68a7a20d6170b699333a0793fcd911689c1c361a9c67f23",
+    "listName": "Dune/Flipside Creators Under Quorum",
+    "listDescription": "Highlighting Dune and Flipside creators that I thought have been impactful and deserve attention, that are below quorum. ",
+    "impactEvaluationDescription": "All projects are given 10k OP. Dune and Flipside are ultimately closed source platforms, so unlike onchain data I'm not comfortable recommending specific allocations in a list when I'm aware that impressions, metrics, etc could be manipulated.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xc7250199ce808d8825b8781a546c6944338ee82505570d0e33d7505d341a04bd",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x4583d4badbcbcb617f049f7751b5ab45a378f52ff5022ba689df741fe3339b59",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x66cce0997e32d388f4263a3ea305612cf1031e540c73f886e320337427c1bdab",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x92b9a280afb2c683301bdbb5c065e0fdb0507656c4378caf1df8505327e21782",
+            "OPAmount": 10000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xc7250199ce808d8825b8781a546c6944338ee82505570d0e33d7505d341a04bd",
+            "bio": "Dune Wizards data analyst, created lots of usefule onchain data dashboards.",
+            "displayName": "Spring Zhang",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c.jpeg"
+        },
+        {
+            "id": "0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+            "bio": "A dune dashboard tracking onchain governance behavior at the Op Collective",
+            "displayName": "satorrr",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5c1D15dC3da43A18E60C2DdB87B3466097855530.png"
+        },
+        {
+            "id": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
+            "bio": "A Dune wizard and data enthusiast from Cambodia 🇰🇭",
+            "displayName": "0xKhmer",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB.png"
+        },
+        {
+            "id": "0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+            "bio": "Analyzing Governance Fund Recipients to Increase Transparency in the Collective",
+            "displayName": "raho & tnorm",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B.jpeg"
+        },
+        {
+            "id": "0x4583d4badbcbcb617f049f7751b5ab45a378f52ff5022ba689df741fe3339b59",
+            "bio": "Wannabe Dev, Stay Optimistic! 🔴✨",
+            "displayName": "ATK",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x80f8eFb44b3bbC088B3360266c29DAcEFf1a8C3F.jpeg"
+        },
+        {
+            "id": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+            "bio": "The NumbaNERDs program ensures the collective has quality analytics available.",
+            "displayName": "NumbaNERDs",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x66cce0997e32d388f4263a3ea305612cf1031e540c73f886e320337427c1bdab",
+            "bio": "Data Analyst ,Core contributor,Instructor, Content creator,Community moderator",
+            "displayName": "Mrfti",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3722a8b1E2674FbBA7081C84E39A5cE738B8159D.jpeg"
+        },
+        {
+            "id": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+            "bio": "I am a Web3 Data Analyst covering the Optimism Ecosystem",
+            "displayName": "MarcoV",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x283266045Ab2aB0793a62CADC21D55f685636Ae0.png"
+        },
+        {
+            "id": "0x92b9a280afb2c683301bdbb5c065e0fdb0507656c4378caf1df8505327e21782",
+            "bio": "A dashboard collections that built with BASE and Optimism data",
+            "displayName": "arabianhorses",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf23F9C10D1559885dABEE67c59c4554E6152697b.png"
+        }
+    ],
+    "walletAddress": "0x92Bf20563e747B2f8711549Be17A9d7B876c4053",
+    "domainName": null,
+    "isBadgeholder": true,
+    "attestationUid": "0x59c1410a9c320596a68a7a20d6170b699333a0793fcd911689c1c361a9c67f23",
+    "approvalAttestationUid": "0x59c1410a9c320596a68a7a20d6170b699333a0793fcd911689c1c361a9c67f23",
+    "categories": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "createdAt": "2023-12-04T01:22:09",
+    "updatedAt": "2023-12-04T01:22:09",
+    "revokedAt": null,
+    "avatar": null
+}

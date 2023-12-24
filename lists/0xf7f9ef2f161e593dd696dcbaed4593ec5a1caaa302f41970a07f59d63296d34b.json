@@ -1,0 +1,94 @@
+{
+    "id": "0xf7f9ef2f161e593dd696dcbaed4593ec5a1caaa302f41970a07f59d63296d34b",
+    "listName": "List name 🥹",
+    "listDescription": "It's a list",
+    "impactEvaluationDescription": "I did it",
+    "impactEvaluationLink": "https://docs.google.com/presentation/d/1PvkdfjhLNYxGfIAR_pF6CwL8FsKI6_ltt4GW5rvpV5I/edit?usp=sharing",
+    "impactEvaluationType": "OTHER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xa16c4dc88f363dfb26d0ededc0ad2cf018de28216e0184b996de50751877c244",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x29d788eeb015bad16104b58f4bc953efc8e217844ab51505bccec5d3ac84788d",
+            "OPAmount": 300000
+        },
+        {
+            "RPGF3_Application_UID": "0x3b53ead12d8da8d0d1d5150494eb92b0ffb23d76090af9d4dd5341d576d97295",
+            "OPAmount": 398289
+        },
+        {
+            "RPGF3_Application_UID": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "OPAmount": 900909
+        },
+        {
+            "RPGF3_Application_UID": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "OPAmount": 902898
+        },
+        {
+            "RPGF3_Application_UID": "0xc6e48d375dcab4f18c48d6e24d3fc074ab38bf754381c0f830dbccff1e0f8dbb",
+            "OPAmount": 929090
+        },
+        {
+            "RPGF3_Application_UID": "0x46f5cb8434c4f1188ff9581ef4723a7450d6c8b76346d1ef8e8ff4bd9d4de8ce",
+            "OPAmount": 8298
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xa16c4dc88f363dfb26d0ededc0ad2cf018de28216e0184b996de50751877c244",
+            "bio": "'blst' is the cryptography library used by all Ethereum clients to power PoS",
+            "displayName": "blst Cryptography Library",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x756678bD0d2358d2198511c3adF50502fDF45597.png"
+        },
+        {
+            "id": "0x29d788eeb015bad16104b58f4bc953efc8e217844ab51505bccec5d3ac84788d",
+            "bio": "The Keccak hash function, winner of the SHA3 competition and used in Ethereum",
+            "displayName": "Keccak hashing",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x3b53ead12d8da8d0d1d5150494eb92b0ffb23d76090af9d4dd5341d576d97295",
+            "bio": "The libp2p Project.",
+            "displayName": "libp2p",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc5eC328828cd381D4dECDe27ededE45264933Edf.png"
+        },
+        {
+            "id": "0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+            "bio": "A collective of Ethereum's active core protocol contributors",
+            "displayName": "Protocol Guild",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F.png"
+        },
+        {
+            "id": "0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+            "bio": "An Ethereum execution layer client",
+            "displayName": "go-ethereum",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xc6e48d375dcab4f18c48d6e24d3fc074ab38bf754381c0f830dbccff1e0f8dbb",
+            "bio": "Ethereum validators of all sizes trust Nimbus to run their nodes.",
+            "displayName": "Nimbus",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4413E96F6b46e59326a7695eF871FA902Ff7935d.png"
+        },
+        {
+            "id": "0x46f5cb8434c4f1188ff9581ef4723a7450d6c8b76346d1ef8e8ff4bd9d4de8ce",
+            "bio": "Nethermind is a Blockchain Research and Software Engineering Company",
+            "displayName": "Nethermind",
+            "profileImageUrl": null
+        }
+    ],
+    "walletAddress": "0x4a6894Dd556fab996f8D50b521f900CAEedC168e",
+    "domainName": "smolsunny.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0xf7f9ef2f161e593dd696dcbaed4593ec5a1caaa302f41970a07f59d63296d34b",
+    "approvalAttestationUid": null,
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-10-30T09:34:03",
+    "updatedAt": "2023-10-30T09:34:03",
+    "revokedAt": null,
+    "avatar": "https://euc.li/smolsunny.eth"
+}

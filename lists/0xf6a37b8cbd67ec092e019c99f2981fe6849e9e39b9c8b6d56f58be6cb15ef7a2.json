@@ -1,0 +1,164 @@
+{
+    "id": "0xf6a37b8cbd67ec092e019c99f2981fe6849e9e39b9c8b6d56f58be6cb15ef7a2",
+    "listName": "Governance Tokenomics and Analytics - Individuals",
+    "listDescription": "Governance Tokenomics and Analytics Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Governance Tokenomics and Analytics.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xf79ce6e79fdb9112ac891b4e0c8f61c038fde1c1ced9d1b7e03c93c31e5f5b1f",
+            "OPAmount": 20000
+        },
+        {
+            "RPGF3_Application_UID": "0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+            "OPAmount": 10777
+        },
+        {
+            "RPGF3_Application_UID": "0x319e92614fd4d193ae32199f9459862ba5def14978cf005b19343843ca2e0693",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x3ce49d409338c85e38ad3cb7ea957d6cac3a3e84eae1a8109fc60cf4400ee214",
+            "OPAmount": 4999
+        },
+        {
+            "RPGF3_Application_UID": "0x4583d4badbcbcb617f049f7751b5ab45a378f52ff5022ba689df741fe3339b59",
+            "OPAmount": 4776
+        },
+        {
+            "RPGF3_Application_UID": "0xbedcd5e59e87c88e2d5b3f135cef429d5cdefd7e99e6fd8b40569ec5191dc1a1",
+            "OPAmount": 4776
+        },
+        {
+            "RPGF3_Application_UID": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+            "OPAmount": 2776
+        },
+        {
+            "RPGF3_Application_UID": "0xf9cbdc7fa9d0e03f65030f716d9a53a98bee7d06861d236484b88ce586988fb6",
+            "OPAmount": 1805
+        },
+        {
+            "RPGF3_Application_UID": "0x80b576d7e0307515a72bfc390bebd2c3f7acd522a90575c0ce3387985c6eece5",
+            "OPAmount": 1776
+        },
+        {
+            "RPGF3_Application_UID": "0x2fcf74bc4287ad3e63476246b2999ad0070cfcca8804fa66c7efd227070de33f",
+            "OPAmount": 1769
+        },
+        {
+            "RPGF3_Application_UID": "0x87424ebc9410810cf1dd21256369dc96b289302a008f6205aa051219c648766b",
+            "OPAmount": 1769
+        },
+        {
+            "RPGF3_Application_UID": "0x36653dde46bfe40b9aeb4ed20dfc4ccb0a40ba01ca4f0055e96870c9b28878f0",
+            "OPAmount": 1769
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xf79ce6e79fdb9112ac891b4e0c8f61c038fde1c1ced9d1b7e03c93c31e5f5b1f",
+            "bio": "Active contributor to the Optimism Collective under the forum handle OPUser",
+            "displayName": "webOfTrust",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c.png"
+        },
+        {
+            "id": "0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+            "bio": "Analyzing Governance Fund Recipients to Increase Transparency in the Collective",
+            "displayName": "raho & tnorm",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B.jpeg"
+        },
+        {
+            "id": "0x319e92614fd4d193ae32199f9459862ba5def14978cf005b19343843ca2e0693",
+            "bio": "A Dune dataset of rollup costs and revenues",
+            "displayName": "Rollup Economics Dune Spell",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE.png"
+        },
+        {
+            "id": "0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+            "bio": "A dune dashboard tracking onchain governance behavior at the Op Collective",
+            "displayName": "satorrr",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5c1D15dC3da43A18E60C2DdB87B3466097855530.png"
+        },
+        {
+            "id": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+            "bio": "I am a Web3 Data Analyst covering the Optimism Ecosystem",
+            "displayName": "MarcoV",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x283266045Ab2aB0793a62CADC21D55f685636Ae0.png"
+        },
+        {
+            "id": "0x3ce49d409338c85e38ad3cb7ea957d6cac3a3e84eae1a8109fc60cf4400ee214",
+            "bio": "A filmmaker and programmer in the web3 space",
+            "displayName": "Xanny",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x31a9bc328d634BEa07E74732F668AbD42D75D624.png"
+        },
+        {
+            "id": "0x4583d4badbcbcb617f049f7751b5ab45a378f52ff5022ba689df741fe3339b59",
+            "bio": "Wannabe Dev, Stay Optimistic! 🔴✨",
+            "displayName": "ATK",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x80f8eFb44b3bbC088B3360266c29DAcEFf1a8C3F.jpeg"
+        },
+        {
+            "id": "0xbedcd5e59e87c88e2d5b3f135cef429d5cdefd7e99e6fd8b40569ec5191dc1a1",
+            "bio": "Pure Mathematician working in EVM Data Engineering. Gnosis, CoWSwap & Mintbase",
+            "displayName": "bh2smith",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd.jpeg"
+        },
+        {
+            "id": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+            "bio": "Public good dashboards & spells (tables) on Dune",
+            "displayName": "hildobby",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x09a5943a6d10919571eE2C9F63380aEA747ECA97.jpeg"
+        },
+        {
+            "id": "0xf9cbdc7fa9d0e03f65030f716d9a53a98bee7d06861d236484b88ce586988fb6",
+            "bio": "Fullstack engineer and data analyst. Maxi on Web3 and Public Goods.",
+            "displayName": "Ivan Molto",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7904667C340601AaB73939372C016dC5102732A2.png"
+        },
+        {
+            "id": "0x80b576d7e0307515a72bfc390bebd2c3f7acd522a90575c0ce3387985c6eece5",
+            "bio": "Accelerating R&D of interactive private communication mechanisms",
+            "displayName": "Private Retrieval Fund",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00.jpeg"
+        },
+        {
+            "id": "0x2fcf74bc4287ad3e63476246b2999ad0070cfcca8804fa66c7efd227070de33f",
+            "bio": "Hedgey is onchain vesting & lockups, as afree public good for teams on Optimism",
+            "displayName": "Hedgey",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F.png"
+        },
+        {
+            "id": "0x87424ebc9410810cf1dd21256369dc96b289302a008f6205aa051219c648766b",
+            "bio": "Defi Research & Analysis",
+            "displayName": "AsymmetricDefi",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x36653dde46bfe40b9aeb4ed20dfc4ccb0a40ba01ca4f0055e96870c9b28878f0",
+            "bio": "I am onchain data analysts who mostly had made dashboard related to NFT projects",
+            "displayName": "banterlytics",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x18cCC241CcE98a67564E367eBc1F1f0e692E3188.png"
+        }
+    ],
+    "walletAddress": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+    "domainName": "griff.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0xf6a37b8cbd67ec092e019c99f2981fe6849e9e39b9c8b6d56f58be6cb15ef7a2",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-06T22:17:39",
+    "updatedAt": "2023-12-06T22:17:39",
+    "revokedAt": null,
+    "avatar": "https://ipfs.io/ipfs/QmQbDo8NynZ3kXQbbY1kRDf4czxr4CWGYmGz8XHR1GCKfX/image.png"
+}

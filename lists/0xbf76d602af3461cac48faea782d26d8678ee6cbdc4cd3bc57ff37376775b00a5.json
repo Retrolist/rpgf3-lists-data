@@ -1,0 +1,214 @@
+{
+    "id": "0xbf76d602af3461cac48faea782d26d8678ee6cbdc4cd3bc57ff37376775b00a5",
+    "listName": "Governance tooling (spengrah)",
+    "listDescription": "This list allocates 10M OP to governance tools. It focuses on useful tools for onchain organizations within the Optimism ecosystem, including DAOs, companies, and communities. Some of these tools may have been used by the OP Collective, but that is not a criterion for inclusion. \n\nI have been building and using governance tools since 2020, so I am familiar with much of the landscape. But I make no claims to be aware of every single tool.\n\nDisclosures: I am involved with Hats Protocol (cofounder) and Public HAUS (previously core team of DAOhaus)\nhttps://gov.optimism.io/t/badgeholder-conflict-of-interest-disclosures/5569/15",
+    "impactEvaluationDescription": "I subscribe to the Impact = Profit framework. To avoid a Goodhart's Law type error, I use a subjective and qualitative approach to assess impact, with a primary focus on the following criteria:\n\n- To what degree has the project enabled new possibilities in governance for organizations within the Optimism ecosystem?\n- How well has the project addressed key governance pain points?",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "OPAmount": 530972
+        },
+        {
+            "RPGF3_Application_UID": "0x243299d981be04f31e310b35c53b842cb2d875a1eccc273d9f752fab0bb0dfcb",
+            "OPAmount": 353982
+        },
+        {
+            "RPGF3_Application_UID": "0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
+            "OPAmount": 176991
+        },
+        {
+            "RPGF3_Application_UID": "0xcb6ac0e12379465dc8d9c9ef5396ef4b8fbbfc17067e20b21c01b4cf56657636",
+            "OPAmount": 176991
+        },
+        {
+            "RPGF3_Application_UID": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+            "OPAmount": 707965
+        },
+        {
+            "RPGF3_Application_UID": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+            "OPAmount": 1061947
+        },
+        {
+            "RPGF3_Application_UID": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+            "OPAmount": 176991
+        },
+        {
+            "RPGF3_Application_UID": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
+            "OPAmount": 88496
+        },
+        {
+            "RPGF3_Application_UID": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "OPAmount": 88496
+        },
+        {
+            "RPGF3_Application_UID": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "OPAmount": 707965
+        },
+        {
+            "RPGF3_Application_UID": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "OPAmount": 353982
+        },
+        {
+            "RPGF3_Application_UID": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+            "OPAmount": 1592920
+        },
+        {
+            "RPGF3_Application_UID": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "OPAmount": 176991
+        },
+        {
+            "RPGF3_Application_UID": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
+            "OPAmount": 1238938
+        },
+        {
+            "RPGF3_Application_UID": "0x67d88ee0aa76c9b8048f2d67ab388c223e01fd9b860906a9648f159bdf4d89e7",
+            "OPAmount": 884956
+        },
+        {
+            "RPGF3_Application_UID": "0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
+            "OPAmount": 884956
+        },
+        {
+            "RPGF3_Application_UID": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+            "OPAmount": 88496
+        },
+        {
+            "RPGF3_Application_UID": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "OPAmount": 88496
+        },
+        {
+            "RPGF3_Application_UID": "0x9f84c89d29f0551a5940c885a76b433010c905e8b01a6a761b1ca5e226271bfb",
+            "OPAmount": 619469
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "bio": "Hats is the onchain roles protocol",
+            "displayName": "Hats Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.png"
+        },
+        {
+            "id": "0x243299d981be04f31e310b35c53b842cb2d875a1eccc273d9f752fab0bb0dfcb",
+            "bio": "PublicHAUS is the  decentralized governance  layer of the DAOhaus protocol.",
+            "displayName": "Public HAUS",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d.png"
+        },
+        {
+            "id": "0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
+            "bio": "Gitcoin Passport makes it easy for projects to detect and stop bots and Sybils.",
+            "displayName": "Gitcoin Passport",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6.png"
+        },
+        {
+            "id": "0xcb6ac0e12379465dc8d9c9ef5396ef4b8fbbfc17067e20b21c01b4cf56657636",
+            "bio": "Full-stack infrastructure solution for fast and reliable dApp development.",
+            "displayName": "Tenderly",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF43350d7F1E6b8E0A6605145DA043f7326E10142.png"
+        },
+        {
+            "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+            "bio": "Homepage and toolkit for your onchain community",
+            "displayName": "Guild.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
+        },
+        {
+            "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+            "bio": "Tally is an onchain governance app for Ethereum ecosystem",
+            "displayName": "Tally",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
+        },
+        {
+            "id": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+            "bio": "web3 community platform for members to build relationships, work together & vote",
+            "displayName": "CharmVerse",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.png"
+        },
+        {
+            "id": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
+            "bio": "A Governor extension for building powerful DAO voting integrations.",
+            "displayName": "Flexible Voting",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png"
+        },
+        {
+            "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+            "bio": "Karma is a suite of contributor reputation tools helping DAOs improve governance",
+            "displayName": "Karma",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+        },
+        {
+            "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+            "bio": "Token house and Citizen house governance app and contract",
+            "displayName": "Agora",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+        },
+        {
+            "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+            "bio": "Unlock your community potential - reputation scores, rewards and deep insights",
+            "displayName": "Praise",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+            "id": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+            "bio": "Snapshot is a voting platform that allows DAOs to vote without gas fees.",
+            "displayName": "Snapshot",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.png"
+        },
+        {
+            "id": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "bio": "The easiest way to create and launch a Nounish DAO on the OP stack.",
+            "displayName": "Builder Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x01503DC708ce3C55017194847A07aCb679D49f47.png"
+        },
+        {
+            "id": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
+            "bio": "Core OP Stack infrastructure for making attestations onchain or offchain.",
+            "displayName": "Ethereum Attestation Service",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e95B8E249c4536FE1db2E4ce5476010767C0A05.png"
+        },
+        {
+            "id": "0x67d88ee0aa76c9b8048f2d67ab388c223e01fd9b860906a9648f159bdf4d89e7",
+            "bio": "We make tools and networks for the future of work.",
+            "displayName": "Coordinape",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.png"
+        },
+        {
+            "id": "0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
+            "bio": "Splits makes onchain payments easy.",
+            "displayName": "Splits",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ebC8E61f87A301fF25a606d7C06150f856F24E2.png"
+        },
+        {
+            "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+            "bio": "The standards body for DAOs, with 80+ member organizations.",
+            "displayName": "EIP-4824/ DAOstar",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+        },
+        {
+            "id": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "bio": "Fund & govern your mission with Augmented Bonding Curves & Aragon on Optimism.",
+            "displayName": "Commons Stack",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png"
+        },
+        {
+            "id": "0x9f84c89d29f0551a5940c885a76b433010c905e8b01a6a761b1ca5e226271bfb",
+            "bio": "Services & collaboration tools to build & manage pro-social web3 communities",
+            "displayName": "Collab.Land",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3eEFAa9d6e2ab7972C1001D41C82BB4881389257.png"
+        }
+    ],
+    "walletAddress": "0x15C6AC4Cf1b5E49c44332Fb0a1043Ccab19db80a",
+    "domainName": "hq.spengrah.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0xbf76d602af3461cac48faea782d26d8678ee6cbdc4cd3bc57ff37376775b00a5",
+    "approvalAttestationUid": "0xbf76d602af3461cac48faea782d26d8678ee6cbdc4cd3bc57ff37376775b00a5",
+    "categories": [
+        "COLLECTIVE_GOVERNANCE"
+    ],
+    "createdAt": "2023-11-14T16:35:13",
+    "updatedAt": "2023-11-14T16:35:13",
+    "revokedAt": null,
+    "avatar": null
+}

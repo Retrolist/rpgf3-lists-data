@@ -1,0 +1,54 @@
+{
+    "id": "0x290725de873f1d188505befa156b62d07ee594236b15ddd5eec76062c6577a0b",
+    "listName": "abcoathup's made OP Stack fun",
+    "listDescription": "Projects that got me using OP Stack for fun",
+    "impactEvaluationDescription": "Using nominal values of 200k, please update as you see fit\nBuidlGuidl: Optimistic Loogies, Loogie Tanks, Old English all got me deploying to OP Stack\nBasePaint: got me drawing\nMirror: got me collecting posts and writing my own",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "OPAmount": 200000
+        },
+        {
+            "RPGF3_Application_UID": "0xbe51b31b1366e22c4a45b46985c449d8f79d9a1b82e140818538e8cd1ce9e880",
+            "OPAmount": 200000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+            "bio": "A curated group of builders creating open source tools and educational content.",
+            "displayName": "🏰 BuidlGuidl",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.png"
+        },
+        {
+            "id": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+            "bio": "Paint Together. Mint Daily.",
+            "displayName": "BasePaint",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb48E8dA63c2aFc5633702B7acf4BDe830c1dE48b.png"
+        },
+        {
+            "id": "0xbe51b31b1366e22c4a45b46985c449d8f79d9a1b82e140818538e8cd1ce9e880",
+            "bio": "The home for web3 publishing.",
+            "displayName": "Mirror",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114.png"
+        }
+    ],
+    "walletAddress": "0x288C53a1BA857EaD34AD0e79F644087F8174185a",
+    "domainName": null,
+    "isBadgeholder": true,
+    "attestationUid": "0x290725de873f1d188505befa156b62d07ee594236b15ddd5eec76062c6577a0b",
+    "approvalAttestationUid": "0x290725de873f1d188505befa156b62d07ee594236b15ddd5eec76062c6577a0b",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-12-02T03:56:07",
+    "updatedAt": "2023-12-02T03:56:07",
+    "revokedAt": null,
+    "avatar": null
+}

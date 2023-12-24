@@ -1,0 +1,104 @@
+{
+    "id": "0x7e3c8d37034e103fccdfd1a7daafd9391e0e49b0ea55ac09289fef57440e2da1",
+    "listName": "Testing - General",
+    "listDescription": "This is a test to create a list. The subjects are general.",
+    "impactEvaluationDescription": "This is a test",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x822a558257f7e4e88615addf9431ca06482ba23d105f82950408fd7f53bd13d8",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xa4593794fec99c360105db59a4a337a2ce652f6259448462b75db63de702ba8f",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x36e009bec6acb4c7adbe206a5cf88f8678ddf794f2f5e868e0118fcbd543055f",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+            "OPAmount": 0
+        },
+        {
+            "RPGF3_Application_UID": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+            "OPAmount": 0
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x822a558257f7e4e88615addf9431ca06482ba23d105f82950408fd7f53bd13d8",
+            "bio": "Bringing you the latest Alpha & insights on high-potential projects.",
+            "displayName": "Alpha Insiders",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D1846ea60001A3Bc21438d76f3958422fe89adB.png"
+        },
+        {
+            "id": "0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+            "bio": "Open Source Ethereum Explorer",
+            "displayName": "beaconcha.in",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979.jpeg"
+        },
+        {
+            "id": "0xa4593794fec99c360105db59a4a337a2ce652f6259448462b75db63de702ba8f",
+            "bio": "CryptoZombies: an interactive blockchain coding school",
+            "displayName": "CryptoZombies",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbb105E3c6D6406A3F0aAB98cD8D0E3a127bD6436.png"
+        },
+        {
+            "id": "0x36e009bec6acb4c7adbe206a5cf88f8678ddf794f2f5e868e0118fcbd543055f",
+            "bio": "DefiLab: Open-source tools for DeFi risk & reward analysis. Founded in 2020",
+            "displayName": "Defi-lab.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9fe6764778db6AD5c5ED86242485d1a868a8c52A.jpeg"
+        },
+        {
+            "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+            "bio": "We creates guides, instructional videos, and technical support about staking.",
+            "displayName": "EthStaker",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
+        },
+        {
+            "id": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
+            "bio": "Core OP Stack infrastructure for making attestations onchain or offchain.",
+            "displayName": "Ethereum Attestation Service",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e95B8E249c4536FE1db2E4ce5476010767C0A05.png"
+        },
+        {
+            "id": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+            "bio": "Public good dashboards & spells (tables) on Dune",
+            "displayName": "hildobby",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x09a5943a6d10919571eE2C9F63380aEA747ECA97.jpeg"
+        },
+        {
+            "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+            "bio": "Turkey's first and biggest university blockchain society!",
+            "displayName": "ITU Blockchain",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
+        }
+    ],
+    "walletAddress": "0x3DB5b38ef4b433D9C6A664Bd35551BE73313189A",
+    "domainName": "criptonita.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x7e3c8d37034e103fccdfd1a7daafd9391e0e49b0ea55ac09289fef57440e2da1",
+    "approvalAttestationUid": "0x7e3c8d37034e103fccdfd1a7daafd9391e0e49b0ea55ac09289fef57440e2da1",
+    "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "createdAt": "2023-11-03T01:52:43",
+    "updatedAt": "2023-11-03T01:52:43",
+    "revokedAt": null,
+    "avatar": "https://ipfs.io/ipfs/QmT2USoM1HRoHoBuGGc4L7u917c7yVKgUMcC1fYMvghwDx"
+}

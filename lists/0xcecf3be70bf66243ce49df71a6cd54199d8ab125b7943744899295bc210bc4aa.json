@@ -1,0 +1,154 @@
+{
+    "id": "0xcecf3be70bf66243ce49df71a6cd54199d8ab125b7943744899295bc210bc4aa",
+    "listName": "DAOs, ReFi, and DAO Tooling",
+    "listDescription": "Decentralized Autonomous Organizations, represent a new paradigm in organizational governance, where decisions are made collectively by the community without centralized control. ReFi, or Regenerative Finances, is a concept that integrates sustainability and regeneration into financial models, aiming to create financial systems that are not only sustainable but also beneficial for the environment and society. DAO Tooling encompasses the various tools and platforms that facilitate the efficient functioning, governance, and management of DAOs. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to DAOs, ReFi, and DAO Tooling.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x7abbdafaee87210e6340fa7d73be9d31fee4053e6543902e75bd3faf2d523cb1",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0xe512145819e4a511f7fd8f0f6cd67d8c9b90a8dda31598371b56bf754e6cc725",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0x7074a17e86a1120f20f9da403aed0e6adcaacc844d22fc10f7d6fd8088e8c50f",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0xa35852733815089884475191afbbed7c67c94cf6cb3de86eb2cf4e1f136523d7",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0x0a337cfd252f13746c53175e32881945f64ee405fa9abccfefdc10b195d205ef",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0x243299d981be04f31e310b35c53b842cb2d875a1eccc273d9f752fab0bb0dfcb",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0x07fb115980ac6617d4b4b6f0cfcbc52bacfbb395b5c0d2d71fc735435627c555",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0x3f3be3996262f122877efc7d90672555eaf42a3d6cf6de7839a0282626aaa55f",
+            "OPAmount": 81100
+        },
+        {
+            "RPGF3_Application_UID": "0xfd28d4d48ed3fa4b8986b814cda7a6535078967a7856cb9ab95742a95ae59974",
+            "OPAmount": 81100
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x7abbdafaee87210e6340fa7d73be9d31fee4053e6543902e75bd3faf2d523cb1",
+            "bio": "VitaDAO is a community owned collective funding early stage longevity research",
+            "displayName": "VitaDAO",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xe512145819e4a511f7fd8f0f6cd67d8c9b90a8dda31598371b56bf754e6cc725",
+            "bio": "Deploy your DAO in a few seconds",
+            "displayName": "Gov",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x27292E1a901E3E0bE7d144aDba4CAD07da2d8a42.png"
+        },
+        {
+            "id": "0x7074a17e86a1120f20f9da403aed0e6adcaacc844d22fc10f7d6fd8088e8c50f",
+            "bio": "Your Multichain Hub",
+            "displayName": "ShapeShift DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x901a3507Deb114093B18e23b3Ad12F0d6Cbb8df1.png"
+        },
+        {
+            "id": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+            "bio": "World-leading nonprofit research collective for DAOs and online self-governance.",
+            "displayName": "Metagov",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.png"
+        },
+        {
+            "id": "0xa35852733815089884475191afbbed7c67c94cf6cb3de86eb2cf4e1f136523d7",
+            "bio": "Based Nouns is a community-run DAO & NFT project on the Base network.",
+            "displayName": "Based Nouns",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD3Dada2362b12D4fe52BeEBe0Bd0fA1a341F340D.png"
+        },
+        {
+            "id": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "bio": "Hats is the onchain roles protocol",
+            "displayName": "Hats Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.png"
+        },
+        {
+            "id": "0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
+            "bio": "Public Nouns funds experiments in the public goods space.",
+            "displayName": "Public Nouns",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB.png"
+        },
+        {
+            "id": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "bio": "The easiest way to create and launch a Nounish DAO on the OP stack.",
+            "displayName": "Builder Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x01503DC708ce3C55017194847A07aCb679D49f47.png"
+        },
+        {
+            "id": "0x0a337cfd252f13746c53175e32881945f64ee405fa9abccfefdc10b195d205ef",
+            "bio": "the lawyers-&-engineers guild developing an open source & automated legal layer",
+            "displayName": "LexDAO",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x243299d981be04f31e310b35c53b842cb2d875a1eccc273d9f752fab0bb0dfcb",
+            "bio": "PublicHAUS is the  decentralized governance  layer of the DAOhaus protocol.",
+            "displayName": "Public HAUS",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d.png"
+        },
+        {
+            "id": "0x07fb115980ac6617d4b4b6f0cfcbc52bacfbb395b5c0d2d71fc735435627c555",
+            "bio": "An R&D-focused DAO dedicated to providing support for valuable Web3 public goods",
+            "displayName": "LXDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3d7F926e57Ff06e465823b100b95408e805DfA2.png"
+        },
+        {
+            "id": "0x3f3be3996262f122877efc7d90672555eaf42a3d6cf6de7839a0282626aaa55f",
+            "bio": "DeSci DAO Regenerating Coral Reef Conservation in Mesoamerica",
+            "displayName": "MesoReefDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x156Bfd9395371F29489FaD5EDF29269b72908F68.png"
+        },
+        {
+            "id": "0xfd28d4d48ed3fa4b8986b814cda7a6535078967a7856cb9ab95742a95ae59974",
+            "bio": "Director of Product at Molecule",
+            "displayName": "Bio.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdF5D63B80D939Dedeb9C84B45B1D14A17c97802D.png"
+        }
+    ],
+    "walletAddress": "0x8ED91f4e13Ad1D74205a05E2eFeB1DB5175845a3",
+    "domainName": null,
+    "isBadgeholder": false,
+    "attestationUid": "0xcecf3be70bf66243ce49df71a6cd54199d8ab125b7943744899295bc210bc4aa",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-11-06T14:17:41",
+    "updatedAt": "2023-11-06T14:17:41",
+    "revokedAt": null,
+    "avatar": null
+}

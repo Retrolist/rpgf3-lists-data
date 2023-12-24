@@ -1,0 +1,144 @@
+{
+    "id": "0x6b344443093cd7c9f84194b046fb8410e03425ef4bed3e886997c66ca2db027d",
+    "listName": "Security & Cross-Chain Solutions - Individuals",
+    "listDescription": "Security & Cross-Chain Solutions Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Security & Cross-Chain Solutions.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0xd9dc151858206f4d87677730385c5c01c836e1be51f51264534486b18c01939f",
+            "OPAmount": 63696
+        },
+        {
+            "RPGF3_Application_UID": "0x66cce0997e32d388f4263a3ea305612cf1031e540c73f886e320337427c1bdab",
+            "OPAmount": 28969
+        },
+        {
+            "RPGF3_Application_UID": "0x1d0fd9b7e22d5104b7581d43eca15536106894dc0800877f624b2acac306f234",
+            "OPAmount": 28969
+        },
+        {
+            "RPGF3_Application_UID": "0x97bc27f4ab99c45096bbea630f68b1205ef736c609d1225167f1d1aa7ebc35c3",
+            "OPAmount": 28969
+        },
+        {
+            "RPGF3_Application_UID": "0x4be3403e085715cdac5dc7c9fc3dfebfe9064d89ed6af5da1c612d3fac932356",
+            "OPAmount": 28969
+        },
+        {
+            "RPGF3_Application_UID": "0xd28e879c019aacabe65c062601000f9925e2f9686c8a6485d92d753132ba723b",
+            "OPAmount": 28969
+        },
+        {
+            "RPGF3_Application_UID": "0x4d6a8934a57ef082939fbf87ce03b8c57abaf7cb436eaa819fb9b5f9736ecd79",
+            "OPAmount": 28969
+        },
+        {
+            "RPGF3_Application_UID": "0xaf72f298c070d96e72345b7f99ee16da493018914aaac00a1db76fda08f5e9f9",
+            "OPAmount": 1647
+        },
+        {
+            "RPGF3_Application_UID": "0xf721b86e2b7f7195848185852de34ec8bb98f326701ea7d1b773d6110a6db5fa",
+            "OPAmount": 680
+        },
+        {
+            "RPGF3_Application_UID": "0xe16e61b94db454398e32da33201ac0bbe824d98b0e906a695f03c82c58393dbf",
+            "OPAmount": 678
+        },
+        {
+            "RPGF3_Application_UID": "0x3bbeb190adc5aea2dc76fe5e5483545c49faf631288f09644d91c242ccd16003",
+            "OPAmount": 544
+        },
+        {
+            "RPGF3_Application_UID": "0x895b1c9c2f2a6afb92839c0f400e634ac45b53346518b5b685f115ab555fe74f",
+            "OPAmount": 542
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0xd9dc151858206f4d87677730385c5c01c836e1be51f51264534486b18c01939f",
+            "bio": "Blockchain forensics, investigations, and whistleblower",
+            "displayName": "ZachXBT",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D502fA3C2Aac31d88d6BDA8fBd38AB861211458.png"
+        },
+        {
+            "id": "0x66cce0997e32d388f4263a3ea305612cf1031e540c73f886e320337427c1bdab",
+            "bio": "Data Analyst ,Core contributor,Instructor, Content creator,Community moderator",
+            "displayName": "Mrfti",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3722a8b1E2674FbBA7081C84E39A5cE738B8159D.jpeg"
+        },
+        {
+            "id": "0x1d0fd9b7e22d5104b7581d43eca15536106894dc0800877f624b2acac306f234",
+            "bio": "I create dashboards, tools, and content to make web3 data easier to navigate.",
+            "displayName": "Andrew Hong (ilemi)",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06.png"
+        },
+        {
+            "id": "0x97bc27f4ab99c45096bbea630f68b1205ef736c609d1225167f1d1aa7ebc35c3",
+            "bio": "I am a blockchain engineer who specializes in in smart contract development",
+            "displayName": "monaditar",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x4be3403e085715cdac5dc7c9fc3dfebfe9064d89ed6af5da1c612d3fac932356",
+            "bio": "Developed tool for devnet & bundler, contributed PRs to op-node, wrote articles.",
+            "displayName": "joohhnnn",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf8E30C251AA7974aA0A2d9e452d863681f8B59Ac.png"
+        },
+        {
+            "id": "0xd28e879c019aacabe65c062601000f9925e2f9686c8a6485d92d753132ba723b",
+            "bio": "Co-Founder @Angle Labs, Contributor @AngleProtocol, Warden and Judge @code4rena",
+            "displayName": "Picodes",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x34Eb88EAD486A09CAcD8DaBe013682Dc5F1DC41D.png"
+        },
+        {
+            "id": "0x4d6a8934a57ef082939fbf87ce03b8c57abaf7cb436eaa819fb9b5f9736ecd79",
+            "bio": "Hildr is an OP Stack rollup client written in latest Java with GraalVM native.",
+            "displayName": "grapebaba",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c.jpeg"
+        },
+        {
+            "id": "0xaf72f298c070d96e72345b7f99ee16da493018914aaac00a1db76fda08f5e9f9",
+            "bio": "My team developed a Data Availability Commitee in the OP Stack",
+            "displayName": "DAC on OP Stack",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAC9ba72fb61aA7c31A95df0A8b6ebA6f41EF875e.png"
+        },
+        {
+            "id": "0xf721b86e2b7f7195848185852de34ec8bb98f326701ea7d1b773d6110a6db5fa",
+            "bio": "15 yo software engineer and open source contributor",
+            "displayName": "Gajesh Naik",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe2f6659e0209C3f79132AbDEB95abEBa0f1f672F.png"
+        },
+        {
+            "id": "0xe16e61b94db454398e32da33201ac0bbe824d98b0e906a695f03c82c58393dbf",
+            "bio": "OS Builder on Ethereum",
+            "displayName": "supernova",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8.png"
+        },
+        {
+            "id": "0x3bbeb190adc5aea2dc76fe5e5483545c49faf631288f09644d91c242ccd16003",
+            "bio": "hacking the op stack",
+            "displayName": "Diego",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe3d8E58551d240626D50EE26FAFF2649e1EEE3cb.png"
+        },
+        {
+            "id": "0x895b1c9c2f2a6afb92839c0f400e634ac45b53346518b5b685f115ab555fe74f",
+            "bio": "Layers 1&2 Transactions Protocols Tracker",
+            "displayName": "Defigourmet",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe08d3d0334aB089DAaF0C620989959Ba5d4aA04C.jpeg"
+        }
+    ],
+    "walletAddress": "0x826976d7C600d45FB8287CA1d7c76FC8eb732030",
+    "domainName": "divinecomedian.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x6b344443093cd7c9f84194b046fb8410e03425ef4bed3e886997c66ca2db027d",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-03T16:54:41",
+    "updatedAt": "2023-12-03T16:54:41",
+    "revokedAt": null,
+    "avatar": "https://i.imgur.com/SARJUC2.jpg"
+}

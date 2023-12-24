@@ -1,0 +1,94 @@
+{
+    "id": "0x48506632837492032b07d203836e32c0c53487a6ac41b4b27433b856ef67d9e2",
+    "listName": "OP Stack Technical Contributions",
+    "listDescription": "This list is hyperfocused on people and projects contributing technically to the OP stack, or enriching what can be done with it. This includes alternative pieces of the stack (such as execution clients), forks of the OP stack enriching it with extra capabilities, and tools to deploy the OP Stack.\n\nCONFLICT OF INTEREST DISCLAIMER: One of the the project on the list (roll-op) is my own project.",
+    "impactEvaluationDescription": "Functional open-source OP-Stack contributions that are available for people to use.\n\nI acknowledge some of these haven't had much of an \"impact\" yet — this seems to me to be the case for a lot (if not a majority) of the projects applying to RetroPGF.\n\nImpact for OP stack is difficult to evaluate because there are so few OP Stack appchains in-use today. I think we'll see a lot more of them, and these project help make it happen, and cement the OP Stack as the leading rollup system.",
+    "impactEvaluationLink": "",
+    "impactEvaluationType": "BADGEHOLDER",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x4d6a8934a57ef082939fbf87ce03b8c57abaf7cb436eaa819fb9b5f9736ecd79",
+            "OPAmount": 4286000
+        },
+        {
+            "RPGF3_Application_UID": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "OPAmount": 4286000
+        },
+        {
+            "RPGF3_Application_UID": "0xe7451003b496fb6694bd47079be050f224a0944cc5fd73c2fa1064fc9be49f9c",
+            "OPAmount": 4286000
+        },
+        {
+            "RPGF3_Application_UID": "0x14301a25159fd1057d2e3ca076116e44e5e2dda5b49987190f07bac4c7ba5047",
+            "OPAmount": 4286000
+        },
+        {
+            "RPGF3_Application_UID": "0x3bbeb190adc5aea2dc76fe5e5483545c49faf631288f09644d91c242ccd16003",
+            "OPAmount": 4286000
+        },
+        {
+            "RPGF3_Application_UID": "0xaf72f298c070d96e72345b7f99ee16da493018914aaac00a1db76fda08f5e9f9",
+            "OPAmount": 4285000
+        },
+        {
+            "RPGF3_Application_UID": "0x42e31df838a5ec5afb2756b26e286455f52d06f8ddc202c389d046590f583fb8",
+            "OPAmount": 4285000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x4d6a8934a57ef082939fbf87ce03b8c57abaf7cb436eaa819fb9b5f9736ecd79",
+            "bio": "Hildr is an OP Stack rollup client written in latest Java with GraalVM native.",
+            "displayName": "grapebaba",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c.jpeg"
+        },
+        {
+            "id": "0x5b7aaf6e99943b8c00ccc443cbfcbeb36858858a7b17abaa9c1e82afe2860895",
+            "bio": "Test in Prod is a core development team of Optimism Collective.",
+            "displayName": "Test in Prod",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0583EeA7C089A7f74c1Fe4e6CCF1072FA016b50A.png"
+        },
+        {
+            "id": "0xe7451003b496fb6694bd47079be050f224a0944cc5fd73c2fa1064fc9be49f9c",
+            "bio": "Serial OP Stack forker",
+            "displayName": "Paco Bytes",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9687c70DcFE21C6198703C813cDAEC9d3458e068.png"
+        },
+        {
+            "id": "0x14301a25159fd1057d2e3ca076116e44e5e2dda5b49987190f07bac4c7ba5047",
+            "bio": "Web3 engineer",
+            "displayName": "Alex Harley",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4444d38c385d0969C64c4C8f996D7536d16c28B9.jpeg"
+        },
+        {
+            "id": "0x3bbeb190adc5aea2dc76fe5e5483545c49faf631288f09644d91c242ccd16003",
+            "bio": "hacking the op stack",
+            "displayName": "Diego",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe3d8E58551d240626D50EE26FAFF2649e1EEE3cb.png"
+        },
+        {
+            "id": "0xaf72f298c070d96e72345b7f99ee16da493018914aaac00a1db76fda08f5e9f9",
+            "bio": "My team developed a Data Availability Commitee in the OP Stack",
+            "displayName": "DAC on OP Stack",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAC9ba72fb61aA7c31A95df0A8b6ebA6f41EF875e.png"
+        },
+        {
+            "id": "0x42e31df838a5ec5afb2756b26e286455f52d06f8ddc202c389d046590f583fb8",
+            "bio": "The simplest way to spin your own dev / prod rollup.",
+            "displayName": "roll-op",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576F1E53afe5e99b2257258C7E3248d3a1822548.png"
+        }
+    ],
+    "walletAddress": "0x576F1E53afe5e99b2257258C7E3248d3a1822548",
+    "domainName": "norswap.eth",
+    "isBadgeholder": true,
+    "attestationUid": "0x48506632837492032b07d203836e32c0c53487a6ac41b4b27433b856ef67d9e2",
+    "approvalAttestationUid": "0x48506632837492032b07d203836e32c0c53487a6ac41b4b27433b856ef67d9e2",
+    "categories": [
+        "OP_STACK"
+    ],
+    "createdAt": "2023-11-11T23:47:37",
+    "updatedAt": "2023-11-11T23:47:37",
+    "revokedAt": null,
+    "avatar": "https://ipfs.io/ipfs/bafybeidyh22gqlrgapnowazpajkam6jnjlrw2ssbl5ffcycrw5mykiqrs4"
+}

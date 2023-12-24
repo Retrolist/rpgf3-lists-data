@@ -1,0 +1,224 @@
+{
+    "id": "0xcde817e573b8e13dc68894c7dd8aac179310f2662818ddd61e7c9d9b7f678e0b",
+    "listName": "DAOs, ReFi, and DAO Tooling",
+    "listDescription": "Decentralized Autonomous Organizations, represent a new paradigm in organizational governance, where decisions are made collectively by the community without centralized control. ReFi, or Regenerative Finances, is a concept that integrates sustainability and regeneration into financial models, aiming to create financial systems that are not only sustainable but also beneficial for the environment and society. DAO Tooling encompasses the various tools and platforms that facilitate the efficient functioning, governance, and management of DAOs. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to DAOs, ReFi, and DAO Tooling.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x8029257cc2a6c1f460ab14a3e2dff3dade52a7e173f35236d9af7bf1ab3fa961",
+            "OPAmount": 180000
+        },
+        {
+            "RPGF3_Application_UID": "0x6886a3d5da589ee9fc5528548edca61cbefa640ff7b11d7d545281d3423cfd93",
+            "OPAmount": 120000
+        },
+        {
+            "RPGF3_Application_UID": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "OPAmount": 110000
+        },
+        {
+            "RPGF3_Application_UID": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+            "OPAmount": 85000
+        },
+        {
+            "RPGF3_Application_UID": "0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
+            "OPAmount": 74999
+        },
+        {
+            "RPGF3_Application_UID": "0x7abbdafaee87210e6340fa7d73be9d31fee4053e6543902e75bd3faf2d523cb1",
+            "OPAmount": 70000
+        },
+        {
+            "RPGF3_Application_UID": "0x243299d981be04f31e310b35c53b842cb2d875a1eccc273d9f752fab0bb0dfcb",
+            "OPAmount": 50000
+        },
+        {
+            "RPGF3_Application_UID": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+            "OPAmount": 45000
+        },
+        {
+            "RPGF3_Application_UID": "0x7074a17e86a1120f20f9da403aed0e6adcaacc844d22fc10f7d6fd8088e8c50f",
+            "OPAmount": 45000
+        },
+        {
+            "RPGF3_Application_UID": "0x57281cd1a4a558617c4fd463f57f2aeb02bde260ad854087947e5e4edb4125ef",
+            "OPAmount": 39999
+        },
+        {
+            "RPGF3_Application_UID": "0xb426cb999cd483bd00f82b9585a6f0963f13e01e6e15403db87e3fed1dc87d96",
+            "OPAmount": 39999
+        },
+        {
+            "RPGF3_Application_UID": "0xefe128594155a47fd209ddfb9340d0bfb9aa72f7214be78febb9deb80307038d",
+            "OPAmount": 35000
+        },
+        {
+            "RPGF3_Application_UID": "0x07fb115980ac6617d4b4b6f0cfcbc52bacfbb395b5c0d2d71fc735435627c555",
+            "OPAmount": 30000
+        },
+        {
+            "RPGF3_Application_UID": "0x0a337cfd252f13746c53175e32881945f64ee405fa9abccfefdc10b195d205ef",
+            "OPAmount": 30000
+        },
+        {
+            "RPGF3_Application_UID": "0xfd28d4d48ed3fa4b8986b814cda7a6535078967a7856cb9ab95742a95ae59974",
+            "OPAmount": 30000
+        },
+        {
+            "RPGF3_Application_UID": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "OPAmount": 30000
+        },
+        {
+            "RPGF3_Application_UID": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0x7f66e162c6ff0ebfc20fe8198af210936ff4917fc06c1c47630b89f3000958b4",
+            "OPAmount": 10000
+        },
+        {
+            "RPGF3_Application_UID": "0xa5513f8a78e872f5e4ddd2b47224cff11fc6dc0936c52975aa28b39f039a6414",
+            "OPAmount": 10000
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x8029257cc2a6c1f460ab14a3e2dff3dade52a7e173f35236d9af7bf1ab3fa961",
+            "bio": "Growing Optimism with fractal communities, tools, games, shows, and events!",
+            "displayName": "Optimystics",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC11C6f47fe090a706bA82964B8A98F1682b244Ff.png"
+        },
+        {
+            "id": "0x6886a3d5da589ee9fc5528548edca61cbefa640ff7b11d7d545281d3423cfd93",
+            "bio": "RetroPGF Rubric-based List Creation UI opening to public crowdsourcing",
+            "displayName": "Retrolist | RetroPGF Rubric-based List Creation UI",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x73F4e6132Cd9E4a3945d9CA6E98e5985BBe16d2D.png"
+        },
+        {
+            "id": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+            "bio": "Fund & govern your mission with Augmented Bonding Curves & Aragon on Optimism.",
+            "displayName": "Commons Stack",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png"
+        },
+        {
+            "id": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+            "bio": "Ethical, safe, resilient and diverse economic systems to benefit the world.",
+            "displayName": "Token Engineering Commons",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png"
+        },
+        {
+            "id": "0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
+            "bio": "Public Nouns funds experiments in the public goods space.",
+            "displayName": "Public Nouns",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB.png"
+        },
+        {
+            "id": "0x7abbdafaee87210e6340fa7d73be9d31fee4053e6543902e75bd3faf2d523cb1",
+            "bio": "VitaDAO is a community owned collective funding early stage longevity research",
+            "displayName": "VitaDAO",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0x243299d981be04f31e310b35c53b842cb2d875a1eccc273d9f752fab0bb0dfcb",
+            "bio": "PublicHAUS is the  decentralized governance  layer of the DAOhaus protocol.",
+            "displayName": "Public HAUS",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d.png"
+        },
+        {
+            "id": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+            "bio": "World-leading nonprofit research collective for DAOs and online self-governance.",
+            "displayName": "Metagov",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.png"
+        },
+        {
+            "id": "0x7074a17e86a1120f20f9da403aed0e6adcaacc844d22fc10f7d6fd8088e8c50f",
+            "bio": "Your Multichain Hub",
+            "displayName": "ShapeShift DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x901a3507Deb114093B18e23b3Ad12F0d6Cbb8df1.png"
+        },
+        {
+            "id": "0x57281cd1a4a558617c4fd463f57f2aeb02bde260ad854087947e5e4edb4125ef",
+            "bio": "Building Unlock Protocol to create a better web",
+            "displayName": "Patrick Workman",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4.jpeg"
+        },
+        {
+            "id": "0xb426cb999cd483bd00f82b9585a6f0963f13e01e6e15403db87e3fed1dc87d96",
+            "bio": "Think tank advancing positive-sum coordination mechanism.",
+            "displayName": "Mechanism Institute",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4cd6B4503d02973D78CFF59C9C56f5F378688274.png"
+        },
+        {
+            "id": "0xefe128594155a47fd209ddfb9340d0bfb9aa72f7214be78febb9deb80307038d",
+            "bio": "Global education and Crypto Native Onboarding",
+            "displayName": "Bankless DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1e3a41F770219e03649b434b4c1E07850DfCFf66.png"
+        },
+        {
+            "id": "0x07fb115980ac6617d4b4b6f0cfcbc52bacfbb395b5c0d2d71fc735435627c555",
+            "bio": "An R&D-focused DAO dedicated to providing support for valuable Web3 public goods",
+            "displayName": "LXDAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3d7F926e57Ff06e465823b100b95408e805DfA2.png"
+        },
+        {
+            "id": "0x0a337cfd252f13746c53175e32881945f64ee405fa9abccfefdc10b195d205ef",
+            "bio": "the lawyers-&-engineers guild developing an open source & automated legal layer",
+            "displayName": "LexDAO",
+            "profileImageUrl": null
+        },
+        {
+            "id": "0xfd28d4d48ed3fa4b8986b814cda7a6535078967a7856cb9ab95742a95ae59974",
+            "bio": "Director of Product at Molecule",
+            "displayName": "Bio.xyz",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdF5D63B80D939Dedeb9C84B45B1D14A17c97802D.png"
+        },
+        {
+            "id": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+            "bio": "Hats is the onchain roles protocol",
+            "displayName": "Hats Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.png"
+        },
+        {
+            "id": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+            "bio": "The easiest way to create and launch a Nounish DAO on the OP stack.",
+            "displayName": "Builder Protocol",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x01503DC708ce3C55017194847A07aCb679D49f47.png"
+        },
+        {
+            "id": "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc",
+            "bio": "Join the movement towards a more sustainable and equitable future in #Medellín🌱",
+            "displayName": "ReFi Medellín",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x302E2A0D4291ac14Aa1160504cA45A0A1F2E7a5c.png"
+        },
+        {
+            "id": "0x7f66e162c6ff0ebfc20fe8198af210936ff4917fc06c1c47630b89f3000958b4",
+            "bio": "Advocating for regenerative economical approach | Onboarding and Edu events",
+            "displayName": "Refi Phangan",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92.png"
+        },
+        {
+            "id": "0xa5513f8a78e872f5e4ddd2b47224cff11fc6dc0936c52975aa28b39f039a6414",
+            "bio": "We manually curate high quality Web3 contents published at Mirror.",
+            "displayName": "Mirror Curator DAO",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd35C826BF2bEd9a6a448A184026199B500D60514.png"
+        }
+    ],
+    "walletAddress": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+    "domainName": "griff.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0xcde817e573b8e13dc68894c7dd8aac179310f2662818ddd61e7c9d9b7f678e0b",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-02T09:20:41",
+    "updatedAt": "2023-12-02T09:20:41",
+    "revokedAt": null,
+    "avatar": "https://ipfs.io/ipfs/QmQbDo8NynZ3kXQbbY1kRDf4czxr4CWGYmGz8XHR1GCKfX/image.png"
+}

@@ -1,0 +1,134 @@
+{
+    "id": "0x7beb1306988331030f8b76184e52be228b98229fbc388cafb3fd2b1e2b093076",
+    "listName": "Community Building Projects",
+    "listDescription": "Community Building is the cornerstone of any successful decentralized project or initiative. In the blockchain realm, a strong and engaged community not only provides support but drives innovation, governance, and broader adoption. Community building involves fostering connections, facilitating open communication, and creating an inclusive environment where every member feels valued and heard. Through events, discussions, collaborations, and shared goals, communities can grow organically, strengthening the foundations of decentralized networks and ensuring their sustainability and success. Submitted by Pairwise.",
+    "impactEvaluationDescription": "This list has been carefully curated and ranked by Pairwise among projects related to Community Building Projects.",
+    "impactEvaluationLink": "https://pairwise.vote",
+    "impactEvaluationType": "PAIRWISE",
+    "listContent": [
+        {
+            "RPGF3_Application_UID": "0x73b6ff6fb7a5bb5f271b1636a1baa24a327e144e45195a53b9645fcb659a48d3",
+            "OPAmount": 236080
+        },
+        {
+            "RPGF3_Application_UID": "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+            "OPAmount": 225816
+        },
+        {
+            "RPGF3_Application_UID": "0x166b7be374825b11dc2af89b61ef1d66b5b45487b97ea3dd569e62f2f7b7b41e",
+            "OPAmount": 153965
+        },
+        {
+            "RPGF3_Application_UID": "0xb1d2ac44fceeb0e41d2c402ec88652ad4eeaa3e601fc3bd7f86bb88e86cb38fe",
+            "OPAmount": 102643
+        },
+        {
+            "RPGF3_Application_UID": "0x83acb708e662400cbe8f8e9ec313f26d40e78e789577bce3e895d16eea8b5fbc",
+            "OPAmount": 71850
+        },
+        {
+            "RPGF3_Application_UID": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "OPAmount": 51321
+        },
+        {
+            "RPGF3_Application_UID": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "OPAmount": 41057
+        },
+        {
+            "RPGF3_Application_UID": "0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+            "OPAmount": 41057
+        },
+        {
+            "RPGF3_Application_UID": "0x20ad2beff4abc349f688ae23c2beeeddcd5d52698a93bd43d615b3d6a75ab2dc",
+            "OPAmount": 41057
+        },
+        {
+            "RPGF3_Application_UID": "0xd2591c94e8666a5f1cf11b49d6ce9e85a970f48606316300793b8fed927ca94b",
+            "OPAmount": 30793
+        },
+        {
+            "RPGF3_Application_UID": "0x8f6fc027d996489f020e2b5591374f2c97833fe20cab3124e1c7377f5b7e583f",
+            "OPAmount": 30793
+        }
+    ],
+    "projectsMetadata": [
+        {
+            "id": "0x73b6ff6fb7a5bb5f271b1636a1baa24a327e144e45195a53b9645fcb659a48d3",
+            "bio": "Zuzalu creates pop-up city experiments to help human flourish and tech progress",
+            "displayName": "Zuzalu",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x510e221C48ee37DAfc0d3802b43679Cf5d78561f.png"
+        },
+        {
+            "id": "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+            "bio": "Jessy’s Hacker House supports a strong community of builders",
+            "displayName": "Jessy's Hacker House",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.png"
+        },
+        {
+            "id": "0x166b7be374825b11dc2af89b61ef1d66b5b45487b97ea3dd569e62f2f7b7b41e",
+            "bio": "Galxe is the leading platform for building web3 communities.",
+            "displayName": "Galxe",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2.png"
+        },
+        {
+            "id": "0xb1d2ac44fceeb0e41d2c402ec88652ad4eeaa3e601fc3bd7f86bb88e86cb38fe",
+            "bio": "Fractal Visions impact initiative platform highlighting PUBLIC GOODS builders.",
+            "displayName": "Fractal Visions",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC4FC57Dedd2463314A3fD2DBadB86B4404C257e5.jpeg"
+        },
+        {
+            "id": "0x83acb708e662400cbe8f8e9ec313f26d40e78e789577bce3e895d16eea8b5fbc",
+            "bio": "AW house is an Public Good Ecosystem for Autonomous World builders.",
+            "displayName": "AW House/Komorebi's Hacker House",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1626Cc835842C480c1689A0A69AA419B9F761a4e.png"
+        },
+        {
+            "id": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+            "bio": "Support NERDs provide moderation and onboarding services to the Optimism Discord",
+            "displayName": "Support NERDs",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.png"
+        },
+        {
+            "id": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+            "bio": "Translators make Optimism accessible to non-English speakers over 27 languages!",
+            "displayName": "Optimism Translators",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9138051E95425610Eae7a0784F9138df485fb698.png"
+        },
+        {
+            "id": "0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+            "bio": "Collective of people from Berlin: Protocol Berg, Goerli Testnet.",
+            "displayName": "Department of Decentralization",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.png"
+        },
+        {
+            "id": "0x20ad2beff4abc349f688ae23c2beeeddcd5d52698a93bd43d615b3d6a75ab2dc",
+            "bio": "European Crypto Initiative is a non-profit crypto advocacy organisation",
+            "displayName": "European Crypto Initiative",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd12ad1237897C1d9A658eF879278750e2434aa06.png"
+        },
+        {
+            "id": "0xd2591c94e8666a5f1cf11b49d6ce9e85a970f48606316300793b8fed927ca94b",
+            "bio": "Cryptotesters is a community of crypto power users.",
+            "displayName": "Cryptotesters",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9340d7Cabb81E95a8CAC60e997E97543D2371aDd.png"
+        },
+        {
+            "id": "0x8f6fc027d996489f020e2b5591374f2c97833fe20cab3124e1c7377f5b7e583f",
+            "bio": "Impact Focused conference, hackathon and festival in Barcelona-Spain",
+            "displayName": "ETHBarcelona",
+            "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB605745f67e8027ffe2df603b67529421c717EE8.png"
+        }
+    ],
+    "walletAddress": "0xcBf407C33d68a55CB594Ffc8f4fD1416Bba39DA5",
+    "domainName": "jaxcoder.eth",
+    "isBadgeholder": false,
+    "attestationUid": "0x7beb1306988331030f8b76184e52be228b98229fbc388cafb3fd2b1e2b093076",
+    "approvalAttestationUid": null,
+    "categories": [
+        "PAIRWISE"
+    ],
+    "createdAt": "2023-12-06T05:13:39",
+    "updatedAt": "2023-12-06T05:13:39",
+    "revokedAt": null,
+    "avatar": "https://euc.li/jaxcoder.eth"
+}
